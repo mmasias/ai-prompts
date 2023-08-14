@@ -36,11 +36,7 @@ Contextualización|Se ofrece un contexto claro al establecer que el usuario est�
 Especificidad|Se pide específicamente información sobre las diferencias financieras y contables entre España y Perú.
 Delimitación del problema|Se detalla la naturaleza de la colaboración (desarrollo del módulo contable de un ERP) para orientar la respuesta.
 
-|T|Antipatrones|
-|-|-|
-[:link:](https://chat.openai.com/share/a73476a3-e6d1-4e41-b1ab-2a19e48a9ce8)|Estoy en *Europa* con una *empresa de TI*. Queremos trabajar con una empresa de América del Sur, específicamente de Perú. ¿Hay diferencias en cómo manejan *cosas financieras*?
-
-### Antipatrón
+#### Antipatrón
 
 *[:link:](https://chat.openai.com/share/a73476a3-e6d1-4e41-b1ab-2a19e48a9ce8) Estoy en Europa con una empresa de TI. Queremos trabajar con una empresa de América del Sur, específicamente de Perú. ¿Hay diferencias en cómo manejan cosas financieras?*
 

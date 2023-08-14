@@ -29,9 +29,9 @@ How
 |Buenas prácticas|& Reflexiones
 |-|-|
 
-### Antipatrón
+#### Antipatrón
 
-*[:link:]() ANTIPATRON*
+*[:link:]() EJ_DE_ANTI_PATRON*
 
 |Punto|Detalle|
 |-|-|
