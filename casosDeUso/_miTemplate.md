@@ -20,11 +20,11 @@ How
 
 |Motor|Comentario|
 |-|-|
-[Transcripción ChatGPT]
-[Transcripción Perplexity]
-[Transcripción Claude]
-[Transcripción Bard]
-[Transcripción NeuroFlash]
+[ChatGPT]
+[Perplexity]
+[Claude]
+[Bard]
+[NeuroFlash]
 
 |Buenas prácticas|& Reflexiones
 |-|-|

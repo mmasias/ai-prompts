@@ -20,11 +20,11 @@ Comprender estas diferencias garantizará que el software sea adaptable y releva
 
 |Motor|Comentario|
 |-|-|
-[Transcripción ChatGPT](https://chat.openai.com/share/a48c35fe-8d01-4bd3-8e78-f1456f18e448)|[V2](https://chat.openai.com/share/6faa85d2-31eb-4736-98f3-df99b2637b03)
-[Transcripción Perplexity](https://www.perplexity.ai/search/c77c4c4a-1911-42f0-8bbf-8b5bef72a8d9?s=c)
-[Transcripción Claude](https://claude.ai/chat/cc6bd8ee-e30c-4152-ba68-599a46666599)|*No está en abierto*
-[Transcripción Bard](https://g.co/bard/share/85bfe9e363df)
-[Transcripción NeuroFlash](https://app.neuro-flash.com/ai-writer/f759ab22ddbc0160facc94de1fed77d7/preview)
+[ChatGPT](https://chat.openai.com/share/a48c35fe-8d01-4bd3-8e78-f1456f18e448)|[V2](https://chat.openai.com/share/6faa85d2-31eb-4736-98f3-df99b2637b03)
+[Perplexity](https://www.perplexity.ai/search/c77c4c4a-1911-42f0-8bbf-8b5bef72a8d9?s=c)
+[Claude](https://claude.ai/chat/cc6bd8ee-e30c-4152-ba68-599a46666599)|*No está en abierto*
+[Bard](https://g.co/bard/share/85bfe9e363df)
+[NeuroFlash](https://app.neuro-flash.com/ai-writer/f759ab22ddbc0160facc94de1fed77d7/preview)
 
 |Buenas prácticas|& Reflexiones |
 |-|-|
