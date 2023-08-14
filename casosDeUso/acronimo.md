@@ -29,9 +29,9 @@ Adicionalmente, vemos que contesta cada una de las IAs
 |-|-|
 [Transcripción ChatGPT](https://chat.openai.com/share/57e396ef-1732-4321-94c8-a143267c0b01)
 [Transcripción Perplexity](https://www.perplexity.ai/search/aeadc97e-3f6b-43f9-8a6c-d6305889b7ea?s=c)
-Transcripción Claude
+[Transcripción Claude](https://claude.ai/chat/65ccee63-fdde-460a-8f31-7646a677e473)|*No está en abierto*
 [Transcripción Bard](/imagenes/acronimos.bard.png)
-[Transcripción NeuroFlash](/imagenes/acronimos.neuroflash.png)|😂
+[Transcripción NeuroFlash](https://app.neuro-flash.com/ai-writer/ac997dc2a342a98ff857177183efff15/preview)|😂 y actualizado para incluir el enlace.
 
 |Reflexiones & buenas prácticas empleadas|
 |-|

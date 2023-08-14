@@ -34,6 +34,11 @@ Seguridad y privacidad|Los sistemas de IA deben ser diseñados y operados de man
 ## ¿Para qué?
 
 ### Horizontales
+<!-- TODO #6 incluir las siguientes: Rask.ai
+Captions
+Wonder dinamic
+24ai
+Runway -->
 #### Generar texto
 
 - [ChatGPT](https://chat.openai.com/)
@@ -61,7 +66,7 @@ Seguridad y privacidad|Los sistemas de IA deben ser diseñados y operados de man
 - [Jano](https://www.youtube.com/watch?v=fhoKnB6vwWg)
 - [Glass AI](https://glass.health/ai)
 - [Moises](https://moises.ai/)
-- []()
+- [SCISPACE](https://typeset.io/)
 
 
 
