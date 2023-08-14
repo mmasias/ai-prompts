@@ -1,10 +1,12 @@
 # Intro
+<!-- TODO #2 Mejorar el hilo de lo comentado. Poner una referencia a edans y la idea de "no se puede detener el avance de la tecnología -->
+<!-- TODO #3 Un enlace a los ismos de denegri también estaría bien  -->
 
 - Aparece una *tecnología* distruptiva
 - Reacciones: [Sorpresa, duda, miedo, excepticismo, negación](https://docs.google.com/presentation/d/1UscAlHfjGgg4pPzz_p0V1eX18R74DRlvTtMXsbLVtI0/edit?usp=sharing) / [Duda](https://twitter.com/Culture_Crit/status/1689685381283815435)
 - Ver dónde se inserta
-- Humo
-- *Blockchain / Criptodivisas* / *Coach/Psicología* / 
+- 💨
+- *Blockchain / Criptodivisas / Coach/Mentor/Psicología / Ciberseguridad / otros...*
 
 |[⛪](https://learn.dariuslukas.academy/the-ultimate-bible/)
 |-|
