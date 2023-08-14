@@ -29,7 +29,7 @@ How
 |Buenas prácticas|& Reflexiones
 |-|-|
 
-#### Antipatrón
+### Antipatrón
 
 *[:link:]() ANTIPATRON*
 

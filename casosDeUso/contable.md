@@ -40,7 +40,7 @@ Delimitación del problema|Se detalla la naturaleza de la colaboración (desarro
 |-|-|
 [:link:](https://chat.openai.com/share/a73476a3-e6d1-4e41-b1ab-2a19e48a9ce8)|Estoy en *Europa* con una *empresa de TI*. Queremos trabajar con una empresa de América del Sur, específicamente de Perú. ¿Hay diferencias en cómo manejan *cosas financieras*?
 
-#### Antipatrón
+### Antipatrón
 
 *[:link:](https://chat.openai.com/share/a73476a3-e6d1-4e41-b1ab-2a19e48a9ce8) Estoy en Europa con una empresa de TI. Queremos trabajar con una empresa de América del Sur, específicamente de Perú. ¿Hay diferencias en cómo manejan cosas financieras?*
 
