@@ -4,8 +4,11 @@
 |Caso de Uso|Breve descripción|
 |-|-|
 |[MetaCasoDeUso](metaCasoDeUso.md)|Organizar en casos de uso la presentación de los casos de uso
-|[Acrónimo](acronimo.md)|Creación guiada de un acrónimo|
-|[Contabilidad](contable.md)|Abordaje de diferencias financieras entre países|
+|[Construcción de un acrónimo](acronimo.md)|Creación guiada de un acrónimo|
+|[Diferencias contables](contable.md)|Abordaje de diferencias financieras entre países|
+|[Aprender estilo de redacción](redactor.md)|Enseñanza de un estilo de redacción|
+|Aprendizaje|Enseñanza de un tema que desconoce|
+
 
 
 
