@@ -33,10 +33,7 @@ Transcripción Claude
 [Transcripción Bard](/imagenes/acronimos.bard.png)
 [Transcripción NeuroFlash](/imagenes/acronimos.neuroflash.png)|😂
 
-
-###
-
-|Buenas prácticas utilizadas|
+|Reflexiones & buenas prácticas empleadas|
 |-|
 [Priming](/ingenieriaDePrompts/priming.md)
 [Divide y vencerás](/ingenieriaDePrompts/divideVenceras.md)
