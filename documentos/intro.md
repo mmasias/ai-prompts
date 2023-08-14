@@ -20,3 +20,7 @@
 
 - https://techcrunch.com/2023/07/06/robotaxi-haters-in-san-francisco-are-disabling-waymo-cruise-traffic-cones/
 - https://www.enriquedans.com/2023/07/la-conduccion-autonoma-es-ya-una-realidad-que-genera-sus-resistencias.html
+
+## Bibliografías & Videografía
+
+- [Prótesis tecnológicas en la era digital](https://www.youtube.com/watch?v=L1_Y-CkBIvU) y referencia a los 4 ismos del mundo moderno: inmediatismo, fragmentarismo, superficialisto y facilismo.
