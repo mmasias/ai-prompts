@@ -1,0 +1,20 @@
+class InteligenciaArtificial
+
+InteligenciaArtificial .d...> Interacción
+
+class IngenieriaDePrompts
+note left
+    Ejemplos con ChatGPT    
+end note
+
+IngenieriaDePrompts .u..> Interacción
+
+IngenieriaDePrompts .d..> CasosDeUso
+note left
+    Casos de Negocio
+    Casos de Marketing
+    Otros casos
+end note
+
+hide class circle
+hide empty members

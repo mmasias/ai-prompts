@@ -1,0 +1,12 @@
+@startuml
+[*] --> Inicio
+Inicio --> SaqueInicial : iniciarPartido()
+SaqueInicial --> JuegoNormal : realizarSaque()
+JuegoNormal --> Gol : anotarGol()
+Gol --> SaqueInicial : actualizarMarcador() / realizarSaqueCentro()
+JuegoNormal --> Falta : cometerFalta()
+Falta --> JuegoNormal : ejecutarTiroLibre()
+JuegoNormal --> Tarjeta : mostrarTarjeta()
+Tarjeta --> JuegoNormal : registrarTarjeta()
+JuegoNormal --> Fin : finalizarTiempoReglamentario()
+@enduml

@@ -1,0 +1,10 @@
+class datos
+class algoritmo
+class aplicación
+
+
+
+aplicación <-l- algoritmo
+algoritmo <-l- datos
+aplicación .> datos
+

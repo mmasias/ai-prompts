@@ -1,0 +1,12 @@
+@startuml
+[*] --> Inicio
+Inicio --> SaqueInicial : Inicio del partido
+SaqueInicial --> JuegoNormal : Saque realizado
+JuegoNormal --> Gol : Gol anotado
+Gol --> SaqueInicial : Actualizar marcador y saque de centro
+JuegoNormal --> Falta : Falta cometida
+Falta --> JuegoNormal : Ejecutar tiro libre
+JuegoNormal --> Tarjeta : Tarjeta mostrada
+Tarjeta --> JuegoNormal : Registrar tarjeta
+JuegoNormal --> Fin : Fin del tiempo reglamentario
+@enduml

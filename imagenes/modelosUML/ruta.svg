@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="581px" preserveAspectRatio="none" style="width:359px;height:581px;background:#FFFFFF;" version="1.1" viewBox="0 0 359 581" width="359px" zoomAndPan="magnify"><defs/><g><!--MD5=[e540f6774be5768ae110d7d584e18dfd]
+class InteligenciaArtificial--><g id="elem_InteligenciaArtificial"><rect codeLine="1" fill="#F1F1F1" height="27.6094" id="InteligenciaArtificial" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="126" x="220.5" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120" x="223.5" y="26.5332">InteligenciaArtificial</text></g><!--MD5=[e04ebbe2f1a00f5d3c2f338a2d738167]
+class Interacción--><g id="elem_Interacción"><rect fill="#F1F1F1" height="27.6094" id="Interacción" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="75" x="246" y="217"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="69" x="249" y="236.5332">Interacción</text></g><!--MD5=[56b4b8c2aa9d46d346152d47d3e0f5c2]
+class IngenieriaDePrompts--><g id="elem_IngenieriaDePrompts"><rect codeLine="5" fill="#F1F1F1" height="27.6094" id="IngenieriaDePrompts" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="138" x="214.5" y="366"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="132" x="217.5" y="385.5332">IngenieriaDePrompts</text></g><g id="elem_GMN6"><path d="M6,367 L6,393.3516 A0,0 0 0 0 6,393.3516 L179,393.3516 A0,0 0 0 0 179,393.3516 L179,385 L214.14,380 L179,377 L179,377 L169,367 L6,367 A0,0 0 0 0 6,367 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M169,367 L169,377 L179,377 L169,367 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="136" x="12" y="385.4951">Ejemplos con ChatGPT</text></g><!--MD5=[46675c012679cb682f571e5c96780543]
+class CasosDeUso--><g id="elem_CasosDeUso"><rect fill="#F1F1F1" height="27.6094" id="CasosDeUso" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="88" x="239.5" y="530.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="82" x="242.5" y="550.0332">CasosDeUso</text></g><g id="elem_GMN13"><path d="M67,515 L67,574.0547 A0,0 0 0 0 67,574.0547 L204,574.0547 A0,0 0 0 0 204,574.0547 L204,548.5 L239.41,544.5 L204,540.5 L204,525 L194,515 L67,515 A0,0 0 0 0 67,515 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M194,515 L194,525 L204,525 L194,515 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="106" x="73" y="533.4951">Casos de Negocio</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="116" x="73" y="549.8467">Casos de Marketing</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="71" x="73" y="566.1982">Otros casos</text></g><!--MD5=[ff65e0656536d9a7725b13fed8ff7fe6]
+link InteligenciaArtificial to Interacción--><g id="link_InteligenciaArtificial_Interacción"><path codeLine="3" d="M283.5,35.01 C283.5,70.76 283.5,170.56 283.5,211.8 " fill="none" id="InteligenciaArtificial-to-Interacción" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="283.5,216.99,287.5,207.99,283.5,211.99,279.5,207.99,283.5,216.99" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[d28e1d4729d610ba6f557f5715679d30]
+reverse link Interacción to IngenieriaDePrompts--><g id="link_Interacción_IngenieriaDePrompts"><path codeLine="10" d="M283.5,250.3 C283.5,280.35 283.5,339.43 283.5,365.77 " fill="none" id="Interacción-backto-IngenieriaDePrompts" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="283.5,245.05,279.5,254.05,283.5,250.05,287.5,254.05,283.5,245.05" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[3e37d8600f1eb165d3dab0e835df7bb2]
+link IngenieriaDePrompts to CasosDeUso--><g id="link_IngenieriaDePrompts_CasosDeUso"><path codeLine="12" d="M283.5,394.02 C283.5,422.79 283.5,491.81 283.5,525.02 " fill="none" id="IngenieriaDePrompts-to-CasosDeUso" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="283.5,530.41,287.5,521.41,283.5,525.41,279.5,521.41,283.5,530.41" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[8abe598b4eefb76e949c178c983c1c38]
+@startuml
+class InteligenciaArtificial
+
+InteligenciaArtificial .d...> Interacción
+
+class IngenieriaDePrompts
+note left
+    Ejemplos con ChatGPT    
+end note
+
+IngenieriaDePrompts .u..> Interacción
+
+IngenieriaDePrompts .d..> CasosDeUso
+note left
+    Casos de Negocio
+    Casos de Marketing
+    Otros casos
+end note
+
+hide class circle
+hide empty members
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 19:01:30 CEST 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: es
+Country: ES
+--></g></svg>

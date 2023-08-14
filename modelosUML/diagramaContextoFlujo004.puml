@@ -1,0 +1,30 @@
+@startuml
+start
+:iniciarPartido();
+:realizarSaque();
+if (Gol) then (Sí)
+  :anotarGol();
+  :actualizarMarcador();
+  :realizarSaqueCentro();
+else (No)
+  :continuarJuego();
+endif
+if (Falta) then (Sí)
+  :cometerFalta();
+  :ejecutarTiroLibre();
+else (No)
+  :continuarJuego();
+endif
+if (Tarjeta) then (Sí)
+  :mostrarTarjeta();
+  :registrarTarjeta();
+else (No)
+  :continuarJuego();
+endif
+if (Fin del tiempo reglamentario) then (Sí)
+  :finalizarTiempoReglamentario();
+  stop
+else (No)
+  :continuarJuego();
+endif
+@enduml

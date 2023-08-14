@@ -1,0 +1,31 @@
+@startmindmap
+
+- <b>ÉTICA</b>
+
+-- Sesgo
+--- Datos de entrenamiento
+--- Prompts
+--- Datos de salida
+-- Privacidad
+--- Personal
+--- Corporativa
+
+++ Guia
+
++++ Transparencia
+++++ Datos de entrenamiento
+++++ Algoritmos 
+++++ Contexto de uso
+
++++ Responsabilidad
+
+
++++ Equidad
+++++ Imparcialidad
+++++ Cohesión Social
+
+
++++ Privacidad
+
+
+@endmindmap

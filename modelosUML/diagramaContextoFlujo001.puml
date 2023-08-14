@@ -1,0 +1,29 @@
+@startuml
+start
+:Inicio del partido;
+:Saques iniciales;
+if (Gol) then (Sí)
+  :Actualizar marcador;
+  :Saques de centro;
+else (No)
+  :Continuar juego;
+endif
+if (Falta) then (Sí)
+  :Pitar falta;
+  :Ejecutar tiro libre;
+else (No)
+  :Continuar juego;
+endif
+if (Tarjeta) then (Sí)
+  :Mostrar tarjeta;
+  :Registrar tarjeta;
+else (No)
+  :Continuar juego;
+endif
+if (Fin del tiempo reglamentario) then (Sí)
+  :Fin del partido;
+  stop
+else (No)
+  :Continuar juego;
+endif
+@enduml
