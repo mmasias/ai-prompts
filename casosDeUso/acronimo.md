@@ -42,7 +42,7 @@ Especificidad|Se detallan funciones muy concretas del sistema para el cual se ne
 Invocación de creatividad|La solicitud de un acrónimo "ingenioso y divertido" invita al modelo a ir más allá de una respuesta genérica o estándar.
 Anclaje|Se utiliza un tono coloquial y se presentan ejemplos previos como anclas para que el modelo comprenda el tipo de acrónimo que se busca.
 
-### Antipatrón
+#### Antipatrón
 
 *[:link:](https://chat.openai.com/share/1523390e-f288-4507-ba1e-179c086c86a4) Me gustan los acrónimos. Hice uno hace años. Tengo un proyecto de IA. Se trata de un formulario y hace cosas con las respuestas. ¿Tienes alguna idea para un acrónimo?*
 

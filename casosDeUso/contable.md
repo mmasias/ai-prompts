@@ -2,9 +2,7 @@
 
 ## ¿Por qué?
 
-Se quiere comprender y abordar las diferencias contables entre dos países (España y Perú) antes de embarcarse en un proyecto de desarrollo de software. 
-
-Esta comprensión es esencial porque las regulaciones, normas y prácticas contables pueden variar ampliamente entre países. Al no tener en cuenta estas diferencias, el software puede no cumplir con los requisitos legales o de negocio de uno o ambos países.
+Se quiere comprender y abordar las diferencias contables entre dos países (España y Perú) antes de embarcarse en un proyecto de desarrollo de software, dado que las regulaciones, normas y prácticas contables pueden variar ampliamente entre países. Al no tener en cuenta estas diferencias, el software puede no cumplir con los requisitos legales o de negocio de uno o ambos países.
 
 ## ¿Qué? 
 
@@ -18,13 +16,11 @@ Comprender estas diferencias garantizará que el software sea adaptable y releva
 
 ## ¿Cómo?
 
-How
-
 ### Transcripciones 
 
 |Motor|Comentario|
 |-|-|
-[Transcripción ChatGPT](https://chat.openai.com/share/a48c35fe-8d01-4bd3-8e78-f1456f18e448)
+[Transcripción ChatGPT](https://chat.openai.com/share/a48c35fe-8d01-4bd3-8e78-f1456f18e448)|[V2](https://chat.openai.com/share/70c54a17-5d71-40dd-ba57-fffc989ba0a2)
 [Transcripción Perplexity](https://www.perplexity.ai/search/c77c4c4a-1911-42f0-8bbf-8b5bef72a8d9?s=c)
 [Transcripción Claude](https://claude.ai/chat/cc6bd8ee-e30c-4152-ba68-599a46666599)|*No está en abierto*
 [Transcripción Bard](https://g.co/bard/share/85bfe9e363df)
