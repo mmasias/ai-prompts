@@ -1,4 +1,4 @@
-# Seminario IdP
+# Seminario AI, Prompts, IdP & CdU
 
 > [Guía 📅](https://docs.google.com/spreadsheets/d/1CMCHoDKnVWJjKiB7Cp6_UR6JxROY0A3XASgdRtyVELc/edit?usp=sharing)
 
@@ -12,9 +12,13 @@
 
 ## Para qué
 
-Aproximarnos, intentan entender, buscar una aplicación real.
+Aproximarnos, intentar entender mejor, buscar una aplicación real.
+<!-- TODO: #1 Extender el para qué de las sesiones @mmasias -->
 
 ## ¿Cómo?
+|Aproximarnos|Intentar entender mejor|Buscar una aplicación real|
+|:-:|:-:|:-:|
+|Panorámica|Prompts & Ingeniería de Prompts|Casos de Uso|
 
 1. Introducción a la IA y su estado actual, revisando implementaciones de diversos servicios y centrándonos en los modelos de lenguaje que implementan el chatbot como interface.
 1. Luego una (muy breve pero necesaria) base teórica en la que veremos prompts, ingenieria de prompts y buenas prácticas en ambos casos.
