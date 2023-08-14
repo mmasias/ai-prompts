@@ -39,3 +39,14 @@ Delimitación del problema|Se detalla la naturaleza de la colaboración (desarro
 |T|Antipatrones|
 |-|-|
 [:link:](https://chat.openai.com/share/a73476a3-e6d1-4e41-b1ab-2a19e48a9ce8)|Estoy en *Europa* con una *empresa de TI*. Queremos trabajar con una empresa de América del Sur, específicamente de Perú. ¿Hay diferencias en cómo manejan *cosas financieras*?
+
+#### Antipatrón
+
+*[:link:](https://chat.openai.com/share/a73476a3-e6d1-4e41-b1ab-2a19e48a9ce8) Estoy en Europa con una empresa de TI. Queremos trabajar con una empresa de América del Sur, específicamente de Perú. ¿Hay diferencias en cómo manejan cosas financieras?*
+
+|Punto|Detalle|
+|-|-|
+Generalidad|En este caso geográfica: Aunque se menciona Europa, no se especifica el país (en este caso, España), lo que puede omitir detalles cruciales. Lo mismo ocurre con "América del Sur".
+Vagueza terminológica|Se menciona "empresa de TI", pero no se especifica la naturaleza exacta de la empresa (es decir, Desarrollo de Software).
+Ambigüedad en el objetivo|"Cosas financieras" es una terminología demasiado amplia. No queda claro si la consulta se refiere a la contabilidad, impuestos, regulaciones financieras, etc.
+Falta de contexto del proyecto|No se menciona que se está buscando desarrollar un módulo contable para un ERP, lo cual es crucial para ofrecer una respuesta relevante.

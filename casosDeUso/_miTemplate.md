@@ -26,5 +26,12 @@ How
 [Transcripción Bard]
 [Transcripción NeuroFlash]
 
-|Reflexiones & buenas prácticas utilizadas|
-|-|
+|Buenas prácticas|& Reflexiones
+|-|-|
+
+#### Antipatrón
+
+*[:link:]() ANTIPATRON*
+
+|Punto|Detalle|
+|-|-|
