@@ -1,7 +1,5 @@
 # Casos de uso
 
-
-
 |Área|Caso de Uso|Breve descripción|
 |:-:|-|-|
 |🗣️|[MetaCasoDeUso](metaCasoDeUso.md)|Organizar en casos de uso la presentación de los casos de uso
@@ -13,7 +11,7 @@
 |🔩|[Lectura de una imagen](https://chat.openai.com/share/b55d8b96-f469-4f8a-966c-a7417af6248b)|☠️ Usando un plugin compatible con GPT4 <font color="red">***Obsoleto***</font>
 |🗣️🧱|[Y vs luego](yvsluego.md)|Reflexión sobre el uso de luego en lugar de y al construir un prompt
 |↳|[Uso del luego](https://chat.openai.com/share/8f0c43ff-07be-4d53-93e4-ad79c3f8ab8a)|Luego como conector natural de prompts
-
+|🗣️|[Corrector de estilo](correctorEstilo.md)|Evolución natural de los casos de uso Aprender estilo de redacción y Análisis de una presentación 
 
 
 ## *2DO:* Ir convirtiendo esto en MDs independientes y conectados...
