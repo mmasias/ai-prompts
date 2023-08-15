@@ -6,15 +6,16 @@ La inteligencia artificial, al trabajar en base a datos y patrones lógicos, pue
 
 Las jitanjáforas, siendo palabras inventadas que suenan atractivas pero no tienen un significado específico, representan un desafío en este sentido.
 
-## ¿Qué? 
+## ¿Qué?
 
 Una jitanjáfora es una palabra inventada, creada por su sonoridad, más que por su significado. Se encuentra frecuentemente en literatura, poesía, y canciones, y es utilizada para evocar sensaciones, ritmos o emociones sin transmitir un mensaje concreto a través de su significado.
 
 ## ¿Para qué?
 
-**Objetivo:** Dotar a la IA de la capacidad de reconocer, entender y eventualmente generar jitanjáforas, permitiendo una interacción más rica y diversa en contextos literarios y artísticos.
-
-**Beneficio:** Mejorar la capacidad de la IA para interactuar en contextos creativos y literarios, al entender que no todas las palabras o frases necesitan tener un significado lógico o concreto. Esto amplía su utilidad en campos como la creación literaria, análisis de textos poéticos, y más.
+| | |
+|-|-|
+Objetivo|Dotar a la IA de la capacidad de reconocer, entender y eventualmente generar jitanjáforas, permitiendo una interacción más rica y diversa en contextos literarios y artísticos.
+Beneficio|Mejorar la capacidad de la IA para interactuar en contextos creativos y literarios, al entender que no todas las palabras o frases necesitan tener un significado lógico o concreto. Esto amplía su utilidad en campos como la creación literaria, análisis de textos poéticos, y más.
 
 ## ¿Cómo?
 

@@ -4,7 +4,7 @@
 
 xQ'
 
-## ¿Qué? 
+## ¿Qué?
 
 Q'
 
@@ -16,7 +16,7 @@ paQ'
 
 How
 
-### Transcripciones 
+### Transcripciones
 
 |Motor|Comentario|
 |-|-|

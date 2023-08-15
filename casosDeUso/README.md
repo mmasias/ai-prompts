@@ -8,6 +8,7 @@
 |[Diferencias contables](contable.md)|Abordaje de diferencias financieras entre países|
 |[Aprender estilo de redacción](redactor.md)|Enseñanza de un estilo de redacción|
 |[Aprendizaje](aprendizajeJitanjafora.md)|Enseñanza de un tema que desconoce|
+|[Análisis de una presentación](analisisDiscurso.md)|Transcripción, análisis y evaluación de un discurso|
 
 
 ### *2DO:* Ir convirtiendo esto en MDs independientes y conectados...

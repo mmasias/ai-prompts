@@ -68,6 +68,9 @@ Runway -->
 - [Moises](https://moises.ai/)
 - [SCISPACE](https://typeset.io/)
 
+### Generar modelos 
+
+- [Modelos 3D a partir de fotografías](https://research.nvidia.com/labs/dir/neuralangelo/)
 
 
 ## ¿Cómo?
