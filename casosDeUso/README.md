@@ -4,6 +4,7 @@
 |:-:|-|-|
 |🗣️|[MetaCasoDeUso](metaCasoDeUso.md)|Organizar en casos de uso la presentación de los casos de uso
 |🗣️|[Construcción de un acrónimo](acronimo.md)|Creación guiada de un acrónimo|
+|🗣️|[Construcción de un acróstico](acrostico.md)|Creación guiada de un acróstico|
 |🗣️|[Diferencias contables](contable.md)|Abordaje de diferencias financieras entre países|
 |🗣️|[Aprender estilo de redacción](redactor.md)|Enseñanza de un estilo de redacción|
 |🗣️|[Aprendizaje](aprendizajeJitanjafora.md)|Enseñanza de un tema que desconoce|
@@ -21,7 +22,6 @@
 |-|-|-|-|
 |Inversión de RPG|[*El indignao*](https://www.youtube.com/watch?v=umCSGBhGynk)|ChatGPT - |[Transcripción: 🗒️](https://chat.openai.com/share/84dbba5b-ae94-4042-9f82-c59da5f5708d)
 |Inversión de RPG II|-|-|[Transcripción: 🗒️](https://chat.openai.com/share/c3659718-0f1c-423a-9eec-b2671cb63563)
-|Acróstico IdSw|Convertir una idea en realidad|ChatGPT|[Transcripción: 🗒️](https://chat.openai.com/share/93bccf33-5d9f-40c1-a141-50d7b738a125)|
 |Traducción especial|-|-|-|
 |Traducción especial II (videojuego)|-|-|-|
 |Resumen & análisis de respuestas|Recibir respuestas, analizar diversos elementos de su contenido|ChatGPT, Google Sheets, [GPT for work](https://gptforwork.com/)|[Hoja de cálculo](https://docs.google.com/spreadsheets/d/10ByjpaajfxlpBmXImmQ-wE1TqPYr9FbFr-FiNEkRTB8/edit?usp=sharing)|

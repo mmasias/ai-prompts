@@ -15,7 +15,7 @@ Me gusta crear acrónimos. Es una buena manera de fijar en la memoria un concept
 
 ## ¿Para qué?
 
-Dado que para el seminario de inteligencia artificial estoy preparando algunos ejemplos, vamos a darles nombres.
+Dado que para el seminario de inteligencia artificial estoy preparando algunos ejemplos, vamos a darle nombre a un ejemplo que he creado ad-hoc.
 
 Además, así al resolverlo veremos de poner en práctica buenas prácticas de ingenieria de prompts. 
 
