@@ -10,12 +10,13 @@
 |🗣️|[Aprender estilo de redacción](redactor.md)|Enseñanza de un estilo de redacción|
 |🗣️|[Aprendizaje](aprendizajeJitanjafora.md)|Enseñanza de un tema que desconoce|
 |🗣️|[Análisis de una presentación](analisisDiscurso.md)|Transcripción, evaluación, métricas y mejora de un discurso|
-|🔩|[Lectura de una imagen](https://chat.openai.com/share/b55d8b96-f469-4f8a-966c-a7417af6248b)|☠️ Usando un plugin compatible con GPT4 ***Obsoleto***
+|🔩|[Lectura de una imagen](https://chat.openai.com/share/b55d8b96-f469-4f8a-966c-a7417af6248b)|☠️ Usando un plugin compatible con GPT4 <font color="red">***Obsoleto***</font>
 |🗣️🧱|[Y vs luego](yvsluego.md)|Reflexión sobre el uso de luego en lugar de y al construir un prompt
+|↳|[Uso del luego](https://chat.openai.com/share/8f0c43ff-07be-4d53-93e4-ad79c3f8ab8a)|Luego como conector natural de prompts
 
 
 
-### *2DO:* Ir convirtiendo esto en MDs independientes y conectados...
+## *2DO:* Ir convirtiendo esto en MDs independientes y conectados...
 
 
 |Caso|Breve descripción|Herramientas|Transcripción|
@@ -26,9 +27,7 @@
 |Traducción especial|-|-|-|
 |Traducción especial II (videojuego)|-|-|-|
 |Resumen & análisis de respuestas|Recibir respuestas, analizar diversos elementos de su contenido|ChatGPT, Google Sheets, [GPT for work](https://gptforwork.com/)|[Hoja de cálculo](https://docs.google.com/spreadsheets/d/10ByjpaajfxlpBmXImmQ-wE1TqPYr9FbFr-FiNEkRTB8/edit?usp=sharing)|
-|Creación de un acrónimo|-|-|[Transcripción: 🗒️](https://chat.openai.com/share/57e396ef-1732-4321-94c8-a143267c0b01)|
 |Creación de oferta de trabajo|-|-|[Transcripción: 🗒️](https://chat.openai.com/share/903b886f-449a-4442-85a2-f20e2a7cbc4e)
-|Listículos + LUEGO|-|-|[Transcripción: 🗒️](https://chat.openai.com/share/8f0c43ff-07be-4d53-93e4-ad79c3f8ab8a)
 
 ### xExtender
 

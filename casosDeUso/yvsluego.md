@@ -34,3 +34,6 @@ NeuroFlash|[Usando **y**](https://app.neuro-flash.com/ai-writer/fdfa5e4fe41ac1cc
 Descomposición de la solicitud|Se divide la petición original en dos partes distintas para obtener respuestas más específicas y detalladas.
 Uso de transiciones claras|La transición "luego" actúa como una señal para la IA, indicando que se trata de una nueva solicitud que debe ser atendida después de la anterior.
 Especificidad|Al pedir explícitamente comentarios sobre beneficios y luego sobre retos, estamos dando una guía clara sobre lo que esperamos en cada parte de la respuesta.
+
+#### Antipatrón
+
