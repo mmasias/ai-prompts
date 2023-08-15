@@ -8,7 +8,7 @@
 |[Diferencias contables](contable.md)|Abordaje de diferencias financieras entre países|
 |[Aprender estilo de redacción](redactor.md)|Enseñanza de un estilo de redacción|
 |[Aprendizaje](aprendizajeJitanjafora.md)|Enseñanza de un tema que desconoce|
-|[Análisis de una presentación](analisisDiscurso.md)|Transcripción, análisis y evaluación de un discurso|
+|[Análisis de una presentación](analisisDiscurso.md)|Transcripción, evaluación, métricas y mejora de un discurso|
 
 
 ### *2DO:* Ir convirtiendo esto en MDs independientes y conectados...
@@ -16,7 +16,6 @@
 
 |Caso|Breve descripción|Herramientas|Transcripción|
 |-|-|-|-|
-|Refinar presentación|Ensayo de un texto|ChatGPT - [Clipto](https://www.clipto.com/)|[Transcripción: 🗒️](https://chat.openai.com/share/417e6c5b-5cf4-406b-b3a0-9c63a8ef3cf2)|
 |Inversión de RPG|[*El indignao*](https://www.youtube.com/watch?v=umCSGBhGynk)|ChatGPT - |[Transcripción: 🗒️](https://chat.openai.com/share/84dbba5b-ae94-4042-9f82-c59da5f5708d)
 |Inversión de RPG II|-|-|[Transcripción: 🗒️](https://chat.openai.com/share/c3659718-0f1c-423a-9eec-b2671cb63563)
 |Acróstico IdSw|Convertir una idea en realidad|ChatGPT|[Transcripción: 🗒️](https://chat.openai.com/share/93bccf33-5d9f-40c1-a141-50d7b738a125)|
