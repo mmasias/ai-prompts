@@ -29,8 +29,6 @@
 
 ### xExtender
 
-- 
-- [Manual de estilo](https://chat.openai.com/share/edf36184-6936-4741-847a-54ad7cda6fdc)
 - [Listas de personas](https://docs.google.com/spreadsheets/d/165DnYz3crJugiWnKrc9OLPECBia9Nkx0u22IZqvdOco/edit?usp=sharing) ❗
 
 - [IdSw & dimensiones (creatividad)](https://chat.openai.com/share/e397db65-985a-4356-9b88-b4d2b3301721)

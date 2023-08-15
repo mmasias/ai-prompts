@@ -8,7 +8,7 @@ La calidad del contenido es esencial. ¿Cómo garantizamos que se cumpla con un 
 
 | | |
 |-|-|
-Desde tiempos inmemoriales los medios impresos, como los periódicos y las revistas, han confiado en lo que se conoce como "guías de estilo". Estas guías garantizan que la redacción se mantenga coherente en términos de tono, terminología, estructura y otros aspectos cruciales del contenido.|Tradicionalmente, el redactor jefe o editor principal ha sido el garante de que los contenidos cumplan con esta guía de estilo. Esta responsabilidad implica un análisis minucioso de cada pieza de contenido, lo que puede resultar en una tarea exhaustiva y sujeta a errores humanos.
+Los medios impresos, como los periódicos y las revistas, han confiado en lo que se conoce como "guías de estilo". Estas guías garantizan que la redacción se mantenga coherente en términos de tono, terminología, estructura y otros aspectos cruciales del contenido.|Tradicionalmente, el redactor jefe o editor principal ha sido el garante de que los contenidos cumplan con esta guía de estilo. Esta responsabilidad implica un análisis minucioso de cada pieza de contenido, lo que puede resultar en una tarea exhaustiva y sujeta a errores humanos.
 
 El presente caso de uso plantea encontrar una solución que pueda evaluar automáticamente el contenido basándose en un conjunto predefinido de criterios estilísticos, abarcando desde la claridad hasta la estructuración y terminología.
 
@@ -27,7 +27,7 @@ Beneficio|Reducir tiempo y recursos humanos en la revisión y corrección, asegu
 |-|-|
 [ChatGPT](https://chat.openai.com/share/edf36184-6936-4741-847a-54ad7cda6fdc)
 [Perplexity]
-[Claude]
+[Claude](https://claude.ai/chat/5f146ff5-8408-4f7a-9cea-a94c39d49bcd)|Al permitir adjuntar PDFs, se pudo adjuntar el manual de estilo oficial del periódico.
 [Bard]
 [NeuroFlash]
 

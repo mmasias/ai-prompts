@@ -26,7 +26,7 @@ Aproximarnos, intentar entender mejor, buscar una aplicación real.
 
 - [Prompts](prompts/README.md) 
 - [Ingenieria de Prompts](ingenieriaDePrompts/README.md) 
-- [Taller a.k.a. CdU](casosDeUso/)
+- [Taller a.k.a. CdU](casosDeUso/README.md)
 - [Comunidad](comunidad.md)
 
 Al finalizar, se habrán visto un conjunto de casos de uso que se apoyan en la IA y en otras tecnologias, con la intención de que los participantes puedan extraer lo mejor de cada uno de ellos y puedan aplicarlos.
