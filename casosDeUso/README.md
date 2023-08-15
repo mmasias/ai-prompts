@@ -11,7 +11,7 @@
 |🗣️|[Aprendizaje](aprendizajeJitanjafora.md)|Enseñanza de un tema que desconoce|
 |🗣️|[Análisis de una presentación](analisisDiscurso.md)|Transcripción, evaluación, métricas y mejora de un discurso|
 |🔩|[Lectura de una imagen](https://chat.openai.com/share/b55d8b96-f469-4f8a-966c-a7417af6248b)|☠️ Usando un plugin compatible con GPT4 ***Obsoleto***
-
+|🗣️🧱|[Y vs luego](yvsluego.md)|Reflexión sobre el uso de luego en lugar de y al construir un prompt
 
 
 
@@ -28,7 +28,6 @@
 |Resumen & análisis de respuestas|Recibir respuestas, analizar diversos elementos de su contenido|ChatGPT, Google Sheets, [GPT for work](https://gptforwork.com/)|[Hoja de cálculo](https://docs.google.com/spreadsheets/d/10ByjpaajfxlpBmXImmQ-wE1TqPYr9FbFr-FiNEkRTB8/edit?usp=sharing)|
 |Creación de un acrónimo|-|-|[Transcripción: 🗒️](https://chat.openai.com/share/57e396ef-1732-4321-94c8-a143267c0b01)|
 |Creación de oferta de trabajo|-|-|[Transcripción: 🗒️](https://chat.openai.com/share/903b886f-449a-4442-85a2-f20e2a7cbc4e)
-|Y vs LUEGO|-|-|[Y](https://chat.openai.com/share/de5d8a24-594a-45e1-a528-27fca6521fc6) / [LUEGO](https://chat.openai.com/share/17e92098-5a64-4655-873d-d78c4e27ed1b)
 |Listículos + LUEGO|-|-|[Transcripción: 🗒️](https://chat.openai.com/share/8f0c43ff-07be-4d53-93e4-ad79c3f8ab8a)
 
 ### xExtender
