@@ -1,14 +1,18 @@
 # Casos de uso
 
 
-|Caso de Uso|Breve descripción|
-|-|-|
-|[MetaCasoDeUso](metaCasoDeUso.md)|Organizar en casos de uso la presentación de los casos de uso
-|[Construcción de un acrónimo](acronimo.md)|Creación guiada de un acrónimo|
-|[Diferencias contables](contable.md)|Abordaje de diferencias financieras entre países|
-|[Aprender estilo de redacción](redactor.md)|Enseñanza de un estilo de redacción|
-|[Aprendizaje](aprendizajeJitanjafora.md)|Enseñanza de un tema que desconoce|
-|[Análisis de una presentación](analisisDiscurso.md)|Transcripción, evaluación, métricas y mejora de un discurso|
+
+|Área|Caso de Uso|Breve descripción|
+|-|-|-|
+|🗣️|[MetaCasoDeUso](metaCasoDeUso.md)|Organizar en casos de uso la presentación de los casos de uso
+|🗣️|[Construcción de un acrónimo](acronimo.md)|Creación guiada de un acrónimo|
+|🗣️|[Diferencias contables](contable.md)|Abordaje de diferencias financieras entre países|
+|🗣️|[Aprender estilo de redacción](redactor.md)|Enseñanza de un estilo de redacción|
+|🗣️|[Aprendizaje](aprendizajeJitanjafora.md)|Enseñanza de un tema que desconoce|
+|🗣️|[Análisis de una presentación](analisisDiscurso.md)|Transcripción, evaluación, métricas y mejora de un discurso|
+|🔩|[Lectura de una imagen](https://chat.openai.com/share/b55d8b96-f469-4f8a-966c-a7417af6248b)|☠️ Usando un plugin compatible con GPT4 ***Obsoleto***
+
+
 
 
 ### *2DO:* Ir convirtiendo esto en MDs independientes y conectados...
@@ -29,7 +33,7 @@
 
 ### xExtender
 
-- [Descrición de imagen](https://chat.openai.com/share/b55d8b96-f469-4f8a-966c-a7417af6248b) Usando un plugin compatible con GPT4
+- 
 - [Manual de estilo](https://chat.openai.com/share/edf36184-6936-4741-847a-54ad7cda6fdc)
 - [Listas de personas](https://docs.google.com/spreadsheets/d/165DnYz3crJugiWnKrc9OLPECBia9Nkx0u22IZqvdOco/edit?usp=sharing) ❗
 
