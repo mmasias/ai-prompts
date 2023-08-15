@@ -3,7 +3,7 @@
 
 
 |Área|Caso de Uso|Breve descripción|
-|-|-|-|
+|:-:|-|-|
 |🗣️|[MetaCasoDeUso](metaCasoDeUso.md)|Organizar en casos de uso la presentación de los casos de uso
 |🗣️|[Construcción de un acrónimo](acronimo.md)|Creación guiada de un acrónimo|
 |🗣️|[Diferencias contables](contable.md)|Abordaje de diferencias financieras entre países|
