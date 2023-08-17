@@ -23,7 +23,6 @@
 |Traducción especial|-|-|-|
 |Traducción especial II (videojuego)|-|-|-|
 |Resumen & análisis de respuestas|Recibir respuestas, analizar diversos elementos de su contenido|ChatGPT, Google Sheets, [GPT for work](https://gptforwork.com/)|[Hoja de cálculo](https://docs.google.com/spreadsheets/d/10ByjpaajfxlpBmXImmQ-wE1TqPYr9FbFr-FiNEkRTB8/edit?usp=sharing)|
-|Creación de oferta de trabajo|-|-|[Transcripción: 🗒️](https://chat.openai.com/share/903b886f-449a-4442-85a2-f20e2a7cbc4e)
 
 ### Y se volvieron obsoletos...
 
