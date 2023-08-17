@@ -1,23 +1,5 @@
 # Casos de uso
 
-|Área|Caso de Uso|Breve descripción|
-|:-:|-|-|
-|🗣️🧱|[Y vs luego](yvsluego.md)|Reflexión sobre el uso de luego en lugar de y al construir un prompt
-|↳|[Uso del luego](https://chat.openai.com/share/8f0c43ff-07be-4d53-93e4-ad79c3f8ab8a)|Luego como conector natural de prompts
-|🗣️|[Construcción de un acrónimo](acronimo.md)|Creación guiada de un acrónimo|
-|🗣️|[Construcción de un acróstico](acrostico.md)|Creación guiada de un acróstico|
-|🗣️|[Aprendizaje](aprendizajeJitanjafora.md)|Enseñanza de un tema que desconoce|
-|↳↳|[Análisis de una presentación](analisisDiscurso.md)|Transcripción, evaluación, métricas y mejora de un discurso|
-|↳↳|[Diferencias contables](contable.md)|Abordaje de diferencias financieras entre países|
-|↳↳|[Oferta de trabajo](ofertaTrabajo.md)|Creación guiada de una oferta de trabajo|
-|🤔|[MetaCasoDeUso](metaCasoDeUso.md)|Organizar en casos de uso la presentación de los casos de uso
-|📈|[Evolución del análisis](evolucionAnalisis.md)|Simplemente una muestra de evolución
-|🗣️|[Aprender estilo de redacción](redactor.md)|Enseñanza de un estilo de redacción|
-|🗣️|[Corrector de estilo](correctorEstilo.md)|Evolución natural de los casos de uso Aprender estilo de redacción y Análisis de una presentación 
-|🈲|[Shoggoth Tongue](shoggothTongue.md)|Compresión de prompts
-
-## Orden propuesto por ChatGPT
-
 |x|Área|Caso de Uso|Breve descripción|
 |-|:-:|-|-|
 |Básicos: Introducción y fundamentos|🗣️🧱|[Y vs luego](yvsluego.md)|Reflexión sobre el uso de luego en lugar de y al construir un prompt
