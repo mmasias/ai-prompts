@@ -10,6 +10,7 @@
 |🗣️|[Aprendizaje](aprendizajeJitanjafora.md)|Enseñanza de un tema que desconoce|
 |↳↳|[Análisis de una presentación](analisisDiscurso.md)|Transcripción, evaluación, métricas y mejora de un discurso|
 |↳↳|[Diferencias contables](contable.md)|Abordaje de diferencias financieras entre países|
+|↳↳|[Construcción de oferta de trabajo](ofertaTrabajo.md)|Creación guiada de una oferta de trabajo|
 |🗣️|[Aprender estilo de redacción](redactor.md)|Enseñanza de un estilo de redacción|
 |🗣️|[Corrector de estilo](correctorEstilo.md)|Evolución natural de los casos de uso Aprender estilo de redacción y Análisis de una presentación 
 
