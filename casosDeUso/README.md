@@ -8,8 +8,8 @@
 |🗣️|[Construcción de un acrónimo](acronimo.md)|Creación guiada de un acrónimo|
 |🗣️|[Construcción de un acróstico](acrostico.md)|Creación guiada de un acróstico|
 |🗣️|[Aprendizaje](aprendizajeJitanjafora.md)|Enseñanza de un tema que desconoce|
-|🗣️|[Diferencias contables](contable.md)|Abordaje de diferencias financieras entre países|
-|🗣️|[Análisis de una presentación](analisisDiscurso.md)|Transcripción, evaluación, métricas y mejora de un discurso|
+|↳↳|[Análisis de una presentación](analisisDiscurso.md)|Transcripción, evaluación, métricas y mejora de un discurso|
+|↳↳|[Diferencias contables](contable.md)|Abordaje de diferencias financieras entre países|
 |🗣️|[Aprender estilo de redacción](redactor.md)|Enseñanza de un estilo de redacción|
 |🗣️|[Corrector de estilo](correctorEstilo.md)|Evolución natural de los casos de uso Aprender estilo de redacción y Análisis de una presentación 
 
