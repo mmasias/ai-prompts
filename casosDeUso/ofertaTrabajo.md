@@ -22,6 +22,7 @@ Beneficio|Esta técnica ofrece mayor flexibilidad y control sobre el contenido f
 ## ¿Cómo?
 
 ### Transcripciones
+<!-- TODO: #8 Extender el ejemplo a los demás modelos -->
 
 |Motor|Comentario|
 |-|-|
