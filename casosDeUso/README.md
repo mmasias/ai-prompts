@@ -30,7 +30,8 @@
 |Análisis y síntesis|↳↳|[Análisis de una presentación](analisisDiscurso.md)|Transcripción, evaluación, métricas y mejora de un discurso|
 |Análisis y síntesis|↳↳|[Diferencias contables](contable.md)|Abordaje de diferencias financieras entre países|
 |Análisis y síntesis|📈|[Evolución del análisis](evolucionAnalisis.md)|Simplemente una muestra de evolución|
-|Guiado y especificidad|↳↳|[Oferta de trabajo](ofertaTrabajo.md)|Creación guiada de una oferta de trabajo|
+|Creación guiada y creativa|🛤️🎨|[Dimensiones de la ingeniería de software](dimensionesIdSw.md)|Creación creativa|
+|Creación guiada y específica| ➡️🎯|[Oferta de trabajo](ofertaTrabajo.md)|Creación guiada de una oferta de trabajo|
 |Metanivel y reflexión|🤔|[MetaCasoDeUso](metaCasoDeUso.md)|Organizar en casos de uso la presentación de los casos de uso
 |Avanzado y eficiencia|🈲|[Shoggoth Tongue](shoggothTongue.md)|Compresión de prompts
 
