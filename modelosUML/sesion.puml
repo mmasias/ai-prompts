@@ -1,11 +1,12 @@
 @startuml
 
 state "Conversación" as Conversacion {
+    [*] --> Prompt
+Note left: Inicia la conversación
     Prompt --> Respuesta 
-    Respuesta --> Prompt 
-}
 
-[*] -r-> Prompt : Inicia
+    Respuesta --> Prompt
+}
 
 
 @enduml
