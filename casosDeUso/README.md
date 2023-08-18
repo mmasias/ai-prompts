@@ -16,6 +16,7 @@
 |Creación guiada y específica| ➡️🎯|[Oferta de trabajo](ofertaTrabajo.md)|Creación guiada de una oferta de trabajo|
 |Metanivel y reflexión|🤔|[MetaCasoDeUso](metaCasoDeUso.md)|Organizar en casos de uso la presentación de los casos de uso
 |Avanzado y eficiencia|🈲|[Shoggoth Tongue](shoggothTongue.md)|Compresión de prompts
+|Interacción bidimensional|🎭|[Simulación de Roles](rpgInverso.md)|IA adoptando roles y simulando emociones en situaciones específicas
 
 ## 2DOs
 
@@ -23,8 +24,6 @@
 
 |Caso|Breve descripción|Herramientas|Transcripción|
 |-|-|-|-|
-|Inversión de RPG|[*El indignao*](https://www.youtube.com/watch?v=umCSGBhGynk)|ChatGPT - |[Transcripción: 🗒️](https://chat.openai.com/share/84dbba5b-ae94-4042-9f82-c59da5f5708d)
-|Inversión de RPG II|-|-|[Transcripción: 🗒️](https://chat.openai.com/share/c3659718-0f1c-423a-9eec-b2671cb63563)
 |Traducción especial|-|-|-|
 |Traducción especial II (videojuego)|-|-|-|
 |Resumen & análisis de respuestas|Recibir respuestas, analizar diversos elementos de su contenido|ChatGPT, Google Sheets, [GPT for work](https://gptforwork.com/)|[Hoja de cálculo](https://docs.google.com/spreadsheets/d/10ByjpaajfxlpBmXImmQ-wE1TqPYr9FbFr-FiNEkRTB8/edit?usp=sharing)|
