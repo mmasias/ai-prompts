@@ -44,7 +44,7 @@ Revisión y Ajuste|Es posible que no se obtenga la simulación deseada en el pri
 
 ### Transcripciones
 
-#### Sesión con Claude
+#### Sesión con Claude, emulando una agencia de viajes
 
 ##### Manuel
 
@@ -246,7 +246,6 @@ Es la peor atención al cliente que he recibido. No les compraré nunca más nad
 Vaya, sí que asumiste el papel: me parece fantástico. ¿Podrías hacer una evaluación de la persona que te atendió?
 
 ##### Claude
-\n
 
 Claro, puedo dar mi evaluación del representante de atención al cliente durante esta conversación:
 
