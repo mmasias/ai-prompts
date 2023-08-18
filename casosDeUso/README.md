@@ -37,5 +37,4 @@
 ### xExtender
 
 - [Listas de personas](https://docs.google.com/spreadsheets/d/165DnYz3crJugiWnKrc9OLPECBia9Nkx0u22IZqvdOco/edit?usp=sharing) ❗
-- [IdSw & dimensiones (creatividad)](https://chat.openai.com/share/e397db65-985a-4356-9b88-b4d2b3301721)
 - [Esquemas (ASCII, JSON, plantUML)](https://chat.openai.com/share/5ca0aa11-da9b-4640-ba3a-1dee13623e79)
