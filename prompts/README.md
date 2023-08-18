@@ -13,9 +13,10 @@ Muchas aplicaciones de LLMs como la generación de código, resúmenes y traducc
 
 ## ¿Qué?
 
-Un prompt básicamente se refiera a una instrucción o solicitud de información que se le da a un modelo de lenguaje. 
+| | |
+|-|-|
+Instrucción o solicitud de información que se le da a un modelo de lenguaje, en forma de pregunta o enunciado que inicia la conversación o solicita una respuesta del modelo.<br><br>Por ejemplo, "¿Cuál es la capital de Francia?" o "Escribe un poema sobre la primavera".|![](/imagenes/modelosUML/sesion.svg)
 
-Es una pregunta o un enunciado que inicia la conversación o solicita una respuesta del modelo. Por ejemplo, "¿Cuál es la capital de Francia?" o "Escribe un poema sobre la primavera".
 
 ## ¿Para qué?
 

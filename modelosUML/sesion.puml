@@ -1,0 +1,11 @@
+@startuml
+
+state "Conversación" as Conversacion {
+    Prompt --> Respuesta 
+    Respuesta --> Prompt 
+}
+
+[*] -r-> Prompt : Inicia
+
+
+@enduml

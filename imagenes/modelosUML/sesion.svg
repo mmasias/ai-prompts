@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="225px" preserveAspectRatio="none" style="width:206px;height:225px;background:#FFFFFF;" version="1.1" viewBox="0 0 206 225" width="206px" zoomAndPan="magnify"><defs/><g><!--MD5=[5de921627ebcd432a9f23748c6aa04cc]
+cluster Conversacion--><g id="cluster_Conversacion"><path d="M83.5,7 L180.5,7 A12.5,12.5 0 0 1 193,19.5 L193,33.4883 L71,33.4883 L71,19.5 A12.5,12.5 0 0 1 83.5,7 " fill="#F1F1F1" style="stroke:#F1F1F1;stroke-width:1.0;"/><rect fill="none" height="212" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="122" x="71" y="7"/><line style="stroke:#181818;stroke-width:0.5;" x1="71" x2="193" y1="33.4883" y2="33.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="93" x="85.5" y="24.5352">Conversación</text></g><g id="Conversacion.Prompt"><rect fill="#F1F1F1" height="50" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="70" x="97" y="42"/><line style="stroke:#181818;stroke-width:0.5;" x1="97" x2="167" y1="68.4883" y2="68.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="50" x="107" y="60.5352">Prompt</text></g><g id="Conversacion.Respuesta"><rect fill="#F1F1F1" height="50" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="90" x="87" y="153"/><line style="stroke:#181818;stroke-width:0.5;" x1="87" x2="177" y1="179.4883" y2="179.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="70" x="97" y="171.5352">Respuesta</text></g><ellipse cx="16" cy="67" fill="#222222" rx="10" ry="10" style="stroke:none;stroke-width:1.0;"/><!--MD5=[0c4c69716cce5f57c88707956c6e6a59]
+link Prompt to Respuesta--><g id="link_Prompt_Respuesta"><path d="M121.16,92.46 C118.87,108.59 118.64,129.82 120.47,146.97 " fill="none" id="Prompt-to-Respuesta" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="121.17,151.62,124.0328,142.1964,120.5551,146.658,116.0936,143.1802,121.17,151.62" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[c67f3e161f1c461b0f3e7dcdf15ecae4]
+link Respuesta to Prompt--><g id="link_Respuesta_Prompt"><path d="M143.47,152.62 C145.9,136.51 146.15,115.28 144.22,98.11 " fill="none" id="Respuesta-to-Prompt" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="143.48,93.46,140.6974,102.9076,144.1371,98.4166,148.628,101.8563,143.48,93.46" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f44c1555c10098afe33d254d3fb8845f]
+link *start to Prompt--><g id="link_*start_Prompt"><path d="M26.29,67 C40.71,67 67.74,67 90.85,67 " fill="none" id="*start-to-Prompt" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="95.64,67,86.64,63,90.64,67,86.64,71,95.64,67" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="34" x="44.5" y="60.5684">Inicia</text></g><!--MD5=[c27a1e5fa213ac702b2592eaf2fa37b3]
+@startuml
+
+state "Conversación" as Conversacion {
+    Prompt - -> Respuesta 
+    Respuesta - -> Prompt 
+}
+
+[*] -r-> Prompt : Inicia
+
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 19:01:30 CEST 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: es
+Country: ES
+--></g></svg>
