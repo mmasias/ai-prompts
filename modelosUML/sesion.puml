@@ -1,8 +1,9 @@
 @startuml
 
 state "Conversación" as Conversacion {
+    
     [*] --> Prompt
-Note left: Inicia la conversación
+    note left:Inicia la conversación
     Prompt --> Respuesta 
 
     Respuesta --> Prompt

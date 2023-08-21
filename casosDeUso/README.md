@@ -1,5 +1,16 @@
 # Casos de uso
 
+## AIs utilizadas
+
+- [ChatGPT](https://chat.openai.com/)
+- Claude
+- Bard
+- [Perplexity]
+- [Neuroflash](https://app.neuro-flash.com/aiWriter)
+- [Huggingface](https://huggingface.co/chat)
+
+## Listado
+
 |x|Área|Caso de Uso|Breve descripción|
 |-|:-:|-|-|
 |Básicos: Introducción y fundamentos|🗣️🧱|[Y vs luego](yvsluego.md)|Reflexión sobre el uso de luego en lugar de y al construir un prompt

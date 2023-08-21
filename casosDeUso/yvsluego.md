@@ -28,6 +28,7 @@ Perplexity
 Claude|[Usando **y**](https://claude.ai/chat/3383413a-3cb3-4300-b84d-80aa48e9f1ab) / [Usando **luego**](https://claude.ai/chat/21a6e377-bef6-4d51-8893-aa4053ce28a1)
 Bard|[Usando **y**](https://g.co/bard/share/51c34816dcce) / [Usando **luego**](https://g.co/bard/share/3510ac4a3752)
 NeuroFlash|[Usando **y**](https://app.neuro-flash.com/ai-writer/fdfa5e4fe41ac1cc58f60b0cebfb9394/preview) / [Usando **luego**](https://app.neuro-flash.com/ai-writer/aee2abe0c0a632214d35598fd606944a/preview)
+HuggingChat|[Usando **y**](https://hf.co/chat/r/u5AxJrm) / [Usando **luego**](https://hf.co/chat/r/yEhqIcx)
 
 |Buenas prácticas|& Reflexiones
 |-|-|

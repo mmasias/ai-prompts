@@ -13,6 +13,6 @@ Parámetros|El ecualizador
 - **Temperatura**, que gobierna la creatividad
 - **Max tokens**, que gobierna la longitud de la respuesta
 
-## Ejemplo
+## Ejemplos
 
-_2DO_EJEMPLO DESPIEZADO
+- 

@@ -20,17 +20,17 @@ Instrucción o solicitud de información que se le da a un modelo de lenguaje, e
 
 ## ¿Para qué?
 
-Los prompts se utilizan para interactuar con modelos de lenguaje AI y solicitar información específica o realizar tareas particulares. Proporcionan la dirección y el contexto necesarios para que la IA genere respuestas útiles y pertinentes.
+Los prompts se utilizan para interactuar con modelos de lenguaje, solicitar información específica o realizar tareas particulares. Proporcionan la dirección y el contexto necesarios para que la IA genere respuestas útiles y pertinentes.
 
 ## ¿Cómo?
 
 - [Anatomía de un prompt](anatomia.md)
 - [Buenas prácticas](mejoresPracticas.md)
 
-||Claridad|Especificidad|Preparación|
-|-|-|-|-|
-|**Peor**|¿Cómo está el clima?|Escribe una historia|¿Qué es la fotosíntesis?|
-|**Mejor**|¿Cómo está el clima actual en Madrid?|Escribe una historia de misterio ambientada en el siglo XIX en Londres|Soy un estudiante de quinto grado y necesito entender qué es la fotosíntesis para mi clase de ciencias. ¿Puedes explicármelo de una manera que pueda entender fácilmente?|
-
+||Prompt|Mejor|
+|-|-|-|
+Claridad    |¿Cómo está el tiempo?    | ¿Qué tiempo hace ahora en Santander?
+Especificidad|Escribe una historia     | Escribe una historia de misterio ambientada en el siglo XIX en Londres
+Preparación |¿Qué es la fotosíntesis? | Soy un estudiante de quinto grado y necesito entender qué es la fotosíntesis para mi clase de ciencias. ¿Puedes explicármelo de una manera que pueda entender fácilmente?
 
 - [Dimensiones de un ingeniero de software](https://chat.openai.com/share/1ed18324-31ed-4cd5-aaef-db43fde2785b)
