@@ -74,26 +74,18 @@ Contexto|Los objetivos potenciales para esta publicación podrían ser:<br>- Abr
 Entrada|-
 Parámetros|-
 
-|||
+||Escribe un artículo de blog sobre la vida sostenible en el siglo XXI. El artículo debe tener al menos 2500 palabras. Cada punto debe estar claramente indicado con encabezados y los puntos deben fluir lógicamente. El artículo debe estar escrito en un tono amigable, inspirador, usando lenguaje natural y en tono conversacional. Menciona el uso de energía alternativa y energía nuclear. No uses jerga. No uses términos demasiado técnicos. Escribe desde la perspectiva de un ecologista. Este artículo se publicará en Readers Digest. La audiencia del artículo son madres liberales. Escribe para el arquetipo de marca El Amante: forma relaciones sensuales, espirituales y de compañía, y crea momentos íntimos para su audiencia. La escritura debe ser apasionada, sensual e íntima. Utiliza un lenguaje emotivo que promueva el romance, el deseo y la conexión emocional.|
 |-|-|
-Tarea|
-Instrucciones|
-Contexto|
-Entrada|
-Parámetros|
+Tarea|Escribe un artículo de blog sobre la vida sostenible en el siglo XXI.
+Instrucciones|El artículo debe tener al menos 2500 palabras. Cada punto debe estar claramente indicado con encabezados y los puntos deben fluir lógicamente. El artículo debe estar escrito en un tono amigable, inspirador, usando lenguaje natural y en tono conversacional. Menciona el uso de energía alternativa y energía nuclear. No uses jerga. No uses términos demasiado técnicos.
+Contexto|Escribe desde la perspectiva de un ecologista. Este artículo se publicará en Readers Digest. La audiencia del artículo son madres liberales. Escribe para el arquetipo de marca El Amante: forma relaciones sensuales, espirituales y de compañía, y crea momentos íntimos para su audiencia. La escritura debe ser apasionada, sensual e íntima. Utiliza un lenguaje emotivo que promueva el romance, el deseo y la conexión emocional.
+Entrada|-
+Parámetros|-
 
-|||
+||La oscuridad primordial personificando a un dios griego, Erebus vistiendo ropa antigua griega, galaxia con sistema solar como fondo, [iluminación de estudio suave, contraluz, fondo oscuro] --ar 2:3 --upbeta --q 2 --v 4|
 |-|-|
-Tarea|
-Instrucciones|
-Contexto|
-Entrada|
-Parámetros|
-
-|||
-|-|-|
-Tarea|
-Instrucciones|
-Contexto|
-Entrada|
-Parámetros| 
+Tarea|Crear una imagen (implícita)
+Instrucciones|iluminación de estudio suave, contraluz, fondo oscuro
+Contexto|La oscuridad primordial personificando a un dios griego, Erebus vistiendo ropa antigua griega, galaxia con sistema solar como fondo,
+Entrada|-
+Parámetros| --ar 2:3 --upbeta --q 2 --v 4
