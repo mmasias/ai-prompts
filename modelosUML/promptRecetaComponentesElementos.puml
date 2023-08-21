@@ -1,0 +1,31 @@
+
+    Prompt --|> Receta
+
+    Receta o.. Tarea
+    Receta o.. Entrada
+    Receta o.. Instrucciones
+    Receta o.. Parámetros
+    Receta o.. Contexto
+
+    Tarea o.. Tópico
+    Tarea o.. Comando
+    Tarea o.. Acciones
+    Tarea o.. Documento
+
+    Instrucciones o.. Objetivos
+    Instrucciones o.. Estructura
+    Instrucciones o.. Formato
+    Instrucciones o.. Restricciones
+    Instrucciones o.. Ejemplos
+    Instrucciones o.. Guión
+
+    Contexto o.. Rol
+    Contexto o.. Audiencia
+    Contexto o.. Ejemplos
+
+    Entrada o.. Consulta
+    Entrada o.. Imagen
+
+    Parámetros o.. Temperatura
+    Parámetros o.. Tokens
+    Parámetros o.. Probabilidad 
