@@ -1,13 +1,8 @@
 package Componentes {
 
     class Tarea
-
     class Instrucciones
-
     class Contexto
-
-    class Parámetros
-
     class Entrada
-
+    class Parámetros
 }

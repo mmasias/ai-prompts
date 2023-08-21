@@ -2,6 +2,8 @@
 
 ## Componentes
 
+![](/imagenes/modelosUML/componentesPrompt.svg)
+
 ### Tarea
 
 La tarea se refiere a la acción o proceso específico que un modelo de inteligencia artificial (IA) está entrenado para realizar en respuesta a un prompt. Es la forma más simple de un prompt. La tarea es el objetivo al que se está dirigiendo al modelo de IA. Esta tarea puede variar desde responder una pregunta hasta generar contenido creativo, crear una imagen o escribir una historia o componer música. Como se mencionó, las tareas pueden ser implícitas en el modelo y no necesariamente deben ser declaradas.
