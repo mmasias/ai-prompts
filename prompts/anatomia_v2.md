@@ -56,6 +56,30 @@ Tarea|Crea una lista de consejos prácticos para emprendedores aspirantes.
 Instrucciones|Enfatiza la importancia de servir a los demás y causar un impacto positivo.
 Contexto|Escribe para una audiencia de millennials en dificultades interesados en iniciar un negocio.
 Entrada|Convierte tu pasión en un negocio exitoso poniendo siempre las necesidades de los demás primero.
+Parámetros|-
+
+||Crea fórmulas de Google Sheets que copien todas las filas de la hoja1 donde la columna “A” contenga la palabra “iPhone”. |
+|-|-|
+Tarea|Crea una fórmula de Google Sheet.
+Instrucciones|Copia todas las filas de la hoja1 donde la columna “A” contenga la palabra “iPhone”.
+Contexto|-
+Entrada|-
+Parámetros|-
+
+||Propón ideas novedosas para un artículo sobre Ingeniería de Prompts de IA - el trabajo del futuro en un tono emocionante, optimista y esperanzador. Los objetivos potenciales para esta publicación podrían ser:<br>- Abrir los ojos de las personas demostrando que el status quo está equivocado.<br>- Compartir una solución a un problema difícil.<br>- Destilar un tema abrumador en algo accesible.<br>- Contar una historia emocionante y emocional que imparta una lección.<br>- Articular algo en lo que todos están pensando pero nadie está diciendo. Atravesar el ruido.<br>- Identificar tendencias clave sobre un tema.<br>- Luego usarlas para predecir el futuro.<br>- Aportar percepciones originales a un campo a través de la investigación y experimentación.|
+|-|-|
+Tarea|Propón ideas novedosas para un artículo sobre Ingeniería de Prompts de IA - el trabajo del futuro.
+Instrucciones|En un tono emocionante, optimista y esperanzador.
+Contexto|Los objetivos potenciales para esta publicación podrían ser:<br>- Abrir los ojos de las personas demostrando que el status quo está equivocado.<br>- Compartir una solución a un problema difícil.<br>- Destilar un tema abrumador en algo accesible.<br>- Contar una historia emocionante y emocional que imparta una lección.<br>- Articular algo en lo que todos están pensando pero nadie está diciendo. Atravesar el ruido.<br>- Identificar tendencias clave sobre un tema.<br>- Luego usarlas para predecir el futuro.<br>- Aportar percepciones originales a un campo a través de la investigación y experimentación.
+Entrada|-
+Parámetros|-
+
+|||
+|-|-|
+Tarea|
+Instrucciones|
+Contexto|
+Entrada|
 Parámetros|
 
 |||
@@ -66,14 +90,10 @@ Contexto|
 Entrada|
 Parámetros|
 
-
-
-
-
 |||
 |-|-|
 Tarea|
 Instrucciones|
 Contexto|
 Entrada|
-Parámetros|
+Parámetros| 
