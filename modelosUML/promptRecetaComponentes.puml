@@ -1,8 +1,8 @@
 
-    Prompt --|> Receta
+    Prompt -u-|> Receta
 
-    Receta o.. Tarea
-    Receta o.. Entrada
-    Receta o.. Instrucciones
-    Receta o.. Parámetros
-    Receta o.. Contexto
+    Receta o.u. Tarea
+    Receta o.u. Entrada
+    Receta o.u. Instrucciones
+    Receta o.u. Parámetros
+    Receta o.u. Contexto
