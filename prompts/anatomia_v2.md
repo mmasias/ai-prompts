@@ -88,4 +88,4 @@ Tarea|Crear una imagen (implícita)
 Instrucciones|iluminación de estudio suave, contraluz, fondo oscuro
 Contexto|La oscuridad primordial personificando a un dios griego, Erebus vistiendo ropa antigua griega, galaxia con sistema solar como fondo,
 Entrada|-
-Parámetros| --ar 2:3 --upbeta --q 2 --v 4
+[Parámetros](https://docs.midjourney.com/docs/parameter-list)| --ar 2:3 --upbeta --q 2 --v 4
