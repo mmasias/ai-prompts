@@ -1,8 +1,16 @@
+Prompt -u-|> Receta
 
-    Prompt -u-|> Receta
+package Componentes {
+    class Tarea
+    class Entrada
+    class Instrucciones
+    class Parámetros
+    class Entrada
 
     Receta o.u. Tarea
     Receta o.u. Entrada
     Receta o.u. Instrucciones
     Receta o.u. Parámetros
     Receta o.u. Contexto
+}
+
