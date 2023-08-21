@@ -1,5 +1,7 @@
 # Elementos
 
+![](/imagenes/modelosUML/promptRecetaComponentesElementos.svg)
+
 ## Temperatura
 
 Se refiere a un parámetro que controla la aleatoriedad de las respuestas del modelo. Una temperatura alta produce respuestas más variadas, mientras que una temperatura baja produce respuestas más deterministas y centradas.
