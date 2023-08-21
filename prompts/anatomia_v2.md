@@ -49,3 +49,31 @@ Instrucciones|Enfatiza la importancia de la claridad mental y la paz interior pa
 Contexto|Escribe para una audiencia de emprendedores aspirantes y establecidos.
 Entrada|Ser emprendedor se trata de servir.
 Parámetros|-
+
+||Crea una lista de consejos prácticos para emprendedores aspirantes usando la siguiente cita. Enfatiza la importancia de servir a los demás y causar un impacto positivo. Escribe para una audiencia de millennials que están pasando por dificultades y están interesados en iniciar un negocio. Aquí está la cita: Convierte tu pasión en un negocio exitoso poniendo siempre las necesidades de los demás primero.|
+|-|-|
+Tarea|Crea una lista de consejos prácticos para emprendedores aspirantes.
+Instrucciones|Enfatiza la importancia de servir a los demás y causar un impacto positivo.
+Contexto|Escribe para una audiencia de millennials en dificultades interesados en iniciar un negocio.
+Entrada|Convierte tu pasión en un negocio exitoso poniendo siempre las necesidades de los demás primero.
+Parámetros|
+
+|||
+|-|-|
+Tarea|
+Instrucciones|
+Contexto|
+Entrada|
+Parámetros|
+
+
+
+
+
+|||
+|-|-|
+Tarea|
+Instrucciones|
+Contexto|
+Entrada|
+Parámetros|
