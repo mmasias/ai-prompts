@@ -1,8 +1,31 @@
-package Componentes {
 
-    class Tarea
-    class Instrucciones
-    class Contexto
-    class Entrada
-    class Parámetros
-}
+    Prompt -u-|> Receta
+
+    Receta o.u. Tarea
+    Receta o.u. Instrucciones
+    Receta o.u. Contexto
+    Receta o.u. Entrada
+    Receta o.u. Parámetros
+
+    Tarea o.u. Tópico
+    Tarea o.u. Comando
+    Tarea o.u. Acciones
+    Tarea o.u. Documento
+
+    Instrucciones o.u. Objetivos
+    Instrucciones o.u. Estructura
+    Instrucciones o.u. Formato
+    Instrucciones o.u. Restricciones
+    Instrucciones o.u. Ejemplos
+    Instrucciones o.u. Guión
+
+    Contexto o.u. Rol
+    Contexto o.u. Audiencia
+    Contexto o.u. Ejemplos
+
+    Entrada o.u. Consulta
+    Entrada o.u. Imagen
+
+    Parámetros o.u. Temperatura
+    Parámetros o.u. Tokens
+    Parámetros o.u. Probabilidad 
