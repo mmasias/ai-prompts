@@ -2,7 +2,7 @@
 
 ## Componentes
 
-![](/imagenes/modelosUML/componentesPrompt.svg)
+![](/imagenes/modelosUML/promptRecetaComponentes.svg)
 
 ### Tarea
 
