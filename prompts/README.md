@@ -2,7 +2,7 @@
 
 ## ¿Por qué?
 
-|Evolución (natural?* / *lógica?* / esperada? / definitiva?) de los mecanismos de interacción.|
+|Evolución (*natural?* / *lógica?* / *esperada?* / *definitiva?*) de los mecanismos de interacción.|
 |-|
 Los LLMs se entrenan principalmente en grandes conjuntos de datos de texto, por lo que son muy buenos para generar y comprender texto. El habla requeriría entrenamiento adicional con conjuntos de datos de voz.
 Interactuar a través de texto permite una comunicación asíncrona. Los usuarios pueden tomarse su tiempo para escribir prompts y leer respuestas en lugar de tener una conversación en tiempo real.
@@ -13,10 +13,14 @@ Muchas aplicaciones de LLMs como la generación de código, resúmenes y traducc
 
 ## ¿Qué?
 
-| | |
-|-|-|
-Instrucción o solicitud de información que se le da a un modelo de lenguaje, en forma de pregunta o enunciado que inicia la conversación o solicita una respuesta del modelo.<br><br>Por ejemplo, "¿Cuál es la capital de Francia?" o "Escribe un poema sobre la primavera".|![](/imagenes/modelosUML/sesion.svg)
+<div align="center">
 
+|![](/imagenes/modelosUML/sesion.svg)|
+|-|
+Instrucción o solicitud de información que se le da a un modelo de lenguaje, en forma de pregunta o enunciado que inicia la conversación o solicita una respuesta del modelo.
+Por ejemplo, "¿Cuál es la capital de Francia?" o "Escribe un poema sobre la primavera".
+
+</div>
 
 ## ¿Para qué?
 
