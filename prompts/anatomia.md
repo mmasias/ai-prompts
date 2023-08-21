@@ -56,10 +56,9 @@ Imagine que está construyendo una casa (su resultado deseado del modelo AI).
 **Los elementos** serían las especificaciones y detalles de esos materiales: el tipo de concreto para los cimientos, el color y material de las paredes, el tipo de tejas para el techo.
 **La receta** sería el plan arquitectónico que le dice en qué orden y cómo ensamblar esos materiales para construir la casa.
 
-<div align="center">
+| |
+|:-:|
+![](/imagenes/modelosUML/promptRecetaComponentes.svg)
 
-    ![](/imagenes/modelosUML/promptRecetaComponentes.svg)
-
-</div>
 
 En la ingeniería de prompts, esta estructura jerárquica ayuda a descomponer y organizar la creación de prompts de manera que sean efectivos y generen el resultado deseado del modelo AI.
