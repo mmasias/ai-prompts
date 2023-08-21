@@ -5,12 +5,12 @@
 |Evolución (*natural?* / *lógica?* / *esperada?* / *definitiva?*) de los mecanismos de interacción.|
 |-|
 Los LLMs se entrenan principalmente en grandes conjuntos de datos de texto, por lo que son muy buenos para generar y comprender texto. El habla requeriría entrenamiento adicional con conjuntos de datos de voz.
-Interactuar a través de texto permite una comunicación asíncrona. 
-Los usuarios pueden tomarse su tiempo para escribir prompts y leer respuestas en lugar de tener una conversación en tiempo real.
+Interactuar a través de texto permite una **comunicación asíncrona**. 
+Los usuarios pueden **tomarse su tiempo** para escribir prompts y leer respuestas en lugar de tener una conversación en tiempo real.
 El procesamiento de lenguaje natural para texto está más avanzado que para voz. 
 Es más fácil para un LLM analizar correctamente un prompt escrito que uno hablado.
 Los prompts de texto proporcionan un registro claro de la conversación. Las conversaciones habladas son más efímeras.
-Es más fácil detectar y corregir errores en un formato de texto. Los LLMs aún cometen errores que los humanos pueden detectar más fácilmente al leer.
+**Es más fácil detectar y corregir errores** en un formato de texto. Los LLMs aún cometen errores que los humanos pueden detectar más fácilmente al leer.
 Muchas aplicaciones de LLMs como la generación de código, resúmenes y traducciones se prestan mejor al formato de texto.
 
 ## ¿Qué?
@@ -38,5 +38,3 @@ Los prompts se utilizan para interactuar con modelos de lenguaje, solicitar info
 Claridad    |¿Cómo está el tiempo?    | ¿Qué tiempo hace ahora en Santander?
 Especificidad|Escribe una historia     | Escribe una historia de misterio ambientada en el siglo XIX en Londres
 Preparación |¿Qué es la fotosíntesis? | Soy un estudiante de quinto grado y necesito entender qué es la fotosíntesis para mi clase de ciencias. ¿Puedes explicármelo de una manera que pueda entender fácilmente?
-
-- [Dimensiones de un ingeniero de software](https://chat.openai.com/share/1ed18324-31ed-4cd5-aaef-db43fde2785b)
