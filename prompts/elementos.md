@@ -10,14 +10,6 @@
 
 ## Detalle
 
-### Temperatura
-
-Se refiere a un parámetro que controla la aleatoriedad de las respuestas del modelo. Una temperatura alta produce respuestas más variadas, mientras que una temperatura baja produce respuestas más deterministas y centradas.
-
-### Tokens
-
-Segmentos de texto que el modelo reconoce. Un token puede ser tan corto como un carácter o tan largo como una palabra.
-
 ### Rol
 
 Se refiere al papel o función que desempeña el usuario o el modelo en una conversación o tarea. Por ejemplo, el usuario puede asumir el rol de estudiante y el modelo el de tutor.
@@ -73,6 +65,14 @@ Un texto escrito que presenta información o datos sobre un tema específico.
 ### Guión
 
 Un texto que proporciona una narrativa o estructura a seguir, generalmente usado en contextos de representaciones o presentaciones.
+
+### Temperatura
+
+Se refiere a un parámetro que controla la aleatoriedad de las respuestas del modelo. Una temperatura alta produce respuestas más variadas, mientras que una temperatura baja produce respuestas más deterministas y centradas.
+
+### Tokens
+
+Segmentos de texto que el modelo reconoce. Un token puede ser tan corto como un carácter o tan largo como una palabra.
 
 ### Imagen
 
