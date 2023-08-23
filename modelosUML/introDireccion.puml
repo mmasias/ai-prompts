@@ -1,0 +1,12 @@
+Usuario -r-> AI : órdenes
+AI .d..> Respuestas
+Respuestas .u.> Usuario
+
+
+Usuario .d.. Interpretar
+Respuestas .l.. Interpretar
+Interpretar .d.. Aplicar
+
+Aplicar o.. Implicaciones
+Aplicar o.. Responsabilidad
+Aplicar o.. Consecuencias
