@@ -17,6 +17,9 @@
 5 prompts por hora
 1 prompt por 12 minutos
 
+|Teletrabajo|Paradoja de la dirección|
+|-|-|
+![](/imagenes/modelosUML/introTeletrabajo.svg)|![](/imagenes/modelosUML/introDireccion.svg)
 
 - https://techcrunch.com/2023/07/06/robotaxi-haters-in-san-francisco-are-disabling-waymo-cruise-traffic-cones/
 - https://www.enriquedans.com/2023/07/la-conduccion-autonoma-es-ya-una-realidad-que-genera-sus-resistencias.html
