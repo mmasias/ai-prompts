@@ -89,10 +89,8 @@ En algunos contextos, especialmente cuando los modelos se integran con otros sis
 |Tarea|Comando|Quiero que me des 5 puntos principales sobre el siguiente tema. Luego quiero que escribas sobre cada punto.
 ||Tópico|¿Cuáles son algunas formas de superar el síndrome del impostor y sentirme más seguro de mis habilidades?
 |Instrucciones|Formato|Incluye como tema general la importancia de la autoconservación y la tenacidad mental, así como ejemplos agradables de la vida real.
-||Objetivo|
 ||Estructura|Cada punto debe tener sus propios títulos. Los puntos deben fluir de forma lógica. Escribe en un estilo conversacional 1 a 1, entrando en detalle. Para cada punto agrega tu propio conocimiento sobre el tema. Haz que el contenido sea impactante y atractivo utilizando un tono conversacional, usando ejemplos para ilustrar cada punto y adoptando un enfoque narrativo.
 ||Restricciones|No utilices jerga. No menciones nada sobre ti ni tu función.
 ||Objetivo|Escribe a la manera de Les Brown.
 |Contexto|Rol|Escriba desde la perspectiva de un entrenador motivacional que habla individualmente con una persona deprimida y confundida.
 ||Audiencia|Esto será enviado como un mensaje a personas que pueden estar experimentando este síndrome, profesionales de 30 años, con experiencia en el sector pero con dudas razonables sobre su capacidad.
-
