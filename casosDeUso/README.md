@@ -39,6 +39,7 @@
 |Traducción especial II (videojuego)|-|-|-|
 |Resumen & análisis de respuestas|Recibir respuestas, analizar diversos elementos de su contenido|ChatGPT, Google Sheets, [GPT for work](https://gptforwork.com/)|[Hoja de cálculo](https://docs.google.com/spreadsheets/d/10ByjpaajfxlpBmXImmQ-wE1TqPYr9FbFr-FiNEkRTB8/edit?usp=sharing)|
 |Rebranding de sitio web de servicios|[pdeinfo.com](https://claude.ai/chat/99747db0-b56b-4e55-9826-9b80a4598116), 1999|ClaudeAI
+|Viabilidad de una idea & pySimilares|[ChatGPT](https://chat.openai.com/share/52d3f54c-de88-43e4-9deb-228369564c52) <!-- TODO: #9 Modelar Google Wave y ver qué dice -->
 
 ### Y se volvieron obsoletos...
 
@@ -50,3 +51,18 @@
 
 - [Listas de personas](https://docs.google.com/spreadsheets/d/165DnYz3crJugiWnKrc9OLPECBia9Nkx0u22IZqvdOco/edit?usp=sharing) ❗
 - [Esquemas (ASCII, JSON, plantUML)](https://chat.openai.com/share/5ca0aa11-da9b-4640-ba3a-1dee13623e79)
+
+#### Concretas de Negocio
+
+|Fase|Ayuda AI|
+|-|-|
+[Identificar oportunidades](negocio/identificarOportunidades/README.md)|[Tendencias del mercado](negocio/identificarOportunidades/tendenciasMercado.md), información sobre [industrias específicas](negocio/identificarOportunidades/industriasEspecificas.md), [explorar nichos](negocio/identificarOportunidades/explorarNichos.md), [retomar una idea](negocio/identificarOportunidades/retomarIdea.md), [reconducir una idea](negocio/identificarOportunidades/reconducirIdea.md).
+Investigación de mercado|Consejos sobre como realizar encuestas y entrevistas, analizar datos, detectar datos secundarios relevantes
+Estudio de viabilidad|Esquematizar el estudio (aspectos técnicos, financieros y de mercado)
+Plan de negocio|Estructurar un plan de negocio, brindar ejemplos, consejos de presentación
+Búsqueda de financiación|Información sobre modalidades, manera de preparar la información
+Desarrollo de producto|Metodologías de desarrollo, herramientas, mejores prácticas
+Estrategias de marketing y ventas|Consejos sobre estrategias, técnicas de ventas, herramientas de promoción
+Lanzamiento al mercado|Organización de eventos, gestión de relaciones públicas
+Evalución y ajuste|Interpretación del feedback, consejos sobre como mejorar y orientar en función al feedback
+Escalado y crecimiento|Estrategias para escalar el negocio, optimización de operaciones, expansión a nuevos mercados.
