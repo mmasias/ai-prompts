@@ -58,7 +58,7 @@
 |-|-|
 [Identificar oportunidades](negocio/identificarOportunidades/README.md)|[Tendencias del mercado](negocio/identificarOportunidades/tendenciasMercado.md), información sobre [industrias específicas](negocio/identificarOportunidades/industriasEspecificas.md), [explorar nichos](negocio/identificarOportunidades/explorarNichos.md), [retomar una idea](negocio/identificarOportunidades/retomarIdea.md), [reconducir una idea](negocio/identificarOportunidades/reconducirIdea.md).
 [Investigación de mercado](negocio/investigacionMercado/README.md)|Consejos sobre [como realizar encuestas y entrevistas](negocio/investigacionMercado/encuestasEntrevistas.md), [analizar datos](negocio/investigacionMercado/analisisDatos.md), [detectar datos secundarios relevantes](negocio/investigacionMercado/datosSecundarios.md).
-Estudio de viabilidad|Esquematizar el estudio (aspectos técnicos, financieros y de mercado)
+[Estudio de viabilidad](negocio/estudioViabilidad/README.md)|Esquematizar el estudio (aspectos [técnicos](negocio/estudioViabilidad/aspectosTecnicos.md), [financieros](negocio/estudioViabilidad/aspectosFinancieros.md) y de [mercado](negocio/estudioViabilidad/aspectosDeMercado.md)).
 Plan de negocio|Estructurar un plan de negocio, brindar ejemplos, consejos de presentación.
 Búsqueda de financiación|Información sobre modalidades, manera de preparar la información.
 Desarrollo de producto|Metodologías de desarrollo, herramientas, mejores prácticas.
