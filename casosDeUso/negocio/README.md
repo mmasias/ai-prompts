@@ -6,7 +6,7 @@
 [Investigación de mercado](investigacionMercado/README.md)|Consejos sobre [como realizar encuestas y entrevistas](investigacionMercado/encuestasEntrevistas.md), [analizar datos](investigacionMercado/analisisDatos.md), [detectar datos secundarios relevantes](investigacionMercado/datosSecundarios.md).
 [Estudio de viabilidad](estudioViabilidad/README.md)|Esquematizar el estudio (aspectos [técnicos](estudioViabilidad/aspectosTecnicos.md), [financieros](estudioViabilidad/aspectosFinancieros.md) y de [mercado](estudioViabilidad/aspectosDeMercado.md)).
 [Plan de negocio](planDeNegocio/README.md)|[Estructurar un plan de negocio](planDeNegocio/propuestaEstructura.md), brindar [ejemplos](planDeNegocio/ejemplosContenido.md), sugerencias y consejos para la [presentación](planDeNegocio/sugerenciasPresentacion.md).
-Búsqueda de financiación|Información sobre modalidades, manera de preparar la información.
+[Búsqueda de financiación](busquedaFinanciacion/README.md)|[Información sobre modalidades](busquedaFinanciacion/modalidades.md), manera de [preparar la información](busquedaFinanciacion/preparacion.md).
 Desarrollo de producto|Metodologías de desarrollo, herramientas, mejores prácticas.
 Estrategias de marketing y ventas|Consejos sobre estrategias, técnicas de ventas, herramientas de promoción.
 Lanzamiento al mercado|Organización de eventos, gestión de relaciones públicas.
