@@ -31,7 +31,7 @@ Los prompts se utilizan para interactuar con modelos de lenguaje, solicitar info
 ## ¿Cómo?
 
 - [Anatomía de un prompt](anatomia.md)
-- [Mejores prácticas](mejoresPracticas/)
+- [Mejores prácticas](mejoresPracticas/README.md)
 
 ||Prompt|Mejor|
 |-|-|-|
