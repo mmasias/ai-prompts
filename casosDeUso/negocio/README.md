@@ -10,5 +10,5 @@
 [Desarrollo de producto](desarrolloProducto/README.md)|[Metodologías](desarrolloProducto/metodologiasDesarrollo.md) de desarrollo, [herramientas](desarrolloProducto/herramientas.md), [mejores prácticas](desarrolloProducto/mejoresPracticas.md).
 [Estrategias de marketing y ventas](marketingVentas/README.md)|Consejos sobre [estrategias](marketingVentas/estrategias.md), [técnicas de venta](marketingVentas/tecnicasVenta.md), [herramientas de promoción](marketingVentas/herramientasPromocion.md).
 [Lanzamiento al mercado](lanzamiento/README.md)|Ayudar a [planificar el lanzamiento](lanzamiento/planificarLanzamiento.md), ofrecer [estrategias de promoción](lanzamiento/estrategiasPromocion.md) y proporcionar [análisis de las reacciones del mercado](lanzamiento/analizarReacciones.md).
-Evalución y ajuste|Interpretación del feedback, consejos sobre como mejorar y orientar en función al feedback.
+[Evalución y ajuste](evaluacionAjuste/README.md)|[Feedback](evaluacionAjuste/feedback.md), [análisis e interpretación](evaluacionAjuste/analisisInterpretacionFeedback.md) y consejos sobre [como mejorar y orientar](evaluacionAjuste/implementacionAjustes.md) en función al feedback.
 Escalado y crecimiento|Estrategias para escalar el negocio, optimización de operaciones, expansión a nuevos mercados.
