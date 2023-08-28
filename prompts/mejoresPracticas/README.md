@@ -1,6 +1,7 @@
 # Mejores prácticas
 
 > [Ejemplos anteriores/antiguos](../ejemplosAntiguos.md)
+> Basado en el artículo de OpenAI [gpt-best-practices](https://platform.openai.com/docs/guides/gpt-best-practices)
 
 # Instrucciones claras
 
