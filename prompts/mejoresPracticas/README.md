@@ -1,19 +1,20 @@
 # Mejores prácticas
 
-> [Ejemplos anteriores/antiguos](../ejemplosAntiguos.md)
-> Basado en el artículo de OpenAI [gpt-best-practices](https://platform.openai.com/docs/guides/gpt-best-practices)
+> Basado en el artículo de OpenAI [gpt-best-practices](https://platform.openai.com/docs/guides/gpt-best-practices) / [Ejemplos anteriores/antiguos](../ejemplosAntiguos.md)
 
 # Instrucciones claras
 
-Los GPT no pueden leer la mente: Si los resultados son demasiado largos, solicite respuestas breves. Si los resultados son demasiado simples, solicite redacción a nivel de experto. Si no le gusta el formato, explicite el formato que le gustaría ver. Cuanto menos tengan que adivinar los GPT lo que usted quiere, más probabilidades habrá de que lo consiga.
+La precisión en la interacción con los modelos GPT es esencial. Si busca concisión, especifique la longitud deseada de la respuesta. Si busca profundidad, pida una explicación detallada. Proporcione ejemplos para contextualizar sus consultas y no dude en delinear claramente las etapas o pasos si lo que busca es un proceso. 
 
-|Tácticas|
-|-|
-[Incluya detalles en su consulta para obtener respuestas más relevantes.](incluyaDetalles.md)
-[Pídale al modelo que adopte una personalidad.](adoptarPersonalidad.md)
-Utilice delimitadores para indicar claramente distintas partes de la entrada.
-Especificar los pasos necesarios para completar una tarea.
-Proporcione ejemplos.
-Especifique la longitud deseada de la salida.
+Recuerde: los GPT trabajan mejor cuando las instrucciones son claras y específicas. Cuanto más directo y preciso sea al formular su consulta, más acertada y ajustada será la respuesta del modelo.
+
+|Tácticas|En un ejemplo|
+|-|-|
+[Incluya detalles en su consulta para obtener respuestas más relevantes.](incluyaDetalles.md)|En lugar de "¿Cómo puedo incrementar la visibilidad de mi marca?", pregunte "¿Cómo puedo incrementar la visibilidad de mi marca de cosméticos naturales en redes sociales?".
+[Pídale al modelo que adopte una personalidad.](adoptarPersonalidad.md)|En lugar de "Necesito consejos sobre presentaciones", pregunte "Necesito consejos sobre cómo hacer presentaciones para ejecutivos senior".
+[Utilice delimitadores para indicar claramente distintas partes de la entrada.](useDelimitadores.md)|"Explica: a) el concepto de branding, b) su importancia en el mercado actual, y c) ejemplos de marcas exitosas".
+[Especificar los pasos necesarios para completar una tarea.](especificarPasos.md)|En lugar de "¿Cómo puedo implementar una campaña de marketing?", pregunte "¿Cuáles son los pasos detallados para planificar, ejecutar y evaluar una campaña de marketing para un producto nuevo?".
+[Proporcione ejemplos.](proporcioneEjemplos.md)|En lugar de "¿Qué es el branding?", pregunte "¿Qué es el branding? Por ejemplo, cómo Coca-Cola ha construido su marca a lo largo del tiempo".
+[Especifique la longitud deseada de la salida.](expliciteLongitudRespuesta.md)|"Describe las tendencias actuales en publicidad digital en un párrafo apto para incluir en una presentación"
 
 
