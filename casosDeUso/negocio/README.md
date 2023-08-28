@@ -8,7 +8,7 @@
 [Plan de negocio](planDeNegocio/README.md)|[Estructurar un plan de negocio](planDeNegocio/propuestaEstructura.md), brindar [ejemplos](planDeNegocio/ejemplosContenido.md), sugerencias y consejos para la [presentación](planDeNegocio/sugerenciasPresentacion.md).
 [Búsqueda de financiación](busquedaFinanciacion/README.md)|[Información sobre modalidades](busquedaFinanciacion/modalidades.md), manera de [preparar la información](busquedaFinanciacion/preparacion.md).
 [Desarrollo de producto](desarrolloProducto/README.md)|[Metodologías](desarrolloProducto/metodologiasDesarrollo.md) de desarrollo, [herramientas](desarrolloProducto/herramientas.md), [mejores prácticas](desarrolloProducto/mejoresPracticas.md).
-Estrategias de marketing y ventas|Consejos sobre estrategias, técnicas de ventas, herramientas de promoción.
+[Estrategias de marketing y ventas](marketingVentas/README.md)|Consejos sobre [estrategias](marketingVentas/estrategias.md), [técnicas de venta](marketingVentas/tecnicasVenta.md), [herramientas de promoción](marketingVentas/herramientasPromocion.md).
 Lanzamiento al mercado|Organización de eventos, gestión de relaciones públicas.
 Evalución y ajuste|Interpretación del feedback, consejos sobre como mejorar y orientar en función al feedback.
 Escalado y crecimiento|Estrategias para escalar el negocio, optimización de operaciones, expansión a nuevos mercados.
