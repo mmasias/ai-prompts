@@ -36,3 +36,13 @@ En la ingeniería, ya sea de software o de prompts, la modularidad es clave. Des
 [Para aplicaciones de diálogo que requieren conversaciones muy largas, resuma o filtre el diálogo anterior](repasoDeVezEnCuando.md)|[Una conversación larga, con pinceladas de contextualización](https://chat.openai.com/share/b175c472-3421-4be3-b270-aa8df5172557)
 [Resuma documentos extensos por partes y construya un resumen completo de forma recursiva](resumenDeResumen.md)|
 
+## Ayúda(le) a pensar
+
+En la toma de decisiones y el análisis dentro de contextos especializados, es esencial aplicar un enfoque metódico y reflexivo para garantizar resultados óptimos. Por ejemplo, al diseñar una estrategia de marketing para un producto emergente, es fundamental un análisis riguroso y deliberado. Esta metodología cuidadosa no es exclusiva de los seres humanos; también es aplicable a los modelos de lenguaje como GPT. Dirigir a estos modelos hacia un proceso de razonamiento sistemático y solicitarles que reconsideren sus respuestas puede potenciar la precisión de sus contribuciones, especialmente en dominios especializados como el empresarial.
+
+|Tácticas|En un ejemplo|
+|-|-|
+[Indique al modelo que encuentre su propia solución antes de apresurarse a llegar a una conclusión.](piensaGPT.md)|
+[Utilice un monólogo interno o una secuencia de consultas para ocultar el proceso de razonamiento del modelo.](razonaGPT.md)|
+[Pregúntele al modelo si se perdió algo en pasadas anteriores.](repasaGPT.md)|
+
