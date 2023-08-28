@@ -67,7 +67,7 @@ Runway -->
 - [Glass AI](https://glass.health/ai)
 - [Moises](https://moises.ai/)
 - [SCISPACE](https://typeset.io/)
-- [Gamma](https://gamma.app/generate)
+- [Gamma](https://gamma.app/generate) - [Presentación creada con Gamma](https://gamma.app/public/Introduccion-a-la-IA-y-su-estado-actual-s2pfcebzfn8j7xt)
 
 ### Generar modelos 
 
