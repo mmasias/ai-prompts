@@ -1,6 +1,6 @@
 # Mejores prácticas
 
-> Basado en el artículo de OpenAI [gpt-best-practices](https://platform.openai.com/docs/guides/gpt-best-practices) / [Ejemplos anteriores/antiguos](../ejemplosAntiguos.md)
+> Basado en el artículo de OpenAI [gpt-best-practices](https://platform.openai.com/docs/guides/gpt-best-practices) 
 
 # Instrucciones claras
 
@@ -25,4 +25,14 @@ Al interactuar con modelos GPT, es crucial ser conscientes de su capacidad para 
 |-|-|
 [Indique al modelo que responda utilizando un texto de referencia.](usoTextoReferencia.md)|"Basándote en el siguiente artículo sobre tendencias de marketing digital: [texto del artículo], ¿cuáles son los puntos clave destacados?"
 [Indique al modelo que responda con citas de un texto de referencia.](pideReferencias.md)|"Analiza la percepción del público sobre la inteligencia artificial según el siguiente artículo: [texto del artículo]. Asegúrate de incluir citas que respalden tus puntos".
+
+## ¡Divide y vencerás!
+
+En la ingeniería, ya sea de software o de prompts, la modularidad es clave. Desglosar un problema o tarea compleja en componentes más manejables no solo simplifica el proceso sino que también mejora la precisión. Al igual que un sistema complejo se beneficia al ser dividido en módulos, las consultas dirigidas a modelos GPT muestran una mayor eficacia cuando se descomponen y estructuran. Las tareas simplificadas suelen tener menores tasas de error y, al encadenar adecuadamente estas tareas menores, se puede construir un flujo coherente que produzca respuestas más precisas y contextualizadas.
+
+|Tácticas|En un ejemplo|
+|-|-|
+[Utilice la clasificación de intenciones para identificar las instrucciones más relevantes para una consulta de usuario.](clasificacionIntenciones.md)|[📓](https://docs.google.com/spreadsheets/d/1oWpOuF7evbS-DvUj8ba2zpBMItXarUdcsWA51p4AaeA/edit?usp=sharing)
+[Para aplicaciones de diálogo que requieren conversaciones muy largas, resuma o filtre el diálogo anterior](repasoDeVezEnCuando.md)|[Una conversación larga, con pinceladas de contextualización](https://chat.openai.com/share/b175c472-3421-4be3-b270-aa8df5172557)
+[Resuma documentos extensos por partes y construya un resumen completo de forma recursiva](resumenDeResumen.md)|
 
