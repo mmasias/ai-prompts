@@ -1,7 +1,5 @@
 # Mejores prácticas
 
-> Basado en el artículo de OpenAI [gpt-best-practices](https://platform.openai.com/docs/guides/gpt-best-practices) 
-
 # Instrucciones claras
 
 La precisión en la interacción con los modelos GPT es esencial. Si busca concisión, especifique la longitud deseada de la respuesta. Si busca profundidad, pida una explicación detallada. Proporcione ejemplos para contextualizar sus consultas y no dude en delinear claramente las etapas o pasos si lo que busca es un proceso. 
@@ -46,3 +44,6 @@ En la toma de decisiones y el análisis dentro de contextos especializados, es e
 [Utilice un monólogo interno o una secuencia de consultas para ocultar el proceso de razonamiento del modelo.](razonaGPT.md)|
 [Pregúntele al modelo si se perdió algo en pasadas anteriores.](repasaGPT.md)|
 
+## Bibliografía
+
+- Basado y adaptado del artículo de OpenAI [gpt-best-practices](https://platform.openai.com/docs/guides/gpt-best-practices) 
