@@ -12,3 +12,6 @@
 [Lanzamiento al mercado](lanzamiento/README.md)|Ayudar a [planificar el lanzamiento](lanzamiento/planificarLanzamiento.md), ofrecer [estrategias de promoción](lanzamiento/estrategiasPromocion.md) y proporcionar [análisis de las reacciones del mercado](lanzamiento/analizarReacciones.md).
 [Evalución y ajuste](evaluacionAjuste/README.md)|[Feedback](evaluacionAjuste/feedback.md), [análisis e interpretación](evaluacionAjuste/analisisInterpretacionFeedback.md) y consejos sobre [como mejorar y orientar](evaluacionAjuste/implementacionAjustes.md) en función al feedback.
 [Escalado y crecimiento](escaladoCrecimiento/README.md)|Estrategias para [escalar el negocio](escaladoCrecimiento/estrategiasEscalado.md), [optimización de operaciones](escaladoCrecimiento/optimizacionOperaciones.md), [expansión a nuevos mercados](escaladoCrecimiento/expansionNuevosMercados.md).
+
+---
+[Desarrollo](https://chat.openai.com/share/b175c472-3421-4be3-b270-aa8df5172557)
