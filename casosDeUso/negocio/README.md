@@ -7,7 +7,7 @@
 [Estudio de viabilidad](estudioViabilidad/README.md)|Esquematizar el estudio (aspectos [técnicos](estudioViabilidad/aspectosTecnicos.md), [financieros](estudioViabilidad/aspectosFinancieros.md) y de [mercado](estudioViabilidad/aspectosDeMercado.md)).
 [Plan de negocio](planDeNegocio/README.md)|[Estructurar un plan de negocio](planDeNegocio/propuestaEstructura.md), brindar [ejemplos](planDeNegocio/ejemplosContenido.md), sugerencias y consejos para la [presentación](planDeNegocio/sugerenciasPresentacion.md).
 [Búsqueda de financiación](busquedaFinanciacion/README.md)|[Información sobre modalidades](busquedaFinanciacion/modalidades.md), manera de [preparar la información](busquedaFinanciacion/preparacion.md).
-Desarrollo de producto|Metodologías de desarrollo, herramientas, mejores prácticas.
+[Desarrollo de producto](desarrolloProducto/README.md)|[Metodologías](desarrolloProducto/metodologiasDesarrollo.md) de desarrollo, [herramientas](desarrolloProducto/herramientas.md), [mejores prácticas](desarrolloProducto/mejoresPracticas.md).
 Estrategias de marketing y ventas|Consejos sobre estrategias, técnicas de ventas, herramientas de promoción.
 Lanzamiento al mercado|Organización de eventos, gestión de relaciones públicas.
 Evalución y ajuste|Interpretación del feedback, consejos sobre como mejorar y orientar en función al feedback.
