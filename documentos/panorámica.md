@@ -67,12 +67,14 @@ Runway -->
 - [Glass AI](https://glass.health/ai)
 - [Moises](https://moises.ai/)
 - [SCISPACE](https://typeset.io/)
-- [Gamma](https://gamma.app/generate) - [Presentación creada con Gamma](https://gamma.app/public/Introduccion-a-la-IA-y-su-estado-actual-s2pfcebzfn8j7xt)
 
-### Generar modelos 
 
 - [Modelos 3D a partir de fotografías](https://research.nvidia.com/labs/dir/neuralangelo/)
-
+- [Resumir vídeos de youtube](https://eightify.app/)
+- [Creación de presentaciones](https://gamma.app/generate) - [Presentación creada con Gamma](https://gamma.app/public/Introduccion-a-la-IA-y-su-estado-actual-s2pfcebzfn8j7xt)
+- [Human generator](https://generated.photos/human-generator)
+- [Microsoft Designet](https://designer.microsoft.com/)
+- [Durable, generador de sitios web](https://durable.co/)
 
 ## ¿Cómo?
 
