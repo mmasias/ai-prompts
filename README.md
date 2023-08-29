@@ -1,6 +1,6 @@
 # Seminario AI, Prompts, IdP & CdU
 
-> [🗺️](https://docs.google.com/spreadsheets/d/1CMCHoDKnVWJjKiB7Cp6_UR6JxROY0A3XASgdRtyVELc/edit?usp=sharing) | [🎧](https://open.spotify.com/album/2LE9BDji49rYh3p3a3o1KH?si=lGg2uyk4Rl-GRn57bVX9Mg)
+> [🗺️](https://docs.google.com/spreadsheets/d/1CMCHoDKnVWJjKiB7Cp6_UR6JxROY0A3XASgdRtyVELc/edit?usp=sharing) | [🎧](https://open.spotify.com/album/2LE9BDji49rYh3p3a3o1KH?si=lGg2uyk4Rl-GRn57bVX9Mg) |  
 
 ## ¿Por qué?
 
@@ -12,7 +12,8 @@
 
 ## Para qué
 
-Aproximarnos, intentar entender mejor, buscar una aplicación real.
+- Aproximarnos, intentar entender mejor, buscar una aplicación real.
+- Comprender (o al menos intentar entender) [el cambio](documentos/aDiaDeHoy.md)
 <!-- TODO: #1 Extender el para qué de las sesiones @mmasias -->
 
 ## ¿Cómo?
