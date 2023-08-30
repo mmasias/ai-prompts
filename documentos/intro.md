@@ -22,7 +22,7 @@
     </tr>
     <tr>
         <td rowspan="5" align="center">
-            <img src="https://github.com/mmasias/ai-prompts/blob/main/imagenes/bibliaChatGPT.png">
+            <img src="https://github.com/mmasias/ai-prompts/blob/main/imagenes/bibliaChatGPT.png" width="150px">
         </td>
         <td>
         10,000 prompts & comprobados
