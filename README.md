@@ -33,5 +33,6 @@ Al finalizar, se habrán visto un conjunto de casos de uso que se apoyan en la I
 
 ## Bibliografía
 
+- [Documentación OpenAI](https://platform.openai.com/docs/introduction/overview)
 - [Prompt Engineering Institute](https://www.promptengineering.org/learn/)
 - [¿Quién teme al ChatGPT?](https://globernance.org/quien-teme-al-chatgpt/)

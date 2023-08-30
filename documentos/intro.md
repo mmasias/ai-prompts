@@ -8,14 +8,21 @@
 - 💨
 - *Blockchain / Criptodivisas / Coach/Mentor/Psicología / Ciberseguridad / otros...*
 
+<div align="center">
+
+---
+<img src="https://github.com/mmasias/ai-prompts/blob/main/imagenes/bibliaChatGPT.png" width="30%">
+
 |[⛪](https://learn.dariuslukas.academy/the-ultimate-bible/)
 |-|
-|![](/imagenes/bibliaChatGPT.png)|
 10,000 prompts & comprobados
 8 meses x 30 días = 240 días
 41 prompts por día
 5 prompts por hora
 1 prompt por 12 minutos
+
+---
+</div>
 
 |Teletrabajo|Paradoja de la dirección|
 |-|-|
