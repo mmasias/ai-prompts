@@ -6,20 +6,29 @@
 - Reacciones: [Sorpresa, duda, miedo, excepticismo, negación](https://docs.google.com/presentation/d/1UscAlHfjGgg4pPzz_p0V1eX18R74DRlvTtMXsbLVtI0/edit?usp=sharing) / [Duda](https://twitter.com/Culture_Crit/status/1689685381283815435)
 - Ver dónde se inserta
 - 💨
-- *Blockchain / Criptodivisas / Coach/Mentor/Psicología / Ciberseguridad / otros...*
+- *Blockchain / Criptodivisas / Ciberseguridad / otros...*
 
 <div align="center">
 
 ---
-<img src="https://github.com/mmasias/ai-prompts/blob/main/imagenes/bibliaChatGPT.png" width="30%">
 
-|[⛪](https://learn.dariuslukas.academy/the-ultimate-bible/)
-|-|
-10,000 prompts & comprobados
-8 meses x 30 días = 240 días
-41 prompts por día
-5 prompts por hora
-1 prompt por 12 minutos
+<table border=1>
+    <tr>
+    <td colspan="2" align="center"><a href="https://learn.dariuslukas.academy/the-ultimate-bible/">⛪</a></td>
+    </tr>
+    <tr>
+        <td width="50%" rowspan="5">
+            <img src="https://github.com/mmasias/ai-prompts/blob/main/imagenes/bibliaChatGPT.png" width="30%">        
+        </td>
+        <td width="50%">
+        10,000 prompts & comprobados
+        </td>
+    </tr>
+    <tr><td>8 meses x 30 días = 240 días</td></tr>
+    <tr><td>41 prompts por día</td></tr>
+    <tr><td>5 prompts por hora</td></tr>
+    <tr><td>1 prompt por 12 minutos</td></tr>
+</table>
 
 ---
 </div>
