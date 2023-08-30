@@ -4,11 +4,15 @@
 
 ![](/imagenes/modelosUML/promptRecetaComponentes.svg)
 
-### Tarea
+### Contexto
 
-La tarea se refiere a la acción o proceso específico que un modelo de inteligencia artificial (IA) está entrenado para realizar en respuesta a un prompt. Es la forma más simple de un prompt. La tarea es el objetivo al que se está dirigiendo al modelo de IA. Esta tarea puede variar desde responder una pregunta hasta generar contenido creativo, crear una imagen o escribir una historia o componer música. Como se mencionó, las tareas pueden ser implícitas en el modelo y no necesariamente deben ser declaradas.
+Mientras que las instrucciones son pasos, acciones específicas o atributos de la salida que deben ser tomados para completar la tarea, el contexto se refiere a la información o situación de fondo que rodea una tarea. Proporciona al modelo de IA información adicional sobre la tarea y le ayuda a entender la situación y los objetivos de la tarea. El contexto puede verse como guías y no como reglas estrictas.
 
-> Se puede pensar en la tarea como la salida + tema. Ej. "escribe una publicación en redes sociales sobre emprendimiento".
+El contexto establece el escenario para el sistema de IA y proporciona información que le ayuda a comprender lo que buscas. Esto puede presentarse en forma de ejemplos, imágenes o semillas que le dan a la IA una mejor idea de la respuesta que esperas.
+
+> Se puede ver el contexto como una  guía abierta a la interpretación por parte de la IA. Por ejemplo, "escribe combinando los estilos de Barack Obama y Steve Jobs".
+
+Dependiendo del modelo de IA y de la tarea en cuestión, puede no ser necesario que un prompt posea explícitamente cada componente. De hecho, algunos pueden ser opcionales, aunque consideremos una buena práctica incluir todos. Aquí es donde, dependiendo del modelo o sistema de IA, el ingeniero puede aplicar su criterio al momento de valorar la categorización de los componentes y elementos en primarios y secundarios.
 
 ### Instrucciones
 
@@ -20,15 +24,15 @@ Por ejemplo, si la tarea es escribir un poema, las instrucciones podrían especi
 
 > Se pueden ver las instrucciones como reglas; Ej. "el poema debe ser escrito en primera persona. Debe tener al menos 500 palabras."
 
-### Contexto
+### Tarea
 
-Mientras que las instrucciones son pasos, acciones específicas o atributos de la salida que deben ser tomados para completar la tarea, el contexto se refiere a la información o situación de fondo que rodea una tarea. Proporciona al modelo de IA información adicional sobre la tarea y le ayuda a entender la situación y los objetivos de la tarea. El contexto puede verse como guías y no como reglas estrictas.
+La tarea se refiere a la acción o proceso específico que un modelo de inteligencia artificial (IA) está entrenado para realizar en respuesta a un prompt. Es la forma más simple de un prompt. La tarea es el objetivo al que se está dirigiendo al modelo de IA. Esta tarea puede variar desde responder una pregunta hasta generar contenido creativo, crear una imagen o escribir una historia o componer música. Como se mencionó, las tareas pueden ser implícitas en el modelo y no necesariamente deben ser declaradas.
 
-El contexto establece el escenario para el sistema de IA y proporciona información que le ayuda a comprender lo que buscas. Esto puede presentarse en forma de ejemplos, imágenes o semillas que le dan a la IA una mejor idea de la respuesta que esperas.
+> Se puede pensar en la tarea como la salida + tema. Ej. "escribe una publicación en redes sociales sobre emprendimiento".
 
-> Se puede ver el contexto como una  guía abierta a la interpretación por parte de la IA. Por ejemplo, "escribe combinando los estilos de Barack Obama y Steve Jobs".
+### Entrada
 
-Dependiendo del modelo de IA y de la tarea en cuestión, puede no ser necesario que un prompt posea explícitamente cada componente. De hecho, algunos pueden ser opcionales, aunque consideremos una buena práctica incluir todos. Aquí es donde, dependiendo del modelo o sistema de IA, el ingeniero puede aplicar su criterio al momento de valorar la categorización de los componentes y elementos en primarios y secundarios.
+Esto es particularmente importante cuando hay una materia específica para transformación. Las entradas pueden o no ser requeridas para la salida prevista. Las entradas pueden incluir imágenes para editar o sobre las que construir, como en "inpainting" y "outpainting", por ejemplo, en el arte generativo y modelos de difusión, o puede ser diversas cantidades de texto o archivos de texto en el caso de LLM.
 
 ### Parámetros
 
@@ -36,56 +40,52 @@ Son elementos o variables específicas que se incluyen en el prompt mismo o se e
 
 Los parámetros pueden variar desde configuraciones simples de temperatura y probabilidad hasta configuraciones más complejas específicas para cada modelo de IA. Hay que tener en cuenta que los parámetros y configuraciones disponibles pueden variar enormemente entre sistemas de IA, por lo que es importante familiarizarse y experimentar para encontrar la combinación correcta. En algunos modelos de IA, los parámetros pueden usarse para definir instrucciones establecidas, como el parámetro "--no" en MidJourney.
 
-### Entrada
-
-Esto es particularmente importante cuando hay una materia específica para transformación. Las entradas pueden o no ser requeridas para la salida prevista. Las entradas pueden incluir imágenes para editar o sobre las que construir, como en "inpainting" y "outpainting", por ejemplo, en el arte generativo y modelos de difusión, o puede ser diversas cantidades de texto o archivos de texto en el caso de LLM.
-
 ## Ejemplos
 
 ||Utiliza la siguiente idea para escribir un artículo motivacional sobre la atención plena (mindfulness) para emprendedores. Enfatiza la importancia de la claridad mental y la paz interior para el éxito en los negocios. Aquí está la idea: ser emprendedor se trata de servir.|
 |-|-|
-Tarea|Utiliza las siguientes ideas para escribir un artículo motivacional sobre la atención plena para emprendedores.
-Instrucciones|Enfatiza la importancia de la claridad mental y la paz interior para el éxito en los negocios.
 Contexto|Escribe para una audiencia de emprendedores aspirantes y establecidos.
+Instrucciones|Enfatiza la importancia de la claridad mental y la paz interior para el éxito en los negocios.
+Tarea|Utiliza las siguientes ideas para escribir un artículo motivacional sobre la atención plena para emprendedores.
 Entrada|Ser emprendedor se trata de servir.
 Parámetros|-
 
 ||Crea una lista de consejos prácticos para emprendedores aspirantes usando la siguiente cita. Enfatiza la importancia de servir a los demás y causar un impacto positivo. Escribe para una audiencia de millennials que están pasando por dificultades y están interesados en iniciar un negocio. Aquí está la cita: Convierte tu pasión en un negocio exitoso poniendo siempre las necesidades de los demás primero.|
 |-|-|
-Tarea|Crea una lista de consejos prácticos para emprendedores aspirantes.
-Instrucciones|Enfatiza la importancia de servir a los demás y causar un impacto positivo.
 Contexto|Escribe para una audiencia de millennials en dificultades interesados en iniciar un negocio.
+Instrucciones|Enfatiza la importancia de servir a los demás y causar un impacto positivo.
+Tarea|Crea una lista de consejos prácticos para emprendedores aspirantes.
 Entrada|Convierte tu pasión en un negocio exitoso poniendo siempre las necesidades de los demás primero.
 Parámetros|-
 
 ||Crea fórmulas de Google Sheets que copien todas las filas de la hoja1 donde la columna “A” contenga la palabra “iPhone”. |
 |-|-|
-Tarea|Crea una fórmula de Google Sheet.
-Instrucciones|Copia todas las filas de la hoja1 donde la columna “A” contenga la palabra “iPhone”.
 Contexto|-
+Instrucciones|Copia todas las filas de la hoja1 donde la columna “A” contenga la palabra “iPhone”.
+Tarea|Crea una fórmula de Google Sheet.
 Entrada|-
 Parámetros|-
 
 ||Propón ideas novedosas para un artículo sobre Ingeniería de Prompts de IA - el trabajo del futuro en un tono emocionante, optimista y esperanzador. Los objetivos potenciales para esta publicación podrían ser:<br>- Abrir los ojos de las personas demostrando que el status quo está equivocado.<br>- Compartir una solución a un problema difícil.<br>- Destilar un tema abrumador en algo accesible.<br>- Contar una historia emocionante y emocional que imparta una lección.<br>- Articular algo en lo que todos están pensando pero nadie está diciendo. Atravesar el ruido.<br>- Identificar tendencias clave sobre un tema.<br>- Luego usarlas para predecir el futuro.<br>- Aportar percepciones originales a un campo a través de la investigación y experimentación.|
 |-|-|
-Tarea|Propón ideas novedosas para un artículo sobre Ingeniería de Prompts de IA - el trabajo del futuro.
-Instrucciones|En un tono emocionante, optimista y esperanzador.
 Contexto|Los objetivos potenciales para esta publicación podrían ser:<br>- Abrir los ojos de las personas demostrando que el status quo está equivocado.<br>- Compartir una solución a un problema difícil.<br>- Destilar un tema abrumador en algo accesible.<br>- Contar una historia emocionante y emocional que imparta una lección.<br>- Articular algo en lo que todos están pensando pero nadie está diciendo. Atravesar el ruido.<br>- Identificar tendencias clave sobre un tema.<br>- Luego usarlas para predecir el futuro.<br>- Aportar percepciones originales a un campo a través de la investigación y experimentación.
+Instrucciones|En un tono emocionante, optimista y esperanzador.
+Tarea|Propón ideas novedosas para un artículo sobre Ingeniería de Prompts de IA - el trabajo del futuro.
 Entrada|-
 Parámetros|-
 
 ||Escribe un artículo de blog sobre la vida sostenible en el siglo XXI. El artículo debe tener al menos 2500 palabras. Cada punto debe estar claramente indicado con encabezados y los puntos deben fluir lógicamente. El artículo debe estar escrito en un tono amigable, inspirador, usando lenguaje natural y en tono conversacional. Menciona el uso de energía alternativa y energía nuclear. No uses jerga. No uses términos demasiado técnicos. Escribe desde la perspectiva de un ecologista. Este artículo se publicará en Readers Digest. La audiencia del artículo son madres liberales. Escribe para el arquetipo de marca El Amante: forma relaciones sensuales, espirituales y de compañía, y crea momentos íntimos para su audiencia. La escritura debe ser apasionada, sensual e íntima. Utiliza un lenguaje emotivo que promueva el romance, el deseo y la conexión emocional.|
 |-|-|
-Tarea|Escribe un artículo de blog sobre la vida sostenible en el siglo XXI.
-Instrucciones|El artículo debe tener al menos 2500 palabras. Cada punto debe estar claramente indicado con encabezados y los puntos deben fluir lógicamente. El artículo debe estar escrito en un tono amigable, inspirador, usando lenguaje natural y en tono conversacional. Menciona el uso de energía alternativa y energía nuclear. No uses jerga. No uses términos demasiado técnicos.
 Contexto|Escribe desde la perspectiva de un ecologista. Este artículo se publicará en Readers Digest. La audiencia del artículo son madres liberales. Escribe para el arquetipo de marca El Amante: forma relaciones sensuales, espirituales y de compañía, y crea momentos íntimos para su audiencia. La escritura debe ser apasionada, sensual e íntima. Utiliza un lenguaje emotivo que promueva el romance, el deseo y la conexión emocional.
+Instrucciones|El artículo debe tener al menos 2500 palabras. Cada punto debe estar claramente indicado con encabezados y los puntos deben fluir lógicamente. El artículo debe estar escrito en un tono amigable, inspirador, usando lenguaje natural y en tono conversacional. Menciona el uso de energía alternativa y energía nuclear. No uses jerga. No uses términos demasiado técnicos.
+Tarea|Escribe un artículo de blog sobre la vida sostenible en el siglo XXI.
 Entrada|-
 Parámetros|-
 
 ||La oscuridad primordial personificando a un dios griego, Erebus vistiendo ropa antigua griega, galaxia con sistema solar como fondo, [iluminación de estudio suave, contraluz, fondo oscuro] --ar 2:3 --upbeta --q 2 --v 4|
 |-|-|
-Tarea|Crear una imagen (implícita)
-Instrucciones|iluminación de estudio suave, contraluz, fondo oscuro
 Contexto|La oscuridad primordial personificando a un dios griego, Erebus vistiendo ropa antigua griega, galaxia con sistema solar como fondo,
+Instrucciones|iluminación de estudio suave, contraluz, fondo oscuro
+Tarea|Crear una imagen (implícita)
 Entrada|-
 [Parámetros](https://docs.midjourney.com/docs/parameter-list)| --ar 2:3 --upbeta --q 2 --v 4
