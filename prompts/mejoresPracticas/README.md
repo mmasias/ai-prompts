@@ -30,7 +30,7 @@ En la ingeniería, ya sea de software o de prompts, la modularidad es clave. Des
 
 |Tácticas|En un ejemplo|
 |-|-|
-[Utilice la clasificación de intenciones para identificar las instrucciones más relevantes para una consulta de usuario.](clasificacionIntenciones.md)|[📓](https://chat.openai.com/share/77cb68d8-b28e-4c75-8428-5188e4ca0200) [📓++](https://docs.google.com/spreadsheets/d/1oWpOuF7evbS-DvUj8ba2zpBMItXarUdcsWA51p4AaeA/edit?usp=sharing)
+[Utilice la clasificación de intenciones para identificar las instrucciones más relevantes para una consulta de usuario.](clasificacionIntenciones.md)|[📓](https://chat.openai.com/share/4d93a838-8197-484e-8d19-59a2e14426ec)
 [Para aplicaciones de diálogo que requieren conversaciones muy largas, resuma o filtre el diálogo anterior](repasoDeVezEnCuando.md)|[Una conversación larga, con pinceladas de contextualización](https://chat.openai.com/share/b175c472-3421-4be3-b270-aa8df5172557)
 [Resuma documentos extensos por partes y construya un resumen completo de forma recursiva](resumenDeResumen.md)|
 

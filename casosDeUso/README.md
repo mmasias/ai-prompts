@@ -37,6 +37,7 @@
 |-|-|-|-|
 |Traducción especial|-|-|[Hola mundo](https://chat.openai.com/share/262d6424-1b0d-4c40-a348-22c414089fcf)|
 |Traducción especial II (videojuego)|-|-|-|
+|Clasificación de preguntas (Y respuesta acorde)||[Hoja de cálculo](https://docs.google.com/spreadsheets/d/1oWpOuF7evbS-DvUj8ba2zpBMItXarUdcsWA51p4AaeA/edit?usp=sharing)|
 |Resumen & análisis de respuestas|Recibir respuestas, analizar diversos elementos de su contenido|ChatGPT, Google Sheets, [GPT for work](https://gptforwork.com/)|[Hoja de cálculo](https://docs.google.com/spreadsheets/d/10ByjpaajfxlpBmXImmQ-wE1TqPYr9FbFr-FiNEkRTB8/edit?usp=sharing)|
 |Rebranding de sitio web de servicios|[pdeinfo.com](https://claude.ai/chat/99747db0-b56b-4e55-9826-9b80a4598116), 1999|ClaudeAI
 |Viabilidad de una idea & pySimilares|[ChatGPT](https://chat.openai.com/share/52d3f54c-de88-43e4-9deb-228369564c52) <!-- TODO: #9 Modelar Google Wave y ver qué dice -->
