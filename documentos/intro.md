@@ -12,7 +12,7 @@
 
 ---
 
-<table width="50%">
+<table>
     <tr>
     <td colspan="2" align="center"><a href="https://learn.dariuslukas.academy/the-ultimate-bible/">⛪</a></td>
     </tr>
