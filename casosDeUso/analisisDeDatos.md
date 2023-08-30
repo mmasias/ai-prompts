@@ -14,7 +14,9 @@
 
 ## ¿Cómo?
 
-[Caso de uso resuelto con Claude](https://claude.ai/chat/939c89f2-806c-46d0-8f83-261e880aaeec)
+|Claude|ChatGPT|
+|-|-|
+[📈](https://claude.ai/chat/939c89f2-806c-46d0-8f83-261e880aaeec)|[📈](https://chat.openai.com/share/e91a8a36-72c7-4d9e-9222-984ebae2b7bb)
 
 |||
 |-|-|
