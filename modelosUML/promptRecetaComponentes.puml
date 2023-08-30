@@ -5,15 +5,9 @@ hide stereotype
 Prompt -u-|> Receta
 
 package Componentes {
-    class Tarea
-    class Entrada
-    class Instrucciones
-    class Parámetros
-    class Entrada
-
-    Receta o.u. Contexto
-    Receta o.u. Instrucciones
     Receta o.u. Tarea
+    Receta o.u. Instrucciones
+    Receta o.u. Contexto
     Receta o.u. Entrada
     Receta o.u. Parámetros
 }
