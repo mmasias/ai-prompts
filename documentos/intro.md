@@ -33,4 +33,12 @@
 
 ## Bibliografías & Videografía
 
-- [Prótesis tecnológicas en la era digital](https://www.youtube.com/watch?v=L1_Y-CkBIvU) y referencia a los 4 ismos del mundo moderno: inmediatismo, fragmentarismo, superficialisto y facilismo.
+- [Prótesis tecnológicas en la era digital](https://www.youtube.com/watch?v=L1_Y-CkBIvU) y referencia a los 4 ismos del mundo moderno:
+
+| |
+|-|
+Inmediatismo
+Fragmentarismo
+Superficialisto
+Facilismo
+

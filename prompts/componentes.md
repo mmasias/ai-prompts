@@ -30,15 +30,15 @@ El contexto establece el escenario para el sistema de IA y proporciona informaci
 
 Dependiendo del modelo de IA y de la tarea en cuestión, puede no ser necesario que un prompt posea explícitamente cada componente. De hecho, algunos pueden ser opcionales, aunque consideremos una buena práctica incluir todos. Aquí es donde, dependiendo del modelo o sistema de IA, el ingeniero puede aplicar su criterio al momento de valorar la categorización de los componentes y elementos en primarios y secundarios.
 
+### Entrada
+
+Esto es particularmente importante cuando hay una materia específica para transformación. Las entradas pueden o no ser requeridas para la salida prevista. Las entradas pueden incluir imágenes para editar o sobre las que construir, como en "inpainting" y "outpainting", por ejemplo, en el arte generativo y modelos de difusión, o puede ser diversas cantidades de texto o archivos de texto en el caso de LLM.
+
 ### Parámetros
 
 Son elementos o variables específicas que se incluyen en el prompt mismo o se establecen previamente, gobernando o afectando directamente la salida del modelo de IA. Se trata generalmente de meta-atributos o configuraciones que probablemente no se pueden establecer de manera directa o con un lenguaje claro en el prompt.
 
 Los parámetros pueden variar desde configuraciones simples de temperatura y probabilidad hasta configuraciones más complejas específicas para cada modelo de IA. Hay que tener en cuenta que los parámetros y configuraciones disponibles pueden variar enormemente entre sistemas de IA, por lo que es importante familiarizarse y experimentar para encontrar la combinación correcta. En algunos modelos de IA, los parámetros pueden usarse para definir instrucciones establecidas, como el parámetro "--no" en MidJourney.
-
-### Entrada
-
-Esto es particularmente importante cuando hay una materia específica para transformación. Las entradas pueden o no ser requeridas para la salida prevista. Las entradas pueden incluir imágenes para editar o sobre las que construir, como en "inpainting" y "outpainting", por ejemplo, en el arte generativo y modelos de difusión, o puede ser diversas cantidades de texto o archivos de texto en el caso de LLM.
 
 ## Ejemplos
 

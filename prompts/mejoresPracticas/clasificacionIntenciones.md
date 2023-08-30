@@ -23,6 +23,7 @@ Es un proceso mediante el cual se determina el propósito principal o el objetiv
 Analice la consulta del usuario|Antes de pasar directamente a una respuesta, tómese un momento para identificar cuál es el núcleo de la pregunta o cuál es la principal intención detrás de ella.
 Categorice la intención|Una vez identificada la intención, clasifíquela en una categoría específica, como 'información', 'tutorial', 'opinión', etc.
 Dirija la consulta de acuerdo a la intención identificada|Con la intención clara y categorizada, formule o ajuste la pregunta de manera que se alinee con esa categoría y proporcione una respuesta adecuada.
-Ejemplo|[Preguntas categorizadas y respuestas en función a la categoría elegida](https://docs.google.com/spreadsheets/d/1oWpOuF7evbS-DvUj8ba2zpBMItXarUdcsWA51p4AaeA/edit?usp=sharing)
+Ejemplo|[Preguntas categorizadas en función a la categoría elegida](https://chat.openai.com/share/4d93a838-8197-484e-8d19-59a2e14426ec)
 
 Utilizar la clasificación de intenciones facilita una comprensión más profunda de las consultas de los usuarios y permite generar respuestas que satisfacen de manera más efectiva sus necesidades y expectativas.
+

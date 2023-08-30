@@ -60,15 +60,14 @@ Runway -->
 
 #### Generar vídeo
 
+- XYZw <!-- TODO: #10 Prompt to Video -- >
 
-### Verticales
+#### Verticales
 
-- [Jano](https://www.youtube.com/watch?v=fhoKnB6vwWg)
-- [Glass AI](https://glass.health/ai)
-- [Moises](https://moises.ai/)
-- [SCISPACE](https://typeset.io/)
-
-
+- Atención telefónica: [Jano](https://www.youtube.com/watch?v=fhoKnB6vwWg)
+- Salud [Glass AI](https://glass.health/ai)
+- Música & Composición [Moises](https://moises.ai/)
+- Papers académicos [SCISPACE](https://typeset.io/)
 - [Modelos 3D a partir de fotografías](https://research.nvidia.com/labs/dir/neuralangelo/)
 - [Resumir vídeos de youtube](https://eightify.app/)
 - [Creación de presentaciones](https://gamma.app/generate) - [Presentación creada con Gamma](https://gamma.app/public/Introduccion-a-la-IA-y-su-estado-actual-s2pfcebzfn8j7xt)
