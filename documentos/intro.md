@@ -14,11 +14,15 @@
 
 <table>
     <tr>
-    <td colspan="2" align="center"><a href="https://learn.dariuslukas.academy/the-ultimate-bible/">⛪</a></td>
+        <td colspan="2" align="center">
+            <a href="https://learn.dariuslukas.academy/the-ultimate-bible/">
+                ⛪
+            </a>
+        </td>
     </tr>
     <tr>
         <td rowspan="5" align="center">
-            <img src="https://github.com/mmasias/ai-prompts/blob/main/imagenes/bibliaChatGPT.png" width="30%">        
+            <img src="https://github.com/mmasias/ai-prompts/blob/main/imagenes/bibliaChatGPT.png">
         </td>
         <td>
         10,000 prompts & comprobados
