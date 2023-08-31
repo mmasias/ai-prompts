@@ -8,7 +8,7 @@ Los modelos de lenguaje de gran escala no tienen una "memoria" en el sentido tra
 
 La "Ventana de contexto" es un fragmento de texto que incluye las interacciones más recientes en una conversación con el modelo. Este fragmento es lo que el modelo utiliza para generar respuestas. 
 
-En el caso de GPT-3 y GPT-4, la ventana de contexto tiene un límite de tokens, que son las unidades básicas de texto que el modelo puede entender.
+En el caso de GPT-3 y GPT-4, [la ventana de contexto tiene un límite de tokens](https://platform.openai.com/docs/models/gpt-3-5), que son las unidades básicas de texto que el modelo puede entender.
 
 ||Ventana de contexto (*en tokens*)|
 |-|:-:|
@@ -39,8 +39,9 @@ Un token en GPT-3 o GPT-4 puede ser tan pequeño como un solo carácter o tan gr
 Entonces, los tokens mencionados anteriormente equivaldrían, aproximadamente a:
 
 ||4096<br>GPT-3.5|8192<br>GPT-4|32768<br>GPT-4|
-|-|-|-|-|
+|-|:-:|:-:|:-:|
 Páginas de texto en Word<br>*(con tamaño de fuente estándar y márgenes normales)*|8-10|16-20|65-80
 Palabras|3500-4000|7000-8000|28000-32000
 Tweets<br>*considerando que un tweet tiene un límite de 280 caracteres*|15-20|30-40|120-160
-
+[📁](https://drive.google.com/drive/folders/1sHecgUKJyLfwhFBehn15R5bIXQTJ_sgs?usp=sharing) ***Pruebas de stress***|[😵](https://chat.openai.com/share/6a42b7fd-59b4-475c-a818-af69c0fc5c61) <br/> [😵😵](https://chat.openai.com/share/e43be7f4-3e87-4ddd-800d-7606996eb203) <br/> [😵😵😵](https://chat.openai.com/share/4396fda0-fe7f-43fc-8a43-28dc9e9d7d21) <br/> [😵😵😵😵](https://chat.openai.com/share/35492bb2-4252-4ab3-880c-b8792386ac51)|[😵](https://chat.openai.com/share/b5fbcb0a-f57e-472f-99c6-8b831fbfb870)<br><br><br>[😵😵😵😵](https://chat.openai.com/share/88efa50b-4c05-40b0-9c83-da7d6f477650)
+|||¿*consciente* de limitaciones?

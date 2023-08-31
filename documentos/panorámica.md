@@ -45,6 +45,7 @@ Runway -->
 - [Bard](https://bard.google.com/)
 - [Perplexity](https://www.perplexity.ai/)
 - [Claude](https://claude.ai/chats)
+- Ernie
 
 #### Generar imágenes
 
@@ -53,6 +54,8 @@ Runway -->
 - Stable Diffussion
 - BlueWillow
 - [VisualChatGPT](https://stablediffusionweb.com/Visual-ChatGPT#demo)
+- Ideogramas: [Ideogram.ai](https://ideogram.ai/)
+
 
 #### Generar música
 
