@@ -78,6 +78,11 @@ Runway -->
 - [Microsoft Designet](https://designer.microsoft.com/)
 - [Durable, generador de sitios web](https://durable.co/)
 
+#### Integraciones
+
+ - https://app.integrately.com/
+ - https://zapier.com/
+
 ## ¿Cómo?
 
 [Prompts](/prompts/README.md)
