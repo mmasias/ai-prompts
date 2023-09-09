@@ -1,4 +1,4 @@
-# El Patrón de Persona
+# El Patrón **Persona**
 
 ## Intención y Contexto
 
