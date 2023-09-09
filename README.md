@@ -27,6 +27,7 @@
 
 - [Prompts](prompts/README.md) 
 - [Ingenieria de Prompts](ingenieriaDePrompts/README.md) 
+- [Patrones](ingenieriaDePrompts/patrones/README.md)
 - [Taller a.k.a. CdU](casosDeUso/README.md)
 - [Comunidad](comunidad.md)
 
@@ -34,6 +35,9 @@ Al finalizar, se habrán visto un conjunto de casos de uso que se apoyan en la I
 
 ## Bibliografía
 
+- [¿Quién teme al ChatGPT?](https://globernance.org/quien-teme-al-chatgpt/)
 - [Documentación OpenAI](https://platform.openai.com/docs/introduction/overview)
 - [Prompt Engineering Institute](https://www.promptengineering.org/learn/)
-- [¿Quién teme al ChatGPT?](https://globernance.org/quien-teme-al-chatgpt/)
+- [Learn prompting](https://learnprompting.org/)
+- [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/abs/2302.11382)
+- [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
