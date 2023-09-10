@@ -1,4 +1,4 @@
-# El Patrón de Automatización de Salida
+# Patrón Automatización de Salida
 
 ## Intención y Contexto
 
