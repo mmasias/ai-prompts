@@ -1,4 +1,4 @@
-# Patrón de Enfoques Alternativos
+# Patrón Enfoques Alternativos
 
 ## Intención y Contexto
 
