@@ -1,5 +1,7 @@
 # Patrón de Refinamiento de Preguntas
 
+[💬](https://chat.openai.com/share/1b68594e-ec33-4b76-a49e-cfadbad74243)
+
 ## Intención y Contexto
 
 Este patrón involucra al LLM en el proceso de ingeniería de prompts. La intención de este patrón es asegurar que el LLM conversacional siempre sugiera preguntas potencialmente mejores o más refinadas de las que el usuario podría hacer en lugar de su pregunta original. Usando este patrón, el LLM puede ayudar al usuario a encontrar la pregunta correcta para obtener una respuesta precisa. Además, el LLM puede ayudar al usuario a encontrar la información o lograr su objetivo en menos interacciones que si el usuario empleara indicativos por ensayo y error.

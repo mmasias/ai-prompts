@@ -28,7 +28,7 @@ La primera declaración "Me gustaría lograr X" enfoca al LLM en el objetivo gen
 
 Un ejemplo de uso de este patrón en el contexto de implementar una aplicación en la nube se muestra a continuación:
 
-> "Estoy tratando de implementar una aplicación en la nube. Sé que necesito instalar las dependencias necesarias en una máquina virtual para mi aplicación. Sé que necesito registrarme en una cuenta de AWS. Por favor, proporcione una secuencia completa de pasos. Complete los pasos que faltan. Identifique los pasos innecesarios."
+> "Estoy tratando de implementar una aplicación en la nube. Sé que necesito instalar las dependencias necesarias en una máquina virtual para mi aplicación. Sé que necesito registrarme en una cuenta de AWS. Por favor, proporciona una secuencia completa de pasos. Completa los pasos que faltan e identifica los pasos innecesarios."
 
 Dependiendo del caso de uso y las restricciones, "instalar las dependencias necesarias en una máquina virtual" puede ser un paso innecesario. Por ejemplo, si la aplicación ya está empaquetada en un contenedor Docker, el contenedor podría implementarse directamente en el Servicio AWS Fargate, que no requiere ninguna administración de las máquinas virtuales subyacentes. La inclusión del lenguaje "identificar pasos innecesarios" hará que el LLM señale este problema y omita los pasos de la receta final.
 

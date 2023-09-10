@@ -1,5 +1,7 @@
 # El Patrón **Persona**
 
+[💬](https://chat.openai.com/share/08e8335b-375d-46d3-bb2c-685cc2614fb3)
+
 ## Intención y Contexto
 
 En muchos casos, los usuarios desean que la salida del LLM siempre adopte un punto de vista o perspectiva específico. Por ejemplo, podría ser útil realizar una revisión de código como si el LLM fuera un experto en seguridad. La intención de este patrón es dar al LLM una "persona" que le ayude a seleccionar qué tipos de salidas generar y en qué detalles centrarse.
