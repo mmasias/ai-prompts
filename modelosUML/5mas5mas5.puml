@@ -1,0 +1,23 @@
+class 5Primeros{
+Escopeta de feria
+- lo acaban de pulir
+- alguien lo aplica dodne no debe
+- facciones que pelean por la autoria
+}
+
+
+class 5Siguientes{
+Acaba un poco el ruido
+- Se estudia
+- Se contraestudia
+- Tesis Antitesis Sintesis
+}
+
+class 5Posteriores{
+- Se asienta
+- Se conoce lo valido
+- Se estandariza
+}
+
+5Primeros-r->5Siguientes
+5Siguientes-r->5Posteriores
