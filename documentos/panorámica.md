@@ -83,6 +83,9 @@ Runway -->
  - https://app.integrately.com/
  - https://zapier.com/
 
+#### Plugins
+
+ - [GMail](https://www.aimails.dev/)
 ## ¿Cómo?
 
 [Prompts](/prompts/README.md)
