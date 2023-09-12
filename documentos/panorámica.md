@@ -83,9 +83,13 @@ Runway -->
  - https://app.integrately.com/
  - https://zapier.com/
 
-#### Plugins
+#### Plugins & Herramientas
 
- - [GMail](https://www.aimails.dev/)
+- [GMail](https://www.aimails.dev/)
+- [Fireflies](https://app.fireflies.ai), transcripciones de audio
+- [HappyScribe](https://www.happyscribe.com/), similar al anterior
+- 
+
 ## ¿Cómo?
 
 [Prompts](/prompts/README.md)
