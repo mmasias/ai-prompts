@@ -69,6 +69,7 @@ Runway -->
 
 - Atención telefónica: [Jano](https://www.youtube.com/watch?v=fhoKnB6vwWg)
 - Salud [Glass AI](https://glass.health/ai)
+- RRHH [Sesame](https://www.sesamehr.es/ai/)
 - Música & Composición [Moises](https://moises.ai/)
 - Papers académicos [SCISPACE](https://typeset.io/)
 - [Modelos 3D a partir de fotografías](https://research.nvidia.com/labs/dir/neuralangelo/)
