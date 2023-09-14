@@ -18,7 +18,7 @@ Al tener una visión clara basada en comentarios reales, las empresas pueden tom
 
 ## ¿Cómo?
 
-Aquí es donde entra la ingeniería de prompts y la utilización de ChatGPT.
+Aquí es donde entra la ingeniería de prompts.
 
 |||
 |-|-|

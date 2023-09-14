@@ -6,7 +6,7 @@
 
 Cómo interpretar feedback de clientes y detectar tendencias emergentes. Ejemplo de prompt: "Analiza las opiniones de los clientes sobre [producto X] en las redes sociales durante el último mes".
 
-### Identificación de oportunidades de mercado
+### [Identificación de oportunidades de mercado](identificacionOportunidadesMercado.md)
 
 Usar AI para descubrir nichos de mercado no saturados o nuevas tendencias. Ejemplo: "Identifica tendencias emergentes en el mercado de alimentos saludables en 2023".
 
