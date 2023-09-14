@@ -1,8 +1,10 @@
 # Generación automática de contenido
 
-## ¿Qué?
+## ¿Por qué?
 
 El contenido es una herramienta esencial en el marketing moderno. La capacidad de generar contenido relevante, atractivo y oportuno puede impulsar el engagement, mejorar el SEO y establecer a una marca como líder de opinión en su industria.
+
+## ¿Qué?
 
 Queremos generar un borrador para una publicación de blog. Esto implica crear un contenido inicial que destaque los beneficios y características de las zapatillas ecológicas.
 
