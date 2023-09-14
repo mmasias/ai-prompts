@@ -12,7 +12,7 @@ Usar AI para descubrir nichos de mercado no saturados o nuevas tendencias. Ejemp
 
 ## Creación de Contenido
 
-### Generación automática de contenido
+### [Generación automática de contenido](generacionContenido.md)
 
 Cómo la AI puede ayudar a crear borradores para blogs, publicaciones en redes sociales o descripciones de productos. Ejemplo: "Escribe un borrador para una publicación de blog sobre los beneficios de las zapatillas ecológicas".
 
