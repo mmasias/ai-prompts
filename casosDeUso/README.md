@@ -36,6 +36,7 @@
 |x|Área|Caso de Uso|Breve descripción|
 |-|:-:|-|-|
 |Análisis de datos|📈|[Analizar datos y su evolución](analisisDeDatos.md)
+|Esquemas, diagrama y dibujos|📐|[Generar esquemas y diagramas](esquemasDiagramas.md)
 
 ### *2DO:* Ir convirtiendo esto en MDs independientes y conectados...
 
