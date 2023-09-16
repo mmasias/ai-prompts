@@ -1,0 +1,23 @@
+@startuml
+
+title Planificación de Reuniones para Campaña de Lanzamiento
+
+participant YoComoPublicista
+participant DirectorDeMarketing 
+participant JefeDeVentas
+participant JefeDeProduccion
+participant DirectorFinanciero
+
+YoComoPublicista -> DirectorDeMarketing: Reunión para discutir objetivos \n y presupuesto de campaña
+DirectorDeMarketing -> YoComoPublicista: Notas: objetivos de ventas, \n mercados target, presupuesto
+
+YoComoPublicista -> JefeDeVentas: Reunión para discutir \n estrategia de canales y precios
+JefeDeVentas -> YoComoPublicista: Notas: canales de distribución, \n descuentos, precios sugeridos
+
+YoComoPublicista -> JefeDeProduccion: Reunión para discutir \n stock y logística de producto
+JefeDeProduccion -> YoComoPublicista: Notas: nivel de inventario, \n lead time, capacidad de producción  
+
+YoComoPublicista -> DirectorFinanciero: Reunión para discutir \n viabilidad y retorno de inversión
+DirectorFinanciero -> YoComoPublicista: Notas: análisis de costo/beneficio, \n estimación de retorno de inversión
+
+@enduml

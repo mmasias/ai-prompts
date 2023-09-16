@@ -27,7 +27,7 @@ Desafiar Paradigmas|Demuestra que, con el diseño adecuado de prompts, es posibl
 
 |Motor|Comentario|
 |-|-|
-[ChatGPT](https://chat.openai.com/share/84dbba5b-ae94-4042-9f82-c59da5f5708d)|[V2](https://chat.openai.com/share/c3659718-0f1c-423a-9eec-b2671cb63563)
+[ChatGPT](https://chat.openai.com/share/84dbba5b-ae94-4042-9f82-c59da5f5708d)|[V2](https://chat.openai.com/share/c3659718-0f1c-423a-9eec-b2671cb63563) / [V3](https://chat.openai.com/share/1b4f434b-695c-4ac6-9e2c-36176d9a9a29)
 [Perplexity]
 [Claude](https://claude.ai/chat/c53408ec-06d6-4db8-ab8e-8d5e9c3dbec4)
 [Bard]

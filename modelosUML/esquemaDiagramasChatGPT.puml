@@ -1,0 +1,33 @@
+' Definición de los participantes
+participant ResponsableContenido
+participant EquipoContenido
+participant Marketing
+participant Ventas
+participant DireccionGeneral
+
+' Tareas del Responsable de Contenido
+ResponsableContenido -> EquipoContenido: Definir objetivos y estrategia
+EquipoContenido --> ResponsableContenido: Entregar propuesta de estrategia
+
+ResponsableContenido -> Marketing: Reunión de alineación con Marketing
+note over Marketing: Discutir temas de contenido\nPlan de marketing\nCalendario editorial
+Marketing --> ResponsableContenido: Acordar estrategia de contenido
+
+ResponsableContenido -> Ventas: Reunión con Ventas
+note over Ventas: Entender necesidades del equipo de ventas\nContenido para apoyar las ventas\nFeedback sobre contenido existente
+Ventas --> ResponsableContenido: Proporcionar información sobre las necesidades de ventas
+
+ResponsableContenido -> DireccionGeneral: Reunión con Dirección General
+note over DireccionGeneral: Presentar resultados del contenido\nSolicitar apoyo y recursos\nAlinear estrategia con la dirección
+DireccionGeneral --> ResponsableContenido: Acordar apoyo y recursos
+
+' Tareas del Equipo de Contenido
+EquipoContenido -> ResponsableContenido: Crear contenido
+note over ResponsableContenido: Generar contenido según la estrategia\nRevisiones y aprobaciones
+ResponsableContenido --> EquipoContenido: Feedback y aprobación
+
+' Reunión de seguimiento
+ResponsableContenido -> EquipoContenido: Reunión de seguimiento
+note over EquipoContenido: Revisar avances\nResolver problemas\nPlanificar próximos pasos
+EquipoContenido --> ResponsableContenido: Actualización y acuerdos
+

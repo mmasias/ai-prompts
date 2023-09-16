@@ -1,0 +1,48 @@
+@startuml
+
+start
+:Crear ideas de contenido;
+if (¿Ideas generadas?) then (Sí)
+  :Seleccionar ideas;
+  if (¿Ideas seleccionadas?) then (Sí)
+    :Determinar horario;
+    if (¿Horario establecido?) then (Sí)
+      :Crear copia;
+      if (¿Copia creada?) then (Sí)
+        :Trabajar en el diseño;
+        if (¿Diseño listo?) then (Sí)
+          :Enviar contenido a partes interesadas;
+          if (¿Contenido aprobado?) then (Sí)
+            :Realizar modificaciones necesarias;
+            if (¿Modificaciones realizadas?) then (Sí)
+              :Manejar detalles;
+              if (¿Detalles manejados?) then (Sí)
+                :Ocuparse de informar;
+              else (No)
+                :Volver a Realizar modificaciones necesarias;
+              endif
+            else (No)
+              :Volver a Enviar contenido a partes interesadas;
+            endif
+          else (No)
+            :Volver a Trabajar en el diseño;
+          endif
+        else (No)
+          :Volver a Crear copia;
+        endif
+      else (No)
+        :Volver a Determinar horario;
+      endif
+    else (No)
+      :Volver a Seleccionar ideas;
+    endif
+  else (No)
+    :Volver a Crear ideas de contenido;
+  endif
+else (No)
+  :Fin del flujo de trabajo;
+endif
+
+stop
+
+@enduml
