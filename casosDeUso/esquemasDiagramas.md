@@ -29,5 +29,5 @@ Modificación (si es necesario)|Si se requieren cambios o adaptaciones, el códi
 
 |||
 |-|-|
-[ChatGPT](https://chat.openai.com/share/07c15419-e600-421c-906a-8a3d9a87a81b)|![](/imagenes/modelosUML/esquemaDiagramas.svg)|
-Claude|
+[ChatGPT](https://chat.openai.com/share/07c15419-e600-421c-906a-8a3d9a87a81b)|![](/imagenes/modelosUML/esquemaDiagramasChatGPT.svg)|
+[Claude](https://claude.ai/chat/e82eecd2-9833-4c0e-b634-2156e35e3750)|![](/imagenes/modelosUML/esquemaDiagramasClaude.svg)
