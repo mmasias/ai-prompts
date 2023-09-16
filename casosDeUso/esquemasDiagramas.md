@@ -12,9 +12,9 @@ Se solicita que el LLM genere un código en plantUML para planificar reuniones c
 
 ## ¿Para qué?
 
-Claridad: Transformar instrucciones o planificaciones textuales en diagramas visuales facilita la comprensión y reduce ambigüedades.
-Eficiencia: Generar códigos para producir visualizaciones ahorra tiempo y esfuerzo en comparación con dibujar manualmente.
-Versatilidad: El código generado puede ser modificado o adaptado fácilmente para diferentes necesidades o cambios en la planificación.
+- **Claridad**: Transformar instrucciones o planificaciones textuales en diagramas visuales facilita la comprensión y reduce ambigüedades.
+- **Eficiencia**: Generar códigos para producir visualizaciones ahorra tiempo y esfuerzo en comparación con dibujar manualmente.
+- **Versatilidad**: El código generado puede ser modificado o adaptado fácilmente para diferentes necesidades o cambios en la planificación.
 
 ## ¿Cómo?
 
