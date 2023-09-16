@@ -1,0 +1,33 @@
+# De esquemas a diagramas
+
+## ¿Por qué?
+
+En el ámbito del marketing y la publicidad, visualizar procesos y flujos es esencial para comprender y comunicar ideas complejas. Y aunque los LLMs que estamos trabajando no permiten dibujar directamente (las versiones libres), puede generar códigos que, al ser interpretados por herramientas específicas, producen visualizaciones claras y efectivas.
+
+Utilizar herramientas como plantUML permite transformar instrucciones textuales en diagramas visuales, facilitando la comprensión y colaboración entre equipos.
+
+## ¿Qué?
+
+Se solicita que el LLM genere un código en plantUML para planificar reuniones con responsables de diversas áreas de una empresa de coches. Con esto se espera recibir código en formato plantUML que, al ser interpretado por una herramienta compatible, muestre un diagrama.
+
+## ¿Para qué?
+
+Claridad: Transformar instrucciones o planificaciones textuales en diagramas visuales facilita la comprensión y reduce ambigüedades.
+Eficiencia: Generar códigos para producir visualizaciones ahorra tiempo y esfuerzo en comparación con dibujar manualmente.
+Versatilidad: El código generado puede ser modificado o adaptado fácilmente para diferentes necesidades o cambios en la planificación.
+
+## ¿Cómo?
+
+|||
+|-|-|
+Solicitud al Modelo|Presentar al LLM el escenario o la necesidad específica para la que se requiere una visualización.
+Generación del Código|El LLM producirá un código en plantUML basado en la solicitud.
+Interpretación del Código|Utilizar una herramienta o plataforma que soporte plantUML para interpretar el código y generar el diagrama de flujo visual.
+Modificación (si es necesario)|Si se requieren cambios o adaptaciones, el código puede ser modificado directamente y luego reinterpretado para obtener una nueva visualización.
+
+### Diagrama generado
+
+|||
+|-|-|
+[ChatGPT](https://chat.openai.com/share/07c15419-e600-421c-906a-8a3d9a87a81b)|![](/imagenes/modelosUML/esquemaDiagramas.svg)|
+Claude|
