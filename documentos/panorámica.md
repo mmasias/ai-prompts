@@ -89,11 +89,16 @@ Runway -->
 - [GMail](https://www.aimails.dev/)
 - [Fireflies](https://app.fireflies.ai), transcripciones de audio
 - [HappyScribe](https://www.happyscribe.com/), similar al anterior
-- [Durable](https://es.durable.co) - Sitios web.
-- [Humata](http://humata.ai) - Chat & documentos 
-- [Beautiful](http://beautiful.ai) - Presentaciones        
-- [Stunning](http://stunning.so) - Textos    
-- [Sheetplus](https://sheetplus.ai) - Hojas de calculo 
+- [Durable](https://es.durable.co) - Sitios web
+- [Humata](http://humata.ai) - Chat & documentos
+- [Beautiful](http://beautiful.ai) - Presentaciones
+- [Stunning](http://stunning.so) - Textos
+- [Sheetplus](https://sheetplus.ai) - Hojas de calculo
+
+#### Chatbots
+
+- [Dante](https://dante-ai.com/)
+- [Droxy](https://www.droxy.ai/)
 
 ## ¿Cómo?
 
