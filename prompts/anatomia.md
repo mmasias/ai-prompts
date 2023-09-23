@@ -19,7 +19,7 @@ Parámetros|El ecualizador
 
 | |
 |:-:|
-![](/imagenes/modelosUML/promptRecetaComponentes.svg)
+![](/imagenes/modelosUML/promptRecetaComponentesSimple.svg)
 
 
 ### Recetas, componentes y elementos

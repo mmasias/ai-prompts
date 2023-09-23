@@ -1,0 +1,13 @@
+hide circle
+hide stereotype
+' hide empty members
+
+Prompt -u-|> Receta
+
+package Componentes {
+    Receta o.u. Tarea
+    Receta o.u. Instrucciones
+    Receta o.u. Contexto
+    Receta o.u. Entrada
+    Receta o.u. Parámetros
+}
