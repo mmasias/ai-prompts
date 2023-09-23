@@ -12,3 +12,54 @@ package Componentes {
     Receta o.u. Parámetros
 }
 
+class Tarea {
+La acción específica que 
+un modelo de IA realiza 
+en respuesta a un prompt,
+como responder preguntas 
+o generar contenido creativo.
+---
+<i>escribe un poema </i>
+<i>sobre emprendimiento</i>
+}
+
+class Instrucciones {
+Indicaciones específicas 
+que se proporcionan a la 
+IA para lograr el resultado 
+deseado, como detalles 
+sobre la salida y acciones 
+a seguir.
+---
+<i>el poema debe ser escrito
+<i>en primera persona. 
+<i>Debe tener 500 palabras.
+}
+
+class Contexto {
+Información de fondo que 
+rodea una tarea, ayuda al 
+modelo de IA a comprender 
+la situación y los objetivos 
+de la tarea.
+---
+<i>combinando los estilos
+<i>de Barack Obama y Steve Jobs
+}
+
+class Entrada {
+Datos proporcionados al 
+modelo, como imágenes o 
+texto, que pueden ser necesarios 
+para la salida prevista.
+}
+
+class Parámetros {
+Variables que afectan 
+directamente la salida 
+del modelo y pueden ser 
+configuradas previamente, 
+como la temperatura o 
+configuraciones específicas 
+para cada modelo.
+}

@@ -24,7 +24,7 @@ Parámetros|El ecualizador
 
 ### Recetas, componentes y elementos
 
-|Componentes|Elementos|Recetas|
+|[Componentes](componentes.md)|[Elementos](elementos.md)|[Recetas](recetas.md)|
 |-|-|-|
 Son las categorías fundamentales que definen un prompt.|Detalles específicos que existen dentro de los componentes.|Son combinaciones específicas y secuenciaciones de componentes (y por lo tanto, elementos) para lograr un resultado particular con el modelo de AI.
 Ejemplos: Tarea, Instrucciones, Contexto, Parámetros/Configuraciones, Entrada.|Ejemplos: Temperatura (dentro de Parámetros), Rol (dentro de Contexto), Tópico (dentro de Tarea).|Similar a una receta de cocina: no sólo se trata de tener los ingredientes correctos (elementos), sino también de combinarlos de la manera correcta (componentes) y seguir un procedimiento específico (receta).

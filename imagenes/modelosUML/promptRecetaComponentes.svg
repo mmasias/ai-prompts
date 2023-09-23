@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="306px" preserveAspectRatio="none" style="width:534px;height:306px;background:#FFFFFF;" version="1.1" viewBox="0 0 534 306" width="534px" zoomAndPan="magnify"><defs/><g><!--MD5=[0bc260734cc841228a159098d23b1812]
-cluster Componentes--><g id="cluster_Componentes"><path d="M8.5,6.602 L106.5,6.602 A3.75,3.75 0 0 1 109,9.102 L116,31.6699 L524.5,31.6699 A2.5,2.5 0 0 1 527,34.1699 L527,103.102 A2.5,2.5 0 0 1 524.5,105.602 L8.5,105.602 A2.5,2.5 0 0 1 6,103.102 L6,9.102 A2.5,2.5 0 0 1 8.5,6.602 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="6" x2="116" y1="31.6699" y2="31.6699"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="97" x="10" y="23.5679">Componentes</text></g><!--MD5=[8b66b7342ebffb5468f9dad95977a8e0]
-class Tarea--><g id="elem_Tarea"><rect fill="#F1F1F1" height="45.0679" id="Tarea" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="44" x="22" y="44.602"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="38" x="25" y="64.5679">Tarea</text><line style="stroke:#181818;stroke-width:0.5;" x1="23" x2="65" y1="73.6699" y2="73.6699"/><line style="stroke:#181818;stroke-width:0.5;" x1="23" x2="65" y1="81.6699" y2="81.6699"/></g><!--MD5=[58d0a597b86e0d150e85165aee8b1098]
-class Instrucciones--><g id="elem_Instrucciones"><rect fill="#F1F1F1" height="45.0679" id="Instrucciones" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="97" x="101.5" y="44.602"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="91" x="104.5" y="64.5679">Instrucciones</text><line style="stroke:#181818;stroke-width:0.5;" x1="102.5" x2="197.5" y1="73.6699" y2="73.6699"/><line style="stroke:#181818;stroke-width:0.5;" x1="102.5" x2="197.5" y1="81.6699" y2="81.6699"/></g><!--MD5=[d933999a937b529ea3aaeeb9e325bacd]
-class Contexto--><g id="elem_Contexto"><rect fill="#F1F1F1" height="45.0679" id="Contexto" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="65" x="233.5" y="44.602"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="59" x="236.5" y="64.5679">Contexto</text><line style="stroke:#181818;stroke-width:0.5;" x1="234.5" x2="297.5" y1="73.6699" y2="73.6699"/><line style="stroke:#181818;stroke-width:0.5;" x1="234.5" x2="297.5" y1="81.6699" y2="81.6699"/></g><!--MD5=[6694c18989b8e2458a5d3d469144568d]
-class Entrada--><g id="elem_Entrada"><rect fill="#F1F1F1" height="45.0679" id="Entrada" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="59" x="333.5" y="44.602"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="53" x="336.5" y="64.5679">Entrada</text><line style="stroke:#181818;stroke-width:0.5;" x1="334.5" x2="391.5" y1="73.6699" y2="73.6699"/><line style="stroke:#181818;stroke-width:0.5;" x1="334.5" x2="391.5" y1="81.6699" y2="81.6699"/></g><!--MD5=[4c18751fa77cc560573b090f3bbf04b2]
-class Parámetros--><g id="elem_Parámetros"><rect fill="#F1F1F1" height="45.0679" id="Parámetros" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="83" x="427.5" y="44.602"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="77" x="430.5" y="64.5679">Parámetros</text><line style="stroke:#181818;stroke-width:0.5;" x1="428.5" x2="509.5" y1="73.6699" y2="73.6699"/><line style="stroke:#181818;stroke-width:0.5;" x1="428.5" x2="509.5" y1="81.6699" y2="81.6699"/></g><!--MD5=[23ac59978132272548bf992e3c610de9]
-class Prompt--><g id="elem_Prompt"><rect fill="#F1F1F1" height="45.0679" id="Prompt" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="55" x="238.5" y="254.602"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="49" x="241.5" y="274.5679">Prompt</text><line style="stroke:#181818;stroke-width:0.5;" x1="239.5" x2="292.5" y1="283.6699" y2="283.6699"/><line style="stroke:#181818;stroke-width:0.5;" x1="239.5" x2="292.5" y1="291.6699" y2="291.6699"/></g><!--MD5=[7dc4723b7980928a577f86f3637c3413]
-class Receta--><g id="elem_Receta"><rect fill="#F1F1F1" height="45.0679" id="Receta" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="51" x="240.5" y="149.602"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="45" x="243.5" y="169.5679">Receta</text><line style="stroke:#181818;stroke-width:0.5;" x1="241.5" x2="290.5" y1="178.6699" y2="178.6699"/><line style="stroke:#181818;stroke-width:0.5;" x1="241.5" x2="290.5" y1="186.6699" y2="186.6699"/></g><!--MD5=[ca1ac2803c2597e6097f5dc7b8966cef]
-reverse link Receta to Prompt--><g id="link_Receta_Prompt"><path codeLine="5" d="M266,215.342 C266,228.722 266,242.962 266,254.292 " fill="none" id="Receta-backto-Prompt" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="259,214.942,266,194.942,273,214.942,259,214.942" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[a89adcb2820a093d190b73e16a548029]
-link Tarea to Receta--><g id="link_Tarea_Receta"><path codeLine="8" d="M59.11,89.922 C65.88,98.332 74.48,107.402 84,113.602 C128.47,142.602 188.57,157.822 227.31,165.152 " fill="none" id="Tarea-to-Receta" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="240.3,167.472,235.0912,162.4852,228.4846,165.3753,233.6934,170.3621,240.3,167.472" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[451a20379047f4d1098abba0bf219514]
-link Instrucciones to Receta--><g id="link_Instrucciones_Receta"><path codeLine="9" d="M174.32,89.692 C191.02,104.522 213.43,124.422 231.91,140.832 " fill="none" id="Instrucciones-to-Receta" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="241.71,149.542,239.8754,142.5682,232.7324,141.5794,234.567,148.5533,241.71,149.542" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[6e01a151d4ef6ef386ed81810cfb60c4]
-link Contexto to Receta--><g id="link_Contexto_Receta"><path codeLine="10" d="M266,89.942 C266,103.332 266,120.762 266,136.042 " fill="none" id="Contexto-to-Receta" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="266,149.292,270,143.292,266,137.292,262,143.292,266,149.292" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[0f6f68f04622246e6bf664764b665262]
-link Entrada to Receta--><g id="link_Entrada_Receta"><path codeLine="11" d="M342.43,89.942 C328.8,104.422 310.7,123.642 295.54,139.742 " fill="none" id="Entrada-to-Receta" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="286.54,149.292,293.565,147.6642,294.7644,140.5536,287.7394,142.1813,286.54,149.292" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[efee1eeb2674383b1891dd95146c05d9]
-link Parámetros to Receta--><g id="link_Parámetros_Receta"><path codeLine="12" d="M444.24,89.662 C434.07,97.842 421.91,106.812 410,113.602 C375.88,133.062 333.88,149.022 304.06,159.142 " fill="none" id="Parámetros-to-Receta" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="291.69,163.252,298.645,165.1566,303.0781,159.4691,296.1231,157.5645,291.69,163.252" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[15152260beb4ddce3a5ae43b763b0668]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="458px" preserveAspectRatio="none" style="width:1180px;height:458px;background:#FFFFFF;" version="1.1" viewBox="0 0 1180 458" width="1180px" zoomAndPan="magnify"><defs/><g><!--MD5=[0bc260734cc841228a159098d23b1812]
+cluster Componentes--><g id="cluster_Componentes"><path d="M8.5,6 L107.5,6 A3.75,3.75 0 0 1 110,8.5 L117,29.6094 L1170.5,29.6094 A2.5,2.5 0 0 1 1173,32.1094 L1173,257.5 A2.5,2.5 0 0 1 1170.5,260 L8.5,260 A2.5,2.5 0 0 1 6,257.5 L6,8.5 A2.5,2.5 0 0 1 8.5,6 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="6" x2="117" y1="29.6094" y2="29.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="98" x="10" y="22.5332">Componentes</text></g><!--MD5=[8b66b7342ebffb5468f9dad95977a8e0]
+class Tarea--><g id="elem_Tarea"><rect codeLine="15" fill="#F1F1F1" height="166.875" id="Tarea" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="198" x="22" y="59.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="38" x="102" y="79.0332">Tarea</text><line style="stroke:#181818;stroke-width:0.5;" x1="23" x2="219" y1="87.1094" y2="87.1094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="156" x="28" y="105.6426">La acción específica que</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="147" x="28" y="123.252">un modelo de IA realiza</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="167" x="28" y="140.8613">en respuesta a un prompt,</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="171" x="28" y="158.4707">como responder preguntas</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="186" x="28" y="176.0801">o generar contenido creativo.</text><line style="stroke:#181818;stroke-width:1.0;" x1="23" x2="219" y1="183.1563" y2="183.1563"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="113" x="28" y="201.6895">escribe un poema</text><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="141" x="28" y="219.2988">sobre emprendimiento</text></g><!--MD5=[58d0a597b86e0d150e85165aee8b1098]
+class Instrucciones--><g id="elem_Instrucciones"><rect codeLine="26" fill="#F1F1F1" height="202.0938" id="Instrucciones" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="176" x="255" y="42"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="301.5" y="61.5332">Instrucciones</text><line style="stroke:#181818;stroke-width:0.5;" x1="256" x2="430" y1="69.6094" y2="69.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="152" x="261" y="88.1426">Indicaciones específicas</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="158" x="261" y="105.752">que se proporcionan a la</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="164" x="261" y="123.3613">IA para lograr el resultado</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="150" x="261" y="140.9707">deseado, como detalles</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="163" x="261" y="158.5801">sobre la salida y acciones</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="261" y="176.1895">a seguir.</text><line style="stroke:#181818;stroke-width:1.0;" x1="256" x2="430" y1="183.2656" y2="183.2656"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="164" x="261" y="201.7988">el poema debe ser escrito</text><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="128" x="261" y="219.4082">en primera persona.</text><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="162" x="261" y="237.0176">Debe tener 500 palabras.</text></g><!--MD5=[d933999a937b529ea3aaeeb9e325bacd]
+class Contexto--><g id="elem_Contexto"><rect codeLine="39" fill="#F1F1F1" height="166.875" id="Contexto" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="211" x="466.5" y="59.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="56" x="544" y="79.0332">Contexto</text><line style="stroke:#181818;stroke-width:0.5;" x1="467.5" x2="676.5" y1="87.1094" y2="87.1094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="161" x="472.5" y="105.6426">Información de fondo que</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="164" x="472.5" y="123.252">rodea una tarea, ayuda al</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="174" x="472.5" y="140.8613">modelo de IA a comprender</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="164" x="472.5" y="158.4707">la situación y los objetivos</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="72" x="472.5" y="176.0801">de la tarea.</text><line style="stroke:#181818;stroke-width:1.0;" x1="467.5" x2="676.5" y1="183.1563" y2="183.1563"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="143" x="472.5" y="201.6895">combinando los estilos</text><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="199" x="472.5" y="219.2988">de Barack Obama y Steve Jobs</text></g><!--MD5=[6694c18989b8e2458a5d3d469144568d]
+class Entrada--><g id="elem_Entrada"><rect codeLine="50" fill="#F1F1F1" height="114.0469" id="Entrada" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="223" x="712.5" y="86"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="50" x="799" y="105.5332">Entrada</text><line style="stroke:#181818;stroke-width:0.5;" x1="713.5" x2="934.5" y1="113.6094" y2="113.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="155" x="718.5" y="132.1426">Datos proporcionados al</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="165" x="718.5" y="149.752">modelo, como imágenes o</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="211" x="718.5" y="167.3613">texto, que pueden ser necesarios</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="143" x="718.5" y="184.9707">para la salida prevista.</text><line style="stroke:#181818;stroke-width:0.5;" x1="713.5" x2="934.5" y1="192.0469" y2="192.0469"/></g><!--MD5=[4c18751fa77cc560573b090f3bbf04b2]
+class Parámetros--><g id="elem_Parámetros"><rect codeLine="57" fill="#F1F1F1" height="166.875" id="Parámetros" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="186" x="971" y="59.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="73" x="1027.5" y="79.0332">Parámetros</text><line style="stroke:#181818;stroke-width:0.5;" x1="972" x2="1156" y1="87.1094" y2="87.1094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="138" x="977" y="105.6426">Variables que afectan</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="138" x="977" y="123.252">directamente la salida</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="156" x="977" y="140.8613">del modelo y pueden ser</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="168" x="977" y="158.4707">configuradas previamente,</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="142" x="977" y="176.0801">como la temperatura o</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="174" x="977" y="193.6895">configuraciones específicas</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="118" x="977" y="211.2988">para cada modelo.</text><line style="stroke:#181818;stroke-width:0.5;" x1="972" x2="1156" y1="218.375" y2="218.375"/></g><!--MD5=[23ac59978132272548bf992e3c610de9]
+class Prompt--><g id="elem_Prompt"><rect fill="#F1F1F1" height="43.6094" id="Prompt" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="51" x="546.5" y="408"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="45" x="549.5" y="427.5332">Prompt</text><line style="stroke:#181818;stroke-width:0.5;" x1="547.5" x2="596.5" y1="435.6094" y2="435.6094"/><line style="stroke:#181818;stroke-width:0.5;" x1="547.5" x2="596.5" y1="443.6094" y2="443.6094"/></g><!--MD5=[7dc4723b7980928a577f86f3637c3413]
+class Receta--><g id="elem_Receta"><rect fill="#F1F1F1" height="43.6094" id="Receta" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="51" x="546.5" y="304"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="45" x="549.5" y="323.5332">Receta</text><line style="stroke:#181818;stroke-width:0.5;" x1="547.5" x2="596.5" y1="331.6094" y2="331.6094"/><line style="stroke:#181818;stroke-width:0.5;" x1="547.5" x2="596.5" y1="339.6094" y2="339.6094"/></g><!--MD5=[ca1ac2803c2597e6097f5dc7b8966cef]
+reverse link Receta to Prompt--><g id="link_Receta_Prompt"><path codeLine="5" d="M572,368.17 C572,381.8 572,396.41 572,407.89 " fill="none" id="Receta-backto-Prompt" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="565,368.13,572,348.13,579,368.13,565,368.13" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[a89adcb2820a093d190b73e16a548029]
+link Tarea to Receta--><g id="link_Tarea_Receta"><path codeLine="8" d="M184.41,226.59 C200.29,242.54 218.43,257.52 238,268 C288.65,295.13 456.47,314.04 533.16,321.49 " fill="none" id="Tarea-to-Receta" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="546.37,322.74,540.7748,318.1909,534.4237,321.606,540.0189,326.1551,546.37,322.74" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[451a20379047f4d1098abba0bf219514]
+link Instrucciones to Receta--><g id="link_Instrucciones_Receta"><path codeLine="9" d="M421.51,244.02 C430.3,252.65 439.52,260.81 449,268 C474.71,287.5 508.16,302.46 533.69,312.15 " fill="none" id="Instrucciones-to-Receta" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="546.23,316.74,541.9648,310.9256,534.9571,312.6264,539.2223,318.4408,546.23,316.74" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[6e01a151d4ef6ef386ed81810cfb60c4]
+link Contexto to Receta--><g id="link_Contexto_Receta"><path codeLine="10" d="M572,226.56 C572,249.18 572,272.47 572,290.71 " fill="none" id="Contexto-to-Receta" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="572,303.87,576,297.87,572,291.87,568,297.87,572,303.87" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[0f6f68f04622246e6bf664764b665262]
+link Entrada to Receta--><g id="link_Entrada_Receta"><path codeLine="11" d="M773.51,200.17 C750.99,223.1 723.21,248.71 695,268 C668.53,286.1 635.39,301.08 610.19,311.13 " fill="none" id="Entrada-to-Receta" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="597.8,315.93,604.84,317.4917,608.9892,311.594,601.9493,310.0323,597.8,315.93" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[efee1eeb2674383b1891dd95146c05d9]
+link Parámetros to Receta--><g id="link_Parámetros_Receta"><path codeLine="12" d="M1004.9,226.56 C989.73,242.61 972.2,257.65 953,268 C894.24,299.69 695.43,316.62 610.73,322.54 " fill="none" id="Parámetros-to-Receta" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="597.69,323.42,603.9486,327.002,609.6621,322.6025,603.4036,319.0206,597.69,323.42" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[376857b66588840718fe49de4f80b537]
 @startuml
 hide circle
 hide stereotype
@@ -28,6 +28,57 @@ package Componentes {
     Receta o.u. Parámetros
 }
 
+class Tarea {
+La acción específica que 
+un modelo de IA realiza 
+en respuesta a un prompt,
+como responder preguntas 
+o generar contenido creativo.
+- - -
+<i>escribe un poema </i>
+<i>sobre emprendimiento</i>
+}
+
+class Instrucciones {
+Indicaciones específicas 
+que se proporcionan a la 
+IA para lograr el resultado 
+deseado, como detalles 
+sobre la salida y acciones 
+a seguir.
+- - -
+<i>el poema debe ser escrito
+<i>en primera persona. 
+<i>Debe tener 500 palabras.
+}
+
+class Contexto {
+Información de fondo que 
+rodea una tarea, ayuda al 
+modelo de IA a comprender 
+la situación y los objetivos 
+de la tarea.
+- - -
+<i>combinando los estilos
+<i>de Barack Obama y Steve Jobs
+}
+
+class Entrada {
+Datos proporcionados al 
+modelo, como imágenes o 
+texto, que pueden ser necesarios 
+para la salida prevista.
+}
+
+class Parámetros {
+Variables que afectan 
+directamente la salida 
+del modelo y pueden ser 
+configuradas previamente, 
+como la temperatura o 
+configuraciones específicas 
+para cada modelo.
+}
 @enduml
 
 @startuml
@@ -44,12 +95,63 @@ package Componentes {
     Receta o.u. Parámetros
 }
 
+class Tarea {
+La acción específica que 
+un modelo de IA realiza 
+en respuesta a un prompt,
+como responder preguntas 
+o generar contenido creativo.
+- - -
+<i>escribe un poema </i>
+<i>sobre emprendimiento</i>
+}
+
+class Instrucciones {
+Indicaciones específicas 
+que se proporcionan a la 
+IA para lograr el resultado 
+deseado, como detalles 
+sobre la salida y acciones 
+a seguir.
+- - -
+<i>el poema debe ser escrito
+<i>en primera persona. 
+<i>Debe tener 500 palabras.
+}
+
+class Contexto {
+Información de fondo que 
+rodea una tarea, ayuda al 
+modelo de IA a comprender 
+la situación y los objetivos 
+de la tarea.
+- - -
+<i>combinando los estilos
+<i>de Barack Obama y Steve Jobs
+}
+
+class Entrada {
+Datos proporcionados al 
+modelo, como imágenes o 
+texto, que pueden ser necesarios 
+para la salida prevista.
+}
+
+class Parámetros {
+Variables que afectan 
+directamente la salida 
+del modelo y pueden ser 
+configuradas previamente, 
+como la temperatura o 
+configuraciones específicas 
+para cada modelo.
+}
 @enduml
 
 PlantUML version 1.2022.7(Mon Aug 22 19:01:30 CEST 2022)
 (GPL source distribution)
-Java Runtime: OpenJDK Runtime Environment
-JVM: OpenJDK 64-Bit Server VM
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
 Default Encoding: UTF-8
 Language: es
 Country: ES
