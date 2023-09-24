@@ -44,50 +44,57 @@ Los parámetros pueden variar desde configuraciones simples de temperatura y pro
 
 ## Ejemplos
 
-||Utiliza la siguiente idea para escribir un artículo motivacional sobre la atención plena (mindfulness) para emprendedores. Enfatiza la importancia de la claridad mental y la paz interior para el éxito en los negocios. Aquí está la idea: ser emprendedor se trata de servir.|
+|[💬🤖](https://chat.openai.com/share/07120d38-6bd2-4e00-a0dd-5c407e4fbde8)|Redacción de un artículo|
 |-|-|
+|**Prompt**|Utiliza la siguiente idea para escribir un artículo motivacional sobre la atención plena (mindfulness) para emprendedores. Enfatiza la importancia de la claridad mental y la paz interior para el éxito en los negocios. Aquí está la idea: ser emprendedor se trata de servir.|
 Tarea|Utiliza las siguientes ideas para escribir un artículo motivacional sobre la atención plena para emprendedores.
 Instrucciones|Enfatiza la importancia de la claridad mental y la paz interior para el éxito en los negocios.
 Contexto|Escribe para una audiencia de emprendedores aspirantes y establecidos.
 Entrada|Ser emprendedor se trata de servir.
 Parámetros|-
 
-||Crea una lista de consejos prácticos para emprendedores aspirantes usando la siguiente cita. Enfatiza la importancia de servir a los demás y causar un impacto positivo. Escribe para una audiencia de millennials que están pasando por dificultades y están interesados en iniciar un negocio. Aquí está la cita: Convierte tu pasión en un negocio exitoso poniendo siempre las necesidades de los demás primero.|
+|[💬🤖](https://chat.openai.com/share/a2631470-7997-4b3a-b157-9ad8815761f4)|Lista y consejos
 |-|-|
+**Prompt**|Crea una lista de consejos prácticos para emprendedores aspirantes usando la siguiente cita. Enfatiza la importancia de servir a los demás y causar un impacto positivo. Escribe para una audiencia de millennials que están pasando por dificultades y están interesados en iniciar un negocio. Aquí está la cita: Convierte tu pasión en un negocio exitoso poniendo siempre las necesidades de los demás primero.
 Tarea|Crea una lista de consejos prácticos para emprendedores aspirantes.
 Instrucciones|Enfatiza la importancia de servir a los demás y causar un impacto positivo.
 Contexto|Escribe para una audiencia de millennials en dificultades interesados en iniciar un negocio.
 Entrada|Convierte tu pasión en un negocio exitoso poniendo siempre las necesidades de los demás primero.
 Parámetros|-
 
-||Crea fórmulas de Google Sheets que copien todas las filas de la hoja1 donde la columna “A” contenga la palabra “iPhone”. |
+|[💬🤖](https://chat.openai.com/share/3d3d928f-29e2-47af-bb65-57717d4cffb4)|Ayuda con fórmulas|
 |-|-|
-Tarea|Crea una fórmula de Google Sheet.
-Instrucciones|Copia todas las filas de la hoja1 donde la columna “A” contenga la palabra “iPhone”.
+**Prompt**|Proponme fórmulas de Google Sheets que permita copiar todas las filas de la "hoja1" donde la columna “A” contenga la palabra “iPhone”.
+Tarea|Proponme fórmulas de Google Sheets
+Instrucciones|que permitan copiar todas las filas de la "hoja1" donde la columna “A” contenga la palabra “iPhone”.
 Contexto|-
 Entrada|-
 Parámetros|-
 
-||Propón ideas novedosas para un artículo sobre Ingeniería de Prompts de IA - el trabajo del futuro en un tono emocionante, optimista y esperanzador. Los objetivos potenciales para esta publicación podrían ser:<br>- Abrir los ojos de las personas demostrando que el status quo está equivocado.<br>- Compartir una solución a un problema difícil.<br>- Destilar un tema abrumador en algo accesible.<br>- Contar una historia emocionante y emocional que imparta una lección.<br>- Articular algo en lo que todos están pensando pero nadie está diciendo. Atravesar el ruido.<br>- Identificar tendencias clave sobre un tema.<br>- Luego usarlas para predecir el futuro.<br>- Aportar percepciones originales a un campo a través de la investigación y experimentación.|
+|[💬🤖](https://chat.openai.com/share/182ff90a-6c31-46c0-b069-25e93553303f)|Ideas|
 |-|-|
+**Prompt**|Propón ideas novedosas para un artículo sobre *Ingeniería de Prompts de IA - el trabajo del futuro* en un tono emocionante, optimista y esperanzador. Los objetivos potenciales para esta publicación podrían ser:<br>- Abrir los ojos de las personas demostrando que el status quo está equivocado.<br>- Compartir una solución a un problema difícil.<br>- Destilar un tema abrumador en algo accesible.<br>- Contar una historia emocionante y emocional que imparta una lección.<br>- Articular algo en lo que todos están pensando pero nadie está diciendo. Atravesar el ruido.<br>- Identificar tendencias clave sobre un tema.<br>- Luego usarlas para predecir el futuro.<br>- Aportar percepciones originales a un campo a través de la investigación y experimentación.|
 Tarea|Propón ideas novedosas para un artículo sobre Ingeniería de Prompts de IA - el trabajo del futuro.
 Instrucciones|En un tono emocionante, optimista y esperanzador.
 Contexto|Los objetivos potenciales para esta publicación podrían ser:<br>- Abrir los ojos de las personas demostrando que el status quo está equivocado.<br>- Compartir una solución a un problema difícil.<br>- Destilar un tema abrumador en algo accesible.<br>- Contar una historia emocionante y emocional que imparta una lección.<br>- Articular algo en lo que todos están pensando pero nadie está diciendo. Atravesar el ruido.<br>- Identificar tendencias clave sobre un tema.<br>- Luego usarlas para predecir el futuro.<br>- Aportar percepciones originales a un campo a través de la investigación y experimentación.
 Entrada|-
 Parámetros|-
 
-||Escribe un artículo de blog sobre la vida sostenible en el siglo XXI. El artículo debe tener al menos 2500 palabras. Cada punto debe estar claramente indicado con encabezados y los puntos deben fluir lógicamente. El artículo debe estar escrito en un tono amigable, inspirador, usando lenguaje natural y en tono conversacional. Menciona el uso de energía alternativa y energía nuclear. No uses jerga. No uses términos demasiado técnicos. Escribe desde la perspectiva de un ecologista. Este artículo se publicará en Readers Digest. La audiencia del artículo son madres liberales. Escribe para el arquetipo de marca El Amante: forma relaciones sensuales, espirituales y de compañía, y crea momentos íntimos para su audiencia. La escritura debe ser apasionada, sensual e íntima. Utiliza un lenguaje emotivo que promueva el romance, el deseo y la conexión emocional.|
+|[💬🤖](https://chat.openai.com/share/95ef598c-f241-4826-af8c-cd5f913322f2)|Redacción de un artículo, II
 |-|-|
+**Prompt**|Escribe un artículo de blog sobre la vida sostenible en el siglo XXI. El artículo debe tener al menos 2500 palabras. Cada punto debe estar claramente indicado con encabezados y los puntos deben fluir lógicamente. El artículo debe estar escrito en un tono amigable, inspirador, usando lenguaje natural y en tono conversacional. Menciona el uso de energía alternativa y energía nuclear. No uses jerga. No uses términos demasiado técnicos. Escribe desde la perspectiva de un ecologista. Este artículo se publicará en Readers Digest. La audiencia del artículo son madres liberales. Escribe para el arquetipo de marca El Amante: forma relaciones sensuales, espirituales y de compañía, y crea momentos íntimos para su audiencia. La escritura debe ser apasionada, sensual e íntima. Utiliza un lenguaje emotivo que promueva el romance, el deseo y la conexión emocional.|
 Tarea|Escribe un artículo de blog sobre la vida sostenible en el siglo XXI.
 Instrucciones|El artículo debe tener al menos 2500 palabras. Cada punto debe estar claramente indicado con encabezados y los puntos deben fluir lógicamente. El artículo debe estar escrito en un tono amigable, inspirador, usando lenguaje natural y en tono conversacional. Menciona el uso de energía alternativa y energía nuclear. No uses jerga. No uses términos demasiado técnicos.
 Contexto|Escribe desde la perspectiva de un ecologista. Este artículo se publicará en Readers Digest. La audiencia del artículo son madres liberales. Escribe para el arquetipo de marca El Amante: forma relaciones sensuales, espirituales y de compañía, y crea momentos íntimos para su audiencia. La escritura debe ser apasionada, sensual e íntima. Utiliza un lenguaje emotivo que promueva el romance, el deseo y la conexión emocional.
 Entrada|-
 Parámetros|-
 
-||La oscuridad primordial personificando a un dios griego, Erebus vistiendo ropa antigua griega, galaxia con sistema solar como fondo, [iluminación de estudio suave, contraluz, fondo oscuro] --ar 2:3 --upbeta --q 2 --v 4|
+||Imágenes
 |-|-|
+**Prompt**|La oscuridad primordial personificando a un dios griego, Erebus vistiendo ropa antigua griega, galaxia con sistema solar como fondo, [iluminación de estudio suave, contraluz, fondo oscuro] --ar 2:3 --upbeta --q 2 --v 4|
 Tarea|Crear una imagen (implícita)
 Instrucciones|iluminación de estudio suave, contraluz, fondo oscuro
 Contexto|La oscuridad primordial personificando a un dios griego, Erebus vistiendo ropa antigua griega, galaxia con sistema solar como fondo,
 Entrada|-
 [Parámetros](https://docs.midjourney.com/docs/parameter-list)| --ar 2:3 --upbeta --q 2 --v 4
+<!-- TODO: #22 promptear esto en midjourney o en bluewillow -->
