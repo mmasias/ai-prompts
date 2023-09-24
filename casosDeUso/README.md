@@ -42,6 +42,8 @@
 
 |Caso|Breve descripción|Herramientas|Transcripción|
 |-|-|-|-|
+|Un tutorial|-|-|[Un tutorial](tutorial.md)
+|Herculean pixels, caso completo|-|-|[Herculean pixels](herculeanPixels.md)
 |Fiscal de proyectos|-|-|[👨‍⚖️](https://chat.openai.com/c/c4eecd9b-96ed-4e78-824d-f4cafbc590ca)
 |Traducción especial|-|-|[Hola mundo](https://chat.openai.com/share/262d6424-1b0d-4c40-a348-22c414089fcf)|
 |Traducción especial II (videojuego)|-|-|-|

@@ -39,7 +39,7 @@ Captions
 Wonder dinamic
 24ai
 Runway -->
-#### Generar texto
+#### CRUD texto
 
 - [ChatGPT](https://chat.openai.com/)
 - [Bard](https://bard.google.com/)
@@ -47,7 +47,7 @@ Runway -->
 - [Claude](https://claude.ai/chats)
 - [Ernie](https://yiyan.baidu.com/) (En fase de desarrollo: artículo en [Wikipedia](https://en.wikipedia.org/wiki/Ernie_Bot) / [¿Censurado?](https://web.archive.org/web/20230902185902/https://www.reuters.com/technology/baidus-ernie-writes-poems-says-it-has-insufficient-information-xi-tests-show-2023-03-20/))
 
-#### Generar imágenes
+#### CRUD imágenes
 
 - [Dall-e](https://pitch.com/v/DALL-E-prompt-book-v1-tmd33y/d959fd01-3eea-4b16-9472-e79ccb635e98)
 - [MidJourney](https://docs.midjourney.com/docs/prompts)
@@ -57,13 +57,13 @@ Runway -->
 - Ideogramas: [Ideogram.ai](https://ideogram.ai/)
 
 
-#### Generar música
+#### CRUD música
 
 - [Mubert](https://mubert.com/)
 
-#### Generar vídeo
+#### CRUD vídeo
 
-- XYZw <!-- TODO: #10 Prompt to Video -- >
+- [CapCut](https://www.capcut.com/)
 
 #### Verticales
 
