@@ -1,7 +1,5 @@
 # Seminario AI, Prompts, IdP & CdU
 
-> [🗺️](https://docs.google.com/spreadsheets/d/1CMCHoDKnVWJjKiB7Cp6_UR6JxROY0A3XASgdRtyVELc/edit?usp=sharing) | [🎧](https://open.spotify.com/album/2LE9BDji49rYh3p3a3o1KH?si=lGg2uyk4Rl-GRn57bVX9Mg) |  
-
 ## ¿Por qué?
 
 [Introducción](documentos/intro.md)
@@ -32,11 +30,17 @@ Al finalizar, se habrán visto un conjunto de casos de uso que se apoyan en la I
 
 
 
-## Bibliografía
+## Bibliografía et al...
 
-- [¿Quién teme al ChatGPT?](https://globernance.org/quien-teme-al-chatgpt/)
 - [Documentación OpenAI](https://platform.openai.com/docs/introduction/overview)
 - [Prompt Engineering Institute](https://www.promptengineering.org/learn/)
 - [Learn prompting](https://learnprompting.org/)
-- [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/abs/2302.11382)
-- [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
+- [¿Quién teme al ChatGPT?](https://globernance.org/quien-teme-al-chatgpt/)
+- 📖 [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/abs/2302.11382)
+- 📖 [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
+
+### Guía de construcción
+|||
+|-|-|
+**Ruta**|[🗺️](https://docs.google.com/spreadsheets/d/1CMCHoDKnVWJjKiB7Cp6_UR6JxROY0A3XASgdRtyVELc/edit?usp=sharing) 
+**Sintonía**|[🎧](https://open.spotify.com/album/2LE9BDji49rYh3p3a3o1KH?si=lGg2uyk4Rl-GRn57bVX9Mg)
