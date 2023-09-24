@@ -16,7 +16,7 @@
 - [Plantilla](plantilla.md)
 - [Generación infinita](generacionInfinita.md)
 - [Generador de visualización](generadorDeVisualizacion.md)
-- [Juego](juego.md)
+- [💬](https://chat.openai.com/share/22b54976-a727-4ef3-88fe-41d0697345b3) [Juego](juego.md)
 - [Reflexión](reflexion.md)
 - [Salta rechazos](saltaRechazos.md)
 - [Administrador de contexto](administradorContexto.md)

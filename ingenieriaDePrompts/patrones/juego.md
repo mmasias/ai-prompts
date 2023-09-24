@@ -1,5 +1,7 @@
 # Patrón de Juego
 
+[💬](https://chat.openai.com/share/22b54976-a727-4ef3-88fe-41d0697345b3)
+
 ## Intención y Contexto
 
 La intención de este patrón es crear un juego en torno a un tema determinado. El patrón puede combinarse con el Generador de Visualización para añadir imágenes al juego. El juego se centra en un tema específico y el LLM guiará el juego. Este patrón es particularmente efectivo cuando las reglas del juego son relativamente limitadas en alcance, pero se espera que el contenido del juego sea amplio. El usuario puede especificar un conjunto limitado de reglas y luego el LLM puede automatizar la generación de contenidos para el juego.
