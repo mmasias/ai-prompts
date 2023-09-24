@@ -32,3 +32,17 @@ Similar a una receta de cocina: no sólo se trata de tener los ingredientes corr
 - **Combinaciones óptimas**: Algunos componentes funcionan mejor juntos que otros. La experiencia y la experimentación pueden ayudar a determinar qué combinaciones son las más efectivas para ciertas tareas.
 - **Flexibilidad**: Aunque puede haber una secuencia recomendada para ciertos objetivos, la capa de receta debe permitir la adaptabilidad. Dependiendo del contexto o del modelo específico de AI, ciertas secuencias pueden ser más eficaces.
 - **Iteración**: La ingeniería de prompts es un proceso iterativo. Al experimentar con diferentes recetas, uno puede refinar y ajustar los componentes para obtener resultados óptimos.
+
+### Ya, pero ¿cómo?
+
+[📋 Propuesta de plantilla en hoja de cálculo](https://docs.google.com/spreadsheets/d/12ZWrmk_hv4i6X0tUPkBYEHCHynxTdQNHClmBFpjqbJc/edit?usp=sharing), adaptada de la sugerencia del *Prompt Institute*
+
+|||
+|-|-|
+**Elección de una aplicación**|Se selecciona una aplicación, como MS Excel, para crear y gestionar las recetas de indicaciones.
+**Definición de los componentes centrales**|Se describen los cuatro componentes principales - Tarea, Instrucciones, Contexto y Parámetros/Configuraciones.
+**Creación de una estructura flexible**|Se diseña una plantilla que pueda ser fácilmente adaptada y personalizada para diversas tareas y requisitos.
+**Incorporación de estandarización**|Se asegura una terminología y pautas de formato consistentes a lo largo de la plantilla.
+**Inclusión de opciones de personalización**|Se indica qué partes de la plantilla pueden ser modificadas y se proporciona orientación para adaptarlas.
+**Adición de documentación de metadatos**|Se proporciona información detallada sobre el propósito, uso y opciones de personalización de la plantilla, incluyendo las mejores prácticas para un rendimiento óptimo de la IA.
+**Prueba y refinamiento**|Se valida la plantilla con tareas ejemplares y se realizan los ajustes necesarios para mejorar la usabilidad y efectividad.
