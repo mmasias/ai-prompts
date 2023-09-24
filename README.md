@@ -12,26 +12,25 @@
 
 ## Para qué
 
-- Aproximarnos, intentar entender mejor, buscar una aplicación real.
-- Comprender (o al menos intentar entender) [el cambio](documentos/aDiaDeHoy.md)
+- Aproximarnos con una base que nos permita... 
+- comprender (o al menos intentar entender) [el cambio](documentos/aDiaDeHoy.md) y que podamos
+- tener base para encontrarle a todo esto aplicación real, efectiva (eficiente & eficaz)
 <!-- TODO: #1 Extender el para qué de las sesiones @mmasias -->
 
 ## ¿Cómo?
-|Aproximarnos|Intentar entender mejor|Buscar una aplicación real|
+|Aproximarnos|Comprender o entender |Aplicación real|
 |:-:|:-:|:-:|
-|Panorámica|Prompts & Ingeniería de Prompts|Casos de Uso|
+|[Panorámica](documentos/panorámica.md)|[Prompts](prompts/README.md), [Ingeniería de Prompts](ingenieriaDePrompts/README.md) & [Patrones](ingenieriaDePrompts/patrones/README.md)|[Casos de Uso](casosDeUso/README.md)|
 
 1. Introducción a la IA y su estado actual, revisando implementaciones de diversos servicios y centrándonos en los modelos de lenguaje que implementan el chatbot como interface.
 1. Luego una (muy breve pero necesaria) base teórica en la que veremos prompts, ingenieria de prompts y buenas prácticas en ambos casos.
 1. Finalmente -y con esta base revisada- explorar escenarios prácticos que harán uso de la herramienta de IA ChatGPT, de otras herramientas exploraremos cómo esta(s) tecnología(s) puede(n) ayudar a la mejora de la eficiencia. 
 
-- [Prompts](prompts/README.md) 
-- [Ingenieria de Prompts](ingenieriaDePrompts/README.md) 
-- [Patrones](ingenieriaDePrompts/patrones/README.md)
-- [Taller a.k.a. CdU](casosDeUso/README.md)
-- [Comunidad](comunidad.md)
-
 Al finalizar, se habrán visto un conjunto de casos de uso que se apoyan en la IA y en otras tecnologias, con la intención de que los participantes puedan extraer lo mejor de cada uno de ellos y puedan aplicarlos.
+
+### [Comunidad](comunidad.md)
+
+
 
 ## Bibliografía
 
