@@ -86,14 +86,17 @@ Runway -->
 
 #### Plugins & Herramientas
 
-- [GMail](https://www.aimails.dev/)
-- [Fireflies](https://app.fireflies.ai), transcripciones de audio
-- [HappyScribe](https://www.happyscribe.com/), similar al anterior
-- [Durable](https://es.durable.co) - Sitios web
-- [Humata](http://humata.ai) - Chat & documentos
-- [Beautiful](http://beautiful.ai) - Presentaciones
-- [Stunning](http://stunning.so) - Textos
-- [Sheetplus](https://sheetplus.ai) - Hojas de calculo
+- [Vademecum de plugins 001: 757](https://airtable.com/appTJyP732XVOXc85/shrDMadwueJxDLQRf/tblD6MYbL3FLmZ6NW)
+- [Vademecum de plugins 002: 922](https://www.startuphub.ai/a-list-of-78-chatgpt-plugins-currently-available-and-their-use-case/)
+- Y en concreto:
+  - [GMail](https://www.aimails.dev/)
+  - [Fireflies](https://app.fireflies.ai), transcripciones de audio
+  - [HappyScribe](https://www.happyscribe.com/), similar al anterior
+  - [Durable](https://es.durable.co) - Sitios web
+  - [Humata](http://humata.ai) - Chat & documentos
+  - [Beautiful](http://beautiful.ai) - Presentaciones
+  - [Stunning](http://stunning.so) - Textos
+  - [Sheetplus](https://sheetplus.ai) - Hojas de calculo
 
 #### Chatbots
 
