@@ -78,6 +78,7 @@ Runway -->
 - [Human generator](https://generated.photos/human-generator)
 - [Microsoft Designet](https://designer.microsoft.com/)
 - [Durable, generador de sitios web](https://durable.co/)
+- [Rask.ai, traducción de vídeos a varios idiomas, manteniendo el tono de voz](https://app.rask.ai/)
 
 #### Integraciones
 
