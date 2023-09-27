@@ -54,7 +54,6 @@ Aprender una habilidad que en un futuro será considerada básica
   - [Priming](priming.md)
   - [x-Shot prompting](xShotPrompting.md)
   - [Chain of thought](chainOfThought.md)
-  - x-Shot & Chain of thought
 - [Consideraciones de creación](consideraciones.md)
 - [Casos de usos](/casosDeUso/README.md)
 - Ejemplos empresariales
