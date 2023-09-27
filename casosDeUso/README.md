@@ -69,6 +69,7 @@
 - [Listas de personas](https://docs.google.com/spreadsheets/d/165DnYz3crJugiWnKrc9OLPECBia9Nkx0u22IZqvdOco/edit?usp=sharing) ❗
 - [Esquemas (ASCII, JSON, plantUML)](https://chat.openai.com/share/5ca0aa11-da9b-4640-ba3a-1dee13623e79)
 
-#### Concretas de Negocio
+#### Negocio
 
+- [Generalistas](negocio/promptsVarios.md)
 - [Caso de uso concreto de negocio](negocio/README.md)
