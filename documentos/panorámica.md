@@ -101,6 +101,7 @@ Runway -->
 - Plugins de ChatGPT
   - [Vademecum de plugins 001: 757](https://airtable.com/appTJyP732XVOXc85/shrDMadwueJxDLQRf/tblD6MYbL3FLmZ6NW)
   - [Vademecum de plugins 002: 922](https://www.startuphub.ai/a-list-of-78-chatgpt-plugins-currently-available-and-their-use-case/)
+- [**GPT for work**](https://gptforwork.com/)
 
 #### Chatbots
 
