@@ -43,7 +43,7 @@
 |Caso|Breve descripción|Herramientas|Transcripción|
 |-|-|-|-|
 |Un tutorial|-|-|[Un tutorial](tutorial.md)
-|Herculean pixels, caso completo|-|-|[Herculean pixels](herculeanPixels.md)
+|Herculean pixels|-|-|[Herculean pixels](herculeanPixels.md)
 |Actualización de artículo de hace 10 años|-|-|[Artículo](https://chat.openai.com/c/9194536e-7058-4aef-a898-c211a9cdbcff)
 |Fiscal de proyectos|-|-|[👨‍⚖️](https://chat.openai.com/c/c4eecd9b-96ed-4e78-824d-f4cafbc590ca)
 |Traducción especial|-|-|[Hola mundo](https://chat.openai.com/share/262d6424-1b0d-4c40-a348-22c414089fcf)|

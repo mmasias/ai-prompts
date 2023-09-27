@@ -60,6 +60,7 @@ Runway -->
 #### CRUD música
 
 - [Mubert](https://mubert.com/)
+- Música & Composición [Moises](https://moises.ai/)
 
 #### CRUD vídeo
 
@@ -70,25 +71,23 @@ Runway -->
 - Atención telefónica: [Jano](https://www.youtube.com/watch?v=fhoKnB6vwWg)
 - Salud [Glass AI](https://glass.health/ai)
 - RRHH [Sesame](https://www.sesamehr.es/ai/)
-- Música & Composición [Moises](https://moises.ai/)
 - Papers académicos [SCISPACE](https://typeset.io/)
 - [Modelos 3D a partir de fotografías](https://research.nvidia.com/labs/dir/neuralangelo/)
 - [Resumir vídeos de youtube](https://eightify.app/)
 - [Creación de presentaciones](https://gamma.app/generate) - [Presentación creada con Gamma](https://gamma.app/public/Introduccion-a-la-IA-y-su-estado-actual-s2pfcebzfn8j7xt)
 - [Human generator](https://generated.photos/human-generator)
-- [Microsoft Designet](https://designer.microsoft.com/)
+- [Microsoft Designer](https://designer.microsoft.com/)
 - [Durable, generador de sitios web](https://durable.co/)
 - [Rask.ai, traducción de vídeos a varios idiomas, manteniendo el tono de voz](https://app.rask.ai/)
+- [CopyAI](https://copy.ai) ([ChatGPT](https://chat.openai.com/share/23892a81-1e32-49c5-a60d-23c07ad65e02) y [CopyAI](https://app.copy.ai/projects/34198328?tool=chat&tab=results))
 
 #### Integraciones
 
- - https://app.integrately.com/
- - https://zapier.com/
+- https://app.integrately.com/
+- https://zapier.com/
 
 #### Plugins & Herramientas
 
-- [Vademecum de plugins 001: 757](https://airtable.com/appTJyP732XVOXc85/shrDMadwueJxDLQRf/tblD6MYbL3FLmZ6NW)
-- [Vademecum de plugins 002: 922](https://www.startuphub.ai/a-list-of-78-chatgpt-plugins-currently-available-and-their-use-case/)
 - Y en concreto:
   - [GMail](https://www.aimails.dev/)
   - [Fireflies](https://app.fireflies.ai), transcripciones de audio
@@ -99,6 +98,9 @@ Runway -->
   - [Stunning](http://stunning.so) - Textos
   - [Sheetplus](https://sheetplus.ai) - Hojas de calculo
   - [Aragon.ai](https://www.aragon.ai/) - Fotos a partir de fotos
+- Plugins de ChatGPT
+  - [Vademecum de plugins 001: 757](https://airtable.com/appTJyP732XVOXc85/shrDMadwueJxDLQRf/tblD6MYbL3FLmZ6NW)
+  - [Vademecum de plugins 002: 922](https://www.startuphub.ai/a-list-of-78-chatgpt-plugins-currently-available-and-their-use-case/)
 
 #### Chatbots
 
