@@ -1,13 +1,13 @@
 # Casos de uso
 
-## AIs utilizadas
+## LLMs utilizados
 
-- [ChatGPT](https://chat.openai.com/)
-- Claude
-- Bard
-- [Perplexity]
-- [Neuroflash](https://app.neuro-flash.com/aiWriter)
-- [Huggingface](https://huggingface.co/chat)
+<div align=center>
+
+|[ChatGPT](https://chat.openai.com/)|Claude|Bard|[Perplexity]|[Neuroflash](https://app.neuro-flash.com/aiWriter)|[Huggingface](https://huggingface.co/chat)
+|-|-|-|-|-|-
+
+</div>
 
 ## Listado
 
