@@ -1,13 +1,13 @@
 # Casos de uso
 
-## AIs utilizadas
+## LLMs utilizados
 
-- [ChatGPT](https://chat.openai.com/)
-- Claude
-- Bard
-- [Perplexity]
-- [Neuroflash](https://app.neuro-flash.com/aiWriter)
-- [Huggingface](https://huggingface.co/chat)
+<div align=center>
+
+|[ChatGPT](https://chat.openai.com/)|[Claude](https://claude.ai/chats)|[Bard](https://bard.google.com/)|[Perplexity](https://www.perplexity.ai/)|[Neuroflash](https://app.neuro-flash.com/aiWriter)|[Huggingface](https://huggingface.co/chat)
+|-|-|-|-|-|-
+
+</div>
 
 ## Listado
 
@@ -43,7 +43,7 @@
 |Caso|Breve descripción|Herramientas|Transcripción|
 |-|-|-|-|
 |Un tutorial|-|-|[Un tutorial](tutorial.md)
-|Herculean pixels, caso completo|-|-|[Herculean pixels](herculeanPixels.md)
+|Herculean pixels|-|-|[Herculean pixels](herculeanPixels.md)
 |Actualización de artículo de hace 10 años|-|-|[Artículo](https://chat.openai.com/c/9194536e-7058-4aef-a898-c211a9cdbcff)
 |Fiscal de proyectos|-|-|[👨‍⚖️](https://chat.openai.com/c/c4eecd9b-96ed-4e78-824d-f4cafbc590ca)
 |Traducción especial|-|-|[Hola mundo](https://chat.openai.com/share/262d6424-1b0d-4c40-a348-22c414089fcf)|
@@ -69,6 +69,7 @@
 - [Listas de personas](https://docs.google.com/spreadsheets/d/165DnYz3crJugiWnKrc9OLPECBia9Nkx0u22IZqvdOco/edit?usp=sharing) ❗
 - [Esquemas (ASCII, JSON, plantUML)](https://chat.openai.com/share/5ca0aa11-da9b-4640-ba3a-1dee13623e79)
 
-#### Concretas de Negocio
+#### Negocio
 
+- [Generalistas](negocio/promptsVarios.md)
 - [Caso de uso concreto de negocio](negocio/README.md)
