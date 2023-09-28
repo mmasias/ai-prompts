@@ -49,10 +49,10 @@ Wonder dinamic
 Runway -->
 #### CRUD texto
 
-- [ChatGPT](https://chat.openai.com/)
+- [**ChatGPT**](https://chat.openai.com/)
 - [Bard](https://bard.google.com/)
 - [Perplexity](https://www.perplexity.ai/)
-- [Claude](https://claude.ai/chats)
+- [**Claude**](https://claude.ai/chats)
 - [Ernie](https://yiyan.baidu.com/) (En fase de desarrollo: artículo en [Wikipedia](https://en.wikipedia.org/wiki/Ernie_Bot) / [¿Censurado?](https://web.archive.org/web/20230902185902/https://www.reuters.com/technology/baidus-ernie-writes-poems-says-it-has-insufficient-information-xi-tests-show-2023-03-20/))
 
 #### CRUD imágenes
