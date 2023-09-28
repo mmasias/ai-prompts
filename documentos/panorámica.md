@@ -37,7 +37,7 @@ Seguridad y privacidad|Los sistemas de IA deben ser diseñados y operados de man
 
 <div align=center>
 
-![](/imagenes/modelosUML/componentes.svg)
+![](/imagenes/modelosUML/componentes2.svg)
 
 </div>
 
