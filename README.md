@@ -41,6 +41,9 @@ Al finalizar, se habrán visto un conjunto de casos de uso que se apoyan en la I
 - 📖 [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
 
 ### Guía de construcción
+
+[Repo padre/abuelo](https://github.com/mmasias/chatGPT), abril de 2023 
+
 |||
 |-|-|
 **Ruta**|[🗺️](https://docs.google.com/spreadsheets/d/1CMCHoDKnVWJjKiB7Cp6_UR6JxROY0A3XASgdRtyVELc/edit?usp=sharing) 

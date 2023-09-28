@@ -94,6 +94,10 @@ Runway -->
 - https://app.integrately.com/
 - https://zapier.com/
 
+### Marcos de trabajo
+
+- [MetaGPT](https://github.com/geekan/MetaGPT)
+
 #### Plugins & Herramientas
 
 - Y en concreto:
