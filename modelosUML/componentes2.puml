@@ -1,10 +1,11 @@
 class datos
 class algoritmo
 class aplicación
-
+class APP
 
 
 aplicación <-l-> algoritmo
 algoritmo -l-> datos
 aplicación .> datos
 
+aplicación o--> APP

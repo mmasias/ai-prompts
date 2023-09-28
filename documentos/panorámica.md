@@ -8,6 +8,8 @@ Aprendizaje automático (ML por sus siglas en inglés)|Rama de la IA que utiliza
 
 > Las herramientas construidas en torno a los LLMs, como ChatGPT, Claude, Bard, etc. son una aplicación cada vez más importante del aprendizaje automático. Los LLMs generan *nuevo contenido*, convirtiéndolos en una forma de "IA generativa".
 
+> Más que preguntarnos si la AI es inteligente, preguntémonos ¿nuestra relación con la tecnología es inteligente? *[Daniel Innerarity](https://www.danielinnerarity.es/)*
+
 ## Qué
 
 <div align=center>
@@ -32,6 +34,12 @@ Seguridad y privacidad|Los sistemas de IA deben ser diseñados y operados de man
 [Ética y sesgo](etica@AI.md)|Los sistemas de IA pueden ser susceptibles a sesgos, dependiendo de los datos con los que son entrenados. Por lo tanto, es crucial considerar cuestiones de equidad, transparencia y rendición de cuentas en el diseño y la implementación de estos sistemas.
 
 ## ¿Para qué?
+
+<div align=center>
+
+![](/imagenes/modelosUML/componentes.svg)
+
+</div>
 
 ### Horizontales
 <!-- TODO #6 incluir las siguientes: Rask.ai
