@@ -47,32 +47,6 @@ Captions
 Wonder dinamic
 24ai
 Runway -->
-#### CRUD texto
-
-- [**ChatGPT**](https://chat.openai.com/)
-- [Bard](https://bard.google.com/)
-- [Perplexity](https://www.perplexity.ai/)
-- [**Claude**](https://claude.ai/chats)
-- [Ernie](https://yiyan.baidu.com/) (En fase de desarrollo: artículo en [Wikipedia](https://en.wikipedia.org/wiki/Ernie_Bot) / [¿Censurado?](https://web.archive.org/web/20230902185902/https://www.reuters.com/technology/baidus-ernie-writes-poems-says-it-has-insufficient-information-xi-tests-show-2023-03-20/))
-
-#### CRUD imágenes
-
-- [Dall-e](https://pitch.com/v/DALL-E-prompt-book-v1-tmd33y/d959fd01-3eea-4b16-9472-e79ccb635e98)
-- [MidJourney](https://docs.midjourney.com/docs/prompts)
-- Stable Diffussion
-- BlueWillow
-- [VisualChatGPT](https://stablediffusionweb.com/Visual-ChatGPT#demo)
-- Ideogramas: [Ideogram.ai](https://ideogram.ai/)
-
-
-#### CRUD música
-
-- [Mubert](https://mubert.com/)
-- Música & Composición [Moises](https://moises.ai/)
-
-#### CRUD vídeo
-
-- [CapCut](https://www.capcut.com/)
 |Texto|Imágenes|Música|Vídeos|
 |-|-|-|-
 |[ChatGPT](https://chat.openai.com/)|[Dall-e](https://pitch.com/v/DALL-E-prompt-book-v1-tmd33y/d959fd01-3eea-4b16-9472-e79ccb635e98)|[Mubert](https://mubert.com/)|[CapCut](https://www.capcut.com/)
