@@ -73,6 +73,14 @@ Runway -->
 #### CRUD vídeo
 
 - [CapCut](https://www.capcut.com/)
+|Texto|Imágenes|Música|Vídeos|
+|-|-|-|-
+|[ChatGPT](https://chat.openai.com/)|[Dall-e](https://pitch.com/v/DALL-E-prompt-book-v1-tmd33y/d959fd01-3eea-4b16-9472-e79ccb635e98)|[Mubert](https://mubert.com/)|[CapCut](https://www.capcut.com/)
+|[Bard](https://bard.google.com/)|[MidJourney](https://docs.midjourney.com/docs/prompts)|Música & Composición [Moises](https://moises.ai/)|
+|[Perplexity](https://www.perplexity.ai/)|Stable Diffussion| |
+|[Claude](https://claude.ai/chats)|BlueWillow| |
+|[Ernie](https://yiyan.baidu.com/) (En fase de desarrollo: artículo en [Wikipedia](https://en.wikipedia.org/wiki/Ernie_Bot) / [¿Censurado?](https://web.archive.org/web/20230902185902/https://www.reuters.com/technology/baidus-ernie-writes-poems-says-it-has-insufficient-information-xi-tests-show-2023-03-20/))|[VisualChatGPT](https://stablediffusionweb.com/Visual-ChatGPT#demo)| |
+||Ideogramas: [Ideogram.ai](https://ideogram.ai/)| |
 
 #### Verticales
 
@@ -80,14 +88,6 @@ Runway -->
 - Salud [Glass AI](https://glass.health/ai)
 - RRHH [Sesame](https://www.sesamehr.es/ai/)
 - Papers académicos [SCISPACE](https://typeset.io/)
-- [Modelos 3D a partir de fotografías](https://research.nvidia.com/labs/dir/neuralangelo/)
-- [Resumir vídeos de youtube](https://eightify.app/)
-- [Creación de presentaciones](https://gamma.app/generate) - [Presentación creada con Gamma](https://gamma.app/public/Introduccion-a-la-IA-y-su-estado-actual-s2pfcebzfn8j7xt)
-- [Human generator](https://generated.photos/human-generator)
-- [Microsoft Designer](https://designer.microsoft.com/)
-- [Durable, generador de sitios web](https://durable.co/)
-- [Rask.ai, traducción de vídeos a varios idiomas, manteniendo el tono de voz](https://app.rask.ai/)
-- [CopyAI](https://copy.ai) ([ChatGPT](https://chat.openai.com/share/23892a81-1e32-49c5-a60d-23c07ad65e02) y [CopyAI](https://app.copy.ai/projects/34198328?tool=chat&tab=results))
 
 #### Integraciones
 
@@ -114,6 +114,14 @@ Runway -->
   - [Vademecum de plugins 001: 757](https://airtable.com/appTJyP732XVOXc85/shrDMadwueJxDLQRf/tblD6MYbL3FLmZ6NW)
   - [Vademecum de plugins 002: 922](https://www.startuphub.ai/a-list-of-78-chatgpt-plugins-currently-available-and-their-use-case/)
 - [**GPT for work**](https://gptforwork.com/)
+- [Modelos 3D a partir de fotografías](https://research.nvidia.com/labs/dir/neuralangelo/)
+- [Resumir vídeos de youtube](https://eightify.app/)
+- [Creación de presentaciones](https://gamma.app/generate) - [Presentación creada con Gamma](https://gamma.app/public/Introduccion-a-la-IA-y-su-estado-actual-s2pfcebzfn8j7xt)
+- [Human generator](https://generated.photos/human-generator)
+- [Microsoft Designer](https://designer.microsoft.com/)
+- [Durable, generador de sitios web](https://durable.co/)
+- [Rask.ai, traducción de vídeos a varios idiomas, manteniendo el tono de voz](https://app.rask.ai/)
+- [CopyAI](https://copy.ai) ([ChatGPT](https://chat.openai.com/share/23892a81-1e32-49c5-a60d-23c07ad65e02) y [CopyAI](https://app.copy.ai/projects/34198328?tool=chat&tab=results))
 
 #### Chatbots
 
