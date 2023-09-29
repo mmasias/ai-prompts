@@ -92,7 +92,7 @@ Runway -->
 - Plugins de ChatGPT
   - [Vademecum de plugins 001: 757](https://airtable.com/appTJyP732XVOXc85/shrDMadwueJxDLQRf/tblD6MYbL3FLmZ6NW)
   - [Vademecum de plugins 002: 922](https://www.startuphub.ai/a-list-of-78-chatgpt-plugins-currently-available-and-their-use-case/)
-- [**GPT for work**](https://gptforwork.com/)
+- [**GPT for work**](https://gptforwork.com/) + [Plantilla muy útil](https://docs.google.com/spreadsheets/d/1SOz3u2A8Y6RXvXK_X2QdrcWJ7WklbgtWNE9ljZ_yaEc/template/preview)
 - [Modelos 3D a partir de fotografías](https://research.nvidia.com/labs/dir/neuralangelo/)
 - [Resumir vídeos de youtube](https://eightify.app/)
 - [Creación de presentaciones](https://gamma.app/generate) - [Presentación creada con Gamma](https://gamma.app/public/Introduccion-a-la-IA-y-su-estado-actual-s2pfcebzfn8j7xt)
