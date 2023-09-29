@@ -53,7 +53,7 @@ Runway -->
 |[Bard](https://bard.google.com/)|[MidJourney](https://docs.midjourney.com/docs/prompts)|Música & Composición [Moises](https://moises.ai/)|
 |[Perplexity](https://www.perplexity.ai/)|Stable Diffussion| |
 |[Claude](https://claude.ai/chats)|BlueWillow| |
-|[Ernie](https://yiyan.baidu.com/) (En fase de desarrollo: artículo en [Wikipedia](https://en.wikipedia.org/wiki/Ernie_Bot) / [¿Censurado?](https://web.archive.org/web/20230902185902/https://www.reuters.com/technology/baidus-ernie-writes-poems-says-it-has-insufficient-information-xi-tests-show-2023-03-20/))|[VisualChatGPT](https://stablediffusionweb.com/Visual-ChatGPT#demo)| |
+|[Ernie](https://yiyan.baidu.com/)<br>*(Aun en desarrollo<br>Artículo en [Wikipedia](https://en.wikipedia.org/wiki/Ernie_Bot)<br>[¿Censurado?](https://web.archive.org/web/20230902185902/https://www.reuters.com/technology/baidus-ernie-writes-poems-says-it-has-insufficient-information-xi-tests-show-2023-03-20/))*|[VisualChatGPT](https://stablediffusionweb.com/Visual-ChatGPT#demo)| |
 ||Ideogramas: [Ideogram.ai](https://ideogram.ai/)| |
 
 #### Verticales
