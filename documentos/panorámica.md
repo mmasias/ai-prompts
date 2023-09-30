@@ -107,7 +107,7 @@ Runway -->
 - [Microsoft Designer](https://designer.microsoft.com/)
 - [Durable, generador de sitios web](https://durable.co/)
 - Traducción
-  - [HeyGen](https://www.heygen.com/) - traducción de vídeos a varios idiomas, manteniendo el tono de voz & sincronizando labios.
+  - [HeyGen](https://www.heygen.com/) - Creación de un avatar a partir de un vídeo, manteniendo el tono de voz, multiidiomas & lipsync.
   - [Rask.ai](https://app.rask.ai/) - traducción de vídeos a varios idiomas, manteniendo el tono de voz.
 - [CopyAI](https://copy.ai) ([ChatGPT](https://chat.openai.com/share/23892a81-1e32-49c5-a60d-23c07ad65e02) y [CopyAI](https://app.copy.ai/projects/34198328?tool=chat&tab=results))
 
