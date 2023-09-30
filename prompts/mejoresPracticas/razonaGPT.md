@@ -1,3 +1,10 @@
+<div align=right>
+
+|[Inicio](/README.md)|[Introducción](/documentos/intro.md)|[Panorámica](/documentos/panorámica.md)|[Prompts](/prompts/README.md)|[Ingeniería de Prompts](/ingenieriaDePrompts/README.md)|[Patrones](/ingenieriaDePrompts/patrones/README.md)|[Casos de Uso](/casosDeUso/README.md)|
+|-|-|-|-|-|-|-
+
+</div>
+
 # Utilice un monólogo interno o una secuencia de consultas para visualizar y evidenciar el proceso de razonamiento del modelo
 
 > Bloque: Ayuda a los GPT a pensar

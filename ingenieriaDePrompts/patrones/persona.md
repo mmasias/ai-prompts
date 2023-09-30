@@ -1,3 +1,10 @@
+<div align=right>
+
+|[Inicio](/README.md)|[Introducción](/documentos/intro.md)|[Panorámica](/documentos/panorámica.md)|[Prompts](/prompts/README.md)|[Ingeniería de Prompts](/ingenieriaDePrompts/README.md)|[Patrones](/ingenieriaDePrompts/patrones/README.md)|[Casos de Uso](/casosDeUso/README.md)|
+|-|-|-|-|-|-|-
+
+</div>
+
 # El Patrón **Persona**
 
 [💬](https://chat.openai.com/share/08e8335b-375d-46d3-bb2c-685cc2614fb3)

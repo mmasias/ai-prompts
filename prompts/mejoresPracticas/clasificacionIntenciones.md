@@ -1,3 +1,10 @@
+<div align=right>
+
+|[Inicio](/README.md)|[Introducción](/documentos/intro.md)|[Panorámica](/documentos/panorámica.md)|[Prompts](/prompts/README.md)|[Ingeniería de Prompts](/ingenieriaDePrompts/README.md)|[Patrones](/ingenieriaDePrompts/patrones/README.md)|[Casos de Uso](/casosDeUso/README.md)|
+|-|-|-|-|-|-|-
+
+</div>
+
 # Utilice la clasificación de intenciones para identificar las instrucciones más relevantes para una consulta de usuario
 
 > Bloque: Divide y vencerás

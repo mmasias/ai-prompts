@@ -1,3 +1,10 @@
+<div align=right>
+
+|[Inicio](/README.md)|[Introducción](/documentos/intro.md)|[Panorámica](/documentos/panorámica.md)|[Prompts](/prompts/README.md)|[Ingeniería de Prompts](/ingenieriaDePrompts/README.md)|[Patrones](/ingenieriaDePrompts/patrones/README.md)|[Casos de Uso](/casosDeUso/README.md)|
+|-|-|-|-|-|-|-
+
+</div>
+
 # Claude
 
 [Ventana de contexto: **100k**](https://www.anthropic.com/index/100k-context-windows) *(~ 75,000 palabras) (~ 250 páginas)*

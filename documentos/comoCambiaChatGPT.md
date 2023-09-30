@@ -1,3 +1,10 @@
+<div align=right>
+
+|[Inicio](/README.md)|[Introducción](/documentos/intro.md)|[Panorámica](/documentos/panorámica.md)|[Prompts](/prompts/README.md)|[Ingeniería de Prompts](/ingenieriaDePrompts/README.md)|[Patrones](/ingenieriaDePrompts/patrones/README.md)|[Casos de Uso](/casosDeUso/README.md)|
+|-|-|-|-|-|-|-
+
+</div>
+
 # Cómo está cambiando ChatGPT con el tiempo/uso
 
 Los autores concluyen que el comportamiento de un "mismo" servicio de modelo de lenguaje grande puede cambiar sustancialmente en un período de tiempo relativamente corto, lo que resalta la necesidad de un monitoreo continuo de la calidad de estos modelos (páginas 1-3).
