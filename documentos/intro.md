@@ -1,3 +1,10 @@
+<div align=right>
+
+|[Inicio](/README.md)|[Introducción](/documentos/intro.md)|[Panorámica](/documentos/panorámica.md)|[Prompts](/prompts/README.md)|[Ingeniería de Prompts](/ingenieriaDePrompts/README.md)|[Patrones](/ingenieriaDePrompts/patrones/README.md)|[Casos de Uso](/casosDeUso/README.md)|
+|-|-|-|-|-|-|-
+
+</div>
+
 # Intro
 <!-- TODO #2 Mejorar el hilo de lo comentado. Poner una referencia a edans y la idea de "no se puede detener el avance de la tecnología -->
 <!-- TODO #3 Un enlace a los ismos de denegri también estaría bien  -->
