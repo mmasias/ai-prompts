@@ -82,7 +82,7 @@ Runway -->
 
 ### Marcos de trabajo
 
-- [MetaGPT](https://github.com/geekan/MetaGPT)
+- [MetaGPT](https://github.com/geekan/MetaGPT) / [Enlace directo](https://huggingface.co/spaces/deepwisdom/MetaGPT)
 
 #### Plugins & Herramientas
 
