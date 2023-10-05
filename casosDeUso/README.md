@@ -49,7 +49,7 @@
 
 |Caso|Breve descripción|Herramientas|Transcripción|
 |-|-|-|-|
-|Un tutorial|-|-|[Un tutorial](tutorial.md)
+|Refinar pregunta|-|-|[ChatGPT](https://chat.openai.com/share/1b68594e-ec33-4b76-a49e-cfadbad74243)
 |Herculean pixels|-|-|[Herculean pixels](herculeanPixels.md)
 |Actualización de artículo de hace 10 años|-|-|[Artículo](https://chat.openai.com/c/9194536e-7058-4aef-a898-c211a9cdbcff)
 |Fiscal de proyectos|-|-|[👨‍⚖️](https://chat.openai.com/c/c4eecd9b-96ed-4e78-824d-f4cafbc590ca)
