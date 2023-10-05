@@ -57,6 +57,7 @@
 |Traducción especial II (videojuego)|-|-|-|
 |Clasificación de preguntas (Y respuesta acorde)||[Hoja de cálculo](https://docs.google.com/spreadsheets/d/1oWpOuF7evbS-DvUj8ba2zpBMItXarUdcsWA51p4AaeA/edit?usp=sharing)|
 |Resumen & análisis de respuestas|Recibir respuestas, analizar diversos elementos de su contenido|ChatGPT, Google Sheets, [GPT for work](https://gptforwork.com/)|[Hoja de cálculo](https://docs.google.com/spreadsheets/d/10ByjpaajfxlpBmXImmQ-wE1TqPYr9FbFr-FiNEkRTB8/edit?usp=sharing)|
+|Conexión con formulario web & respuestas "en tiempo real"|[Formulario](https://docs.google.com/forms/d/e/1FAIpQLScTNkSxiW8D1-rjW80NKiju44XdRCQnEy0wCpZU5Wi4u47mmA/viewform) / [Respuestas recibidas](https://docs.google.com/spreadsheets/d/17FOJtOcbeUVV5ijeMTaWumoP-bixfP8gZ1ErUeRo7Qs/edit#gid=728322039)
 |Rebranding de sitio web de servicios|pdeinfo.com, 1999|[ClaudeAI](https://claude.ai/chat/99747db0-b56b-4e55-9826-9b80a4598116) / [ChatGPT](https://chat.openai.com/share/23892a81-1e32-49c5-a60d-23c07ad65e02)
 |Viabilidad de una idea & pySimilares|[ChatGPT](https://chat.openai.com/share/52d3f54c-de88-43e4-9deb-228369564c52) 
 |Charla contextualizada|Conversar con alguien de los 90s|[ChatGPT](https://chat.openai.com/share/fe504c5d-dfa2-4a63-add0-b3d26ea18d89)|
