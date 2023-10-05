@@ -62,7 +62,6 @@
 |Viabilidad de una idea & pySimilares|[ChatGPT](https://chat.openai.com/share/52d3f54c-de88-43e4-9deb-228369564c52) 
 |Charla contextualizada|Conversar con alguien de los 90s|[ChatGPT](https://chat.openai.com/share/fe504c5d-dfa2-4a63-add0-b3d26ea18d89)|
 
-
 <!-- TODO: #9 Modelar Google Wave y ver qué dice -->
 <!-- TODO: #11 Simular un lanzamiento de producto en 1999 o en la edad media :P -->
 
