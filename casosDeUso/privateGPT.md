@@ -24,6 +24,7 @@ Sobretodo, por un tema de privacidad.
 
 - [PrivateGPT](https://github.com/imartinez/privateGPT/tree/main)
 - [LocalGPT](https://github.com/PromtEngineer/localGPT)
+- [GPT4All](https://gpt4all.io/index.html) --> ***+sencillo!***
 
 ### PrivateGPT
 
