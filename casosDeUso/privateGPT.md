@@ -28,7 +28,7 @@ Sobretodo, por un tema de privacidad.
 
 ### PrivateGPT
 
-- Instalado sobre KUbuntu 
+- Lo he instalado sobre KUbuntu, se puede instalar sobre otros sistemas operativos, como Windows, Mac OS u otra distro de GNU/Linux. 
 - El proceso de instalación en la página del proyecto, tiene pequeñas variaciones en función del sistema operativo, pero *grosso modo* consiste en: 
 
 | | |
