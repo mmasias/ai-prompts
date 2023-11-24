@@ -7,6 +7,8 @@
 
 # Panorámica
 
+[Hiper-panorámica](hiperpanorámica.md)
+
 | | | |
 |-|-|-|
 Inteligencia artificial (AI por sus siglas en inglés)|Término general que se refiere a un sistema informático que es capaz de sentir, razonar o actuar como un humano.|[Legg, A Collection of Definitions of Intelligence](https://www.researchgate.net/publication/1895883_A_Collection_of_Definitions_of_Intelligence)
@@ -115,6 +117,9 @@ Runway -->
 
 - [Dante](https://dante-ai.com/)
 - [Droxy](https://www.droxy.ai/)
+
+
+
 
 ## ¿Cómo?
 
