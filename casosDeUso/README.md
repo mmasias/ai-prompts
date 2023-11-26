@@ -11,8 +11,8 @@
 
 <div align=center>
 
-|[ChatGPT](https://chat.openai.com/)|[Claude](https://claude.ai/chats)|[Bard](https://bard.google.com/)|[Perplexity](https://www.perplexity.ai/)|[Neuroflash](https://app.neuro-flash.com/aiWriter)|[Huggingface](https://huggingface.co/chat)
-|-|-|-|-|-|-
+|[ChatGPT](https://chat.openai.com/)|[Claude](https://claude.ai/chats)|[Bard](https://bard.google.com/)|[Perplexity](https://www.perplexity.ai/)|[Neuroflash](https://app.neuro-flash.com/aiWriter)|[Huggingface](https://huggingface.co/chat)|[Copilot](https://copilot.microsoft.com/)
+|-|-|-|-|-|-|-
 
 </div>
 
