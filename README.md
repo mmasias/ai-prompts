@@ -39,6 +39,7 @@ Al finalizar, se habrán visto un conjunto de casos de uso que se apoyan en la I
 
 ## Bibliografía et al...
 
+- [Recopilatorio de otros cursos](/documentos/cursosExternos/README.md)
 - [Documentación OpenAI](https://platform.openai.com/docs/introduction/overview)
 - [Prompt Engineering Institute](https://www.promptengineering.org/learn/)
 - [Learn prompting](https://learnprompting.org/)
