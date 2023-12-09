@@ -49,6 +49,7 @@
 
 |Caso|Breve descripción|Herramientas|Transcripción|
 |-|-|-|-|
+|Construcción de un juego|-|-|[ChatGPT](https://chat.openai.com/share/f3d914ee-0166-4cdf-b063-a8346643b38a)
 |Refinar pregunta|-|-|[ChatGPT](https://chat.openai.com/share/1b68594e-ec33-4b76-a49e-cfadbad74243)
 |Herculean pixels|-|-|[Herculean pixels](herculeanPixels.md)
 |Actualización de artículo de hace 10 años|-|-|[Artículo](https://chat.openai.com/c/9194536e-7058-4aef-a898-c211a9cdbcff)
