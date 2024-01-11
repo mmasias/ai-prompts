@@ -110,7 +110,7 @@ Runway -->
 - [Durable, generador de sitios web](https://durable.co/)
 - Traducción
   - [HeyGen](https://www.heygen.com/) - Creación de un avatar a partir de un vídeo, manteniendo el tono de voz, multiidiomas & lipsync.
-  - [Rask.ai](https://app.rask.ai/) - traducción de vídeos a varios idiomas, manteniendo el tono de voz.
+  - [Rask.ai](https://app.rask.ai/) - traducción de vídeos a varios idiomas, manteniendo el tono de voz. [Ejemplo](https://app.rask.ai/project/41644bdf-10f2-47ef-bb40-eef50c7f804d)
 - [CopyAI](https://copy.ai) ([ChatGPT](https://chat.openai.com/share/23892a81-1e32-49c5-a60d-23c07ad65e02) y [CopyAI](https://app.copy.ai/projects/34198328?tool=chat&tab=results))
 
 #### Chatbots
