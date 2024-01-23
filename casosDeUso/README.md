@@ -44,6 +44,7 @@
 |-|:-:|-|-|
 |Análisis de datos|📈|[Analizar datos y su evolución](analisisDeDatos.md)
 |Esquemas, diagrama y dibujos|📐|[Generar esquemas y diagramas](esquemasDiagramas.md)
+Visión||[Diferentes escenarios de visión](visionGPT.md)
 
 ### *2DO:* Ir convirtiendo esto en MDs independientes y conectados...
 
