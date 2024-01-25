@@ -39,6 +39,7 @@ Adicionalmente, vemos que contesta cada una de las IAs
 [Claude](https://claude.ai/chat/65ccee63-fdde-460a-8f31-7646a677e473)|*No está en abierto*
 [Bard](/imagenes/acronimos.bard.png)
 [NeuroFlash](https://app.neuro-flash.com/ai-writer/ac997dc2a342a98ff857177183efff15/preview)|😂 y actualizado para incluir el enlace.
+[Copilot](https://sl.bing.net/f3rft2X0xBQ)|Parece que pilla la sutileza del reuso del término PANAL y abejas
 
 |Buenas prácticas|& Reflexiones
 |-|-|
