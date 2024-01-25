@@ -127,7 +127,7 @@
 |-|-|-|
 |Slideoo|[slideoo.ai](https://slideoo.ai/ai-feature-page)|Herramienta de IA para presentaciones|
 |Decktopus|[decktopus.com](https://www.decktopus.com/)|IA para creación de presentaciones interactivas|
-|Simplified|[simplified.com/ai-presentation-maker](https://simplified.com/ai-presentation-maker)|IA para diseño y creación de presentaciones|
+|Simplified|[Simplified](https://simplified.com/ai-presentation-maker)|IA para diseño y creación de presentaciones|
 |Beautiful|[beautiful.ai](https://www.beautiful.ai/)|Generador de presentaciones con IA|
 |SlidesGPT|[SlidesGPT](https://slidesgpt.com/)|IA para generación de contenido de diapositivas|
 |Wepick|[WePick](https://wepik.com/es/presentaciones-ai)|IA para selección y diseño de presentaciones|
