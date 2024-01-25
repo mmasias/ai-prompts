@@ -50,12 +50,11 @@
 
 |Nombre|Link|Descripción|
 |-|-|-|
-|Klap|[klap.app](https://klap.app/)|Plataforma de IA para desarrollo web|
 |Durable|[es.durable.co](https://es.durable.co/)|Constructor de sitios web con IA|
 |10Web|[10web.io](https://10web.io/)|Creación y gestión de sitios web con IA|
 |Dora|[dora.run](https://www.dora.run/)|Asistente de IA para desarrollo web|
 |Framer|[framer.com](https://www.framer.com/)|Herramienta de diseño web con capacidades de IA|
-|Bookmark|[appsumo.com/products/marketplace-bookmark-website-builder/](https://appsumo.com/products/marketplace-bookmark-website-builder/)|Constructor de sitios web impulsado por IA|
+|Bookmark|[Bookmark](https://www.bookmark.com/)|Constructor de sitios web impulsado por IA|
 |Sitekick AI|[sitekick.ai](https://www.sitekick.ai/)|Plataforma de IA para creación de sitios web|
 
 ## Generar videos
@@ -70,14 +69,14 @@
 |Latte Social|[latte.social](https://www.latte.social)|Plataforma de IA para creación de contenido de video|
 |InVideo|[invideo.io](https://invideo.io)|Editor de video impulsado por IA|
 |vidIQ|[vidiq.com](https://vidiq.com)|Herramientas de IA para creadores de contenido en YouTube|
-|Wondershare Virbo|[virbo.wondershare.com](https://virbo.wondershare.com)|IA para edición y producción de video|
+|Wondershare Virbo|[Virbo](https://virbo.wondershare.com)|IA para edición y producción de video|
 |Opus|[opus.ai](https://opus.ai)|Herramienta de IA para creación de videos narrativos|
 
 ## Logotipos
 
 |Nombre|Link|Descripción|
 |-|-|-|
-|Namecheap|[namecheap.com](https://www.namecheap.com)|Generador de logotipos con IA|
+|Namecheap|[namecheap.com](https://www.namecheap.com/logo-maker/)|Generador de logotipos con IA|
 |Brandmark|[brandmark.io](https://brandmark.io)|Diseño de logotipos con IA|
 |Logo Pony|[logopony.com](https://www.logopony.com)|Creación de logotipos con IA|
 |Logo AI|[makelogo.ai](https://makelogo.ai)|Herramienta de IA para diseño de logotipos|
@@ -90,7 +89,7 @@
 |Lovo AI|[lovo.ai](https://lovo.ai)|Generación de voz y audio con IA|
 |Eleven Labs|[elevenlabs.io](https://elevenlabs.io)|Sintetizador de voz con IA|
 |Songburst AI|[songburst.ai](https://www.songburst.ai)|Creación de música y audio con IA|
-|Adobe Podcast|[podcast.adobe.com](https://podcast.adobe.com)|Herramienta de IA para podcasters|
+|Adobe Podcast|[Adobe](https://podcast.adobe.com)|Herramienta de IA para podcasters|
 |Oto AI|[oto.ai](https://www.oto.ai)|Análisis de voz y audio con IA|
 |Fireflies AI|[fireflies.ai](https://fireflies.ai/)|Transcripción y análisis de reuniones con IA|
 
