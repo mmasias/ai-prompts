@@ -31,11 +31,13 @@ Este caso de uso implica el desarrollo y la implementación de un sistema basado
 Recopilar pares de artículos para el análisis, incluyendo tanto ejemplos de textos originales como textos plagiados conocidos para entrenamiento y prueba.|Configurar el LLM para procesar y analizar textos. Esto puede incluir la tokenización del texto, análisis semántico y sintáctico, y comparación de patrones de escritura.|Probar el sistema con una variedad de documentos para evaluar su precisión y capacidad para detectar plagio en diferentes estilos y formatos de escritura.|Integrar el sistema en un entorno donde educadores y profesionales puedan subir documentos para su revisión.|Recopilar retroalimentación de los usuarios para mejorar continuamente la precisión y usabilidad del sistema.
 ||Implementar algoritmos para puntuar y resaltar similitudes entre los textos.||Proporcionar una interfaz de usuario intuitiva para presentar los resultados del análisis.
 
+Ejemplo 2: [Documento original (en inglés)](https://instituciones.sld.cu/psicosaludhabana/files/2012/02/f_usability_jh1.pdf) / [Documento plagiado](auditorAutoriaArticuloPlagiadoArticulo.md)
+
 ### Transcripciones
 
 |Motor|Comentario|
 |-|-|
-[ChatGPT](https://chat.openai.com/share/eb63349b-849b-4b5f-b5df-8f52a1890454)
+[ChatGPT](https://chat.openai.com/share/eb63349b-849b-4b5f-b5df-8f52a1890454) / [Ejemplo 2](https://chat.openai.com/share/f77c7c2c-e5e6-4c7e-8671-f429e7e7130a)
 [Perplexity]
 [Claude]
 [Bard]
