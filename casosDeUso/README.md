@@ -35,6 +35,7 @@
 |Metanivel y reflexión|🤔|[MetaCasoDeUso](metaCasoDeUso.md)|Organizar en casos de uso la presentación de los casos de uso
 |Avanzado y eficiencia|🈲|[Shoggoth Tongue](shoggothTongue.md)|Compresión de prompts
 |Interacción bidimensional|🎭|[Simulación de Roles](rpgInverso.md)|IA adoptando roles y simulando emociones en situaciones específicas
+|Resúmenes de contenidos generados||[7+-2](enCincoPuntos.md)
 
 ## 2DOs
 
