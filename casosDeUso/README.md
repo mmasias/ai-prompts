@@ -37,6 +37,7 @@
 |Interacción bidimensional|🎭|[Simulación de Roles](rpgInverso.md)|IA adoptando roles y simulando emociones en situaciones específicas
 |"Turnit·in"||[Auditor de autoría](auditorAutoria.md)|
 |Resúmenes de contenidos generados||[7+-2](enCincoPuntos.md)
+|Presentación formato MARP|👨🏽‍🏫|[Presentación](marpPresentacion.md)
 
 ## 2DOs
 
