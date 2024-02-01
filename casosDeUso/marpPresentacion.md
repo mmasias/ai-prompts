@@ -8,7 +8,7 @@ class:
 
 # Grado en Ingeniería Informática
 ### Presentación del Programa Académico
-*[Generador](https://chat.openai.com/c/e1510bc0-2a6a-46f2-9195-a3b2a556ff82)*
+*[Generador](https://chat.openai.com/c/e1510bc0-2a6a-46f2-9195-a3b2a556ff82)* / *[Generado](/casosDeUso/marpPresentacion.pdf)*
 
 ---
 
