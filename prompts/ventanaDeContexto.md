@@ -25,6 +25,12 @@ GPT-4| 8192<br>*32768 (?)*
 
 Si una conversación supera este límite, se deben eliminar partes del texto para que quepa en la ventana de contexto.
 
+|Tokens vs palabras|
+|-|
+[@ChatGPT4](https://chat.openai.com/share/52db2723-48e5-49f1-a734-67b721920bf1)
+[@ChatGPT3.5](https://chat.openai.com/share/b10b28f2-2b4c-4ccc-abe8-dd130e4b6990)
+[@Copilot](https://sl.bing.net/oiXW58tqDY)
+
 ## ¿Para qué?
 
 |||
