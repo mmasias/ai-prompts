@@ -60,6 +60,8 @@ Contexto|Escribe para una audiencia de emprendedores aspirantes y establecidos.
 Entrada|Ser emprendedor se trata de servir.
 Parámetros|-
 
+> [🤔@ChatGPT](https://chat.openai.com/share/1a7ea22d-f6e8-4822-9aa0-7a4038ebe01b)
+
 |[💬🤖](https://chat.openai.com/share/a2631470-7997-4b3a-b157-9ad8815761f4)|Lista y consejos
 |-|-|
 **Prompt**|Crea una lista de consejos prácticos para emprendedores aspirantes usando la siguiente cita. Enfatiza la importancia de servir a los demás y causar un impacto positivo. Escribe para una audiencia de millennials que están pasando por dificultades y están interesados en iniciar un negocio. Aquí está la cita: Convierte tu pasión en un negocio exitoso poniendo siempre las necesidades de los demás primero.
