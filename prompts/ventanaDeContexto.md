@@ -15,6 +15,13 @@ Los modelos de lenguaje de gran escala no tienen una "memoria" en el sentido tra
 
 La "Ventana de contexto" es un fragmento de texto que incluye las interacciones más recientes en una conversación con el modelo. Este fragmento es lo que el modelo utiliza para generar respuestas. 
 
+<div align=center>
+  
+|Contexto|PROMPT|Respuesta|
+|-|-|-|
+
+</div>
+
 En el caso de GPT-3 y GPT-4, [la ventana de contexto tiene un límite de tokens](https://platform.openai.com/docs/models/gpt-3-5), que son las unidades básicas de texto que el modelo puede entender.
 
 ||Ventana de contexto (*en tokens*)|
@@ -25,11 +32,23 @@ GPT-4| 8192<br>*32768 (?)*
 
 Si una conversación supera este límite, se deben eliminar partes del texto para que quepa en la ventana de contexto.
 
+### Tokens vs palabras
+
 |Tokens vs palabras|
 |-|
 [@ChatGPT4](https://chat.openai.com/share/52db2723-48e5-49f1-a734-67b721920bf1)
 [@ChatGPT3.5](https://chat.openai.com/share/b10b28f2-2b4c-4ccc-abe8-dd130e4b6990)
 [@Copilot](https://sl.bing.net/oiXW58tqDY)
+
+Los modelos de lenguaje no "ven" palabras, sino tokens.
+
+|Frase|Frase tokenizada|
+|-|-|
+|Learning new things is fun!|Learning / new / things / is / fun / !|
+|Prompting is a new powerful developer tool.|Prom / pt / ing / is / a / new / powerful / developer / tool / .|
+|lollipop|l / oll / ipop|
+
+Para el idioma inglés, 1 token es alrededor de 4 caracteres
 
 ## ¿Para qué?
 
