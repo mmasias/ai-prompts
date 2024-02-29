@@ -76,6 +76,8 @@ Runway -->
 - Salud [Glass AI](https://glass.health/ai)
 - RRHH [Sesame](https://www.sesamehr.es/ai/)
 - Papers académicos [SCISPACE](https://typeset.io/)
+- [Google Document AI](https://cloud.google.com/solutions/procurement-doc-ai?hl=es-419)
+
 
 #### Integraciones
 
