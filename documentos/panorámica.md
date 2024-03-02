@@ -66,7 +66,7 @@ Runway -->
 |[Perplexity](https://www.perplexity.ai/)|Stable Diffussion| |
 |[Claude](https://claude.ai/chats)|BlueWillow| |
 |[Ernie](https://yiyan.baidu.com/)<br>*(Aun en desarrollo<br>Artículo en [Wikipedia](https://en.wikipedia.org/wiki/Ernie_Bot)<br>[¿Censurado?](https://web.archive.org/web/20230902185902/https://www.reuters.com/technology/baidus-ernie-writes-poems-says-it-has-insufficient-information-xi-tests-show-2023-03-20/))*|[VisualChatGPT](https://stablediffusionweb.com/Visual-ChatGPT#demo)| |
-||Ideogramas: [Ideogram.ai](https://ideogram.ai/)| |
+|[Gemini](https://gemini.google.com/app)|Ideogramas: [Ideogram.ai](https://ideogram.ai/)| |
 
 </div>
 
@@ -76,6 +76,8 @@ Runway -->
 - Salud [Glass AI](https://glass.health/ai)
 - RRHH [Sesame](https://www.sesamehr.es/ai/)
 - Papers académicos [SCISPACE](https://typeset.io/)
+- [Google Document AI](https://cloud.google.com/solutions/procurement-doc-ai?hl=es-419)
+
 
 #### Integraciones
 
