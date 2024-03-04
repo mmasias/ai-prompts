@@ -6,6 +6,12 @@
 |-|-|-|
 |Jasper AI|[jasper.ai](https://www.jasper.ai/)|Herramienta de IA para marketing y creación de contenido|
 
+## Trabajo colaborativo y similares
+
+|Nombre|Link|Descripción|
+|-|-|-|
+[Whimsical](https://whimsical.com/)|Mapas mentales
+
 ## Redes sociales
 
 |Nombre|Link|Descripción|
