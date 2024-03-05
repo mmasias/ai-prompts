@@ -141,3 +141,26 @@
 |SlidesGo|[SlidesGo AI](https://slidesgo.com/es/ai-presentations)|IA para creación de presentaciones personalizadas|
 |Presentations|[Presentations AI](https://www.presentations.ai/)|IA para optimización de presentaciones|
 |Kroma|[Kroma](https://kroma.ai/)|IA para presentaciones profesionales y de negocios|
+
+
+## Por clasificar
+
+|Nombre|
+|-|
+[https://replicate.com/](https://replicate.com/)
+[https://bigjpg.com/](https://bigjpg.com/)
+[https://www.remove.bg/es](https://www.remove.bg/es)
+[https://chat.openai.com/](https://chat.openai.com/)
+[https://claude.ai/](https://claude.ai/)
+[https://bard.google.com/](https://bard.google.com/)
+[https://www.bing.com/search?q=Bing+AI…](https://www.bing.com/search?q=Bing+AI…)
+[https://www.perplexity.ai/](https://www.perplexity.ai/)
+[https://harpa.ai/](https://harpa.ai/)
+[https://ideogram.ai/t/trending](https://ideogram.ai/t/trending)
+[https://leonardo.ai/](https://leonardo.ai/)
+[https://www.bing.com/images/create](https://www.bing.com/images/create)
+[https://pika.art/](https://pika.art/)
+[https://convert.leiapix.com/](https://convert.leiapix.com/)
+[https://elevenlabs.io/](https://elevenlabs.io/)
+[https://ttsmaker.com/](https://ttsmaker.com/)
+[https://lumalabs.ai/](https://lumalabs.ai/)
