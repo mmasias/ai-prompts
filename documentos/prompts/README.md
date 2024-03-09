@@ -1,6 +1,6 @@
 <div align=right>
 
-|[Inicio](/README.md)|[Introducción](/documentos/intro.md)|[Panorámica](/documentos/panorámica.md)|[Prompts](/prompts/README.md)|[Ingeniería de Prompts](/ingenieriaDePrompts/README.md)|[Patrones](/ingenieriaDePrompts/patrones/README.md)|[Casos de Uso](/casosDeUso/README.md)|
+|[Inicio](/README.md)|[Introducción](/documentos/intro.md)|[Panorámica](/documentos/panorámica.md)|[Prompts](/documentos/prompts/README.md)|[Ingeniería de Prompts](/documentos/ingenieriaDePrompts/README.md)|[Patrones](/documentos/ingenieriaDePrompts/patrones/README.md)|[Casos de Uso](/documentos/casosDeUso/README.md)|
 |-|-|-|-|-|-|-
 
 </div>
@@ -26,7 +26,7 @@ Muchas aplicaciones de LLMs como la generación de código, resúmenes y traducc
 
 <div align="center">
 
-|![](/imagenes/modelosUML/sesion.svg)|
+|![](/documentos/imagenes/modelosUML/sesion.svg)|
 |-|
 Instrucción o solicitud de información que se le da a un modelo de lenguaje, en forma de pregunta o enunciado que inicia la conversación o solicita una respuesta del modelo.
 Por ejemplo, "*¿Cuál es la capital de Francia?*" o "*Escribe un poema sobre la primavera*".

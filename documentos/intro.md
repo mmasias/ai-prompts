@@ -1,6 +1,6 @@
 <div align=right>
 
-|[Inicio](/README.md)|[Introducción](/documentos/intro.md)|[Panorámica](/documentos/panorámica.md)|[Prompts](/prompts/README.md)|[Ingeniería de Prompts](/ingenieriaDePrompts/README.md)|[Patrones](/ingenieriaDePrompts/patrones/README.md)|[Casos de Uso](/casosDeUso/README.md)|
+|[Inicio](/README.md)|[Introducción](/documentos/intro.md)|[Panorámica](/documentos/panorámica.md)|[Prompts](/documentos/prompts/README.md)|[Ingeniería de Prompts](/documentos/ingenieriaDePrompts/README.md)|[Patrones](/documentos/ingenieriaDePrompts/patrones/README.md)|[Casos de Uso](/documentos/casosDeUso/README.md)|
 |-|-|-|-|-|-|-
 
 </div>
@@ -29,7 +29,7 @@
     </tr>
     <tr>
         <td rowspan="5" align="center">
-            <img src="https://github.com/mmasias/ai-prompts/blob/main/imagenes/bibliaChatGPT.png" width="150px">
+            <img src="../documentos/imagenes/bibliaChatGPT.png" width="150px">
         </td>
         <td>
         10,000 prompts & comprobados
@@ -46,7 +46,7 @@
 
 |Teletrabajo|Paradoja de la dirección|
 |-|-|
-![](/imagenes/modelosUML/introTeletrabajo.svg)|![](/imagenes/modelosUML/introDireccion.svg)
+![](/documentos/imagenes/modelosUML/introTeletrabajo.svg)|![](/documentos/imagenes/modelosUML/introDireccion.svg)
 
 
 |||

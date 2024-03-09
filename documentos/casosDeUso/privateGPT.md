@@ -1,6 +1,6 @@
 <div align=right>
 
-|[Inicio](/README.md)|[Introducción](/documentos/intro.md)|[Panorámica](/documentos/panorámica.md)|[Prompts](/prompts/README.md)|[Ingeniería de Prompts](/ingenieriaDePrompts/README.md)|[Patrones](/ingenieriaDePrompts/patrones/README.md)|[Casos de Uso](/casosDeUso/README.md)|
+|[Inicio](/README.md)|[Introducción](/documentos/intro.md)|[Panorámica](/documentos/panorámica.md)|[Prompts](/documentos/prompts/README.md)|[Ingeniería de Prompts](/documentos/ingenieriaDePrompts/README.md)|[Patrones](/documentos/ingenieriaDePrompts/patrones/README.md)|[Casos de Uso](/documentos/casosDeUso/README.md)|
 |-|-|-|-|-|-|-
 
 </div>
@@ -37,9 +37,9 @@ Sobretodo, por un tema de privacidad.
 |[Descargar un motor de modelo de lenguage](https://gpt4all.io/index.html)|He usado el [recomendado](https://gpt4all.io/models/ggml-gpt4all-j-v1.3-groovy.bin).
 |Instalar un conjunto de librerías (incluidas en el archivo **requirements.txt**)|```sudo pip3 install -r requirements.txt --break-system-packages```
 |Retocar el archivo de configuración (**.env** a partir de example.env)|
-|Colocar los archivos a trabajar en la carpeta **source_documents**|![](/imagenes/privateGPT_files.png)
-|Alimentar al LLM mediante el comando **ingest.py**|![](/imagenes/privateGPT_ingest.py.png)
-Ejecutar el modelo, utilizando **privateGPT.py**|![](/imagenes/privateGPT_query001.png)
+|Colocar los archivos a trabajar en la carpeta **source_documents**|![](/documentos/imagenes/privateGPT_files.png)
+|Alimentar al LLM mediante el comando **ingest.py**|![](/documentos/imagenes/privateGPT_ingest.py.png)
+Ejecutar el modelo, utilizando **privateGPT.py**|![](/documentos/imagenes/privateGPT_query001.png)
 
 #### Impresiones
 

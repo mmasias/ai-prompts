@@ -1,6 +1,6 @@
 <div align=right>
 
-|[Inicio](/README.md)|[Introducción](/documentos/intro.md)|[Panorámica](/documentos/panorámica.md)|[Prompts](/prompts/README.md)|[Ingeniería de Prompts](/ingenieriaDePrompts/README.md)|[Patrones](/ingenieriaDePrompts/patrones/README.md)|[Casos de Uso](/casosDeUso/README.md)|
+|[Inicio](/README.md)|[Introducción](/documentos/intro.md)|[Panorámica](/documentos/panorámica.md)|[Prompts](/documentos/prompts/README.md)|[Ingeniería de Prompts](/documentos/ingenieriaDePrompts/README.md)|[Patrones](/documentos/ingenieriaDePrompts/patrones/README.md)|[Casos de Uso](/documentos/casosDeUso/README.md)|
 |-|-|-|-|-|-|-
 
 </div>
@@ -29,7 +29,7 @@
 
 | | | |
 |-|-|-|
-|Iteración 1|![](/imagenes/diagramaContextoFlujo001.png)|![](/imagenes/modelosUML/diagramaContextoFlujo001.svg)|
-|Iteración 2|![](/imagenes/diagramaContextoFlujo002.png)|![](/imagenes/modelosUML/diagramaContextoFlujo002.svg)|
-|Iteración 3|![](/imagenes/diagramaContextoFlujo003.png)|![](/imagenes/modelosUML/diagramaContextoFlujo003.svg)|
-|Iteración 4|![](/imagenes/diagramaContextoFlujo004.png)|![](/imagenes/modelosUML/diagramaContextoFlujo004.svg)|
+|Iteración 1|![](/documentos/imagenes/diagramaContextoFlujo001.png)|![](/documentos/imagenes/modelosUML/diagramaContextoFlujo001.svg)|
+|Iteración 2|![](/documentos/imagenes/diagramaContextoFlujo002.png)|![](/documentos/imagenes/modelosUML/diagramaContextoFlujo002.svg)|
+|Iteración 3|![](/documentos/imagenes/diagramaContextoFlujo003.png)|![](/documentos/imagenes/modelosUML/diagramaContextoFlujo003.svg)|
+|Iteración 4|![](/documentos/imagenes/diagramaContextoFlujo004.png)|![](/documentos/imagenes/modelosUML/diagramaContextoFlujo004.svg)|

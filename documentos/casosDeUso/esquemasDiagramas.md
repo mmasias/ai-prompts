@@ -1,6 +1,6 @@
 <div align=right>
 
-|[Inicio](/README.md)|[Introducción](/documentos/intro.md)|[Panorámica](/documentos/panorámica.md)|[Prompts](/prompts/README.md)|[Ingeniería de Prompts](/ingenieriaDePrompts/README.md)|[Patrones](/ingenieriaDePrompts/patrones/README.md)|[Casos de Uso](/casosDeUso/README.md)|
+|[Inicio](/README.md)|[Introducción](/documentos/intro.md)|[Panorámica](/documentos/panorámica.md)|[Prompts](/documentos/prompts/README.md)|[Ingeniería de Prompts](/documentos/ingenieriaDePrompts/README.md)|[Patrones](/documentos/ingenieriaDePrompts/patrones/README.md)|[Casos de Uso](/documentos/casosDeUso/README.md)|
 |-|-|-|-|-|-|-
 
 </div>
@@ -38,8 +38,8 @@ Modificación (si es necesario)|Si se requieren cambios o adaptaciones, el códi
 
 |||
 |-|-|
-[ChatGPT](https://chat.openai.com/share/07c15419-e600-421c-906a-8a3d9a87a81b)|![](/imagenes/modelosUML/esquemaDiagramasChatGPT.svg)|
-[Claude](https://claude.ai/chat/e82eecd2-9833-4c0e-b634-2156e35e3750)|![](/imagenes/modelosUML/esquemaDiagramasClaude.svg)
+[ChatGPT](https://chat.openai.com/share/07c15419-e600-421c-906a-8a3d9a87a81b)|![](/documentos/imagenes/modelosUML/esquemaDiagramasChatGPT.svg)|
+[Claude](https://claude.ai/chat/e82eecd2-9833-4c0e-b634-2156e35e3750)|![](/documentos/imagenes/modelosUML/esquemaDiagramasClaude.svg)
 
 
 #### Sintetizando y proponiendo mejoras a un proceso existente
@@ -48,5 +48,5 @@ Modificación (si es necesario)|Si se requieren cambios o adaptaciones, el códi
 
 |||
 |-|-|
-[ChatGPT](https://chat.openai.com/share/a28277fc-807a-4227-967a-cf1ad92cd288)|![](/imagenes/modelosUML/esquemaDiagramas002ChatGPT.svg)
-||![](/imagenes/modelosUML/esquemaDiagramas002MejoradoChatGPT.png)|
+[ChatGPT](https://chat.openai.com/share/a28277fc-807a-4227-967a-cf1ad92cd288)|![](/documentos/imagenes/modelosUML/esquemaDiagramas002ChatGPT.svg)
+||![](/documentos/imagenes/modelosUML/esquemaDiagramas002MejoradoChatGPT.png)|

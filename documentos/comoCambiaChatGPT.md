@@ -1,6 +1,6 @@
 <div align=right>
 
-|[Inicio](/README.md)|[Introducción](/documentos/intro.md)|[Panorámica](/documentos/panorámica.md)|[Prompts](/prompts/README.md)|[Ingeniería de Prompts](/ingenieriaDePrompts/README.md)|[Patrones](/ingenieriaDePrompts/patrones/README.md)|[Casos de Uso](/casosDeUso/README.md)|
+|[Inicio](/README.md)|[Introducción](/documentos/intro.md)|[Panorámica](/documentos/panorámica.md)|[Prompts](/documentos/prompts/README.md)|[Ingeniería de Prompts](/documentos/ingenieriaDePrompts/README.md)|[Patrones](/documentos/ingenieriaDePrompts/patrones/README.md)|[Casos de Uso](/documentos/casosDeUso/README.md)|
 |-|-|-|-|-|-|-
 
 </div>
@@ -11,7 +11,7 @@ Los autores concluyen que el comportamiento de un "mismo" servicio de modelo de 
 
 El artículo titulado ["¿Cómo está cambiando el comportamiento de ChatGPT con el tiempo?"](/documentos/papers%20et%20al/2307.09009.pdf) examina las diferencias en el comportamiento de los modelos de lenguaje GPT-3.5 y GPT-4 entre marzo y junio de 2023. 
 
-![](/imagenes/aDiaDeHoy.png)
+![](/documentos/imagenes/aDiaDeHoy.png)
 
 ## Evaluación
 

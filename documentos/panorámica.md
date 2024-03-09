@@ -1,6 +1,6 @@
 <div align=right>
 
-|[Inicio](/README.md)|[Introducción](/documentos/intro.md)|[Panorámica](/documentos/panorámica.md)|[Prompts](/prompts/README.md)|[Ingeniería de Prompts](/ingenieriaDePrompts/README.md)|[Patrones](/ingenieriaDePrompts/patrones/README.md)|[Casos de Uso](/casosDeUso/README.md)|
+|[Inicio](/README.md)|[Introducción](/documentos/intro.md)|[Panorámica](/documentos/panorámica.md)|[Prompts](/documentos/prompts/README.md)|[Ingeniería de Prompts](/documentos/ingenieriaDePrompts/README.md)|[Patrones](/documentos/ingenieriaDePrompts/patrones/README.md)|[Casos de Uso](/documentos/casosDeUso/README.md)|
 |-|-|-|-|-|-|-
 
 </div>
@@ -23,7 +23,7 @@ Aprendizaje automático (ML por sus siglas en inglés)|Rama de la IA que utiliza
 
 <div align=center>
 
-![](/imagenes/modelosUML/componentes.svg)
+![](/documentos/imagenes/modelosUML/componentes.svg)
 
 </div>
 
@@ -46,7 +46,7 @@ Seguridad y privacidad|Los sistemas de IA deben ser diseñados y operados de man
 
 <div align=center>
 
-![](/imagenes/modelosUML/componentes2.svg)
+![](/documentos/imagenes/modelosUML/componentes2.svg)
 
 </div>
 
