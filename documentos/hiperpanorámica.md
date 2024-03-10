@@ -115,6 +115,7 @@
 
 |Nombre|Link|Descripción|
 |-|-|-|
+|[Suno](https://app.suno.ai/create/)|Productor musical
 |Assembly AI|[assemblyai.com](https://www.assemblyai.com)|Transcripción y procesamiento de audio con IA|
 |Lovo AI|[lovo.ai](https://lovo.ai)|Generación de voz y audio con IA|
 |Eleven Labs|[elevenlabs.io](https://elevenlabs.io)|Sintetizador de voz con IA|

@@ -61,12 +61,12 @@ Runway -->
 
 |Texto|Imágenes|Música|Vídeos|
 |-|-|-|-
-|[ChatGPT](https://chat.openai.com/)|[Dall-e](https://pitch.com/v/DALL-E-prompt-book-v1-tmd33y/d959fd01-3eea-4b16-9472-e79ccb635e98)|[Mubert](https://mubert.com/)|[CapCut](https://www.capcut.com/)
-|[Bard](https://bard.google.com/)|[MidJourney](https://docs.midjourney.com/docs/prompts)|Música & Composición [Moises](https://moises.ai/)|
-|[Perplexity](https://www.perplexity.ai/)|Stable Diffussion| |
-|[Claude](https://claude.ai/chats)|BlueWillow| |
-|[Ernie](https://yiyan.baidu.com/)<br>*(Aun en desarrollo<br>Artículo en [Wikipedia](https://en.wikipedia.org/wiki/Ernie_Bot)<br>[¿Censurado?](https://web.archive.org/web/20230902185902/https://www.reuters.com/technology/baidus-ernie-writes-poems-says-it-has-insufficient-information-xi-tests-show-2023-03-20/))*|[VisualChatGPT](https://stablediffusionweb.com/Visual-ChatGPT#demo)| |
-|[Gemini](https://gemini.google.com/app)|Ideogramas: [Ideogram.ai](https://ideogram.ai/)| |
+|[ChatGPT](https://chat.openai.com/)      |[Dall-e](https://pitch.com/v/DALL-E-prompt-book-v1-tmd33y/d959fd01-3eea-4b16-9472-e79ccb635e98)  |[Mubert](https://mubert.com/)                      |[CapCut](https://www.capcut.com/)
+|[Bard](https://bard.google.com/)         |[MidJourney](https://docs.midjourney.com/docs/prompts)                                           |[Moises](https://moises.ai/)                       |[Sora](https://openai.com/sora)
+|[Perplexity](https://www.perplexity.ai/) |Stable Diffussion                                                                                |[Suno](https://app.suno.ai/create/)                |[haiper.ai](https://haiper.ai/)
+|[Claude](https://claude.ai/chats)        |BlueWillow                                                                                       |                                                   |[heyGen](https://www.heygen.com/)
+|[Ernie](https://yiyan.baidu.com/)        |[VisualChatGPT](https://stablediffusionweb.com/Visual-ChatGPT#demo)                              |                                                   |
+|[Gemini](https://gemini.google.com/app)  |Ideogramas: [Ideogram.ai](https://ideogram.ai/)                                                  |                                                   |
 
 </div>
 
