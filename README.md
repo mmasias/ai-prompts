@@ -1,6 +1,6 @@
 <div align=right>
 
-|[Inicio](/README.md)|[Introducción](/documentos/intro.md)|[Panorámica](/documentos/panorámica.md)|[Prompts](/documentos/prompts/README.md)|[Ingeniería de Prompts](/documentos/ingenieriaDePrompts/README.md)|[Patrones](/documentos/ingenieriaDePrompts/patrones/README.md)|[Casos de Uso](/documentos/casosDeUso/README.md)|
+|[![](https://img.shields.io/badge/-Inicio-EEE?style=flat&logo=Emlakjet&logoColor=black)](/README.md)|[![](https://img.shields.io/badge/-Introducción-EEE?style=flat)](/documentos/intro.md)|[![](https://img.shields.io/badge/-Panorámica-EEE?style=flat)](/documentos/panorámica.md)|[![](https://img.shields.io/badge/-Prompts-EEE?style=flat)](/documentos/prompts/README.md)|[![](https://img.shields.io/badge/-Ingeniería_de_Prompts-EEE?style=flat)](/documentos/ingenieriaDePrompts/README.md)|[![](https://img.shields.io/badge/-Patrones-EEE?style=flat)](/documentos/ingenieriaDePrompts/patrones/README.md)|[![](https://img.shields.io/badge/-Casos_de_Uso-EEE?style=flat)](/documentos/casosDeUso/README.md)|
 |-|-|-|-|-|-|-
 
 </div>
