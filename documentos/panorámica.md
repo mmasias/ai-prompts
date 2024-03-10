@@ -52,25 +52,18 @@ Seguridad y privacidad|Los sistemas de IA deben ser diseñados y operados de man
 
 ### Horizontales: [*hiper-panorámica*](hiperpanorámica.md)
 
-<!-- TODO #6 incluir las siguientes: Rask.ai
-Captions
-Wonder dinamic
-24ai
-Runway -->
-
-
-
-
 <div align=center>
 
 |Texto|Imágenes|Música|Vídeos|
 |-|-|-|-
-|[ChatGPT](https://chat.openai.com/)      |[Dall-e](https://pitch.com/v/DALL-E-prompt-book-v1-tmd33y/d959fd01-3eea-4b16-9472-e79ccb635e98)  |[Mubert](https://mubert.com/)                      |[CapCut](https://www.capcut.com/)
-|[Bard](https://bard.google.com/)         |[MidJourney](https://docs.midjourney.com/docs/prompts)                                           |[Moises](https://moises.ai/)                       |[Sora](https://openai.com/sora)
-|[Perplexity](https://www.perplexity.ai/) |Stable Diffussion                                                                                |[Suno](https://app.suno.ai/create/)                |[haiper.ai](https://haiper.ai/)
-|[Claude](https://claude.ai/chats)        |BlueWillow                                                                                       |                                                   |[heyGen](https://www.heygen.com/)
-|[Ernie](https://yiyan.baidu.com/)        |[VisualChatGPT](https://stablediffusionweb.com/Visual-ChatGPT#demo)                              |                                                   |
-|[Gemini](https://gemini.google.com/app)  |Ideogramas: [Ideogram.ai](https://ideogram.ai/)                                                  |                                                   |
+|[ChatGPT](https://chat.openai.com/)        |[Dall-e](https://pitch.com/v/DALL-E-prompt-book-v1-tmd33y/d959fd01-3eea-4b16-9472-e79ccb635e98)  |[Mubert](https://mubert.com/)                      |[CapCut](https://www.capcut.com/)
+|[Bard](https://bard.google.com/)           |[MidJourney](https://docs.midjourney.com/docs/prompts)                                           |[Moises](https://moises.ai/)                       |[Sora](https://openai.com/sora)
+|[Perplexity](https://www.perplexity.ai/)   |Stable Diffussion                                                                                |[Suno](https://app.suno.ai/create/)                |[haiper.ai](https://haiper.ai/)
+|[Claude](https://claude.ai/chats)          |BlueWillow                                                                                       |                                                   |[heyGen](https://www.heygen.com/)
+|[Ernie](https://yiyan.baidu.com/)          |[VisualChatGPT](https://stablediffusionweb.com/Visual-ChatGPT#demo)                              |                                                   |
+|[Gemini](https://gemini.google.com/app)    |Ideogramas: [Ideogram.ai](https://ideogram.ai/)                                                  |                                                   |
+|[Copilot](https://copilot.microsoft.com)   |
+|[Huggingface](https://huggingface.co/chat) |
 
 </div>
 
@@ -81,7 +74,6 @@ Runway -->
 - RRHH [Sesame](https://www.sesamehr.es/ai/)
 - Papers académicos [SCISPACE](https://typeset.io/)
 - [Google Document AI](https://cloud.google.com/solutions/procurement-doc-ai?hl=es-419)
-
 
 #### Integraciones
 
@@ -96,11 +88,11 @@ Runway -->
 
 - Y en concreto:
   - [GMail](https://www.aimails.dev/)
-  - [Fireflies](https://app.fireflies.ai), transcripciones de audio
-  - [HappyScribe](https://www.happyscribe.com/), similar al anterior
-  - [Durable](https://es.durable.co) - Sitios web
-  - [Humata](http://humata.ai) - Chat & documentos
+  - [HappyScribe](https://www.happyscribe.com/) & [Fireflies](https://app.fireflies.ai), transcripciones de audio
+  - [Durable](https://es.durable.co) - Creación de sitios web
+  - [Humata](http://humata.ai) - Chat con documentos
   - [Beautiful](http://beautiful.ai) - Presentaciones
+  - [Creación de presentaciones](https://gamma.app/gen8erate) - [Presentación creada con Gamma](https://gamma.app/public/Introduccion-a-la-IA-y-su-estado-actual-s2pfcebzfn8j7xt)
   - [Stunning](http://stunning.so) - Textos
   - [Sheetplus](https://sheetplus.ai) - Hojas de calculo
   - [Aragon.ai](https://www.aragon.ai/) - Fotos a partir de fotos
@@ -110,23 +102,17 @@ Runway -->
 - [**GPT for work**](https://gptforwork.com/) + [Plantilla muy útil](https://docs.google.com/spreadsheets/d/1SOz3u2A8Y6RXvXK_X2QdrcWJ7WklbgtWNE9ljZ_yaEc/template/preview)
 - [Modelos 3D a partir de fotografías](https://research.nvidia.com/labs/dir/neuralangelo/)
 - [Resumir vídeos de youtube](https://eightify.app/)
-- [Creación de presentaciones](https://gamma.app/generate) - [Presentación creada con Gamma](https://gamma.app/public/Introduccion-a-la-IA-y-su-estado-actual-s2pfcebzfn8j7xt)
 - [Human generator](https://generated.photos/human-generator)
 - [Microsoft Designer](https://designer.microsoft.com/)
-- [Durable, generador de sitios web](https://durable.co/)
+- [CopyAI](https://copy.ai) ([ChatGPT](https://chat.openai.com/share/23892a81-1e32-49c5-a60d-23c07ad65e02) y [CopyAI](https://app.copy.ai/projects/34198328?tool=chat&tab=results))
 - Traducción
   - [HeyGen](https://www.heygen.com/) - Creación de un avatar a partir de un vídeo, manteniendo el tono de voz, multiidiomas & lipsync.
   - [Rask.ai](https://app.rask.ai/) - traducción de vídeos a varios idiomas, manteniendo el tono de voz. [Ejemplo](https://app.rask.ai/project/41644bdf-10f2-47ef-bb40-eef50c7f804d)
-- [CopyAI](https://copy.ai) ([ChatGPT](https://chat.openai.com/share/23892a81-1e32-49c5-a60d-23c07ad65e02) y [CopyAI](https://app.copy.ai/projects/34198328?tool=chat&tab=results))
-- [Mapas mentales](https://whimsical.com/)
 
-#### Chatbots
+#### Constructores de chatbots
 
 - [Dante](https://dante-ai.com/)
 - [Droxy](https://www.droxy.ai/)
-
-
-
 
 ## ¿Cómo?
 

@@ -97,3 +97,4 @@ Visión||[Diferentes escenarios de visión](visionGPT.md)|[Reconocimiento](https
 
 - [Generalistas](negocio/promptsVarios.md)
 - [Caso de uso concreto de negocio](negocio/README.md)
+- [Start startup](startStartup.md)
