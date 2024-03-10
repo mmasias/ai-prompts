@@ -25,4 +25,4 @@ El concepto de "Chain of Thought" es útil para mantener una conversación coher
 
 ## ¿Cómo?
 
-[Artesanía](/casosDeUso/artesania.md)
+[Artesanía](/documentos/casosDeUso/artesania.md)
