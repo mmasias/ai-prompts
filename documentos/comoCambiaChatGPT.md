@@ -1,7 +1,7 @@
 <div align=right>
 
-|[Inicio](/README.md)|[Introducción](/documentos/intro.md)|[Panorámica](/documentos/panorámica.md)|[Prompts](/prompts/README.md)|[Ingeniería de Prompts](/ingenieriaDePrompts/README.md)|[Patrones](/ingenieriaDePrompts/patrones/README.md)|[Casos de Uso](/casosDeUso/README.md)|
-|-|-|-|-|-|-|-
+|[![](https://img.shields.io/badge/-Inicio-FFF?style=flat&logo=Emlakjet&logoColor=black)](/README.md) [![](https://img.shields.io/badge/-Introducción-FFF?style=flat)](/documentos/intro.md) [![](https://img.shields.io/badge/-Panorámica-FFF?style=flat)](/documentos/panorámica.md) [![](https://img.shields.io/badge/-Prompts-FFF?style=flat)](/documentos/prompts/README.md) [![](https://img.shields.io/badge/-Ingeniería_de_prompts-FFF?style=flat)](/documentos/ingenieriaDePrompts/README.md) [![](https://img.shields.io/badge/-Patrones-FFF?style=flat)](/documentos/ingenieriaDePrompts/patrones/README.md) [![](https://img.shields.io/badge/-Casos_de_uso-FFF?style=flat)](/documentos/casosDeUso/README.md)|
+|-|
 
 </div>
 
@@ -11,7 +11,7 @@ Los autores concluyen que el comportamiento de un "mismo" servicio de modelo de 
 
 El artículo titulado ["¿Cómo está cambiando el comportamiento de ChatGPT con el tiempo?"](/documentos/papers%20et%20al/2307.09009.pdf) examina las diferencias en el comportamiento de los modelos de lenguaje GPT-3.5 y GPT-4 entre marzo y junio de 2023. 
 
-![](/imagenes/aDiaDeHoy.png)
+![](/documentos/imagenes/aDiaDeHoy.png)
 
 ## Evaluación
 

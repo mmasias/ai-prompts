@@ -1,11 +1,11 @@
 <div align=right>
 
-|[Inicio](/README.md)|[Introducción](/documentos/intro.md)|[Panorámica](/documentos/panorámica.md)|[Prompts](/prompts/README.md)|[Ingeniería de Prompts](/ingenieriaDePrompts/README.md)|[Patrones](/ingenieriaDePrompts/patrones/README.md)|[Casos de Uso](/casosDeUso/README.md)|
-|-|-|-|-|-|-|-
+|[![](https://img.shields.io/badge/-Inicio-FFF?style=flat&logo=Emlakjet&logoColor=black)](/README.md) [![](https://img.shields.io/badge/-Introducción-FFF?style=flat)](/documentos/intro.md) [![](https://img.shields.io/badge/-Panorámica-FFF?style=flat)](/documentos/panorámica.md) [![](https://img.shields.io/badge/-Prompts-FFF?style=flat)](/documentos/prompts/README.md) [![](https://img.shields.io/badge/-Ingeniería_de_prompts-FFF?style=flat)](/documentos/ingenieriaDePrompts/README.md) [![](https://img.shields.io/badge/-Patrones-FFF?style=flat)](/documentos/ingenieriaDePrompts/patrones/README.md) [![](https://img.shields.io/badge/-Casos_de_uso-FFF?style=flat)](/documentos/casosDeUso/README.md)|
+|-|
 
 </div>
 
-# Seminario AI, Prompts, IdP & CdU
+# AI, LLMs, Prompts, IdP, CdU *et al*
 
 ## ¿Por qué?
 
@@ -25,7 +25,7 @@
 ## ¿Cómo?
 |Aproximarnos|Comprender o entender |Aplicación real|
 |:-:|:-:|:-:|
-|[Panorámica](documentos/panorámica.md)|[Prompts](prompts/README.md), [Ingeniería de Prompts](ingenieriaDePrompts/README.md) & [Patrones](ingenieriaDePrompts/patrones/README.md)|[Casos de Uso](casosDeUso/README.md)|
+|[Panorámica](documentos/panorámica.md)|[Prompts](documentos/prompts/README.md), [Ingeniería de Prompts](documentos/ingenieriaDePrompts/README.md) & [Patrones](documentos/ingenieriaDePrompts/patrones/README.md)|[Casos de Uso](documentos/casosDeUso/README.md)|
 
 1. Introducción a la IA y su estado actual, revisando implementaciones de diversos servicios y centrándonos en los modelos de lenguaje que implementan el chatbot como interface.
 1. Luego una breve pero necesaria base teórica en la que veremos prompts, ingenieria de prompts y buenas prácticas en ambos casos.
@@ -33,7 +33,7 @@
 
 Al finalizar, se habrán visto un conjunto de casos de uso que se apoyan en la IA y en otras tecnologías, con la intención de que los participantes puedan extraer lo mejor de cada uno de ellos y puedan aplicarlos.
 
-### [Comunidad](comunidad.md)
+### [Comunidad](documentos/comunidad.md)
 
 
 

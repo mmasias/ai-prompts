@@ -1,7 +1,7 @@
 <div align=right>
 
-|[Inicio](/README.md)|[Introducción](/documentos/intro.md)|[Panorámica](/documentos/panorámica.md)|[Prompts](/prompts/README.md)|[Ingeniería de Prompts](/ingenieriaDePrompts/README.md)|[Patrones](/ingenieriaDePrompts/patrones/README.md)|[Casos de Uso](/casosDeUso/README.md)|
-|-|-|-|-|-|-|-
+|[![](https://img.shields.io/badge/-Inicio-FFF?style=flat&logo=Emlakjet&logoColor=black)](/README.md) [![](https://img.shields.io/badge/-Introducción-FFF?style=flat)](/documentos/intro.md) [![](https://img.shields.io/badge/-Panorámica-FFF?style=flat)](/documentos/panorámica.md) [![](https://img.shields.io/badge/-Prompts-FFF?style=flat)](/documentos/prompts/README.md) [![](https://img.shields.io/badge/-Ingeniería_de_prompts-FFF?style=flat)](/documentos/ingenieriaDePrompts/README.md) [![](https://img.shields.io/badge/-Patrones-FFF?style=flat)](/documentos/ingenieriaDePrompts/patrones/README.md) [![](https://img.shields.io/badge/-Casos_de_uso-FFF?style=flat)](/documentos/casosDeUso/README.md)|
+|-|
 
 </div>
 
@@ -29,7 +29,7 @@
     </tr>
     <tr>
         <td rowspan="5" align="center">
-            <img src="https://github.com/mmasias/ai-prompts/blob/main/imagenes/bibliaChatGPT.png" width="150px">
+            <img src="../documentos/imagenes/bibliaChatGPT.png" width="150px">
         </td>
         <td>
         10,000 prompts & comprobados
@@ -46,7 +46,7 @@
 
 |Teletrabajo|Paradoja de la dirección|
 |-|-|
-![](/imagenes/modelosUML/introTeletrabajo.svg)|![](/imagenes/modelosUML/introDireccion.svg)
+![](/documentos/imagenes/modelosUML/introTeletrabajo.svg)|![](/documentos/imagenes/modelosUML/introDireccion.svg)
 
 
 |||
