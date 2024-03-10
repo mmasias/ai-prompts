@@ -1,0 +1,23 @@
+hide empty members
+
+class p1 as "Plataforma"
+class p2 as "Plataforma"
+
+class s1 as "Servicio"
+class s2 as "Servicio"
+class s3 as "Servicio"
+
+class h1 as "Herramienta"
+class h2 as "Herramienta"
+class h3 as "Herramienta"
+
+
+p1 -d- s1
+p1 -d- s2
+p1 -d- s3
+p1 --d- h1
+
+p2 -d- s2
+p2 --d- h2
+
+s3 -d- h3

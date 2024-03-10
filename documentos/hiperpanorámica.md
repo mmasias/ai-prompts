@@ -7,29 +7,45 @@
 
 # HiperPanorámica
 
-## Marketing
+![](/documentos/imagenes/modelosUML/plataformaServicioHerramienta.svg)
 
-|Nombre|Link|Descripción|
+||Plataforma|Servicio|Herramienta|
+|-|-|-|-|
+|**Def.:**|Conjunto de herramientas y servicios interconectados, diseñado para facilitar y gestionar una amplia gama de actividades y procesos específicos de una o varias áreas de trabajo.|Solución ofrecida a través de internet que permite a los usuarios acceder a funcionalidades específicas o realizar tareas concretas sin necesidad de instalar o mantener software adicional.|Recurso o aplicación diseñada para realizar una función o conjunto de funciones específicas, generalmente con un enfoque más limitado que una plataforma. Las herramientas pueden ser parte de una plataforma o estar disponibles de manera independiente.
+|**Ej.:**|Una plataforma de desarrollo de software que integra herramientas de codificación, pruebas y despliegue.|Un servicio de almacenamiento en la nube que permite a los usuarios guardar, compartir y acceder a archivos desde cualquier lugar.|Un editor de imágenes en línea que permite modificar fotos a través del navegador.
+
+## Investigación
+
+|Nombre|Descripción|Categoría|
 |-|-|-|
-|Jasper AI|[jasper.ai](https://www.jasper.ai/)|Herramienta de IA para marketing y creación de contenido|
+|[Perplexity.ai](https://www.perplexity.ai)|Análisis e investigaciones|Plataforma / [CdU](/documentos/casosDeUso/perplexity.md)
+|[Silatus](https://silatus.com)|Plataforma de IA para investigación y análisis de datos|Plataforma / 
+|[Execo.ai](https://execo.ai)|Agente para gestión de investigaciones|Servicio / 
+|[Harpa.ai](https://harpa.ai/)|Agente para gestión de investigaciones|Servicio / 
 
 ## Trabajo colaborativo y similares
 
-|Nombre|Link|Descripción|
+|Nombre|Descripción|Categoría|
 |-|-|-|
-[Whimsical](https://whimsical.com/)|Mapas mentales
-[V0](https://v0.dev/)|Prototipos de interfaz
+|[Whimsical](https://whimsical.com/)|Creación de mapas mentales, diagramas y prototipos visuales.|Plataforma / [CdU](https://whimsical.com/seminario-ai-YKgQuAQtcHKUYicLPAisqE)
+|[V0](https://v0.dev/)|Creación y prueba de prototipos de interfaz.|Herramienta / [CdU](/documentos/casosDeUso/V0.md)
+|[eightify.app](https://eightify.app)|Agente TLDR y similares8|Herramienta
 
 ## Redes sociales
 
-|Nombre|Link|Descripción|
+|Nombre|Descripción|Categoría|
 |-|-|-|
-|Klap|[klap.app](https://klap.app/)|Plataforma de IA para redes sociales|
-|Eightify|[eightify.app](https://eightify.app)|Herramienta de IA para análisis de redes sociales|
-|Tribescaler|[tribescaler.com](https://tribescaler.com)|Solución de IA para crecimiento en redes sociales|
-|Renable AI|[renable.com](https://renable.com)|Inteligencia artificial para estrategias de redes sociales|
-|Jitter|[jitter.video](https://jitter.video)|Creación de videos animados con IA para redes sociales|
-|Postwise|[postwise.ai](https://postwise.ai)|Asistente de IA para planificación de contenido en redes sociales|
+|[klap.app](https://klap.app/)|Gestión de vídeos para redes sociales|Servicio / [CdU](/documentos/casosDeUso/klap.md)
+|[tribescaler.com](https://tribescaler.com)|Generador de ganchos (hooks)|Herramienta / [CdU](/documentos/casosDeUso/tribescaler.md)
+|[postwise.ai](https://postwise.ai)|Planificación de contenido en redes sociales|Herramienta / [CdU](/documentos/casosDeUso/postwise.md)
+
+## Marketing
+
+|Nombre|Descripción|Categoría|
+|-|-|-|
+|[Jasper AI](https://www.jasper.ai/)|Marketing y creación de contenido|Plataforma
+|[renable.com](https://renable.com)|Estrategias de marketing para redes sociales|Servicio
+
 
 ## Escribir
 
@@ -116,14 +132,6 @@
 |Teal HQ|[tealhq.com](https://www.tealhq.com)|Plataforma de IA para desarrollo profesional|
 |Kickresume|[kickresume.com](https://www.kickresume.com)|Constructor de currículums con herramientas de IA|
 
-## Hacer investigaciones
-
-|Nombre|Link|Descripción|
-|-|-|-|
-|Silatus|[silatus.com](https://silatus.com)|Plataforma de IA para investigación y análisis de datos|
-|Perplexity|[perplexity.ai](https://www.perplexity.ai)|Asistente de IA para investigaciones y análisis|
-|Execo|[execo.ai](https://execo.ai)|Herramienta de IA para gestión de investigaciones|
-
 ## Aprender
 
 |Nombre|Link|Descripción|
@@ -162,8 +170,8 @@
 [https://claude.ai/](https://claude.ai/)
 [https://bard.google.com/](https://bard.google.com/)
 [https://www.bing.com/search?q=Bing+AI…](https://www.bing.com/search?q=Bing+AI…)
-[https://www.perplexity.ai/](https://www.perplexity.ai/)
-[https://harpa.ai/](https://harpa.ai/)
+
+
 [https://ideogram.ai/t/trending](https://ideogram.ai/t/trending)
 [https://leonardo.ai/](https://leonardo.ai/)
 [https://www.bing.com/images/create](https://www.bing.com/images/create)
