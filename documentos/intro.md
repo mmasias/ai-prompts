@@ -10,7 +10,7 @@
 <!-- TODO #3 Un enlace a los ismos de denegri también estaría bien  -->
 
 - Aparece una *tecnología* distruptiva
-- Reacciones: [Sorpresa, duda, miedo, excepticismo, negación](https://docs.google.com/presentation/d/1UscAlHfjGgg4pPzz_p0V1eX18R74DRlvTtMXsbLVtI0/edit?usp=sharing) / [Duda](https://twitter.com/Culture_Crit/status/1689685381283815435)
+- Reacciones: [Sorpresa, duda, miedo, excepticismo, negación](https://docs.google.com/presentation/d/1UscAlHfjGgg4pPzz_p0V1eX18R74DRlvTtMXsbLVtI0/edit?usp=sharing) / [PessimistArchive](https://pessimistsarchive.org/) / [Duda](https://twitter.com/Culture_Crit/status/1689685381283815435)
 - Ver dónde se inserta
 - 💨
 - *NoCode / Blockchain / Criptodivisas / Ciberseguridad / otros...*
