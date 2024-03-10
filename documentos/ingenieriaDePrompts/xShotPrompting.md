@@ -23,6 +23,6 @@ Para ajustar la salida del modelo de IA y ayudarlo a generar respuestas más rel
 
 |Transcripciones en crudo / 2DO: Convertirlas a QxQpQ&C
 |-
-[Jitanjáfora](/casosDeUso/aprendizajeJitanjafora.md)
+[Jitanjáfora](/documentos/casosDeUso/aprendizajeJitanjafora.md)
 [Estilo de escritura](https://chat.openai.com/share/584af1d9-e459-4fc3-b571-bf8a3c317d66)
-[Acrónimos](/casosDeUso/acronimo.md)
+[Acrónimos](/documentos/casosDeUso/acronimo.md)
