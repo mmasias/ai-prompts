@@ -7,12 +7,37 @@
 
 # HiperPanorámica
 
-![](/documentos/imagenes/modelosUML/plataformaServicioHerramienta.svg)
+## Primera división
 
-||Plataforma|Servicio|Herramienta|
-|-|-|-|-|
-|**Def.:**|Conjunto de herramientas y servicios interconectados, diseñado para facilitar y gestionar una amplia gama de actividades y procesos específicos de una o varias áreas de trabajo.|Solución ofrecida a través de internet que permite a los usuarios acceder a funcionalidades específicas o realizar tareas concretas sin necesidad de instalar o mantener software adicional.|Recurso o aplicación diseñada para realizar una función o conjunto de funciones específicas, generalmente con un enfoque más limitado que una plataforma. Las herramientas pueden ser parte de una plataforma o estar disponibles de manera independiente.
-|**Ej.:**|Una plataforma de desarrollo de software que integra herramientas de codificación, pruebas y despliegue.|Un servicio de almacenamiento en la nube que permite a los usuarios guardar, compartir y acceder a archivos desde cualquier lugar.|Un editor de imágenes en línea que permite modificar fotos a través del navegador.
+<div align=center>
+
+|Texto|Imágenes|Música|Vídeos|
+|-|-|-|-
+|[ChatGPT](https://chat.openai.com/)        |[Dall-e](https://openai.com/dall-e-3) [📓](https://pitch.com/v/DALL-E-prompt-book-v1-tmd33y/d959fd01-3eea-4b16-9472-e79ccb635e98)  |[Mubert](https://mubert.com/)                      |[CapCut](https://www.capcut.com/)
+|[Bard](https://bard.google.com/)           |[MidJourney](https://docs.midjourney.com/docs/prompts)                                                                             |[Moises](https://moises.ai/)                       |[Sora](https://openai.com/sora)
+|[Perplexity](https://www.perplexity.ai/)   |Stable Diffussion                                                                                                                  |[Suno](https://app.suno.ai/create/)                |[haiper.ai](https://haiper.ai/)
+|[Claude](https://claude.ai/chats)          |[BlueWillow](https://www.bluewillow.ai/)                                                                                           |                                                   |[heyGen](https://www.heygen.com/)
+|[Ernie](https://yiyan.baidu.com/)          |[VisualChatGPT](https://stablediffusionweb.com/Visual-ChatGPT#demo)                                                                |                                                   |
+|[Gemini](https://gemini.google.com/app)    |[Ideogram.ai](https://ideogram.ai/)                                                                                                |                                                   |
+|[Copilot](https://copilot.microsoft.com)   |
+|[Huggingface](https://huggingface.co/chat) |
+
+</div>
+
+## Integraciones
+
+- https://app.integrately.com/
+- https://zapier.com/
+- [**GPT for work**](https://gptforwork.com/) + [Plantilla muy útil](https://docs.google.com/spreadsheets/d/1SOz3u2A8Y6RXvXK_X2QdrcWJ7WklbgtWNE9ljZ_yaEc/template/preview)
+
+## Marcos de trabajo
+
+- [MetaGPT](https://github.com/geekan/MetaGPT) / [Enlace directo](https://huggingface.co/spaces/deepwisdom/MetaGPT)
+
+## Constructores de chatbots
+
+- [Dante](https://dante-ai.com/)
+- [Droxy](https://www.droxy.ai/)
 
 ## Investigación
 
@@ -22,14 +47,16 @@
 |[Silatus](https://silatus.com)|Plataforma de IA para investigación y análisis de datos|Plataforma / 
 |[Execo.ai](https://execo.ai)|Agente para gestión de investigaciones|Servicio / 
 |[Harpa.ai](https://harpa.ai/)|Agente para gestión de investigaciones|Servicio / 
+|[SCISPACE](https://typeset.io/)|Papers académicos
 
-## Trabajo colaborativo y similares
+## Trabajo, trabajo colaborativo y similares
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
 |[Whimsical](https://whimsical.com/)|Creación de mapas mentales, diagramas y prototipos visuales.|Plataforma / [CdU](https://whimsical.com/seminario-ai-YKgQuAQtcHKUYicLPAisqE)
 |[V0](https://v0.dev/)|Creación y prueba de prototipos de interfaz.|Herramienta / [CdU](/documentos/casosDeUso/V0.md)
-|[eightify.app](https://eightify.app)|Agente TLDR y similares8|Herramienta
+|[Humata](http://humata.ai)|Chat con documentos
+|[Eightify.app](https://eightify.app)|Agente TLDR y similares8|Herramienta
 
 ## Redes sociales
 
@@ -47,132 +74,145 @@
 |[renable.com](https://renable.com)|Estrategias de marketing para redes sociales|Servicio
 
 
-## Escribir
+## Copywriting
 
-|Nombre|Link|Descripción|
+|Nombre|Descripción|Categoría|
 |-|-|-|
-|Quillbot|[quillbot.com](https://quillbot.com)|Herramienta de parafraseo y mejora de escritura con IA|
-|Wordtune|[app.wordtune.com](https://app.wordtune.com)|IA para reescritura y optimización de textos|
-|Copysmith|[copysmith.ai](https://copysmith.ai)|Generación automatizada de contenido con IA|
-|Writesonic|[writesonic.com](https://writesonic.com)|Asistente de IA para escritores y marketers|
-|CopyAI|[copy.ai](https://www.copy.ai)|Herramienta de IA para generación de texto creativo|
-|BlogSEO|[blogseo.ai](https://www.blogseo.ai)|Optimización de contenido de blog con IA|
-|HIX AI|[hix.ai](https://hix.ai)|Inteligencia artificial para redacción de contenido|
-|Rytr|[rytr.me](https://rytr.me)|Asistente de escritura con IA|
-|Novelist AI|[novelistai.com](https://novelistai.com/)|IA para escritores y creadores de novelas|
+|[copy.ai](https://www.copy.ai)|Herramienta para generación de texto creativo|([CdU@ChatGPT](https://chat.openai.com/share/23892a81-1e32-49c5-a60d-23c07ad65e02) y [CdU@CopyAI](https://app.copy.ai/projects/34198328?tool=chat&tab=results))
+|[quillbot.com](https://quillbot.com)|Herramienta de parafraseo y mejora de escritura|
+|[app.wordtune.com](https://app.wordtune.com)|Reescritura y optimización de textos|
+|[copysmith.ai](https://copysmith.ai)|Generación automatizada de contenido|
+|[writesonic.com](https://writesonic.com)|Asistente para escritores y marketers|
+|[blogseo.ai](https://www.blogseo.ai)|Optimización de contenido de blog|
+|[hix.ai](https://hix.ai)|Redacción de contenido|
+|[rytr.me](https://rytr.me)|Asistente de escritura|
+|[novelistai.com](https://novelistai.com/)|Herramientas para escritores y creadores de novelas|
 
-## Generar imágenes
+## Imágenes
 
-|Nombre|Link|Descripción|
+|Nombre|Descripción|Categoría|
 |-|-|-|
-|Nero AI|[ai.nero.com](https://ai.nero.com)|Herramienta de IA para creación y edición de imágenes|
-|Magicstudio|[magicstudio.com](https://magicstudio.com)|Generador de imágenes con IA|
-|AI Image Enlarger|[imglarger.com](https://imglarger.com)|Ampliación de imágenes utilizando IA|
-|Supermeme AI|[supermeme.ai](https://www.supermeme.ai)|Creación de memes con IA|
-|Leonardo AI|[leonardo.ai](https://leonardo.ai)|Herramienta de diseño gráfico impulsada por IA|
-|Stockimg|[stockimg.ai](https://stockimg.ai)|Generador de imágenes de stock con IA|
-|Segmind|[segmind.com](https://www.segmind.com)|Plataforma de IA para análisis y generación de imágenes|
-|Designify|[designify.com](https://www.designify.com)|IA para diseño y edición de imágenes|
-|Flair AI|[flair.ai](https://flair.ai)|IA para creación y mejora de imágenes|
-|Clipdrop|[clipdrop.co](https://clipdrop.co)|Herramienta de IA para captura y edición de imágenes|
+|[Nero AI](https://ai.nero.com)|Creación y edición de imágenes|
+|[Magicstudio](https://magicstudio.com)|Generador de imágenes|
+|[AI Image Enlarger](https://imglarger.com)|Ampliación de imágenes|
+|[Supermeme AI](https://www.supermeme.ai)|Creación de memes|
+|[Aragon.ai](https://www.aragon.ai/)|Fotos a partir de fotos
+|[Leonardo AI](https://leonardo.ai)|Herramienta de diseño gráfico|
+|[Stockimg](https://stockimg.ai)|Generador de imágenes de stock|
+|[Segmind](https://www.segmind.com)|Plataforma para análisis y generación de imágenes|
+|[Designify](https://www.designify.com)|Diseño y edición de imágenes|
+|[Flair AI](https://flair.ai)|Creación y mejora de imágenes|
+|[Clipdrop](https://clipdrop.co)|Captura y edición de imágenes|
+|[NeuralAngelo](https://research.nvidia.com/labs/dir/neuralangelo/)|Modelos 3D a partir de fotografías
 
-## Crear sitios web
+## Creación de sitios web
 
-|Nombre|Link|Descripción|
+|Nombre|Descripción|Categoría|
 |-|-|-|
-|Durable|[es.durable.co](https://es.durable.co/)|Constructor de sitios web con IA|
-|10Web|[10web.io](https://10web.io/)|Creación y gestión de sitios web con IA|
-|Dora|[dora.run](https://www.dora.run/)|Asistente de IA para desarrollo web|
-|Framer|[framer.com](https://www.framer.com/)|Herramienta de diseño web con capacidades de IA|
-|Bookmark|[Bookmark](https://www.bookmark.com/)|Constructor de sitios web impulsado por IA|
-|Sitekick AI|[sitekick.ai](https://www.sitekick.ai/)|Plataforma de IA para creación de sitios web|
+|[Stunning](http://stunning.so)|Sitios web, artículos y marketing
+|[es.durable.co](https://es.durable.co/)|Constructor de sitios web|
+|[10web.io](https://10web.io/)|Creación y gestión de sitios web|
+|[dora.run](https://www.dora.run/)|Asistente para desarrollo web|
+|[framer.com](https://www.framer.com/)|Herramienta de diseño web|
+|[Bookmark](https://www.bookmark.com/)|Constructor de sitios web|
+|[sitekick.ai](https://www.sitekick.ai/)|Plataforma para creación de sitios web|
 
-## Generar videos
+## Videos
 
-|Nombre|Link|Descripción|
+|Nombre|Descripción|Categoría|
 |-|-|-|
-|FlexClip|[flexclip.com](https://www.flexclip.com/)|Herramienta de edición de video con IA|
-|Smili media|[smilimedia.com](https://www.smilimedia.com/)|Plataforma de video marketing con IA|
-|Fliki|[fliki.ai](https://fliki.ai/)|Generación de videos con narración de IA|
-|Synthesia|[synthesia.io](https://www.synthesia.io)|Creación de videos con avatares de IA|
-|HeyGen|[heygen.com](https://www.heygen.com)|IA para generación de videos y avatares|
-|Latte Social|[latte.social](https://www.latte.social)|Plataforma de IA para creación de contenido de video|
-|InVideo|[invideo.io](https://invideo.io)|Editor de video impulsado por IA|
-|vidIQ|[vidiq.com](https://vidiq.com)|Herramientas de IA para creadores de contenido en YouTube|
-|Wondershare Virbo|[Virbo](https://virbo.wondershare.com)|IA para edición y producción de video|
-|Opus|[opus.ai](https://opus.ai)|Herramienta de IA para creación de videos narrativos|
+|[**HeyGen**](https://www.heygen.com/)|Creación de un avatar a partir de un vídeo, manteniendo el tono de voz, multiidiomas & lipsync.
+|[**Rask.ai**](https://app.rask.ai/)|Traducción de vídeos a varios idiomas, manteniendo el tono de voz. [Ejemplo](https://app.rask.ai/project/41644bdf-10f2-47ef-bb40-eef50c7f804d)
+|[flexclip.com](https://www.flexclip.com/)|Edición de video|
+|[smilimedia.com](https://www.smilimedia.com/)|Plataforma de video marketing|
+|[fliki.ai](https://fliki.ai/)|Generación de videos con narración|
+|[synthesia.io](https://www.synthesia.io)|Creación de videos con avatares|
+|[latte.social](https://www.latte.social)|Creación de contenido de video|
+|[invideo.io](https://invideo.io)|Editor de video|
+|[vidiq.com](https://vidiq.com)|Herramientas para creadores de contenido en YouTube|
+|[Virbo](https://virbo.wondershare.com)|Edición y producción de video|
+|[opus.ai](https://opus.ai)|Herramienta para la creación de videos narrativos|
 
 ## Logotipos
 
-|Nombre|Link|Descripción|
+|Nombre|Descripción|Categoría|
 |-|-|-|
-|Namecheap|[namecheap.com](https://www.namecheap.com/logo-maker/)|Generador de logotipos con IA|
-|Brandmark|[brandmark.io](https://brandmark.io)|Diseño de logotipos con IA|
-|Logo Pony|[logopony.com](https://www.logopony.com)|Creación de logotipos con IA|
-|Logo AI|[makelogo.ai](https://makelogo.ai)|Herramienta de IA para diseño de logotipos|
+|[namecheap.com](https://www.namecheap.com/logo-maker/)|Generador de logotipos|
+|[brandmark.io](https://brandmark.io)|Diseño de logotipos|
+|[logopony.com](https://www.logopony.com)|Creación de logotipos|
+|[makelogo.ai](https://makelogo.ai)|Herramienta para diseño de logotipos|
 
-## Generar audio
+## Audio
 
-|Nombre|Link|Descripción|
+|Nombre|Descripción|Categoría|
 |-|-|-|
 |[Suno](https://app.suno.ai/create/)|Productor musical
-|Assembly AI|[assemblyai.com](https://www.assemblyai.com)|Transcripción y procesamiento de audio con IA|
-|Lovo AI|[lovo.ai](https://lovo.ai)|Generación de voz y audio con IA|
-|Eleven Labs|[elevenlabs.io](https://elevenlabs.io)|Sintetizador de voz con IA|
-|Songburst AI|[songburst.ai](https://www.songburst.ai)|Creación de música y audio con IA|
-|Adobe Podcast|[Adobe](https://podcast.adobe.com)|Herramienta de IA para podcasters|
-|Oto AI|[oto.ai](https://www.oto.ai)|Análisis de voz y audio con IA|
-|Fireflies AI|[fireflies.ai](https://fireflies.ai/)|Transcripción y análisis de reuniones con IA|
+|[assemblyai.com](https://www.assemblyai.com)|Transcripción y procesamiento de audio con IA|
+|[lovo.ai](https://lovo.ai)|Generación de voz y audio con IA|
+|[elevenlabs.io](https://elevenlabs.io)|Sintetizador de voz con IA|
+|[songburst.ai](https://www.songburst.ai)|Creación de música y audio con IA|
+|[Adobe](https://podcast.adobe.com)|Herramienta de IA para podcasters|
+|[oto.ai](https://www.oto.ai)|Análisis de voz y audio con IA|
+|[fireflies.ai](https://fireflies.ai/)|Transcripción y análisis de reuniones con IA|
+|[HappyScribe](https://www.happyscribe.com/)|transcripciones de audio
 
-## Escribir currículums
+## Aprender
 
-|Nombre|Link|Descripción|
+|Nombre|Descripción|Categoría|
+|-|-|-|
+|[studyable.app](https://studyable.app/)|Plataforma para aprendizaje y educación|
+|[gajix.com](https://gajix.com/)|Herramienta para aprendizaje y educación|
+|[humata.ai](https://www.humata.ai/)|Aprendizaje y desarrollo de habilidades|
+|[learningstudioai.com](https://learningstudioai.com/)|Personalización del aprendizaje|
+|[coursebox.ai](https://www.coursebox.ai/)|Plataforma para la creación de cursos en línea|
+|[learnworlds.com](https://www.learnworlds.com/)|Creación y gestión de cursos en línea|
+
+## Presentaciones
+
+|Nombre|Descripción|Categoría|
+|-|-|-|
+|[slideoo.ai](https://slideoo.ai/ai-feature-page)|Herramienta de IA para presentaciones|
+|[decktopus.com](https://www.decktopus.com/)|IA para creación de presentaciones interactivas|
+|[Simplified](https://simplified.com/ai-presentation-maker)|IA para diseño y creación de presentaciones|
+|[beautiful.ai](https://www.beautiful.ai/)|Generador de presentaciones con IA|
+|[SlidesGPT](https://slidesgpt.com/)|IA para generación de contenido de diapositivas|
+|[WePick](https://wepik.com/es/presentaciones-ai)|IA para selección y diseño de presentaciones|
+|[Gamma](https://gamma.app)|Plataforma de IA para presentaciones dinámicas|[🖥](https://gamma.app/public/Introduccion-a-la-IA-y-su-estado-actual-s2pfcebzfn8j7xt)
+|[SlidesGo AI](https://slidesgo.com/es/ai-presentations)|IA para creación de presentaciones personalizadas|
+|[Presentations AI](https://www.presentations.ai/)|IA para optimización de presentaciones|
+|[Kroma](https://kroma.ai/)|IA para presentaciones profesionales y de negocios|
+
+
+## Ofimática
+
+|Nombre|Descripción|Categoría|
+|-|-|-|
+|https://formulashq.com/es-LA/|Hojas de cálculo
+
+## Currículums
+
+|Nombre|Descripción|Categoría|
 |-|-|-|
 |Poised|[poised.com](https://www.poised.com)|Herramienta de IA para mejorar habilidades de comunicación|
 |Rezi|[rezi.ai](https://www.rezi.ai)|IA para creación y optimización de currículums|
 |Teal HQ|[tealhq.com](https://www.tealhq.com)|Plataforma de IA para desarrollo profesional|
 |Kickresume|[kickresume.com](https://www.kickresume.com)|Constructor de currículums con herramientas de IA|
+  
+## Verticales
 
-## Aprender
-
-|Nombre|Link|Descripción|
-|-|-|-|
-|Studyable|[studyable.app](https://studyable.app/)|Plataforma de IA para aprendizaje y educación|
-|Gajix|[gajix.com](https://gajix.com/)|Herramienta de IA para aprendizaje y educación|
-|Humata|[humata.ai](https://www.humata.ai/)|IA para aprendizaje y desarrollo de habilidades|
-|Learning Studio AI|[learningstudioai.com](https://learningstudioai.com/)|IA para personalización del aprendizaje|
-|Coursebox|[coursebox.ai](https://www.coursebox.ai/)|Plataforma de IA para creación de cursos en línea|
-|Learnworlds|[learnworlds.com](https://www.learnworlds.com/)|IA para creación y gestión de cursos en línea|
-
-## Presentaciones tipo PowerPoint con IA
-
-|Nombre|Link|Descripción|
-|-|-|-|
-|Slideoo|[slideoo.ai](https://slideoo.ai/ai-feature-page)|Herramienta de IA para presentaciones|
-|Decktopus|[decktopus.com](https://www.decktopus.com/)|IA para creación de presentaciones interactivas|
-|Simplified|[Simplified](https://simplified.com/ai-presentation-maker)|IA para diseño y creación de presentaciones|
-|Beautiful|[beautiful.ai](https://www.beautiful.ai/)|Generador de presentaciones con IA|
-|SlidesGPT|[SlidesGPT](https://slidesgpt.com/)|IA para generación de contenido de diapositivas|
-|Wepick|[WePick](https://wepik.com/es/presentaciones-ai)|IA para selección y diseño de presentaciones|
-|Gamma|[Gamma](https://gamma.app)|Plataforma de IA para presentaciones dinámicas|
-|SlidesGo|[SlidesGo AI](https://slidesgo.com/es/ai-presentations)|IA para creación de presentaciones personalizadas|
-|Presentations|[Presentations AI](https://www.presentations.ai/)|IA para optimización de presentaciones|
-|Kroma|[Kroma](https://kroma.ai/)|IA para presentaciones profesionales y de negocios|
-
+- Atención telefónica: [Jano](https://www.youtube.com/watch?v=fhoKnB6vwWg)
+- Salud [Glass AI](https://glass.health/ai)
+- RRHH [Sesame](https://www.sesamehr.es/ai/)
+- [Google Document AI](https://cloud.google.com/solutions/procurement-doc-ai?hl=es-419)
 
 ## Por clasificar
 
+<!--
 |Nombre|
 |-|
 [https://replicate.com/](https://replicate.com/)
 [https://bigjpg.com/](https://bigjpg.com/)
 [https://www.remove.bg/es](https://www.remove.bg/es)
-[https://chat.openai.com/](https://chat.openai.com/)
-[https://claude.ai/](https://claude.ai/)
-[https://bard.google.com/](https://bard.google.com/)
-[https://www.bing.com/search?q=Bing+AI…](https://www.bing.com/search?q=Bing+AI…)
-
-
 [https://ideogram.ai/t/trending](https://ideogram.ai/t/trending)
 [https://leonardo.ai/](https://leonardo.ai/)
 [https://www.bing.com/images/create](https://www.bing.com/images/create)
@@ -181,3 +221,4 @@
 [https://elevenlabs.io/](https://elevenlabs.io/)
 [https://ttsmaker.com/](https://ttsmaker.com/)
 [https://lumalabs.ai/](https://lumalabs.ai/)
+-->
