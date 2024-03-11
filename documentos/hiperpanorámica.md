@@ -34,10 +34,19 @@
 
 - [MetaGPT](https://github.com/geekan/MetaGPT) / [Enlace directo](https://huggingface.co/spaces/deepwisdom/MetaGPT)
 
+## Modelos locales
+
+|Nombre|Descripción|Categoría|
+|-|-|-|
+|[PrivateGPT](https://github.com/imartinez/privateGPT)|
+|[GPT4All](https://gpt4all.io/index.html)|
+
 ## Constructores de chatbots
 
-- [Dante](https://dante-ai.com/)
-- [Droxy](https://www.droxy.ai/)
+|Nombre|Descripción|Categoría|
+|-|-|-|
+|[Dante](https://dante-ai.com/)|
+|[Droxy](https://www.droxy.ai/)|
 
 ## Investigación
 
@@ -181,7 +190,6 @@
 |[SlidesGo AI](https://slidesgo.com/es/ai-presentations)|IA para creación de presentaciones personalizadas|
 |[Presentations AI](https://www.presentations.ai/)|IA para optimización de presentaciones|
 |[Kroma](https://kroma.ai/)|IA para presentaciones profesionales y de negocios|
-
 
 ## Ofimática
 
