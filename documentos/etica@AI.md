@@ -11,3 +11,7 @@
 
 No hay un consenso (y no hablamos de conceptos técnicos) --> Dificultad de diseño
 
+## Legislación
+
+- [Ley de AI del parlamento europeo](legislacionAI.md)
+- [Regulación e innovación](regulacionAI.md)
