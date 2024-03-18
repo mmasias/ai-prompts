@@ -13,6 +13,7 @@
 - Reacciones: [Sorpresa, duda, miedo, excepticismo, negación](https://docs.google.com/presentation/d/1UscAlHfjGgg4pPzz_p0V1eX18R74DRlvTtMXsbLVtI0/edit?usp=sharing) / [PessimistArchive](https://pessimistsarchive.org/) / [Duda](https://twitter.com/Culture_Crit/status/1689685381283815435)
 - Ver dónde se inserta
 - 💨
+- [Se (intenta) regular](/documentos/etica@AI.md)
 - *NoCode / Blockchain / Criptodivisas / Ciberseguridad / otros...* */ [Calidad](calidadAI.md)*
 
 <div align="center">
