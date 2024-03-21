@@ -15,7 +15,16 @@ Aprendizaje automático (ML por sus siglas en inglés)|Rama de la IA que utiliza
 
 > Las herramientas construidas en torno a los LLMs, como ChatGPT, Claude, Bard, etc. son una aplicación cada vez más importante del aprendizaje automático. Los LLMs generan *nuevo contenido*, convirtiéndolos en una forma de "IA generativa".
 
-> Más que preguntarnos si la AI es inteligente, preguntémonos ¿nuestra relación con la tecnología es inteligente? *[Daniel Innerarity](https://www.danielinnerarity.es/)*
+|![](/documentos/imagenes/timelineLLMs.png)|
+|:-:|
+|Cronología de los modelos de lenguaje de gran escala existentes en los últimos años.|
+|Fuente: [A survey of large language models](https://arxiv.org/pdf/2303.18223v12.pdf)|
+
+
+|![](/documentos/imagenes/timelineChatGPT.png)|
+|:-:|
+|Evolución técnica de GPT|
+|Fuente: [A survey of large language models](https://arxiv.org/pdf/2303.18223v12.pdf)|
 
 ## Qué
 
