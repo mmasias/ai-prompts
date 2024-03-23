@@ -40,6 +40,7 @@
 |-|-|-|
 |[PrivateGPT](https://github.com/imartinez/privateGPT)|
 |[GPT4All](https://gpt4all.io/index.html)|
+[LMStudio](https://lmstudio.ai/)
 
 ## Constructores de chatbots
 
