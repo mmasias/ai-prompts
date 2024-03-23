@@ -17,7 +17,7 @@
 |[Bard](https://bard.google.com/)           |[MidJourney](https://docs.midjourney.com/docs/prompts)                                                                             |[Moises](https://moises.ai/)                       |[Sora](https://openai.com/sora)
 |[Perplexity](https://www.perplexity.ai/)   |Stable Diffussion                                                                                                                  |[Suno](https://app.suno.ai/create/)                |[haiper.ai](https://haiper.ai/)
 |[Claude](https://claude.ai/chats)          |[BlueWillow](https://www.bluewillow.ai/)                                                                                           |                                                   |[heyGen](https://www.heygen.com/)
-|[Ernie](https://yiyan.baidu.com/)          |[VisualChatGPT](https://stablediffusionweb.com/Visual-ChatGPT#demo)                                                                |                                                   |
+|[Ernie](https://yiyan.baidu.com/)          |[VisualChatGPT](https://stablediffusionweb.com/Visual-ChatGPT#demo)                                                                |                                                   |[Pika](https://pika.art/home)
 |[Gemini](https://gemini.google.com/app)    |[Ideogram.ai](https://ideogram.ai/)                                                                                                |                                                   |
 |[Copilot](https://copilot.microsoft.com)   |
 |[Huggingface](https://huggingface.co/chat) |
