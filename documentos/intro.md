@@ -9,7 +9,7 @@
 <!-- TODO #2 Mejorar el hilo de lo comentado. Poner una referencia a edans y la idea de "no se puede detener el avance de la tecnología -->
 <!-- TODO #3 Un enlace a los ismos de denegri también estaría bien  -->
 
-- Aparece una *tecnología* distruptiva
+- Aparece una *tecnología* distruptiva: [Inteligencia artificial generativa](/documentos/AIgenerativa.md)
 - Reacciones: [Sorpresa, duda, miedo, excepticismo, negación](https://docs.google.com/presentation/d/1UscAlHfjGgg4pPzz_p0V1eX18R74DRlvTtMXsbLVtI0/edit?usp=sharing) / [PessimistArchive](https://pessimistsarchive.org/) / [Duda](https://twitter.com/Culture_Crit/status/1689685381283815435)
 - Ver dónde se inserta
 - 💨
