@@ -14,10 +14,9 @@ Al automatizar la generación de contenido, desde la escritura hasta el diseño 
 
 ## ¿Qué?
 
-
 La IA generativa es un subconjunto de la inteligencia artificial enfocado en la creación de contenido *nuevo* y *único*, contrastando con otros tipos de IA que se especializan en tareas como clasificar o identificar información basada en datos preexistentes. 
 
-Utiliza algoritmos avanzados para generar automáticamente texto, imágenes, música, voz, efectos visuales y más, alimentándose de grandes conjuntos de datos para "aprender" y luego crear. 
+Utiliza algoritmos avanzados para generar automáticamente texto, imágenes, música, voz, efectos visuales y más, alimentándose de grandes conjuntos de datos para "aprender" y luego crear.
 
 En lugar de simplemente analizar y procesar información, la IA generativa utiliza esa información como base para generar nuevos contenidos que no existían antes, abriendo posibilidades ilimitadas para la creación de productos personalizados, entretenimiento, y soluciones innovadoras en múltiples campos.
 
@@ -49,6 +48,8 @@ Inicialmente, los modelos de IA generativa son alimentados con grandes conjuntos
 |**Desarrolladores y creativos técnicos**|Plataformas como GitHub y Hugging Face ofrecen modelos de IA generativa de código abierto. Los usuarios pueden personalizar estos modelos o utilizarlos en cuadernos de programación como Google Colab para proyectos más complejos.
 |**Expertos e investigadores**|La creación de modelos propios o la colaboración en el desarrollo de tecnologías de IA avanzadas requiere un profundo conocimiento técnico, pero permite una personalización y una innovación sin precedentes.
 
-### Aplicaciones Prácticas
+### Aplicaciones prácticas
 
 La aplicación de la IA generativa se extiende a través de varios dominios, desde la creación de contenido digital y diseño de productos hasta la simulación de escenarios en investigación y desarrollo. Dependiendo del uso, el proceso puede implicar la configuración de parámetros específicos, la selección de modelos adecuados, y la iteración sobre los resultados para lograr el efecto deseado.
+
+![](/documentos/imagenes/modelosUML/generativaAI.svg)

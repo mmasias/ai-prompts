@@ -1,0 +1,30 @@
+@startmindmap
+
+' skinparam topurl https://plantuml.com/
+
++ [[https://github.com/mmasias/ai-prompts/blob/main/documentos/hiperpanor%C3%A1mica.md IA generativa]]
+++ Texto
++++ Artículos y blogs
++++ Descripciones de productos
++++ Poemas y cuentos
+-- Imágenes
+--+ Arte digital
+--+ Diseño de productos
+--+ Retratos y avatares
+-- Video
+--+ Anuncios publicitarios
+--+ Simulaciones
+--+ Cortometrajes
+++ Música
++++ Composiciones musicales
++++ Efectos de sonido
++++ Voces y cantos
+++ Diseño y Modelado 3D
++++ Activos para videojuegos
++++ Modelos arquitectónicos
++++ Prototipos de productos
+-- Código
+--+ Snippets de código
+--+ Soluciones de algoritmos
+--+ Interfaces de usuario
+@endmindmap
