@@ -90,6 +90,7 @@
 |-|-|-|
 |[copy.ai](https://www.copy.ai)|Herramienta para generación de texto creativo|([CdU@ChatGPT](https://chat.openai.com/share/23892a81-1e32-49c5-a60d-23c07ad65e02) y [CdU@CopyAI](https://app.copy.ai/projects/34198328?tool=chat&tab=results))
 |[quillbot.com](https://quillbot.com)|Herramienta de parafraseo y mejora de escritura|
+|[LanguageTool](https://languagetool.org/es)|LanguageTool es un corrector ortográfico, gramatical y de estilo multilingüe.|
 |[app.wordtune.com](https://app.wordtune.com)|Reescritura y optimización de textos|
 |[copysmith.ai](https://copysmith.ai)|Generación automatizada de contenido|
 |[writesonic.com](https://writesonic.com)|Asistente para escritores y marketers|

@@ -26,10 +26,6 @@ Aprendizaje profundo y big data (2010-presente)|Avances en el aprendizaje profun
 2015|Google|DeepMind|Go|Redes neuronales, aprendizaje por refuerzo y deep learning
 2017|Carnegie Mellon|Libratus|Poker|Algoritmos de Machine Learning
 
-
-
-
-
 ## Algunos servicios
 
 - [Lookout, visión asistida](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.reveal&hl=es&gl=US)
