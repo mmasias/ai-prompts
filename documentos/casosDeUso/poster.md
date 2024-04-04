@@ -12,7 +12,7 @@
 NOTA: por limitaciones del motor de ChatGPT, no es posible compartir conversaciones que incluyan trabajo con imágenes
 
 
-## Edición de imagenes
+## Edición de imágenes
 
 Se proporciona el prompt utilizado y el resultado del mismo, al lado derecho.
 
@@ -26,3 +26,4 @@ Se proporciona el prompt utilizado y el resultado del mismo, al lado derecho.
 ||Ajusta el poster anterior para que, manteniendo la imagen, se guie por las lineas de estilo de Vanitas Vanitatis|![](/documentos/imagenes/poster_vv_style.png)
 ||Agrégale el logo en la parte superior (está en la primera página del PDF de guía de estilo)|![](/documentos/imagenes/poster_with_vv_logo.png)
 ||He cambiado de idea: mejor usemos este logo|![](/documentos/imagenes/final_poster_with_real_logo.png)
+||Extiende la imagen del centro, para que aparezca debajo de ella un efecto de reflejo difuminado|![](/documentos/imagenes/extended_poster_with_reflection.png
