@@ -16,3 +16,5 @@
 ||Conviértela a blanco y negro|![](/documentos/imagenes/MarcoMono2.png)
 ||haz una composición donde aparezca, al lado izquierdo, la mitad izquierda de la imagen a blanco y negro  y al lado derecho la mitad derecha de la imagen a color, de modo que aparezca mitad blanco y negro y mitad a color|![](/documentos/imagenes/MarcoMono1.png)
 ||Hagamos un póster, colocando esta imagen en el centro, ocupando un 40% del area total del poster. Luego agrégale un marco alrededor de la imagen. Finalmente, sobre el marco pon el texto "Marco y un mono, dentro de un marco" con letra grande, de color rojo que ocupe toda la extensión del póster. En la parte inferior derecha del poster, con una letra más pequeña, pones "Póster hecho por ChatGPT" en color azul|![](/documentos/imagenes/final_poster.png)
+||Ajusta el poster anterior para que, manteniendo la imagen, se guie por las lineas de estilo de Vanitas Vanitatis|![](/documentos/imagenes/poster_vv_style.png)
+||Agrégale el logo en la parte superior (está en la primera página del PDF de guía de estilo)|![](/documentos/imagenes/poster_with_vv_logo.png)
