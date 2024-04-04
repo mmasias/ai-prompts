@@ -5,7 +5,7 @@
 
 </div>
 
-<big>*"El mayor sesgo en la IA no es la raza, ni la etnia, ni el género: el mayor sesgo es el complejo de inferioridad del ser humano. Si vemos a las máquinas como superiores a los humanos, las colocamos en un pedestal. Y si vemos a los humanos como seres frágiles e incapaces, volvemos a colocar a la IA en un pedestal, pero esta vez con el poder de una autoridad."*</big> Pinar Seyhan Demirdag - AI Director at Cuebric | Artist | Generative AI Expert
+<big>*"El mayor sesgo en la IA no es la raza, ni la etnia, ni el género: **el mayor sesgo es el complejo de inferioridad del ser humano**. Si vemos a las máquinas como superiores a los humanos, las colocamos en un pedestal. Y si vemos a los humanos como seres frágiles e incapaces, volvemos a colocar a la IA en un pedestal, pero esta vez con el poder de una autoridad."*</big> Pinar Seyhan Demirdag - AI Director at Cuebric | Artist | Generative AI Expert
 
 # Ética
 
