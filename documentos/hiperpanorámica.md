@@ -108,7 +108,7 @@
 |[AI Image Enlarger](https://imglarger.com)|Ampliación de imágenes|
 |[Supermeme AI](https://www.supermeme.ai)|Creación de memes|
 |[Aragon.ai](https://www.aragon.ai/)|Fotos a partir de fotos
-|[Leonardo AI](https://leonardo.ai)|Herramienta de diseño gráfico|
+|[Leonardo AI](https://leonardo.ai)|Herramienta de diseño gráfico|[🗺️](./imagenes/Default_A_old_style_rpg_map_0.jpg)
 |[Stockimg](https://stockimg.ai)|Generador de imágenes de stock|
 |[Segmind](https://www.segmind.com)|Plataforma para análisis y generación de imágenes|
 |[Designify](https://www.designify.com)|Diseño y edición de imágenes|

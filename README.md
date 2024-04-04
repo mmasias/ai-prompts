@@ -7,7 +7,7 @@
 
 <div align=center>
 
-<img src="/documentos/imagenes/AIQuest.webp" width=55% align=center>
+<img src="documentos/imagenes/AIQuest.webp" width=55% align=center>
 
 # Pequeñas anécdotas sobre la *IA*
 
