@@ -39,3 +39,5 @@ La Ley de Inteligencia Artificial sigue un enfoque basado en el riesgo. Algunos 
 - 2 años después: toda la Ley de IA será aplicable.
 
 ➵ Las multas por incumplimiento pueden llegar hasta 35 millones de euros o el 7% del volumen de negocios anual mundial.
+
+> Recomendado: [Luiza's newsletter](https://www.luizasnewsletter.com/)
