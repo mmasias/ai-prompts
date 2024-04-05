@@ -38,7 +38,7 @@
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
-|[PrivateGPT](https://github.com/imartinez/privateGPT)|
+|[PrivateGPT](https://github.com/zylon-ai/private-gpt/blob/main/README.md)|
 |[GPT4All](https://gpt4all.io/index.html)|
 [LMStudio](https://lmstudio.ai/)
 
