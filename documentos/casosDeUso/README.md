@@ -44,14 +44,16 @@
 |Resúmenes de contenidos generados||[7+-2](enCincoPuntos.md)
 |Presentación formato MARP|👨🏽‍🏫|[Presentación](marpPresentacion.md)
 
+
 ## 2DOs
 
-### En construccion & casi listo
+### En construccion & casi listos
 
 |x|Área|Caso de Uso|Breve descripción|
 |-|:-:|-|-|
 |Análisis de datos|📈|[Analizar datos y su evolución](analisisDeDatos.md)
 |Esquemas, diagrama y dibujos|📐|[Generar esquemas y diagramas](esquemasDiagramas.md)
+|Anticipación||[Anticipación](anticipacion.md)|
 Visión||[Diferentes escenarios de visión](visionGPT.md)|[Reconocimiento](https://chat.openai.com/c/3e02741d-0ae9-4515-8952-cab698331a86)
 ||||[Pasar a texto unas notas](https://chat.openai.com/c/0efbcd4a-4e95-4735-8ab3-809c34860ead)
 ||||[Sugerencias](https://chat.openai.com/c/c9a5faa6-7ea0-4ea5-b7c2-6caddea30d7e)
