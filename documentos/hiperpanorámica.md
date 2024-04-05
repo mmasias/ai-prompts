@@ -42,6 +42,8 @@
 |[GPT4All](https://gpt4all.io/index.html)|
 [LMStudio](https://lmstudio.ai/)
 
+> ***Pruebas previas***: [*HuggingFace*](https://huggingface.co/chat/)
+
 ## Constructores de chatbots
 
 |Nombre|Descripción|Categoría|
