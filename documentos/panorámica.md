@@ -66,10 +66,10 @@ Seguridad y privacidad|Los sistemas de IA deben ser diseñados y operados de man
 
 ![](/documentos/imagenes/modelosUML/plataformaServicioHerramienta.svg)
 
-||Plataforma|Servicio|Herramienta|
+||Herramienta|Servicio|Plataforma|
 |-|-|-|-|
-|**Def.:**|Conjunto de herramientas y servicios interconectados, diseñado para facilitar y gestionar una amplia gama de actividades y procesos específicos de una o varias áreas de trabajo.|Solución ofrecida a través de internet que permite a los usuarios acceder a funcionalidades específicas o realizar tareas concretas sin necesidad de instalar o mantener software adicional.|Recurso o aplicación diseñada para realizar una función o conjunto de funciones específicas, generalmente con un enfoque más limitado que una plataforma. Las herramientas pueden ser parte de una plataforma o estar disponibles de manera independiente.
-|**Ej.:**|Una plataforma de desarrollo de software que integra herramientas de codificación, pruebas y despliegue.|Un servicio de almacenamiento en la nube que permite a los usuarios guardar, compartir y acceder a archivos desde cualquier lugar.|Un editor de imágenes en línea que permite modificar fotos a través del navegador.
+|**Def.:**|Recurso o aplicación diseñada para realizar una función o conjunto de funciones específicas, generalmente con un enfoque más limitado que una plataforma. Las herramientas pueden ser parte de una plataforma o estar disponibles de manera independiente.|Solución ofrecida a través de internet que permite a los usuarios acceder a funcionalidades específicas o realizar tareas concretas sin necesidad de instalar o mantener software adicional.|Conjunto de herramientas y servicios interconectados, diseñado para facilitar y gestionar una amplia gama de actividades y procesos específicos de una o varias áreas de trabajo.
+|**Ej.:**|Un editor de imágenes en línea que permite modificar fotos a través del navegador.|Un servicio de almacenamiento en la nube que permite a los usuarios guardar, compartir y acceder a archivos desde cualquier lugar.|Una plataforma de desarrollo de software que integra herramientas de codificación, pruebas y despliegue.
 
 </div>
 
