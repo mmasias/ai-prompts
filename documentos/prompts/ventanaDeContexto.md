@@ -17,18 +17,22 @@ La "Ventana de contexto" es un fragmento de texto que incluye las interacciones 
 
 <div align=center>
   
-|Contexto|PROMPT|Respuesta|
+|Contexto|***PROMPT***|Respuesta|
 |-|-|-|
 
 </div>
 
 En el caso de GPT-3 y GPT-4, [la ventana de contexto tiene un límite de tokens](https://platform.openai.com/docs/models/gpt-3-5), que son las unidades básicas de texto que el modelo puede entender.
 
-||Ventana de contexto (*en tokens*)|
+<div align=center>
+
+||Ventana de contexto<br>(*en tokens*)|
 |-|:-:|
 GPT-3|2049
 GPT-3.5|4096
 GPT-4| 8192<br>*32768 (?)*
+
+</div>
 
 Si una conversación supera este límite, se deben eliminar partes del texto para que quepa en la ventana de contexto.
 
@@ -49,6 +53,8 @@ Los modelos de lenguaje no "ven" palabras, sino tokens.
 |lollipop|l / oll / ipop|
 
 Para el idioma inglés, 1 token es alrededor de 4 caracteres
+
+> [Hablando de tokens](tokens.md)
 
 ## ¿Para qué?
 
