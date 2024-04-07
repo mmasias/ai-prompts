@@ -5,14 +5,21 @@
 
 </div>
 
-# Ejemplos
+# Generación de código
 
-> *[Versión antigua](ejemplosAntiguos.md)*
+## ¿Por qué?
 
-- [x] [Resumen de textos](ejemplos/resumenTexto.md)
-- [ ] [Extracción de información](ejemplos/extraccionInformacion.md)
-- [ ] [Preguntas y respuestas](ejemplos/preguntasRespuestas.md)
-- [ ] [Clasificación de texto](ejemplos/clasificacionTexto.md)
-- [ ] [Conversación](ejemplos/conversacion.md)
-- [ ] [Generación de código](ejemplos/generacionCodigo.md)
-- [ ] [Razonamiento](ejemplos/razonamiento.md)
+
+## ¿Qué?
+
+
+## ¿Para qué?
+
+
+## ¿Cómo?
+
+
+## A tener en cuenta
+
+
+## Enlaces externos & bibliografía
