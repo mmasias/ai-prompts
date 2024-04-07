@@ -45,6 +45,7 @@ Al finalizar, se habrán visto un conjunto de casos de uso que se apoyan en la I
 
 ## Bibliografía et al...
 
+- [Educator FAQ](https://help.openai.com/en/collections/5929286-educator-faq)
 - [Recopilatorio de otros cursos](/documentos/cursosExternos/README.md)
 - [Documentación OpenAI](https://platform.openai.com/docs/introduction/overview)
 - [Prompt Engineering Institute](https://www.promptengineering.org/learn/)
@@ -54,6 +55,7 @@ Al finalizar, se habrán visto un conjunto de casos de uso que se apoyan en la I
 - [Harvard & AI](https://hbsp.harvard.edu/inspiring-minds/student-use-cases-for-ai)
 - 📖 [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/abs/2302.11382)
 - 📖 [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
+
 
 ### Guía de construcción
 
