@@ -41,6 +41,7 @@
 |[PrivateGPT](https://github.com/zylon-ai/private-gpt/blob/main/README.md)|
 |[GPT4All](https://gpt4all.io/index.html)|
 [LMStudio](https://lmstudio.ai/)
+|[ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/) de NVidia
 
 > ***Pruebas previas***: [*HuggingFace*](https://huggingface.co/chat/)
 
