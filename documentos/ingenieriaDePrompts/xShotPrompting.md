@@ -26,3 +26,11 @@ Para ajustar la salida del modelo de IA y ayudarlo a generar respuestas más rel
 [Jitanjáfora](/documentos/casosDeUso/aprendizajeJitanjafora.md)
 [Estilo de escritura](https://chat.openai.com/share/584af1d9-e459-4fc3-b571-bf8a3c317d66)
 [Acrónimos](/documentos/casosDeUso/acronimo.md)
+
+#### Consejos
+
+[Min et al. (2022)](https://arxiv.org/abs/2202.12837) nos proporciona algunos consejos para aplicar con esta técnica:
+
+- El espacio de etiquetas y la distribución del texto de entrada especificado por los ejemplos son ambos importantes (independientemente de si las etiquetas son correctas para las entradas individuales)
+- El formato que utilice también desempeña un papel clave en el rendimiento, incluso si solo usa etiquetas aleatorias, esto es mucho mejor que no tener etiquetas en absoluto.
+- Los resultados adicionales muestran que seleccionar etiquetas aleatorias de una verdadera distribución de etiquetas (en lugar de una distribución uniforme) también ayuda.

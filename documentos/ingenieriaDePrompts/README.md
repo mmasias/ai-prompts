@@ -58,8 +58,8 @@ Aprender una habilidad que en un futuro será considerada básica
 
 - Con lo que ya sabemos de [Prompts](/prompts/README.md)
 - [Técnicas y conceptos](tecnicasResumen.md)
-  - [Priming](priming.md)
   - [x-Shot prompting](xShotPrompting.md)
+  - [Priming](priming.md)
   - [Chain of thought](chainOfThought.md)
 
 ## Bibliografía
