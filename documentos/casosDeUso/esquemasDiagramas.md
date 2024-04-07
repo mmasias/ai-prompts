@@ -32,6 +32,11 @@ Generación del Código|El LLM producirá un código en plantUML basado en la so
 Interpretación del Código|Utilizar una herramienta o plataforma que soporte plantUML para interpretar el código y generar el diagrama de flujo visual.
 Modificación (si es necesario)|Si se requieren cambios o adaptaciones, el código puede ser modificado directamente y luego reinterpretado para obtener una nueva visualización.
 
+|[ChatGPT](https://chat.openai.com/)|[Claude](https://claude.ai/chats)|[Gemini](https://gemini.google.com/app)<br>[Bard](https://bard.google.com/)|[Perplexity](https://www.perplexity.ai/)|[Neuroflash](https://app.neuro-flash.com/aiWriter)|[Huggingface](https://huggingface.co/chat)|[Copilot](https://copilot.microsoft.com/)
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:
+|👍🏻|👍🏻|👎🏻👎🏻|🤔|👍🏻|🤔|👎🏻
+
+
 ### Diagrama generado
 
 #### Creando el proceso
