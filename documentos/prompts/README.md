@@ -20,7 +20,7 @@ Es más fácil para un LLM **analizar** correctamente un prompt escrito que uno 
 **Es más fácil detectar y corregir errores** en un formato de texto. Los LLMs aún cometen errores que los humanos pueden detectar más fácilmente al leer.
 Muchas aplicaciones de LLMs como la generación de código, resúmenes y traducciones se prestan mejor al formato de texto.
 
-> Aún así, se le puede pedir que [generar elementos gráficos](/casosDeUso/esquemasDiagramas.md).
+> Aún así, se le puede pedir que [generar elementos gráficos](/documentos/casosDeUso/esquemasDiagramas.md).
 
 ## ¿Qué?
 
