@@ -7,19 +7,15 @@
 
 # Clasificación de texto
 
-## ¿Por qué?
-
-
-## ¿Qué?
-
-
-## ¿Para qué?
-
-
-## ¿Cómo?
-
+Ver un primer detalle [**aquí**](../mejoresPracticas/clasificacionIntenciones.md)
 
 ## A tener en cuenta
 
+Además, estar atentos a estas curiosas situaciones
 
-## Enlaces externos & bibliografía
+|Modelo|
+|-|
+[ChatGPT](https://chat.openai.com/share/65db09a7-fecd-428f-9a57-7f82c08ca902)
+[Gemini](https://g.co/gemini/share/2d1c38357e60) / [Gemini *2nd try*](https://g.co/gemini/share/3901977df639)
+[Claude](https://claude.ai/chat/901e9f11-4ee8-4b02-b4f1-f25b591a2d43)
+[Copilot](https://copilot.microsoft.com/sl/faJ12i2wvC0)

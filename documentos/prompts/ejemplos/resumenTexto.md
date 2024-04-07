@@ -22,6 +22,7 @@ El objetivo de la sumarización de textos mediante modelos de lenguaje es ofrece
 ## ¿Cómo?
 
 |Modelo|
+|-|
 [ChatGPT](https://chat.openai.com/share/9e6cde23-9ad1-40fa-8fd9-1c7c6e46818f)
 [Gemini](https://g.co/gemini/share/a17d458fcc68)
 [Claude](https://claude.ai/chat/bf6ff613-9133-4a69-90b3-6f39cf50bb07)
@@ -29,5 +30,7 @@ El objetivo de la sumarización de textos mediante modelos de lenguaje es ofrece
 
 ## A tener en cuenta
 
+- Copilot ya incluye publicidad en sus respuestas
+- Copilot y Gemini citan las fuentes de modo natural (probar ejemplo con Perplexity)
 
 ## Enlaces externos & bibliografía

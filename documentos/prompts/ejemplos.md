@@ -10,9 +10,9 @@
 > *[Versión antigua](ejemplosAntiguos.md)*
 
 - [x] [Resumen de textos](ejemplos/resumenTexto.md)
-- [ ] [Extracción de información](ejemplos/extraccionInformacion.md)
-- [ ] [Preguntas y respuestas](ejemplos/preguntasRespuestas.md)
-- [ ] [Clasificación de texto](ejemplos/clasificacionTexto.md)
-- [ ] [Conversación](ejemplos/conversacion.md)
-- [ ] [Generación de código](ejemplos/generacionCodigo.md)
-- [ ] [Razonamiento](ejemplos/razonamiento.md)
+- [x] [Extracción de información](ejemplos/extraccionInformacion.md)
+- [x] [Respuestas](ejemplos/respuestas.md)
+- [x] [Clasificación de texto](ejemplos/clasificacionTexto.md)
+- [x] [Conversación](ejemplos/conversacion.md)
+- [x] [Generación de código](ejemplos/generacionCodigo.md)
+- [x] [Razonamiento](ejemplos/razonamiento.md)
