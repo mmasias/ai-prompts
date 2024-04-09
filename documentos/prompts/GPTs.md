@@ -1,3 +1,10 @@
+<div align=right>
+
+|[![](https://img.shields.io/badge/-Inicio-FFF?style=flat&logo=Emlakjet&logoColor=black)](/README.md) [![](https://img.shields.io/badge/-Introducción-FFF?style=flat)](/documentos/intro.md) [![](https://img.shields.io/badge/-Panorámica-FFF?style=flat)](/documentos/panorámica.md) [![](https://img.shields.io/badge/-Prompts-FFF?style=flat)](/documentos/prompts/README.md) [![](https://img.shields.io/badge/-Ingeniería_de_prompts-FFF?style=flat)](/documentos/ingenieriaDePrompts/README.md) [![](https://img.shields.io/badge/-Patrones-FFF?style=flat)](/documentos/ingenieriaDePrompts/patrones/README.md) [![](https://img.shields.io/badge/-Casos_de_uso-FFF?style=flat)](/documentos/casosDeUso/README.md)|
+|-|
+
+</div>
+
 # GPTs
 
 ## ¿Por qué?
@@ -33,6 +40,9 @@ Pueden ser configurados fácilmente sin necesidad de codificación, lo que los h
 - Personalizados
   - [Pedagogo](https://chat.openai.com/g/g-iuUuZ415A-sancochado-pedagogo-alforjo-de-la-alubia)
   - [UNEATLANTICO](https://chat.openai.com/g/g-L6hQrYzQ1-uneatlantico-hs)
+
+- De terceros
+  - [Casos de uso](casosDeUsoGPTs.md)
 
 ### Especificidades
 
