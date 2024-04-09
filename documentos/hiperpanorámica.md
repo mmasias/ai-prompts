@@ -62,6 +62,7 @@
 |[Harpa.ai](https://harpa.ai/)|Agente para gestión de investigaciones|Servicio / 
 |[SCISPACE](https://typeset.io/)|Papers académicos
 |[Consensus](https://consensus.app/)|Papers académicos
+|[ChatPDF](https://www.chatpdf.com/)|Chatear con un PDF
 
 
 ## Trabajo, trabajo colaborativo y similares
