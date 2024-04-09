@@ -19,7 +19,7 @@
 |[Claude](https://claude.ai/chats)          |[BlueWillow](https://www.bluewillow.ai/)                                                                                           |[StableAudio](https://www.stableaudio.com/)        |[heyGen](https://www.heygen.com/)
 |[Ernie](https://yiyan.baidu.com/)          |[VisualChatGPT](https://stablediffusionweb.com/Visual-ChatGPT#demo)                                                                |[MusicGen](https://huggingface.co/spaces/facebook/MusicGen)  [(*Repo*)](https://github.com/facebookresearch/audiocraft)                                                 |[Pika](https://pika.art/home)
 |[Gemini](https://gemini.google.com/app)    |[Ideogram.ai](https://ideogram.ai/)                                                                                                |                                                   |
-|[Copilot](https://copilot.microsoft.com)   |
+|[Copilot](https://copilot.microsoft.com)   |[MS Designer](https://designer.microsoft.com/)
 |[Huggingface](https://huggingface.co/chat) |
 
 </div>
