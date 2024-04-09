@@ -61,6 +61,8 @@
 |[Execo.ai](https://execo.ai)|Agente para gestión de investigaciones|Servicio / 
 |[Harpa.ai](https://harpa.ai/)|Agente para gestión de investigaciones|Servicio / 
 |[SCISPACE](https://typeset.io/)|Papers académicos
+|[Consensus](https://consensus.app/)|Papers académicos
+
 
 ## Trabajo, trabajo colaborativo y similares
 
