@@ -24,3 +24,7 @@ El enfoque debe ser mantener la conciencia y decisión humana en el corazón de 
 
 - [Ley de AI del parlamento europeo](legislacionAI.md)
 - [Regulación e innovación](regulacionAI.md)
+
+## Otros
+
+- [Sesgo](etica.sesgo.md)
