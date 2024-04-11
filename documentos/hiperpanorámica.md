@@ -57,12 +57,12 @@
 |Nombre|Descripción|Categoría|
 |-|-|-|
 |[Perplexity.ai](https://www.perplexity.ai)|Análisis e investigaciones|Plataforma / [CdU](/documentos/casosDeUso/perplexity.md)
-|[Silatus](https://silatus.com)|Plataforma de IA para investigación y análisis de datos|Plataforma / 
-|[Execo.ai](https://execo.ai)|Agente para gestión de investigaciones|Servicio / 
-|[Harpa.ai](https://harpa.ai/)|Agente para gestión de investigaciones|Servicio / 
 |[SCISPACE](https://typeset.io/)|Papers académicos
-|[Consensus](https://consensus.app/)|Papers académicos
 |[ChatPDF](https://www.chatpdf.com/)|Chatear con un PDF
+|[Harpa.ai](https://harpa.ai/)|Agente para gestión de investigaciones|Servicio / 
+|[Consensus](https://consensus.app/)|Papers académicos
+|[Execo.ai](https://execo.ai)|Agente para gestión de investigaciones|Servicio / 
+|[Silatus](https://silatus.com)|Plataforma de IA para investigación y análisis de datos|Plataforma / 
 
 
 ## Trabajo, trabajo colaborativo y similares
