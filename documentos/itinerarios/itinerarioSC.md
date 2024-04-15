@@ -12,7 +12,7 @@
   - [Ejemplos de partida para prompts](/documentos/prompts/ejemplos.md)
   - [Buenas prácticas al construir un prompt](/documentos/prompts/mejoresPracticas/README.md)
   - [Intrucciones personalizadas (Custom instructions en ChatGPT)](/documentos/prompts/customInstructions.md)
-- [Vademecum de modelos de lenguaje](/documentos/hiperpanorámica.md), que incluye una cantidad enorme de modelos para experimentar y en concreto vimos durante la sesión:
+- [Vademecum de modelos de lenguaje](/documentos/hiperpanorámica.md), que incluye una cantidad enorme de modelos para experimentar. Los vistos durante la sesión:
   - Modelos generalistas (sección "primera división") - De estos vimos ejemplos con [ChatGPT](https://chat.openai.com/), [Claude](https://claude.ai/chats) y [Copilot](https://copilot.microsoft.com/)
   - Modelos para investigación - [Perplexity](https://www.perplexity.ai/)
   - Trabajo colaborativo - [Whimsical](https://whimsical.com/) para la construcción de mapas mentales a partir de PDFs
