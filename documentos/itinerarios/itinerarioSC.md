@@ -8,7 +8,7 @@
     - El factor [ético](/documentos/etica@AI.md) y de seguridad: [legislación](/documentos/legislacionAI.md) y el desafio de la [regulación](/documentos/regulacionAI.md).
 - Interacción con modelos de lenguaje: los [**prompts**](/documentos/prompts/README.md)
   - [La ventana de contexto](/documentos/prompts/ventanaDeContexto.md)
-  - [Anatomía de un prompt](/documentos/prompts/anatomia.md) - Los [elementos](/documentos/prompts/elementos.md)
+  - [Anatomía de un prompt](/documentos/prompts/anatomia.md) - Los [componentes](/documentos/prompts/componentes.md)
   - [Ejemplos de partida para prompts](/documentos/prompts/ejemplos.md)
   - [Buenas prácticas al construir un prompt](/documentos/prompts/mejoresPracticas/README.md)
   - [Intrucciones personalizadas (Custom instructions en ChatGPT)](/documentos/prompts/customInstructions.md)
