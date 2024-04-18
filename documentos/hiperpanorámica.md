@@ -62,6 +62,8 @@
 
 ## Agentes de navegador
 
+|Nombre|Descripción|Categoría|
+|-|-|-|
 |[Execo.ai](https://execo.ai)|Agente para gestión de investigaciones|Servicio / 
 |[Harpa.ai](https://harpa.ai/)|Agente para gestión de investigaciones|Servicio / 
 |[Eightify.app](https://eightify.app)|Agente TLDR y similares8|Herramienta
