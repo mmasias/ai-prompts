@@ -60,9 +60,12 @@
 
 <div align=center>
 
-|![](/documentos/imagenes/ChatGPT-use-in-consulting.png)|
-|-|
-En la gráfica, puede verse la distribución de la calidad del output entre todas las tareas: el grupo azul no usó ChatGPT, mientras que los grupos verde y rojo sí lo usaron, y el grupo rojo recibió además capacitación adicional sobre cómo utilizarlo.
-![](/documentos/imagenes/cyborg-centaur-infographic.jpg)
+<img src="imagenes/ChatGPT-use-in-consulting.png" width=45%>
+
+En la gráfica, puede verse la distribución de la calidad del output entre todas las tareas:<br>
+el grupo azul no usó ChatGPT, mientras que los grupos verde y rojo sí lo usaron.<br>
+Además, el grupo rojo recibió capacitación adicional sobre cómo utilizarlo.
+
+<img src="imagenes/cyborg-centaur-infographic.jpg" width=55%>
 
 </div>
