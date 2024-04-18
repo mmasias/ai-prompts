@@ -26,7 +26,9 @@ Aprendizaje automático (ML por sus siglas en inglés)|Rama de la IA que utiliza
 
 </div>
 
-## Qué
+- Pero ya un año antes (el 2018) [Google presentaba esto...](https://www.youtube.com/watch?v=l9BTMWOupGM)
+
+## ¿Qué?
 
 ### Componentes principales
 

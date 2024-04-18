@@ -24,6 +24,7 @@ El enfoque debe ser mantener la conciencia y decisión humana en el corazón de 
 
 - [Ley de AI del parlamento europeo](legislacionAI.md)
 - [Regulación e innovación](regulacionAI.md)
+  - [Unión Europea / USA](https://www.linkedin.com/pulse/eu-vs-usa-diferencias-reguladoras-claves-radojka-barycki-mrbgc/): "*Una de las diferencias fundamentales radica en el enfoque regulatorio: la UE a menudo opera según el principio de precaución, mientras que Estados Unidos tiende a confiar más en la evidencia científica.*"
 
 ## Otros
 
