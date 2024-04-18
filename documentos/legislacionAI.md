@@ -9,9 +9,9 @@ Esto es lo que todos deberían saber:
 La Ley de Inteligencia Artificial sigue un enfoque basado en el riesgo. Algunos sistemas de IA están prohibidos, como los que implican:
 
 - **Manipulación cognitiva** del comportamiento de personas o grupos vulnerables específicos;
-- **Puntuación social**: clasificar a las personas según su comportamiento, estatus socioeconómico o características personales;
+- **Puntuación social**: clasificar a las personas según su comportamiento, estatus socioeconómico o características personales; ([📺](https://es.wikipedia.org/wiki/Nosedive))
 - **Identificación** biométrica y **categorización** de personas;
-- **Sistemas de identificación biométrica en tiempo real y a distancia**, como el reconocimiento facial.
+- **Sistemas de identificación biométrica en tiempo real y a distancia**, como el reconocimiento facial.([✈️](https://www.aena.es/es/pasajeros/equipajes-controles/reconocimiento-facial-aeropuertos.html))
 
 ➵ Algunos sistemas de IA caen en la categoría de "alto riesgo", como aquellos que implican:
 
@@ -26,7 +26,7 @@ La Ley de Inteligencia Artificial sigue un enfoque basado en el riesgo. Algunos 
 
 ➵ Los sistemas de IA de alto riesgo serán evaluados antes de salir al mercado y también durante todo su ciclo de vida. Las personas tendrán derecho a presentar quejas sobre los sistemas de IA a las autoridades nacionales designadas.
 
-➵ La IA generativa, como ChatGPT, no será clasificada como de alto riesgo, pero deberá cumplir con los requisitos de transparencia y la ley de derechos de autor de la UE. Algunas de las obligaciones son:
+➵ **La IA generativa, como ChatGPT, no será clasificada como de alto riesgo**, pero deberá cumplir con los requisitos de transparencia y la ley de derechos de autor de la UE. Algunas de las obligaciones son:
 
 - Revelar que el contenido fue generado por IA;
 - Diseñar el modelo para evitar que genere contenido ilegal;
