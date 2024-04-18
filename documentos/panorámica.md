@@ -15,20 +15,14 @@ Aprendizaje automático (ML por sus siglas en inglés)|Rama de la IA que utiliza
 
 > Las herramientas construidas en torno a los LLMs, como ChatGPT, Claude, Gemini, etc. son una aplicación cada vez más importante del aprendizaje automático. Los LLMs generan *nuevo contenido*, convirtiéndolos en una forma de "IA generativa".
 
+## Cronología
 <div align=center>
 
+<img src="imagenes/timelineLLMs.png" width=65% border=1>
 
-|Cronología de los LLMs existentes en los últimos años.|
-|:-:|
-<img src="imagenes/timelineLLMs.png" width=75%>
-|Fuente: [A survey of large language models](https://arxiv.org/pdf/2303.18223v12.pdf)|
+<hr width=75%>
 
-
-
-|Evolución técnica de GPT|
-|:-:|
-<img src="imagenes/timelineChatGPT.png" width=75%>
-|Fuente: [A survey of large language models](https://arxiv.org/pdf/2303.18223v12.pdf)|
+<img src="imagenes/timelineChatGPT.png" width=65% border=1>
 
 </div>
 
@@ -83,3 +77,10 @@ Preprocesamiento y limpieza de datos|Los datos que alimentan los algoritmos de I
 ## ¿Cómo?
 
 - [Prompts](/prompts/README.md)
+
+
+
+## Bibliografía
+
+- Cronología de los LLMs existentes en los últimos años - [A survey of large language models](https://arxiv.org/pdf/2303.18223v12.pdf)
+- Evolución técnica de GPT - [A survey of large language models](https://arxiv.org/pdf/2303.18223v12.pdf)
