@@ -24,15 +24,7 @@
 
 </div>
 
-## Integraciones
-
-- https://app.integrately.com/
-- https://zapier.com/
 - [**GPT for work**](https://gptforwork.com/) + [Plantilla muy útil](https://docs.google.com/spreadsheets/d/1SOz3u2A8Y6RXvXK_X2QdrcWJ7WklbgtWNE9ljZ_yaEc/template/preview)
-
-## Marcos de trabajo
-
-- [MetaGPT](https://github.com/geekan/MetaGPT) / [Enlace directo](https://huggingface.co/spaces/deepwisdom/MetaGPT)
 
 ## Modelos locales
 
@@ -43,26 +35,23 @@
 [LMStudio](https://lmstudio.ai/)
 |[ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/) de NVidia
 
+### Marcos de trabajo
+
+- [MetaGPT](https://github.com/geekan/MetaGPT) / [Enlace directo](https://huggingface.co/spaces/deepwisdom/MetaGPT)
+
 > ***Pruebas previas***: [*HuggingFace*](https://huggingface.co/chat/)
-
-## Constructores de chatbots
-
-|Nombre|Descripción|Categoría|
-|-|-|-|
-|[Dante](https://dante-ai.com/)|
-|[Droxy](https://www.droxy.ai/)|
 
 ## Investigación
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
-|[Perplexity.ai](https://www.perplexity.ai)|Análisis e investigaciones|Plataforma / [CdU](/documentos/casosDeUso/perplexity.md)
-|[SCISPACE](https://typeset.io/)|Papers académicos
-|[ChatPDF](https://www.chatpdf.com/)|Chatear con un PDF
-|[Harpa.ai](https://harpa.ai/)|Agente para gestión de investigaciones|Servicio / 
-|[Consensus](https://consensus.app/)|Papers académicos
+|[**Perplexity.ai**](https://www.perplexity.ai)|Análisis e investigaciones|Plataforma / [CdU](/documentos/casosDeUso/perplexity.md)
+|[**SCISPACE**](https://typeset.io/)|Papers académicos
+|[**ChatPDF**](https://www.chatpdf.com/)|Chatear con un PDF
+|[**Consensus**](https://consensus.app/)|Papers académicos
+|[Silatus](https://silatus.com)|Plataforma de IA para investigación y análisis de datos|Plataforma / De pago
 |[Execo.ai](https://execo.ai)|Agente para gestión de investigaciones|Servicio / 
-|[Silatus](https://silatus.com)|Plataforma de IA para investigación y análisis de datos|Plataforma / 
+|[Harpa.ai](https://harpa.ai/)|Agente para gestión de investigaciones|Servicio / 
 
 
 ## Trabajo, trabajo colaborativo y similares
@@ -214,7 +203,19 @@
 |Rezi|[rezi.ai](https://www.rezi.ai)|IA para creación y optimización de currículums|
 |Teal HQ|[tealhq.com](https://www.tealhq.com)|Plataforma de IA para desarrollo profesional|
 |Kickresume|[kickresume.com](https://www.kickresume.com)|Constructor de currículums con herramientas de IA|
-  
+
+## Integraciones
+
+- https://app.integrately.com/
+- https://zapier.com/
+
+### Constructores de chatbots
+
+|Nombre|Descripción|Categoría|
+|-|-|-|
+|[Dante](https://dante-ai.com/)|
+|[Droxy](https://www.droxy.ai/)|
+
 ## Verticales
 
 - Atención telefónica: [Jano](https://www.youtube.com/watch?v=fhoKnB6vwWg)
