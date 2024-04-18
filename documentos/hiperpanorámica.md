@@ -47,20 +47,23 @@
 |-|-|-|
 |[**Perplexity.ai**](https://www.perplexity.ai)|Análisis e investigaciones|Plataforma / [CdU](/documentos/casosDeUso/perplexity.md)
 |[**SCISPACE**](https://typeset.io/)|Papers académicos
-|[**ChatPDF**](https://www.chatpdf.com/)|Chatear con un PDF
 |[**Consensus**](https://consensus.app/)|Papers académicos
 |[Silatus](https://silatus.com)|Plataforma de IA para investigación y análisis de datos|Plataforma / De pago
-|[Execo.ai](https://execo.ai)|Agente para gestión de investigaciones|Servicio / 
-|[Harpa.ai](https://harpa.ai/)|Agente para gestión de investigaciones|Servicio / 
 
 
 ## Trabajo, trabajo colaborativo y similares
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
-|[Whimsical](https://whimsical.com/)|Creación de mapas mentales, diagramas y prototipos visuales.|Plataforma / [CdU](https://whimsical.com/seminario-ai-YKgQuAQtcHKUYicLPAisqE)
-|[V0](https://v0.dev/)|Creación y prueba de prototipos de interfaz.|Herramienta / [CdU](/documentos/casosDeUso/V0.md)
-|[Humata](http://humata.ai)|Chat con documentos
+|[**Whimsical**](https://whimsical.com/)|Creación de mapas mentales, diagramas y prototipos visuales.|Plataforma / [CdU](https://whimsical.com/seminario-ai-YKgQuAQtcHKUYicLPAisqE)
+|[**V0**](https://v0.dev/)|Creación y prueba de prototipos de interfaz.|Herramienta / [CdU](/documentos/casosDeUso/V0.md)
+|[**ChatPDF**](https://www.chatpdf.com/)|Chatear con un PDF
+|[**Humata**](http://humata.ai)|Chat con documentos
+
+## Agentes de navegador
+
+|[Execo.ai](https://execo.ai)|Agente para gestión de investigaciones|Servicio / 
+|[Harpa.ai](https://harpa.ai/)|Agente para gestión de investigaciones|Servicio / 
 |[Eightify.app](https://eightify.app)|Agente TLDR y similares8|Herramienta
 
 ## Redes sociales
