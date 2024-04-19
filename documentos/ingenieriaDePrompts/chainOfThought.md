@@ -9,7 +9,7 @@
 
 ## ¿Por qué?
 
-En conversaciones largas o complejas se necesita obtener respuestas relacionadas.
+Con 🍎: por [esto](https://g.co/gemini/share/a94318ce50d0)...
 
 ## ¿Qué?
 
@@ -25,4 +25,5 @@ El concepto de "Chain of Thought" es útil para mantener una conversación coher
 
 ## ¿Cómo?
 
-[Artesanía](/documentos/casosDeUso/artesania.md)
+- [Pidiéndole que piense, paso a paso](https://g.co/gemini/share/dfd8f14e1eb2)
+- [Artesanía](/documentos/casosDeUso/artesania.md)

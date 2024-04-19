@@ -43,7 +43,7 @@
 |"Turnit·in"||[Auditor de autoría](auditorAutoria.md)|
 |Resúmenes de contenidos generados||[7+-2](enCincoPuntos.md)
 |Presentación formato MARP|👨🏽‍🏫|[Presentación](marpPresentacion.md)
-
+|Análisis financiero|👨🏽‍🏫||[Análisis financiero](analisisFinanciero.md)||
 
 ## 2DOs
 
@@ -67,6 +67,7 @@ Visión||[Diferentes escenarios de visión](visionGPT.md)|[Reconocimiento](https
 
 |Caso|Breve descripción|Herramientas|Transcripción|
 |-|-|-|-|
+|[Reconocimientos académicos](https://github.com/mmasias/mmasias/blob/main/ai/CdU/reconocimientos.md)|
 |[Trabajo con imagenes](poster.md)
 |Construcción de un juego|-|-|[ChatGPT](https://chat.openai.com/share/f3d914ee-0166-4cdf-b063-a8346643b38a)
 |Refinar pregunta|-|-|[ChatGPT](https://chat.openai.com/share/1b68594e-ec33-4b76-a49e-cfadbad74243)
@@ -81,6 +82,7 @@ Visión||[Diferentes escenarios de visión](visionGPT.md)|[Reconocimiento](https
 |Rebranding de sitio web de servicios|pdeinfo.com, 1999|[ClaudeAI](https://claude.ai/chat/99747db0-b56b-4e55-9826-9b80a4598116) / [ChatGPT](https://chat.openai.com/share/23892a81-1e32-49c5-a60d-23c07ad65e02)
 |Viabilidad de una idea & pySimilares|[ChatGPT](https://chat.openai.com/share/52d3f54c-de88-43e4-9deb-228369564c52) 
 |Charla contextualizada|Conversar con alguien de los 90s|[ChatGPT](https://chat.openai.com/share/fe504c5d-dfa2-4a63-add0-b3d26ea18d89)|
+
 
 <!-- TODO: #9 Modelar Google Wave y ver qué dice -->
 <!-- TODO: #11 Simular un lanzamiento de producto en 1999 o en la edad media :P -->

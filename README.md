@@ -45,6 +45,7 @@ Al finalizar, se habrán visto un conjunto de casos de uso que se apoyan en la I
 
 ## Bibliografía et al...
 
+- [Educator FAQ](https://help.openai.com/en/collections/5929286-educator-faq)
 - [Recopilatorio de otros cursos](/documentos/cursosExternos/README.md)
 - [Documentación OpenAI](https://platform.openai.com/docs/introduction/overview)
 - [Prompt Engineering Institute](https://www.promptengineering.org/learn/)
@@ -55,6 +56,7 @@ Al finalizar, se habrán visto un conjunto de casos de uso que se apoyan en la I
 - 📖 [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/abs/2302.11382)
 - 📖 [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
 
+
 ### Guía de construcción
 
 [Repo padre/abuelo](https://github.com/mmasias/chatGPT), abril de 2023 
@@ -64,3 +66,7 @@ Al finalizar, se habrán visto un conjunto de casos de uso que se apoyan en la I
 **Ruta**|[🗺️](https://docs.google.com/spreadsheets/d/1CMCHoDKnVWJjKiB7Cp6_UR6JxROY0A3XASgdRtyVELc/edit?usp=sharing) 
 **Sintonía**|[🎧](https://open.spotify.com/album/2LE9BDji49rYh3p3a3o1KH?si=lGg2uyk4Rl-GRn57bVX9Mg)
 **Roadmap propuesto**|[🗺️](https://docs.google.com/spreadsheets/d/16uFMF5C42NKFHiN3IfwWteegTKI3vR5ppgt_8AzWgvQ/edit#gid=0)
+
+### Nota al pie
+
+De momento, Claude no ofrece una opción para compartir los chats. Es por esto que la mayor parte de enlaces de ese modelo no están funcionales.

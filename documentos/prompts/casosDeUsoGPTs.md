@@ -5,14 +5,9 @@
 
 </div>
 
-# Ejemplos
+# Casos de uso GPTs - light version
 
-> *[Versión antigua](ejemplosAntiguos.md)*
-
-- [x] [Resumen de textos](ejemplos/resumenTexto.md)
-- [x] [Extracción de información](ejemplos/extraccionInformacion.md)
-- [x] [Respuestas](ejemplos/respuestas.md)
-- [x] [Clasificación de texto](ejemplos/clasificacionTexto.md)
-- [x] [Conversación](ejemplos/conversacion.md)
-- [x] [Generación de código](ejemplos/generacionCodigo.md)
-- [x] [Razonamiento](ejemplos/razonamiento.md)
+|GPT|Descripción|Caso de uso|
+|-|-|:-:|
+|YouTube∑✏️|Genera resúmenes educativos de videos largos en cualquier idioma. Sin necesidad de registros adicionales. Gratuito.|[📜](https://chat.openai.com/share/fa404a84-4c07-4687-bf4a-468ff65e91aa)
+|Whimsical Diagrams|Explica y visualiza conceptos con diagramas de flujo, mapas mentales y diagramas de secuencia.|[📜](https://chat.openai.com/share/bff7f79f-8240-45b2-994c-b698ca027e42)

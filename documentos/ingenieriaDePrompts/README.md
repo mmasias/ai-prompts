@@ -58,9 +58,11 @@ Aprender una habilidad que en un futuro será considerada básica
 
 - Con lo que ya sabemos de [Prompts](/prompts/README.md)
 - [Técnicas y conceptos](tecnicasResumen.md)
+  - [Prompt sin entrenamiento previo](0ShotPrompting.md)
   - [x-Shot prompting](xShotPrompting.md)
+  - [Cadena de pensamiento (CoT)](chainOfThought.md)
   - [Priming](priming.md)
-  - [Chain of thought](chainOfThought.md)
+  - [Árbol de pensamiento](arbolPensamiento.md)
 
 ## Bibliografía
 
@@ -68,4 +70,3 @@ Aprender una habilidad que en un futuro será considerada básica
 |-|-|
 [OpenAI](https://openai.com/) / [❓](https://help.openai.com/en/)|
 [Prompt engineering institute](https://www.promptengineering.org/)|
-[Prompt Engineering for Everybody with ChatGPT and GPT4 - PacktPub]()|

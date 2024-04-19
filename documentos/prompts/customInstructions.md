@@ -23,4 +23,13 @@ Dado que cada usuario tiene necesidades y contextos únicos que desean ver refle
 
 ## ¿Cómo?
 
-[Exceso](https://chat.openai.com/share/b505d7b7-c852-4987-bfc0-af7d800fae11)
+### Paso 0
+
+![](/documentos/imagenes/customInstructions0000.png)
+
+### Paso 1
+
+![](/documentos/imagenes/customInstructions0001.png)
+
+
+A partir de la configuración de custom instructions, ChatGPT notifica que la respuesta probablemente esté *sesgada*: [*Exceso*](https://chat.openai.com/share/b505d7b7-c852-4987-bfc0-af7d800fae11)

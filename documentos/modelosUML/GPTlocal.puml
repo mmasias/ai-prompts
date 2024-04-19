@@ -1,0 +1,36 @@
+' Fuente: https://www.youtube.com/watch?v=p35GygHpxoI&t=21s"
+
+hide circle
+allowmixing
+
+package MODELO {
+
+package INGESTION {
+    class Documentos {
+        pdf
+        docx
+        xls
+        txt
+    }
+
+    class Textos
+
+    Documentos -r-> Textos : extracción\nde texto
+
+    collections BloquesDeTextos
+
+    Textos -r-> BloquesDeTextos : división\nde texto
+}
+
+
+database Database 
+ 
+BloquesDeTextos -d-> Database : generar representación
+
+package RECUPERACION {
+    RepresentaciónDePregunta -u-> Database
+    Database --> RespuestasRelevantes
+}
+}
+    Pregunta -u-> RepresentaciónDePregunta
+    RespuestasRelevantes --> Respuesta

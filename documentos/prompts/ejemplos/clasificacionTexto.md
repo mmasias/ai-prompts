@@ -5,14 +5,17 @@
 
 </div>
 
-# Ejemplos
+# Clasificación de texto
 
-> *[Versión antigua](ejemplosAntiguos.md)*
+Ver un primer detalle [**aquí**](../mejoresPracticas/clasificacionIntenciones.md)
 
-- [x] [Resumen de textos](ejemplos/resumenTexto.md)
-- [x] [Extracción de información](ejemplos/extraccionInformacion.md)
-- [x] [Respuestas](ejemplos/respuestas.md)
-- [x] [Clasificación de texto](ejemplos/clasificacionTexto.md)
-- [x] [Conversación](ejemplos/conversacion.md)
-- [x] [Generación de código](ejemplos/generacionCodigo.md)
-- [x] [Razonamiento](ejemplos/razonamiento.md)
+## A tener en cuenta
+
+Además, estar atentos a estas curiosas situaciones
+
+|Modelo|
+|-|
+[ChatGPT](https://chat.openai.com/share/65db09a7-fecd-428f-9a57-7f82c08ca902)
+[Gemini](https://g.co/gemini/share/2d1c38357e60) / [Gemini *2nd try*](https://g.co/gemini/share/3901977df639)
+[Claude](https://claude.ai/chat/901e9f11-4ee8-4b02-b4f1-f25b591a2d43)
+[Copilot](https://copilot.microsoft.com/sl/faJ12i2wvC0)

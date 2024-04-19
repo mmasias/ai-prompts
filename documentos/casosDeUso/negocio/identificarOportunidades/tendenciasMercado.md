@@ -23,7 +23,7 @@ Para identificar oportunidades de negocio que estén alineadas con las necesidad
 
 *Se ha observado un aumento en la demanda de alimentos orgánicos y sostenibles en la última década. Los consumidores están buscando cada vez más productos que sean tanto saludables como respetuosos con el medio ambiente. Se valora lanzar una línea de productos alimenticios orgánicos que también utilice envases sostenibles. Para esto, se realizarán encuestas en áreas urbanas para entender qué tipos de alimentos orgánicos son más demandados y qué tipo de envases prefieren los consumidores.*
 
-- Mediante la investigación de informes de mercado
+- Mediante la investigación de informes de mercado - [Perplexity](https://www.perplexity.ai/search/Se-valora-lanzar-.eSnusBmQeWvA04STJePlA)
 - Análisis de datos de ventas
 - Encuestas a consumidores
 - Observación de competidores.

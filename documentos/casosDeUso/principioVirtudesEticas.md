@@ -5,14 +5,40 @@
 
 </div>
 
-# Ejemplos
+# Caso de Uso > Principios y virtudes éticas
 
-> *[Versión antigua](ejemplosAntiguos.md)*
+## ¿Por qué?
 
-- [x] [Resumen de textos](ejemplos/resumenTexto.md)
-- [x] [Extracción de información](ejemplos/extraccionInformacion.md)
-- [x] [Respuestas](ejemplos/respuestas.md)
-- [x] [Clasificación de texto](ejemplos/clasificacionTexto.md)
-- [x] [Conversación](ejemplos/conversacion.md)
-- [x] [Generación de código](ejemplos/generacionCodigo.md)
-- [x] [Razonamiento](ejemplos/razonamiento.md)
+xQ'
+
+## ¿Qué?
+
+Q'
+
+## ¿Para qué?
+
+paQ'
+
+## ¿Cómo?
+
+How
+
+### Transcripciones
+
+|Motor|Comentario|
+|-|-|
+[ChatGPT](https://chat.openai.com/share/4dcbafd3-14bd-4949-b1d6-dc640061a265)
+[Perplexity]
+[Claude]
+[Bard]
+[NeuroFlash]
+
+|Buenas prácticas|& Reflexiones
+|-|-|
+
+#### Antipatrón
+
+*[:link:]() EJ_DE_ANTI_PATRON*
+
+|Punto|Detalle|
+|-|-|
