@@ -9,6 +9,8 @@
 
 # Pequeñas anécdotas sobre la *IA*
 
+<img src="documentos/imagenes/spaceStation.webp" width=30%>
+
 </div>
 
 ## ¿Por qué?
