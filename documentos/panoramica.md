@@ -5,7 +5,7 @@
 
 </div>
 
-# HiperPanorámica
+# Panorámica
 
 ## Primera división
 
