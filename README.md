@@ -9,6 +9,8 @@
 
 # Pequeñas anécdotas sobre la *IA*
 
+<img src="documentos/imagenes/spaceStation.webp" width=30%>
+
 [![](https://img.shields.io/badge/-ChatGPT-FFF?style=flat&logo=openai&logoColor=black)](https://chat.openai.com/)
 [![](https://img.shields.io/badge/-Claude-FFF?style=flat&logo=anthropic&logoColor=black)](https://claude.ai/chats)
 [![](https://img.shields.io/badge/-Gemini-FFF?style=flat&logo=googlegemini&logoColor=black)](https://gemini.google.com/app)
@@ -17,7 +19,6 @@
 [![](https://img.shields.io/badge/-Huggingface-FFF?style=flat&logo=&logoColor=black)](https://huggingface.co/chat)
 [![](https://img.shields.io/badge/-Copilot-FFF?style=flat&logo=microsoft&logoColor=black)](https://copilot.microsoft.com/)
 
-<img src="documentos/imagenes/spaceStation.webp" width=30%>
 
 </div>
 
