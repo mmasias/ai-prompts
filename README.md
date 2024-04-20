@@ -11,6 +11,14 @@
 
 # Pequeñas anécdotas sobre la *IA*
 
+[![](https://img.shields.io/badge/-ChatGPT-FFF?style=flat&logo=openai&logoColor=black)](https://chat.openai.com/)
+[![](https://img.shields.io/badge/-Claude-FFF?style=flat&logo=anthropic&logoColor=black)](https://claude.ai/chats)
+[![](https://img.shields.io/badge/-Gemini-FFF?style=flat&logo=googlegemini&logoColor=black)](https://gemini.google.com/app)
+[![](https://img.shields.io/badge/-Perplexity-FFF?style=flat&logo=perplexity&logoColor=black)](https://www.perplexity.ai/)
+[![](https://img.shields.io/badge/-Neuroflash-FFF?style=flat&logo=&logoColor=black)](https://app.neuro-flash.com/aiWriter)
+[![](https://img.shields.io/badge/-Huggingface-FFF?style=flat&logo=&logoColor=black)](https://huggingface.co/chat)
+[![](https://img.shields.io/badge/-Copilot-FFF?style=flat&logo=microsoft&logoColor=black)](https://copilot.microsoft.com/)
+
 </div>
 
 ## ¿Por qué?
@@ -23,7 +31,7 @@
 
 ## Para qué
 
-- Aproximarnos con una base que nos permita... 
+- Aproximarnos con una base que nos permita...
 - comprender (o al menos intentar entender) [el cambio](documentos/aDiaDeHoy.md) y que podamos
 - tener base para encontrarle a todo esto aplicación real, efectiva (eficiente & eficaz)
 <!-- TODO: #1 Extender el para qué de las sesiones @mmasias -->
