@@ -29,3 +29,4 @@ El enfoque debe ser mantener la conciencia y decisión humana en el corazón de 
 ## Otros
 
 - [Sesgo](etica.sesgo.md)
+- [A new study reported that AI could be more persuasive than human persuaders.](https://www.psychologytoday.com/us/blog/emotional-behavior-behavioral-emotions/202403/ai-is-becoming-more-persuasive-than-humans)
