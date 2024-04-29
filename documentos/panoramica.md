@@ -5,7 +5,7 @@
 
 </div>
 
-# Panorámica
+# 🌐 🔭 Panorámica
 
 ## Primera división
 
@@ -26,7 +26,7 @@
 
 - [**GPT for work**](https://gptforwork.com/) + [Plantilla muy útil](https://docs.google.com/spreadsheets/d/1SOz3u2A8Y6RXvXK_X2QdrcWJ7WklbgtWNE9ljZ_yaEc/template/preview)
 
-## Modelos locales
+## 🧩@🏠 Modelos locales
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
@@ -35,13 +35,13 @@
 [LMStudio](https://lmstudio.ai/)
 |[ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/) de NVidia
 
-### Marcos de trabajo
+### 🖼️🛠️ Marcos de trabajo
 
 - [MetaGPT](https://github.com/geekan/MetaGPT) / [Enlace directo](https://huggingface.co/spaces/deepwisdom/MetaGPT)
 
 > ***Pruebas previas***: [*HuggingFace*](https://huggingface.co/chat/)
 
-## Investigación
+## 🔍📚 Investigación
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
@@ -51,7 +51,7 @@
 |[Silatus](https://silatus.com)|Plataforma de IA para investigación y análisis de datos|Plataforma / De pago
 
 
-## Trabajo, trabajo colaborativo y similares
+## 👥🤝 Trabajo, trabajo colaborativo y similares
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
@@ -60,7 +60,7 @@
 |[**ChatPDF**](https://www.chatpdf.com/)|Chatear con un PDF
 |[**Humata**](http://humata.ai)|Chat con documentos
 
-## Agentes de navegador
+## 🌐🖥️ Agentes de navegador
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
@@ -68,7 +68,7 @@
 |[Harpa.ai](https://harpa.ai/)|Agente para gestión de investigaciones|Servicio / 
 |[Eightify.app](https://eightify.app)|Agente TLDR y similares8|Herramienta
 
-## Redes sociales
+## 📱💬 Redes sociales
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
@@ -76,7 +76,7 @@
 |[tribescaler.com](https://tribescaler.com)|Generador de ganchos (hooks)|Herramienta / [CdU](/documentos/casosDeUso/tribescaler.md)
 |[postwise.ai](https://postwise.ai)|Planificación de contenido en redes sociales|Herramienta / [CdU](/documentos/casosDeUso/postwise.md)
 
-## Marketing
+## 📈🛍️ Marketing
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
@@ -84,7 +84,7 @@
 |[renable.com](https://renable.com)|Estrategias de marketing para redes sociales|Servicio
 
 
-## Copywriting
+## ✍️📝 Copywriting
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
@@ -99,7 +99,7 @@
 |[rytr.me](https://rytr.me)|Asistente de escritura|
 |[novelistai.com](https://novelistai.com/)|Herramientas para escritores y creadores de novelas|
 
-## Imágenes
+## 	🖼️🎨 Imágenes
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
@@ -117,7 +117,7 @@
 |[NeuralAngelo](https://research.nvidia.com/labs/dir/neuralangelo/)|Modelos 3D a partir de fotografías
 |[Firefly](https://firefly.adobe.com/)|Solución de Adobe / [Un mapa](/documentos/casosDeUso/adobeImagenesReferenciaEstructura.md)
 
-## Creación de sitios web
+## 🌍🖥️ Creación de sitios web
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
@@ -129,7 +129,7 @@
 |[Bookmark](https://www.bookmark.com/)|Constructor de sitios web|
 |[sitekick.ai](https://www.sitekick.ai/)|Plataforma para creación de sitios web|
 
-## Videos
+## 📹🎬 Videos
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
@@ -146,7 +146,7 @@
 |[Virbo](https://virbo.wondershare.com)|Edición y producción de video|
 |[opus.ai](https://opus.ai)|Herramienta para la creación de videos narrativos|
 
-## Logotipos
+## 🆔🎨 Logotipos
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
@@ -155,7 +155,7 @@
 |[logopony.com](https://www.logopony.com)|Creación de logotipos|
 |[makelogo.ai](https://makelogo.ai)|Herramienta para diseño de logotipos|
 
-## Audio
+## 🎵🎧 Audio
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
@@ -169,7 +169,7 @@
 |[fireflies.ai](https://fireflies.ai/)|Transcripción y análisis de reuniones con IA|
 |[HappyScribe](https://www.happyscribe.com/)|transcripciones de audio
 
-## Aprender
+## 📚🎓 Aprender
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
@@ -180,7 +180,7 @@
 |[coursebox.ai](https://www.coursebox.ai/)|Plataforma para la creación de cursos en línea|
 |[learnworlds.com](https://www.learnworlds.com/)|Creación y gestión de cursos en línea|
 
-## Presentaciones
+## 📊💼 Presentaciones
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
@@ -195,13 +195,13 @@
 |[Presentations AI](https://www.presentations.ai/)|IA para optimización de presentaciones|
 |[Kroma](https://kroma.ai/)|IA para presentaciones profesionales y de negocios|
 
-## Ofimática
+## 🗃️📄 Ofimática
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
 |https://formulashq.com/es-LA/|Hojas de cálculo
 
-## Currículums
+## 📄💼 Currículums
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
@@ -210,28 +210,29 @@
 |Teal HQ|[tealhq.com](https://www.tealhq.com)|Plataforma de IA para desarrollo profesional|
 |Kickresume|[kickresume.com](https://www.kickresume.com)|Constructor de currículums con herramientas de IA|
 
-## Integraciones
+## 🔗⚙️ Integraciones
 
 - https://app.integrately.com/
 - https://zapier.com/
 
-### Constructores de chatbots
+### 🤖🛠️ Constructores de chatbots
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
 |[Dante](https://dante-ai.com/)|
 |[Droxy](https://www.droxy.ai/)|
 
-## Verticales
+## 📈🌐 Verticales
 
 - Atención telefónica: [Jano](https://www.youtube.com/watch?v=fhoKnB6vwWg)
 - Salud [Glass AI](https://glass.health/ai)
 - RRHH [Sesame](https://www.sesamehr.es/ai/)
 - [Google Document AI](https://cloud.google.com/solutions/procurement-doc-ai?hl=es-419)
 
-## Por clasificar
 
 <!--
+## Por clasificar
+
 |Nombre|
 |-|
 [https://replicate.com/](https://replicate.com/)
