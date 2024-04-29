@@ -13,3 +13,9 @@ Se obtiene
 |![](/documentos/imagenes/Firefly_Ultima_FirstTry1.jpg)|![](/documentos/imagenes/Firefly_Ultima_FirstTry2.jpg)|
 |-|-|
 |![](/documentos/imagenes/Firefly_Ultima_FirstTry3.jpg)|![](/documentos/imagenes/Firefly_Ultima_FirstTry4.jpg)|
+
+Y, refinando el prompt se obtiene
+
+|![](/documentos/imagenes/Firefly_Ultima_SecondTry1.jpg)|![](/documentos/imagenes/Firefly_Ultima_SecondTry2.jpg)|
+|-|-|
+|![](/documentos/imagenes/Firefly_Ultima_SecondTry3.jpg)|![](/documentos/imagenes/Firefly_Ultima_SecondTry4.jpg)|

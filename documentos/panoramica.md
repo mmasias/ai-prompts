@@ -115,6 +115,7 @@
 |[Flair AI](https://flair.ai)|Creación y mejora de imágenes|
 |[Clipdrop](https://clipdrop.co)|Captura y edición de imágenes|
 |[NeuralAngelo](https://research.nvidia.com/labs/dir/neuralangelo/)|Modelos 3D a partir de fotografías
+|[Firefly](https://firefly.adobe.com/)|Solución de Adobe / [Un mapa](/documentos/casosDeUso/adobeImagenesReferenciaEstructura.md)
 
 ## Creación de sitios web
 
