@@ -28,6 +28,8 @@
 
 ## 🧩@🏠 Modelos locales
 
+<div align=center>
+
 |Nombre|Descripción|Categoría|
 |-|-|-|
 |[PrivateGPT](https://github.com/zylon-ai/private-gpt/blob/main/README.md)|
@@ -35,11 +37,15 @@
 [LMStudio](https://lmstudio.ai/)
 |[ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/) de NVidia
 
+</div>
+
+> ***Pruebas previas***: [*HuggingFace*](https://huggingface.co/chat/) / [LMSYS Chatbot Arena](https://chat.lmsys.org/)
+
 ### 🖼️🛠️ Marcos de trabajo
 
 - [MetaGPT](https://github.com/geekan/MetaGPT) / [Enlace directo](https://huggingface.co/spaces/deepwisdom/MetaGPT)
 
-> ***Pruebas previas***: [*HuggingFace*](https://huggingface.co/chat/)
+
 
 ## 🔍📚 Investigación
 
