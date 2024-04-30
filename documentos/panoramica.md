@@ -135,6 +135,7 @@
 |-|-|-|
 |[**HeyGen**](https://www.heygen.com/)|Creación de un avatar a partir de un vídeo, manteniendo el tono de voz, multiidiomas & lipsync.
 |[**Rask.ai**](https://app.rask.ai/)|Traducción de vídeos a varios idiomas, manteniendo el tono de voz. [Ejemplo](https://app.rask.ai/project/41644bdf-10f2-47ef-bb40-eef50c7f804d)
+[Pictory](https://pictory.ai/) / A partir de [esto](https://github.com/mmasias/23-24-DSI/blob/main/temario/01-modelosNegocioInnovacion/README.md), obtienes [esto](https://video.pictory.ai/preview/1173505714977576987031714392072781)
 |[Rendernet.ai](https://rendernet.ai/)|Creación de avatares|
 |[flexclip.com](https://www.flexclip.com/)|Edición de video|
 |[smilimedia.com](https://www.smilimedia.com/)|Plataforma de video marketing|
