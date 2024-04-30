@@ -1,6 +1,6 @@
 # Introducción a la inteligencia artificial generativa
 
-## Itinerario sesión SODERCAN
+## Itinerario sesión UNEATLANTICO
 
 - Introducción: [¿Por qué?](/documentos/intro.md): *no veremos tanto una sustitución de personas por algoritmos, como una de personas que no saben manejar algoritmos por personas que sí saben hacerlo*.
   - LLM: modelos de lenguaje. Una especialización de las IAs.
