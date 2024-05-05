@@ -1,4 +1,4 @@
-# Introducción a la inteligencia artificial generativa
+# *Acerca de...* la inteligencia artificial generativa
 
 ## Itinerario sesión DSI
 
