@@ -22,7 +22,7 @@ La "Ventana de contexto" es un fragmento de texto que incluye las interacciones 
 
 </div>
 
-En el caso de GPT-3 y GPT-4, [la ventana de contexto tiene un límite de tokens](https://platform.openai.com/docs/models/gpt-3-5), que son las unidades básicas de texto que el modelo puede entender.
+En el caso de GPT-3 y GPT-4, [la ventana de contexto tiene un límite](https://platform.openai.com/docs/models/gpt-3-5) medido en [tokens](tokens.md), que son las unidades básicas de texto que el modelo puede entender.
 
 <div align=center>
 
