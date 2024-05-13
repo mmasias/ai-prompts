@@ -33,19 +33,17 @@ Profundizar en algunos de estos procesos, como la elección del algoritmo de tok
 
 ### 2See
 
-|Paso|Descripción del paso|Entrada|Acción|Salida|
-|-|-|-|-|-|
-|1. Preprocesamiento|Convertir a minúsculas y eliminar signos de puntuación|"Artificial intelligence is unbelievable!"|Convertir todo a minúsculas y remover signos de puntuación|"artificial intelligence is unbelievable"|
-|2. División en Tokens|Dividir el texto en palabras o subunidades significativas|"artificial intelligence is unbelievable"|Tokenización por palabras|["artificial", "intelligence", "is", "unbelievable"]|
-|3. Subtokenización (Opcional)|Manejar palabras desconocidas o raras descomponiéndolas en partes conocidas|"unbelievable"|Dividir palabras complejas en subpalabras|["un", "believ", "able"]|
-|4. Indexación|Convertir tokens en índices numéricos basados en un vocabulario predefinido|["artificial", "intelligence", "is", "un", "believ", "able"]|Asignar un índice a cada token según el vocabulario del modelo|[481, 1056, 23, 178, 7890, 456]|
-|5. Conversión a tensor|Preparar los índices para ser procesados por el modelo|[481, 1056, 23, 178, 7890, 456]|Transformar los índices en un tensor|Tensor de forma (1, 6)|
+||Paso|Descripción del paso|Entrada|Acción|Salida|
+|-|-|-|-|-|-|
+|1|Preprocesamiento|Convertir a minúsculas y eliminar signos de puntuación|"Artificial intelligence is unbelievable!"|Convertir todo a minúsculas y remover signos de puntuación|"artificial intelligence is unbelievable"|
+|2|División en tokens|Dividir el texto en palabras o subunidades significativas|"artificial intelligence is unbelievable"|Tokenización por palabras|["artificial", "intelligence", "is", "unbelievable"]|
+|3|Subtokenización (*Opcional*)|Manejar palabras desconocidas o raras descomponiéndolas en partes conocidas|"unbelievable"|Dividir palabras complejas en subpalabras|["un", "believ", "able"]|
+|4|Indexación|Convertir tokens en índices numéricos basados en un vocabulario predefinido|["artificial", "intelligence", "is", "un", "believ", "able"]|Asignar un índice a cada token según el vocabulario del modelo|[481, 1056, 23, 178, 7890, 456]|
+|5|Conversión a tensor|Preparar los índices para ser procesados por el modelo|[481, 1056, 23, 178, 7890, 456]|Transformar los índices en un tensor|Tensor de forma (1, 6)|
 
 ### 2See2
 
-> A partir de un [prompt de @VictorTaelin](https://gist.github.com/VictorTaelin/e514844f4df9e5f182b28e5a07e44b17)
-
-> [Post original en X](https://twitter.com/VictorTaelin/status/1776096481704804789) (*seguido de una muy interesante discusión*)
+> A partir de un [prompt de @VictorTaelin](https://gist.github.com/VictorTaelin/e514844f4df9e5f182b28e5a07e44b17) - ([post original en X](https://twitter.com/VictorTaelin/status/1776096481704804789), *seguido de una muy interesante discusión*)
 
 ```
 A: :B es un sistema con 4 tokens: `A#`, `#A`, `B#` y `#B`.
