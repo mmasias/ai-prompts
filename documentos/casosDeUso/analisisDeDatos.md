@@ -21,9 +21,9 @@
 
 ## ¿Cómo?
 
-|Claude|ChatGPT|
-|-|-|
-[📈](https://claude.ai/chat/939c89f2-806c-46d0-8f83-261e880aaeec)|[📈](https://chat.openai.com/share/e91a8a36-72c7-4d9e-9222-984ebae2b7bb)
+|Claude|ChatGPT|ChatGPT-4o|
+|-|-|-|
+[📈](https://claude.ai/chat/939c89f2-806c-46d0-8f83-261e880aaeec)|[📈](https://chat.openai.com/share/e91a8a36-72c7-4d9e-9222-984ebae2b7bb)|[📈](https://chat.openai.com/share/43a6ab99-511d-40e2-b275-12381b7a5987)
 
 |||
 |-|-|
