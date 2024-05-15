@@ -28,7 +28,7 @@
 
 ## ¿Qué?
 
-[Panorámica al mundo de las AIs](documentos/panorámica.md)
+[Panorámica al mundo de las AIs](documentos/panoramica.md)
 
 ## Para qué
 
@@ -40,7 +40,7 @@
 ## ¿Cómo?
 |Aproximarnos|Comprender o entender |Aplicación real|
 |:-:|:-:|:-:|
-|[Panorámica](documentos/panorámica.md)|[Prompts](documentos/prompts/README.md), [Ingeniería de Prompts](documentos/ingenieriaDePrompts/README.md) & [Patrones](documentos/ingenieriaDePrompts/patrones/README.md)|[Casos de Uso](documentos/casosDeUso/README.md)|
+|[Panorámica](documentos/panoramica.md)|[Prompts](documentos/prompts/README.md), [Ingeniería de Prompts](documentos/ingenieriaDePrompts/README.md) & [Patrones](documentos/ingenieriaDePrompts/patrones/README.md)|[Casos de Uso](documentos/casosDeUso/README.md)|
 
 1. Introducción a la IA y su estado actual, revisando implementaciones de diversos servicios y centrándonos en los modelos de lenguaje que implementan el chatbot como interface.
 1. Luego una breve pero necesaria base teórica en la que veremos prompts, ingenieria de prompts y buenas prácticas en ambos casos.
