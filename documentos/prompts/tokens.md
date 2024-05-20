@@ -2,7 +2,7 @@
 
 ## ¿Por qué?
 
-Los tokens en un modelo de lenguaje (como GPT-3 o GPT-4) son fundamentales porque actúan como los bloques básicos de construcción de la información con la que el modelo trabaja. La idea de tokenización surge como respuesta a la necesidad de convertir el texto crudo, altamente variable y extenso, en un formato más manejable y uniforme que pueda ser procesado eficientemente por algoritmos de aprendizaje automático. Esta necesidad se destaca especialmente en el procesamiento del lenguaje natural (PLN), donde es crucial capturar la semántica y la estructura del lenguaje humano de una forma que una máquina pueda entender y sobre la cual pueda generar predicciones precisas.
+Los tokens en un modelo de lenguaje son fundamentales porque **actúan como los bloques básicos de construcción de la información con la que el modelo trabaja**. La idea de tokenización surge como respuesta a la necesidad de convertir el texto crudo, altamente variable y extenso, en un formato más manejable y uniforme que pueda ser procesado eficientemente por algoritmos de aprendizaje automático. Esta necesidad se destaca especialmente en el procesamiento del lenguaje natural (PLN), donde es crucial capturar la semántica y la estructura del lenguaje humano de una forma que una máquina pueda entender y sobre la cual pueda generar predicciones precisas.
 
 ## ¿Qué?
 
