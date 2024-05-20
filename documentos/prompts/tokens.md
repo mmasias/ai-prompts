@@ -10,6 +10,11 @@ Los tokens en un modelo de lenguaje son fundamentales porque **actúan como los 
 |-|-|-|
 En el contexto de los modelos de lenguaje es la unidad de texto que ha sido previamente definida y que el modelo puede identificar y procesar.|Proceso mediante el cual se divide el texto en estos tokens.|Los tokens pueden ser tan simples como palabras, subpalabras o incluso caracteres. 
 
+Ejemplos: [GPT-3.5](https://chatgpt.com/share/19648aa5-2b14-45d2-9f2e-a4d14c4789b7) / 
+[GPT-4](https://chatgpt.com/share/c4296e54-ee43-4d25-a889-14651c25d17b) / 
+[GPT-4o](https://chatgpt.com/share/8e65f139-5008-434c-b0ad-166c8a09eecd) / 
+[Claude](https://claude.ai/chat/38740876-87e2-4088-a484-4c042f34d45a)
+
 Por ejemplo, la palabra "unbelievable" podría tokenizarse en subpalabras como ["un", "believ", "able"] en un modelo que utilice una tokenización a nivel de subpalabra para manejar mejor la derivación y la composición en el lenguaje. 
 
 ## ¿Para qué?
