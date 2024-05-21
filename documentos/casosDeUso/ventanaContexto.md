@@ -28,21 +28,21 @@ Entender y experimentar con la ventana de contexto tiene múltiples aplicaciones
 
 Para comprobar y experimentar con el concepto de ventana de contexto en un modelo de lenguaje, podemos seguir estos pasos:
 
-1. **Selección del modelo**: Escoger un modelo de lenguaje: Claude, Perplexity, Gemini.
+1. **Selección del modelo**: Escoger un modelo de lenguaje: Claude, Perplexity, Gemini, etc. (Por variar, se propone usar ChatGPT como segundo modelo)
 1. **Diseño del experimento**:
    - Trabajar con el modelo de lenguaje la creación de un magazine compuesto por 7 u 8 artículos cada uno de 2000 palabras.
-   - Ejecutar el experimento sobre uno o dos modelos de lenguaje.
+   - Ejecutar el experimento sobre uno o dos modelos de lenguaje. A medida que crece el documento, testear su precisión para absolver dudas. Puede seguir el guión propuesto en las trascripciones de ChatGPT.
 1. **Análisis**:
    - Analizar cómo varían las respuestas del modelo a medida que crece la ventana de contexto.
    - Identificar la longitud óptima y fiable de valores de trabajo.
 1. **Documentación y reporte**:
-   - Entregar los enlaces a través del CV.
+   - Entregar los enlaces de la interacción seguida con el modelo de lenguaje a través del CV.
 
 ### Transcripciones
 
 |Motor|Comentario|
 |-|-|
-[ChatGPT]
+[ChatGPT](https://chatgpt.com/share/35492bb2-4252-4ab3-880c-b8792386ac51?oai-dm=1)
 [Perplexity]
 [Claude]
 [Bard]
