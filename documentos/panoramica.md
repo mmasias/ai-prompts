@@ -91,6 +91,7 @@
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
+|[Canva](https://www.canva.com/)|Creación de contenido|Plataforma / [CdU](/documentos/casosDeUso/canva.md)
 |[Jasper AI](https://www.jasper.ai/)|Marketing y creación de contenido|Plataforma
 |[renable.com](https://renable.com)|Estrategias de marketing para redes sociales|Servicio
 
