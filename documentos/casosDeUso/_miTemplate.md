@@ -27,11 +27,14 @@ How
 
 |Motor|Comentario|
 |-|-|
-[ChatGPT]
-[Perplexity]
-[Claude]
-[Bard]
-[NeuroFlash]
+[ChatGPT-3.5]()|
+[ChatGPT-4]()|
+[ChatGPT-4o]()|
+[Claude]()|
+[Perplexity]()|
+[Gemini]()|
+[Copilot]()|
+[NeuroFlash]()|
 
 |Buenas prácticas|& Reflexiones
 |-|-|
