@@ -16,17 +16,11 @@ Aprendizaje automático (ML por sus siglas en inglés)|Rama de la IA que utiliza
 > Las herramientas construidas en torno a los LLMs, como ChatGPT, Claude, Gemini, etc. son una aplicación cada vez más importante del aprendizaje automático. Los LLMs generan *nuevo contenido*, convirtiéndolos en una forma de "IA generativa".
 
 ## Cronología
-<div align=center>
 
-<img src="imagenes/timelineLLMs.png" width=65% border=1>
+|![](/documentos/imagenes/timelineLLMs.png)|![](/documentos/imagenes/timelineChatGPT.png)|
+|-|-|
 
-<hr width=75%>
-
-<img src="imagenes/timelineChatGPT.png" width=65% border=1>
-
-</div>
-
-- Pero ya un año antes (el 2018) [Google presentaba esto...](https://www.youtube.com/watch?v=l9BTMWOupGM)
+- Pero ya un año antes (el 2018) [Google presentaba esto!!!](https://www.youtube.com/watch?v=l9BTMWOupGM)
 
 ## ¿Qué?
 
