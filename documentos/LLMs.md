@@ -17,8 +17,14 @@ Aprendizaje automático (ML por sus siglas en inglés)|Rama de la IA que utiliza
 
 ## Cronología
 
+<div align=center>
+
 |![](/documentos/imagenes/timelineLLMs.png)|![](/documentos/imagenes/timelineChatGPT.png)|
 |-|-|
+Cronología de los modelos de lenguaje de gran escala existentes en los últimos años.|Evolución técnica de GPT
+[*Fuente*](https://arxiv.org/pdf/2303.18223v12.pdf)|[*Fuente*](https://arxiv.org/pdf/2303.18223v12.pdf)|
+
+</div>
 
 - Pero ya un año antes (el 2018) [Google presentaba esto!!!](https://www.youtube.com/watch?v=l9BTMWOupGM)
 
