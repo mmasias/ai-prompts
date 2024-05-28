@@ -220,6 +220,7 @@
 ## 📊💼 Presentaciones
 
 <div align=center>
+
 |Nombre|Descripción|Categoría|
 |-|-|-|
 |[slideoo.ai](https://slideoo.ai/ai-feature-page)|Herramienta de IA para presentaciones|
