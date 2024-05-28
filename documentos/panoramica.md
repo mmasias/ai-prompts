@@ -14,13 +14,13 @@
 |Texto|Imágenes|Música|Vídeos|
 |-|-|-|-
 |[ChatGPT](https://chat.openai.com/)        |[Dall-e](https://openai.com/dall-e-3) [📓](https://pitch.com/v/DALL-E-prompt-book-v1-tmd33y/d959fd01-3eea-4b16-9472-e79ccb635e98)  |[Mubert](https://mubert.com/)                      |[CapCut](https://www.capcut.com/)
-|[Bard](https://bard.google.com/)           |[MidJourney](https://docs.midjourney.com/docs/prompts)                                                                             |[Moises](https://moises.ai/)                       |[Sora](https://openai.com/sora)
+|[Claude](https://claude.ai/chats)          |[MidJourney](https://docs.midjourney.com/docs/prompts)                                                                             |[Moises](https://moises.ai/)                       |[Sora](https://openai.com/sora)
 |[Perplexity](https://www.perplexity.ai/)   |Stable Diffussion                                                                                                                  |[Suno](https://app.suno.ai/create/)                |[haiper.ai](https://haiper.ai/)
-|[Claude](https://claude.ai/chats)          |[BlueWillow](https://www.bluewillow.ai/)                                                                                           |[StableAudio](https://www.stableaudio.com/)        |[heyGen](https://www.heygen.com/)
-|[Ernie](https://yiyan.baidu.com/)          |[VisualChatGPT](https://stablediffusionweb.com/Visual-ChatGPT#demo)                                                                |[MusicGen](https://huggingface.co/spaces/facebook/MusicGen)  [(*Repo*)](https://github.com/facebookresearch/audiocraft)                                                 |[Pika](https://pika.art/home)
-|[Gemini](https://gemini.google.com/app)    |[Ideogram.ai](https://ideogram.ai/)                                                                                                |                                                   |
-|[Copilot](https://copilot.microsoft.com)   |[MS Designer](https://designer.microsoft.com/)
-|[Huggingface](https://huggingface.co/chat) |
+|[Gemini](https://gemini.google.com/app)    |[BlueWillow](https://www.bluewillow.ai/)                                                                                           |[StableAudio](https://www.stableaudio.com/)        |[heyGen](https://www.heygen.com/)
+|[Copilot](https://copilot.microsoft.com)   |[VisualChatGPT](https://stablediffusionweb.com/Visual-ChatGPT#demo)                                                                |[MusicGen](https://huggingface.co/spaces/facebook/MusicGen)  [(*Repo*)](https://github.com/facebookresearch/audiocraft)                                                 |[Pika](https://pika.art/home)
+|[Huggingface](https://huggingface.co/chat) |[Ideogram.ai](https://ideogram.ai/)                                                                                                |                                                   |
+|                                           |[MS Designer](https://designer.microsoft.com/)
+|                                           |
 
 
 |Ofimática|
