@@ -11,17 +11,16 @@
 
 <div align=center>
 
-|Texto|Imágenes|Música|Vídeos|
+|Texto |Imágenes|Música|Vídeos|
 |-|-|-|-
 |[ChatGPT](https://chat.openai.com/)        |[Dall-e](https://openai.com/dall-e-3) [📓](https://pitch.com/v/DALL-E-prompt-book-v1-tmd33y/d959fd01-3eea-4b16-9472-e79ccb635e98)  |[Mubert](https://mubert.com/)                      |[CapCut](https://www.capcut.com/)
-|[Claude](https://claude.ai/chats)          |[MidJourney](https://docs.midjourney.com/docs/prompts)                                                                             |[Moises](https://moises.ai/)                       |[Sora](https://openai.com/sora)
-|[Perplexity](https://www.perplexity.ai/)   |Stable Diffussion                                                                                                                  |[Suno](https://app.suno.ai/create/)                |[haiper.ai](https://haiper.ai/)
+|[Claude](https://claude.ai/chats)          |[MS Designer](https://designer.microsoft.com/)                                                                                     |[Moises](https://moises.ai/)                       |[Sora](https://openai.com/sora)
+|[Perplexity](https://www.perplexity.ai/)   |[MidJourney](https://docs.midjourney.com/docs/prompts)                                                                             |[Suno](https://app.suno.ai/create/)                |[haiper.ai](https://haiper.ai/)
 |[Gemini](https://gemini.google.com/app)    |[BlueWillow](https://www.bluewillow.ai/)                                                                                           |[StableAudio](https://www.stableaudio.com/)        |[heyGen](https://www.heygen.com/)
 |[Copilot](https://copilot.microsoft.com)   |[VisualChatGPT](https://stablediffusionweb.com/Visual-ChatGPT#demo)                                                                |[MusicGen](https://huggingface.co/spaces/facebook/MusicGen)  [(*Repo*)](https://github.com/facebookresearch/audiocraft)                                                 |[Pika](https://pika.art/home)
 |[Huggingface](https://huggingface.co/chat) |[Ideogram.ai](https://ideogram.ai/)                                                                                                |                                                   |
-|                                           |[MS Designer](https://designer.microsoft.com/)
 |                                           |
-
+|[***🥊🥊***](https://chat.lmsys.org/)            |
 
 |Ofimática|
 |-|
@@ -30,27 +29,6 @@
 [ChatGPT-4o](https://openai.com/index/improvements-to-data-analysis-in-chatgpt/)
 
 </div>
-
-## 🧩@🏠 Modelos locales
-
-<div align=center>
-
-|Nombre|Descripción|Categoría|
-|-|-|-|
-|[PrivateGPT](https://github.com/zylon-ai/private-gpt/blob/main/README.md)|
-|[GPT4All](https://gpt4all.io/index.html)|
-[LMStudio](https://lmstudio.ai/)
-|[ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/) de NVidia
-
-</div>
-
-> ***Pruebas previas***: [*HuggingFace*](https://huggingface.co/chat/) / [LMSYS Chatbot Arena](https://chat.lmsys.org/)
-
-### 🖼️🛠️ Marcos de trabajo
-
-- [MetaGPT](https://github.com/geekan/MetaGPT) / [Enlace directo](https://huggingface.co/spaces/deepwisdom/MetaGPT)
-
-
 
 ## 🔍📚 Investigación
 
@@ -234,6 +212,26 @@
 |-|-|-|
 |[Dante](https://dante-ai.com/)|
 |[Droxy](https://www.droxy.ai/)|
+
+## 🧩@🏠 Modelos locales
+
+<div align=center>
+
+|Nombre|Descripción|Categoría|
+|-|-|-|
+|[PrivateGPT](https://github.com/zylon-ai/private-gpt/blob/main/README.md)|
+|[GPT4All](https://gpt4all.io/index.html)|
+[LMStudio](https://lmstudio.ai/)
+|[ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/) de NVidia
+
+</div>
+
+> ***Pruebas previas***: [*HuggingFace*](https://huggingface.co/chat/) / [LMSYS Chatbot Arena](https://chat.lmsys.org/)
+
+### 🖼️🛠️ Marcos de trabajo
+
+- [MetaGPT](https://github.com/geekan/MetaGPT) / [Enlace directo](https://huggingface.co/spaces/deepwisdom/MetaGPT)
+
 
 ## 📈🌐 Verticales
 
