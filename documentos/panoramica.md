@@ -15,10 +15,10 @@
 |-|-|-|-
 |[ChatGPT](https://chat.openai.com/)        |[Dall-e](https://openai.com/dall-e-3) [📓](https://pitch.com/v/DALL-E-prompt-book-v1-tmd33y/d959fd01-3eea-4b16-9472-e79ccb635e98)  |[Mubert](https://mubert.com/)                      |[CapCut](https://www.capcut.com/)
 |[Claude](https://claude.ai/chats)          |[MS Designer](https://designer.microsoft.com/)                                                                                     |[Moises](https://moises.ai/)                       |[Sora](https://openai.com/sora)
-|[Perplexity](https://www.perplexity.ai/)   |[MidJourney](https://docs.midjourney.com/docs/prompts)                                                                             |[Suno](https://app.suno.ai/create/)                |[haiper.ai](https://haiper.ai/)
 |[Gemini](https://gemini.google.com/app)    |[BlueWillow](https://www.bluewillow.ai/)                                                                                           |[StableAudio](https://www.stableaudio.com/)        |[heyGen](https://www.heygen.com/)
 |[Copilot](https://copilot.microsoft.com)   |[VisualChatGPT](https://stablediffusionweb.com/Visual-ChatGPT#demo)                                                                |[MusicGen](https://huggingface.co/spaces/facebook/MusicGen)  [(*Repo*)](https://github.com/facebookresearch/audiocraft)                                                 |[Pika](https://pika.art/home)
-|[Huggingface](https://huggingface.co/chat) |[Ideogram.ai](https://ideogram.ai/)                                                                                                |                                                   |
+|[Huggingface](https://huggingface.co/chat) |[Ideogram.ai](https://ideogram.ai/)                                                                                                |[Suno](https://app.suno.ai/create/)                |[haiper.ai](https://haiper.ai/)
+|                                           |[MidJourney](https://docs.midjourney.com/docs/prompts)                                                                             
 |                                           |
 |[***🥊🥊***](https://chat.lmsys.org/)            |
 
