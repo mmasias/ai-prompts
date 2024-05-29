@@ -50,7 +50,6 @@
 |Nombre|Descripción|Categoría|
 |-|-|-|
 |[**Whimsical**](https://whimsical.com/)|Creación de mapas mentales, diagramas y prototipos visuales.|Plataforma / [CdU](https://whimsical.com/seminario-ai-YKgQuAQtcHKUYicLPAisqE)
-|[**V0**](https://v0.dev/)|Creación y prueba de prototipos de interfaz.|Herramienta / [CdU](/documentos/casosDeUso/V0.md)
 |[**ChatPDF**](https://www.chatpdf.com/)|Chatear con un PDF
 |[**Humata**](http://humata.ai)|Chat con documentos
 
@@ -74,7 +73,7 @@
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
-|[klap.app](https://klap.app/)|Gestión de vídeos para redes sociales|Servicio / [CdU](/documentos/casosDeUso/klap.md)
+|[**klap.app**](https://klap.app/)|Gestión de vídeos para redes sociales|Servicio / [CdU](/documentos/casosDeUso/klap.md)
 |[tribescaler.com](https://tribescaler.com)|Generador de ganchos (hooks)|Herramienta / [CdU](/documentos/casosDeUso/tribescaler.md)
 |[postwise.ai](https://postwise.ai)|Planificación de contenido en redes sociales|Herramienta / [CdU](/documentos/casosDeUso/postwise.md)
 
@@ -86,7 +85,7 @@
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
-|[Canva](https://www.canva.com/)|Creación de contenido|Plataforma / [CdU](/documentos/casosDeUso/canva.md)
+|[**Canva**](https://www.canva.com/)|Creación de contenido|Plataforma / [CdU](/documentos/casosDeUso/canva.md)
 |[Jasper AI](https://www.jasper.ai/)|Marketing y creación de contenido|Plataforma
 |[renable.com](https://renable.com)|Estrategias de marketing para redes sociales|Servicio
 
@@ -98,7 +97,7 @@
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
-|[copy.ai](https://www.copy.ai)|Herramienta para generación de texto creativo|([CdU@ChatGPT](https://chat.openai.com/share/23892a81-1e32-49c5-a60d-23c07ad65e02) y [CdU@CopyAI](https://app.copy.ai/projects/34198328?tool=chat&tab=results))
+|[**copy.ai**](https://www.copy.ai)|Herramienta para generación de texto creativo|([CdU@ChatGPT](https://chat.openai.com/share/23892a81-1e32-49c5-a60d-23c07ad65e02) y [CdU@CopyAI](https://app.copy.ai/projects/34198328?tool=chat&tab=results))
 |[quillbot.com](https://quillbot.com)|Herramienta de parafraseo y mejora de escritura|
 |[LanguageTool](https://languagetool.org/es)|LanguageTool es un corrector ortográfico, gramatical y de estilo multilingüe.|
 |[app.wordtune.com](https://app.wordtune.com)|Reescritura y optimización de textos|
@@ -117,19 +116,19 @@
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
+|[**Leonardo AI**](https://leonardo.ai)|Herramienta de diseño gráfico|[🗺️](./imagenes/Default_A_old_style_rpg_map_0.jpg)
+|[**Firefly**](https://firefly.adobe.com/)|Solución de Adobe / [Un mapa](/documentos/casosDeUso/adobeImagenesReferenciaEstructura.md)
 |[Nero AI](https://ai.nero.com)|Creación y edición de imágenes|
 |[Magicstudio](https://magicstudio.com)|Generador de imágenes|
 |[AI Image Enlarger](https://imglarger.com)|Ampliación de imágenes|
 |[Supermeme AI](https://www.supermeme.ai)|Creación de memes|
 |[Aragon.ai](https://www.aragon.ai/)|Fotos a partir de fotos
-|[Leonardo AI](https://leonardo.ai)|Herramienta de diseño gráfico|[🗺️](./imagenes/Default_A_old_style_rpg_map_0.jpg)
 |[Stockimg](https://stockimg.ai)|Generador de imágenes de stock|
 |[Segmind](https://www.segmind.com)|Plataforma para análisis y generación de imágenes|
 |[Designify](https://www.designify.com)|Diseño y edición de imágenes|
 |[Flair AI](https://flair.ai)|Creación y mejora de imágenes|
 |[Clipdrop](https://clipdrop.co)|Captura y edición de imágenes|
 |[NeuralAngelo](https://research.nvidia.com/labs/dir/neuralangelo/)|Modelos 3D a partir de fotografías
-|[Firefly](https://firefly.adobe.com/)|Solución de Adobe / [Un mapa](/documentos/casosDeUso/adobeImagenesReferenciaEstructura.md)
 
 </div>
 
@@ -139,6 +138,7 @@
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
+|[**V0**](https://v0.dev/)|Creación y prueba de prototipos de interfaz.|Herramienta / [CdU](/documentos/casosDeUso/V0.md)
 |[Stunning](http://stunning.so)|Sitios web, artículos y marketing
 |[es.durable.co](https://es.durable.co/)|Constructor de sitios web|
 |[10web.io](https://10web.io/)|Creación y gestión de sitios web|
@@ -191,7 +191,7 @@
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
-|[Suno](https://app.suno.ai/create/)|Productor musical
+|[**Suno**](https://app.suno.ai/create/)|Productor musical
 |[assemblyai.com](https://www.assemblyai.com)|Transcripción y procesamiento de audio con IA|
 |[lovo.ai](https://lovo.ai)|Generación de voz y audio con IA|
 |[elevenlabs.io](https://elevenlabs.io)|Sintetizador de voz con IA|
@@ -224,13 +224,13 @@
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
+|[**Gamma**](https://gamma.app)|Plataforma de IA para presentaciones dinámicas|[🖥](https://gamma.app/public/Introduccion-a-la-IA-y-su-estado-actual-s2pfcebzfn8j7xt)
 |[slideoo.ai](https://slideoo.ai/ai-feature-page)|Herramienta de IA para presentaciones|
 |[decktopus.com](https://www.decktopus.com/)|IA para creación de presentaciones interactivas|
 |[Simplified](https://simplified.com/ai-presentation-maker)|IA para diseño y creación de presentaciones|
 |[beautiful.ai](https://www.beautiful.ai/)|Generador de presentaciones con IA|
 |[SlidesGPT](https://slidesgpt.com/)|IA para generación de contenido de diapositivas|
 |[WePick](https://wepik.com/es/presentaciones-ai)|IA para selección y diseño de presentaciones|
-|[Gamma](https://gamma.app)|Plataforma de IA para presentaciones dinámicas|[🖥](https://gamma.app/public/Introduccion-a-la-IA-y-su-estado-actual-s2pfcebzfn8j7xt)
 |[SlidesGo AI](https://slidesgo.com/es/ai-presentations)|IA para creación de presentaciones personalizadas|
 |[Presentations AI](https://www.presentations.ai/)|IA para optimización de presentaciones|
 |[Kroma](https://kroma.ai/)|IA para presentaciones profesionales y de negocios|
