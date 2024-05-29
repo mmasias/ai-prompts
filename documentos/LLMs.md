@@ -59,7 +59,7 @@ Preprocesamiento y limpieza de datos|Los datos que alimentan los algoritmos de I
 
 |![](/documentos/imagenes/modelosUML/componentes2.svg)|
 |:-:|
-<big>[**PANORÁMICA**](Panoramica.md)</big>
+<big>[**PANORÁMICA**](panoramica.md)</big>
 
 </div>
 
