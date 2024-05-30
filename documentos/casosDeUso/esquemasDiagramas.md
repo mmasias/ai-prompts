@@ -28,7 +28,7 @@ Se solicita que el LLM genere un código en plantUML para planificar reuniones c
 |||
 |-|-|
 Solicitud al Modelo|Presentar al LLM el escenario o la necesidad específica para la que se requiere una visualización.
-Generación del Código|El LLM producirá un código en plantUML basado en la solicitud.
+Generación del Código|El LLM producirá un código en plantUML basado en la solicitud, código que puede utilizarse en sitios como el de [PlantText](https://www.planttext.com/) para generar la imagen.
 Interpretación del Código|Utilizar una herramienta o plataforma que soporte plantUML para interpretar el código y generar el diagrama de flujo visual.
 Modificación (si es necesario)|Si se requieren cambios o adaptaciones, el código puede ser modificado directamente y luego reinterpretado para obtener una nueva visualización.
 
