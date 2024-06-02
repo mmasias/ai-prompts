@@ -21,9 +21,7 @@
 
 </div>
 
-### Algunas (*odiosas*) comparaciones
-
- - [ChatGPT vs Gemini](ChatGPTvsGemini.md), creación de un ejemplo.
+Propuesta de creación de un ejemplo - [Comparando respuestas](microComparativa.md)
 
 
 ## Listado
