@@ -10,7 +10,7 @@
 <!-- TODO #3 Un enlace a los ismos de denegri también estaría bien  -->
 
 - Aparece una *tecnología* distruptiva: [Inteligencia artificial generativa](/documentos/AIgenerativa.md)
-- Reacciones: [Duda](https://twitter.com/Culture_Crit/status/1689685381283815435) / [Sorpresa, miedo, excepticismo, negación](https://docs.google.com/presentation/d/1UscAlHfjGgg4pPzz_p0V1eX18R74DRlvTtMXsbLVtI0/edit?usp=sharing) / [PessimistArchive](https://pessimistsarchive.org/)
+- Reacciones: [Duda](https://twitter.com/Culture_Crit/status/1689685381283815435) / [Sorpresa, miedo, excepticismo, negación](https://docs.google.com/presentation/d/1UscAlHfjGgg4pPzz_p0V1eX18R74DRlvTtMXsbLVtI0/edit?usp=sharing) / [PessimistArchive](https://pessimistsarchive.org/) / [Ironía](/documentos/imagenes/publicidadGPT.jpeg)
 - Ver dónde se inserta
 - Aparecen términos nuevos... [*Ops](xOps.md) [AIOps](aiops.md) / Aparece [🌬️💨](💨.md)
 - [Se analiza su fiabilidad](/documentos/casosDeUso/fiabilidad.md) - [Se (intenta) regular](/documentos/etica@AI.md)
