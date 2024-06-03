@@ -21,6 +21,10 @@ paQ'
 
 ## ¿Cómo?
 
+- Carga inicial, confirmación de una correcta respuesta.
+- Formalización del prompt.
+- Creación de un GPT.
+
 ### Transcripciones
 
 |Motor|Comentario|
@@ -37,9 +41,8 @@ paQ'
 |Buenas prácticas|& Reflexiones
 |-|-|
 
-#### Antipatrón
+#### Detalles
 
-*[:link:]() EJ_DE_ANTI_PATRON*
+- A veces podría detectar "[actividad inusual](/documentos/imagenes/actividadInusual.png)"
+- La ventana de contexto y los documentos: adjuntar documentos le permite "mitigar" la limitación del contexto.
 
-|Punto|Detalle|
-|-|-|

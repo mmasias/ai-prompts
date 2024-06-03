@@ -83,3 +83,5 @@ Palabras|3500-4000|7000-8000|28000-32000
 Tweets<br>*considerando que un tweet tiene un límite de 280 caracteres*|15-20|30-40|120-160
 [📁](https://drive.google.com/drive/folders/1sHecgUKJyLfwhFBehn15R5bIXQTJ_sgs?usp=sharing) ***Pruebas de stress***|[😵](https://chat.openai.com/share/6a42b7fd-59b4-475c-a818-af69c0fc5c61) <br/> [😵😵](https://chat.openai.com/share/e43be7f4-3e87-4ddd-800d-7606996eb203) <br/> [😵😵😵](https://chat.openai.com/share/4396fda0-fe7f-43fc-8a43-28dc9e9d7d21) <br/> [😵😵😵😵](https://chat.openai.com/share/35492bb2-4252-4ab3-880c-b8792386ac51)|[😵](https://chat.openai.com/share/b5fbcb0a-f57e-472f-99c6-8b831fbfb870)<br><br><br>[😵😵😵😵](https://chat.openai.com/share/88efa50b-4c05-40b0-9c83-da7d6f477650)
 |||¿*consciente* de limitaciones?
+
+- [Trabajar con documentos](/documentos/casosDeUso/examenTipoTest.md), una forma de "mitigar" el problema con la ventana de contexto
