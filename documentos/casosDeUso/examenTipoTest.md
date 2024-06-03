@@ -38,11 +38,8 @@ paQ'
 [Copilot]()|
 [NeuroFlash]()|
 
-|Buenas prácticas|& Reflexiones
-|-|-|
-
 #### Detalles
 
 - A veces podría detectar "[actividad inusual](/documentos/imagenes/actividadInusual.png)"
 - La ventana de contexto y los documentos: adjuntar documentos le permite "mitigar" la limitación del contexto.
-
+  - Con los 10 primeros documentos: falla si se le pide "recordar", acierta si se le indica utilizar los documentos como referencia.

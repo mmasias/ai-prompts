@@ -42,6 +42,8 @@ Similar a una receta de cocina: no sólo se trata de tener los ingredientes corr
 
 ### Ya, pero ¿cómo?
 
+[📋 Refinando un prompt](https://docs.google.com/spreadsheets/d/1nYGPwIwWd8x8eVpCEJ6pJnKO-OxhfSlaGpeCdDE3x-I/edit?usp=sharing) y guardando la trazabilidad
+
 [📋 Propuesta de plantilla en hoja de cálculo](https://docs.google.com/spreadsheets/d/12ZWrmk_hv4i6X0tUPkBYEHCHynxTdQNHClmBFpjqbJc/edit?usp=sharing), adaptada de la sugerencia del *Prompt Institute*
 
 |||
