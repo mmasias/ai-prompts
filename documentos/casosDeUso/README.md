@@ -67,6 +67,7 @@ Visión|[Diferentes escenarios de visión](visionGPT.md)|[Reconocimiento](https:
 |||[Más apuntes](https://chat.openai.com/c/c4372089-150d-4220-9ab3-7845688fdbfc)
 |||[Y más apuntes con mala letra](https://chat.openai.com/c/abe3b41a-a9af-4e9c-afaa-65bb2790946a)
 |||[Estrategia@Risk](https://chat.openai.com/c/36e7e419-ebfc-4c5d-8c25-0fed61d3efbe) / [ChatGPT-4o](https://chatgpt.com/c/3623099d-f817-446b-8936-6750c11bb1ad)
+|||[Examen tipo test](examenTipoTest.md)
 
 ### *2DO:* Ir convirtiendo esto en MDs independientes y conectados...
 
