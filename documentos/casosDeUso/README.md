@@ -18,12 +18,11 @@
 [![](https://img.shields.io/badge/-Neuroflash-FFF?style=flat&logo=&logoColor=black)](https://app.neuro-flash.com/aiWriter)
 [![](https://img.shields.io/badge/-Huggingface-FFF?style=flat&logo=&logoColor=black)](https://huggingface.co/chat)
 [![](https://img.shields.io/badge/-Copilot-FFF?style=flat&logo=microsoft&logoColor=black)](https://copilot.microsoft.com/)
+[![](https://img.shields.io/badge/-Mistral-FFF?style=flat)](https://chat.mistral.ai/chat)
 
 </div>
 
-### Algunas (*odiosas*) comparaciones
-
- - [ChatGPT vs Gemini](ChatGPTvsGemini.md), creación de un ejemplo.
+Propuesta de creación de un ejemplo - [Comparando respuestas](microComparativa.md)
 
 
 ## Listado
