@@ -43,3 +43,6 @@ paQ'
 - A veces podría detectar "[actividad inusual](/documentos/imagenes/actividadInusual.png)"
 - La ventana de contexto y los documentos: adjuntar documentos le permite "mitigar" la limitación del contexto.
   - Con los 10 primeros documentos: falla si se le pide "recordar", acierta si se le indica utilizar los documentos como referencia.
+  - En el trabajo del documento 15, empieza a "olvidar" que debe devolver 20 preguntas (devuelve 21). Lo comprobamos en el documento 16, donde devuelve 19 en lugar de 20.
+  - Al trabajar sobre 20 documentos se confirma que pidiéndole que utilice los documentos como referencia, se supera el problema del olvido en la ventana de contexto.
+  
