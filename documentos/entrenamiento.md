@@ -2,8 +2,6 @@
 
 > Traducido del [artículo original](https://www.anthropic.com/research/claude-character)
 
-
-
 | **Traducido por [ChatGPT](https://chatgpt.com/share/3b370706-b105-452b-9170-cda194641b01)** | **Traducido por [Claude](https://claude.ai/chat/f94a162c-616b-4d26-ac93-7b13cb9a2617)** |
 |---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 |**El carácter de Claude**|**El carácter de Claude**|
