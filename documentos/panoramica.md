@@ -209,12 +209,16 @@
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
+|[coursebox.ai](https://www.coursebox.ai/)|Plataforma para la creación de cursos en línea|
+|[Juji](https://juji.io/)|Asistentes *empáticos*|
 |[studyable.app](https://studyable.app/)|Plataforma para aprendizaje y educación|
 |[gajix.com](https://gajix.com/)|Herramienta para aprendizaje y educación|
 |[humata.ai](https://www.humata.ai/)|Aprendizaje y desarrollo de habilidades|
 |[learningstudioai.com](https://learningstudioai.com/)|Personalización del aprendizaje|
-|[coursebox.ai](https://www.coursebox.ai/)|Plataforma para la creación de cursos en línea|
 |[learnworlds.com](https://www.learnworlds.com/)|Creación y gestión de cursos en línea|
+|[Khanmigo](https://www.khanmigo.ai/)|Hijo de la [Khan Academy](https://es.khanacademy.org/)|
+|[Rori](https://rori.ai/)|Tutor a través de Whatsapp|
+|[TutorOcean](https://www.tutorocean.com/ai)|
 
 </div>
 
