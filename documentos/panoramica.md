@@ -18,7 +18,7 @@
 |[Gemini](https://gemini.google.com/app)    |[BlueWillow](https://www.bluewillow.ai/)                                                                                           |[StableAudio](https://www.stableaudio.com/)        |[heyGen](https://www.heygen.com/)
 |[Copilot](https://copilot.microsoft.com)   |[VisualChatGPT](https://stablediffusionweb.com/Visual-ChatGPT#demo)                                                                |[MusicGen](https://huggingface.co/spaces/facebook/MusicGen)  [(*Repo*)](https://github.com/facebookresearch/audiocraft)                                                 |[Pika](https://pika.art/home)
 |[Huggingface](https://huggingface.co/chat) |[Ideogram.ai](https://ideogram.ai/)                                                                                                |[Suno](https://app.suno.ai/create/)                |[haiper.ai](https://haiper.ai/)
-|                                           |[MidJourney](https://docs.midjourney.com/docs/prompts)                                                                             |                                |[Luma](https://lumalabs.ai/)
+|                                           |[MidJourney](https://docs.midjourney.com/docs/prompts)                                                                             |                                |[Luma](https://lumalabs.ai/) [📽️](https://lumalabs.ai/dream-machine/creations/00e89855-b8de-45ac-aad0-01abdd343465)
 |                                           |
 |[***🥊🥊***](https://chat.lmsys.org/)            |
 
