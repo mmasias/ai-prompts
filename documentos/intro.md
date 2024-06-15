@@ -10,7 +10,7 @@
 <!-- TODO #3 Un enlace a los ismos de denegri también estaría bien  -->
 
 - Aparece una *tecnología* distruptiva: [Inteligencia artificial generativa](/documentos/AIgenerativa.md)
-- Reacciones: [Duda](https://twitter.com/Culture_Crit/status/1689685381283815435) / [Sorpresa, miedo, excepticismo, negación](https://docs.google.com/presentation/d/1UscAlHfjGgg4pPzz_p0V1eX18R74DRlvTtMXsbLVtI0/edit?usp=sharing) / [PessimistArchive](https://pessimistsarchive.org/) / [Ironía](/documentos/imagenes/publicidadGPT.jpeg)
+- Reacciones: [Duda](https://twitter.com/Culture_Crit/status/1689685381283815435) / [Sorpresa, miedo, excepticismo, negación](https://docs.google.com/presentation/d/1UscAlHfjGgg4pPzz_p0V1eX18R74DRlvTtMXsbLVtI0/edit?usp=sharing) / [PessimistArchive](https://pessimistsarchive.org/) / [Ironía](/documentos/imagenes/publicidadGPT.jpeg) / [14/jun/2022](https://timesofindia.indiatimes.com/business/international-business/full-transcript-google-ai-bots-interview-that-convinced-engineer-it-was-sentient/articleshow/92178185.cms)
 - Ver dónde se inserta
 - Aparecen términos nuevos... [*Ops](xOps.md) [AIOps](aiops.md) / Aparece [🌬️💨](💨.md)
 - [Se analiza su fiabilidad](/documentos/casosDeUso/fiabilidad.md) - Se [entrena](/documentos/entrenamiento.md) -  [Se (intenta) regular](/documentos/etica@AI.md)
