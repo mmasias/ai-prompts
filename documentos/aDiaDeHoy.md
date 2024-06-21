@@ -9,6 +9,7 @@
 
 |||
 |-:|-|
+21/jun/2024|[Claude Artifacts](claudeArtifacts.md)
 13/May/2024|[GPT-4o](https://openai.com/index/hello-gpt-4o/)
 4/Set/2023|[Canva@ChatGPT](canvaMeetsChatGPT.md)
 28/Ago/2023|[ChatGPT lanza su versión enterprise](chatGPTEnterprise.md)
