@@ -81,7 +81,7 @@ Visión|[Diferentes escenarios de visión](visionGPT.md)|[Reconocimiento](https:
 |**Fiscal de proyectos**|-|-|[👨‍⚖️](https://chat.openai.com/c/c4eecd9b-96ed-4e78-824d-f4cafbc590ca)
 |Traducción especial|-|-|[Hola mundo](https://chat.openai.com/share/262d6424-1b0d-4c40-a348-22c414089fcf) / [Localización](https://chat.openai.com/share/5bae41c1-6b43-4571-94db-938236d4e5f2)|
 |Traducción especial II (videojuego)|-|-|-|[Repo](https://github.com/mmasias/u6-VII-traslation-project) / Código / [Entrada](https://github.com/mmasias/u6-VII-traslation-project/blob/main/Homer.uc) / [Traducción](https://github.com/mmasias/u6-VII-traslation-project/blob/main/LordBritish.uc.md)
-|Clasificación de preguntas (y respuesta acorde)|Aplicando la [clasificación de intenciones](https://github.com/mmasias/ai-prompts/blob/main/prompts/mejoresPracticas/clasificacionIntenciones.md)|[Hoja de cálculo](https://docs.google.com/spreadsheets/d/1oWpOuF7evbS-DvUj8ba2zpBMItXarUdcsWA51p4AaeA/edit?usp=sharing)|
+|Clasificación de preguntas (y respuesta acorde)|Aplicando la [clasificación de intenciones](/documentos/prompts/mejoresPracticas/clasificacionIntenciones.md)|[Hoja de cálculo](https://docs.google.com/spreadsheets/d/1oWpOuF7evbS-DvUj8ba2zpBMItXarUdcsWA51p4AaeA/edit?usp=sharing)|
 |Resumen & análisis de respuestas|Recibir respuestas, analizar diversos elementos de su contenido|ChatGPT, Google Sheets, [GPT for work](https://gptforwork.com/)|[Hoja de cálculo](https://docs.google.com/spreadsheets/d/10ByjpaajfxlpBmXImmQ-wE1TqPYr9FbFr-FiNEkRTB8/edit?usp=sharing)|
 |**Conexión con formulario web & respuestas "en tiempo real"**|[Formulario](https://docs.google.com/forms/d/e/1FAIpQLScTNkSxiW8D1-rjW80NKiju44XdRCQnEy0wCpZU5Wi4u47mmA/viewform) / [Respuestas recibidas](https://docs.google.com/spreadsheets/d/17FOJtOcbeUVV5ijeMTaWumoP-bixfP8gZ1ErUeRo7Qs/edit#gid=728322039)
 |Rebranding de sitio web de servicios|pdeinfo.com, 1999|[ClaudeAI](https://claude.ai/chat/99747db0-b56b-4e55-9826-9b80a4598116) / [ChatGPT](https://chat.openai.com/share/23892a81-1e32-49c5-a60d-23c07ad65e02)
@@ -92,27 +92,23 @@ Visión|[Diferentes escenarios de visión](visionGPT.md)|[Reconocimiento](https:
 <!-- TODO: #9 Modelar Google Wave y ver qué dice -->
 <!-- TODO: #11 Simular un lanzamiento de producto en 1999 o en la edad media :P -->
 
-### Y se volvieron obsoletos...
-
-|Área|Caso de Uso|Breve descripción|
-|:-:|-|-|
-|🔩|[Lectura de una imagen](https://chat.openai.com/share/b55d8b96-f469-4f8a-966c-a7417af6248b)|☠️ Usando un plugin compatible con GPT4 <font color="red">***Obsoleto***</font>
-
-### xExtender
-
-- [Listas de personas](https://docs.google.com/spreadsheets/d/165DnYz3crJugiWnKrc9OLPECBia9Nkx0u22IZqvdOco/edit?usp=sharing) ❗
-- [Esquemas (ASCII, JSON, plantUML)](https://chat.openai.com/share/5ca0aa11-da9b-4640-ba3a-1dee13623e79)
-
 #### Negocio
 
 - [Generalistas](negocio/promptsVarios.md)
 - [Caso de uso concreto de negocio](negocio/README.md)
 - [Start startup](startStartup.md)
 
-#### xOrdenar
-
-- Mapas: [Ultima II](https://chat.openai.com/c/d618bc9d-bea1-4891-bada-8d443b39243a) / [Ultima IV](https://chat.openai.com/c/2ce7ea01-6a80-40a7-9aa2-a16585829b80)
-- [Entender un Real Decreto de ámbito financiero (y aplicarlo a varios casos, valorándolos)](https://chat.openai.com/share/a8116bc2-d61a-4339-ab2e-71d109eaf3e5)
-- [Organización de repos@Github](https://chat.openai.com/share/6dbb5c00-549a-4afa-babd-958e88beed0e)
+#### xOrdenar & xExtender
 
 - [A day in life](aDayInTheLife.md)
+- [Entender un Real Decreto de ámbito financiero (y aplicarlo a varios casos, valorándolos)](https://chat.openai.com/share/a8116bc2-d61a-4339-ab2e-71d109eaf3e5)
+- Mapas: [Ultima II](https://chat.openai.com/c/d618bc9d-bea1-4891-bada-8d443b39243a) / [Ultima IV](https://chat.openai.com/c/2ce7ea01-6a80-40a7-9aa2-a16585829b80)
+- [Organización de repos@Github](https://chat.openai.com/share/6dbb5c00-549a-4afa-babd-958e88beed0e)
+- [Listas de personas](https://docs.google.com/spreadsheets/d/165DnYz3crJugiWnKrc9OLPECBia9Nkx0u22IZqvdOco/edit?usp=sharing) ❗
+- [Esquemas (ASCII, JSON, plantUML)](https://chat.openai.com/share/5ca0aa11-da9b-4640-ba3a-1dee13623e79)
+
+### Y se volvieron obsoletos...
+
+|Área|Caso de Uso|Breve descripción|
+|:-:|-|-|
+|🔩|[Lectura de una imagen](https://chat.openai.com/share/b55d8b96-f469-4f8a-966c-a7417af6248b)|☠️ Usando un plugin compatible con GPT4 <font color="red">***Obsoleto***</font>
