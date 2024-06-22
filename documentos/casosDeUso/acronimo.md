@@ -37,7 +37,7 @@ Adicionalmente, vemos que contesta cada una de las IAs
 [ChatGPT](https://chat.openai.com/share/57e396ef-1732-4321-94c8-a143267c0b01)
 [Perplexity](https://www.perplexity.ai/search/aeadc97e-3f6b-43f9-8a6c-d6305889b7ea?s=c)
 [Claude](https://claude.ai/chat/65ccee63-fdde-460a-8f31-7646a677e473)|*No está en abierto*
-[Bard](/imagenes/acronimos.bard.png)
+[Bard](/documentos/imagenes/acronimos.bard.png)
 [Gemini](https://g.co/gemini/share/5d49ef77f41f)
 [NeuroFlash](https://app.neuro-flash.com/ai-writer/ac997dc2a342a98ff857177183efff15/preview)|😂 y actualizado para incluir el enlace.
 [Copilot](https://sl.bing.net/f3rft2X0xBQ)|Parece que pilla la sutileza del reuso del término PANAL y abejas
