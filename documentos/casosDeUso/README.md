@@ -55,7 +55,7 @@ Propuesta de creación de un ejemplo - [Comparando respuestas](microComparativa.
 
 |x|Área|Caso de Uso|Breve descripción|
 |-|:-:|-|-|
-|Análisis de datos|📈|[Analizar datos y su evolución](analisisDeDatos.md)
+|**Análisis de datos**|📈|[Analizar datos y su evolución](analisisDeDatos.md)
 |Esquemas, diagrama y dibujos|📐|[Generar esquemas y diagramas](esquemasDiagramas.md)
 |Anticipación|[Anticipación](anticipacion.md)|
 Visión|[Diferentes escenarios de visión](visionGPT.md)|[Reconocimiento](https://chat.openai.com/c/3e02741d-0ae9-4515-8952-cab698331a86)
