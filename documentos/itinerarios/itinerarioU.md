@@ -24,7 +24,7 @@ Modelos de lenguaje, una especialización de las IAs
 
 ### Interacción con modelos de lenguaje
 
-Los [**prompts**](/documentos/prompts/README.md)
+Revisión de algunos [casos de uso](/documentos/casosDeUso/README.md), junto con conceptos de [**prompts**](/documentos/prompts/README.md).
 
 - [La ventana de contexto](/documentos/prompts/ventanaDeContexto.md)
 - [Anatomía de un prompt](/documentos/prompts/anatomia.md) - Los [componentes](/documentos/prompts/componentes.md)
