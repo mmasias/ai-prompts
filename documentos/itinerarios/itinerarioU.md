@@ -1,16 +1,15 @@
 # Itinerario propuesto Sesiones@UNEATLANTICO
 
-## [¿Por qué?](/documentos/intro.md)
+## [Intro](/documentos/intro.md)
 
-## ¿Qué?
+## [LLMs](/documentos/LLMs.md)**
 
-- **[LLMs](/documentos/LLMs.md)**: modelos de lenguaje, una especialización de las IAs
-  - [Por qué se elige el texto para interactuar con ellos](/documentos/LLMs.md)
-  - El factor [ético](/documentos/etica@AI.md), de seguridad, su [legislación](/documentos/legislacionAI.md) y el desafio de la [regulación](/documentos/regulacionAI.md)
+Modelos de lenguaje, una especialización de las IAs
 
-## ¿Para qué?
+- [Por qué se elige el texto para interactuar con ellos](/documentos/LLMs.md)
+- El factor [ético](/documentos/etica@AI.md), de seguridad, su [legislación](/documentos/legislacionAI.md) y el desafio de la [regulación](/documentos/regulacionAI.md)
 
-[Vademecum de modelos de lenguaje](/documentos/panoramica.md)
+## [Vademecum de modelos de lenguaje](/documentos/panoramica.md)
 
 - Modelos generalistas
 - Modelos para investigación
