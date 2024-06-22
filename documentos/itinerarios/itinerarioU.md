@@ -4,11 +4,11 @@
 
 ## ¿Qué?
 
-- [LLM](/documentos/LLMs.md)**: modelos de lenguaje. Una especialización de las IAs.
+- **[LLMs](/documentos/LLMs.md)**: modelos de lenguaje, una especialización de las IAs
   - [Por qué se elige el texto para interactuar con ellos](/documentos/LLMs.md)
-  - El factor [ético](/documentos/etica@AI.md) y de seguridad: [legislación](/documentos/legislacionAI.md) y el desafio de la [regulación](/documentos/regulacionAI.md).
+  - El factor [ético](/documentos/etica@AI.md), de seguridad, su [legislación](/documentos/legislacionAI.md) y el desafio de la [regulación](/documentos/regulacionAI.md)
 
-## ¿Para qué? 
+## ¿Para qué?
 
 [Vademecum de modelos de lenguaje](/documentos/panoramica.md)
 
@@ -35,7 +35,7 @@ Los [**prompts**](/documentos/prompts/README.md)
 
 ### Hands-on II
 
-- 
+- JC
 
 ### Debate@U
 
