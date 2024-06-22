@@ -44,7 +44,7 @@ Propuesta de creación de un ejemplo - [Comparando respuestas](microComparativa.
 |Metanivel y reflexión|🤔|[MetaCasoDeUso](metaCasoDeUso.md)|Organizar en casos de uso la presentación de los casos de uso
 |Avanzado y eficiencia|🈲|[Shoggoth Tongue](shoggothTongue.md)|Compresión de prompts
 |Interacción bidimensional|🎭|[Simulación de Roles](rpgInverso.md)|IA adoptando roles y simulando emociones en situaciones específicas
-|"Turnit·in"|[Auditor de autoría](auditorAutoria.md)|
+|**"Turnit·in"**|[Auditor de autoría](auditorAutoria.md)|
 |Resúmenes de contenidos generados|[7+-2](enCincoPuntos.md)
 |Presentación formato MARP|👨🏽‍🏫|[Presentación](marpPresentacion.md)
 |Análisis financiero|👨🏽‍🏫|[Análisis financiero](analisisFinanciero.md)||
@@ -72,18 +72,18 @@ Visión|[Diferentes escenarios de visión](visionGPT.md)|[Reconocimiento](https:
 
 |Caso|Breve descripción|Herramientas|Transcripción|
 |-|-|-|-|
-|[Reconocimientos académicos](reconocimientos.md)|
+|[**Reconocimientos académicos**](reconocimientos.md)|
 |[Trabajo con imagenes](poster.md)
 |Construcción de un juego|-|-|[ChatGPT](https://chat.openai.com/share/f3d914ee-0166-4cdf-b063-a8346643b38a)
 |Refinar pregunta|-|-|[ChatGPT](https://chat.openai.com/share/1b68594e-ec33-4b76-a49e-cfadbad74243)
 |Herculean pixels|-|-|[Herculean pixels](herculeanPixels.md)
 |Actualización de artículo de hace 10 años|-|-|[Artículo](https://chat.openai.com/c/9194536e-7058-4aef-a898-c211a9cdbcff)
-|Fiscal de proyectos|-|-|[👨‍⚖️](https://chat.openai.com/c/c4eecd9b-96ed-4e78-824d-f4cafbc590ca)
+|**Fiscal de proyectos**|-|-|[👨‍⚖️](https://chat.openai.com/c/c4eecd9b-96ed-4e78-824d-f4cafbc590ca)
 |Traducción especial|-|-|[Hola mundo](https://chat.openai.com/share/262d6424-1b0d-4c40-a348-22c414089fcf) / [Localización](https://chat.openai.com/share/5bae41c1-6b43-4571-94db-938236d4e5f2)|
 |Traducción especial II (videojuego)|-|-|-|[Repo](https://github.com/mmasias/u6-VII-traslation-project) / Código / [Entrada](https://github.com/mmasias/u6-VII-traslation-project/blob/main/Homer.uc) / [Traducción](https://github.com/mmasias/u6-VII-traslation-project/blob/main/LordBritish.uc.md)
 |Clasificación de preguntas (y respuesta acorde)|Aplicando la [clasificación de intenciones](https://github.com/mmasias/ai-prompts/blob/main/prompts/mejoresPracticas/clasificacionIntenciones.md)|[Hoja de cálculo](https://docs.google.com/spreadsheets/d/1oWpOuF7evbS-DvUj8ba2zpBMItXarUdcsWA51p4AaeA/edit?usp=sharing)|
 |Resumen & análisis de respuestas|Recibir respuestas, analizar diversos elementos de su contenido|ChatGPT, Google Sheets, [GPT for work](https://gptforwork.com/)|[Hoja de cálculo](https://docs.google.com/spreadsheets/d/10ByjpaajfxlpBmXImmQ-wE1TqPYr9FbFr-FiNEkRTB8/edit?usp=sharing)|
-|Conexión con formulario web & respuestas "en tiempo real"|[Formulario](https://docs.google.com/forms/d/e/1FAIpQLScTNkSxiW8D1-rjW80NKiju44XdRCQnEy0wCpZU5Wi4u47mmA/viewform) / [Respuestas recibidas](https://docs.google.com/spreadsheets/d/17FOJtOcbeUVV5ijeMTaWumoP-bixfP8gZ1ErUeRo7Qs/edit#gid=728322039)
+|**Conexión con formulario web & respuestas "en tiempo real"**|[Formulario](https://docs.google.com/forms/d/e/1FAIpQLScTNkSxiW8D1-rjW80NKiju44XdRCQnEy0wCpZU5Wi4u47mmA/viewform) / [Respuestas recibidas](https://docs.google.com/spreadsheets/d/17FOJtOcbeUVV5ijeMTaWumoP-bixfP8gZ1ErUeRo7Qs/edit#gid=728322039)
 |Rebranding de sitio web de servicios|pdeinfo.com, 1999|[ClaudeAI](https://claude.ai/chat/99747db0-b56b-4e55-9826-9b80a4598116) / [ChatGPT](https://chat.openai.com/share/23892a81-1e32-49c5-a60d-23c07ad65e02)
 |Viabilidad de una idea & pySimilares|[ChatGPT](https://chat.openai.com/share/52d3f54c-de88-43e4-9deb-228369564c52) 
 |Charla contextualizada|Conversar con alguien de los 90s|[ChatGPT](https://chat.openai.com/share/fe504c5d-dfa2-4a63-add0-b3d26ea18d89)|
