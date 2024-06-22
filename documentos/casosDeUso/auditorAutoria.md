@@ -39,7 +39,7 @@ Ejemplo 2: [Documento original (en inglés)](https://instituciones.sld.cu/psicos
 |-|-|
 [ChatGPT](https://chat.openai.com/share/eb63349b-849b-4b5f-b5df-8f52a1890454) / [Ejemplo 2](https://chat.openai.com/share/f77c7c2c-e5e6-4c7e-8671-f429e7e7130a)
 [Perplexity]
-[Claude]
+[Claude](auditorAuditoriaClaude.md)
 [Bard]
 [NeuroFlash]
 
