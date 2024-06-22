@@ -26,7 +26,7 @@ Cronología de los modelos de lenguaje de gran escala existentes en los últimos
 
 </div>
 
-- Pero ya un año antes (el 2018) [Google presentaba esto!!!](https://www.youtube.com/watch?v=l9BTMWOupGM)
+- Pero ya un año antes (el 2018) [Google presentaba esto!!!](https://www.youtube.com/watch?v=l9BTMWOupGM&t=20s)
 
 ## ¿Qué?
 

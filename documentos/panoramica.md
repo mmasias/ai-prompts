@@ -291,6 +291,7 @@
 |[GPT4All](https://gpt4all.io/index.html)|
 [LMStudio](https://lmstudio.ai/)
 |[ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/) de NVidia
+|[***Más modelos***](https://opening-up-chatgpt.github.io/)|
 
 </div>
 

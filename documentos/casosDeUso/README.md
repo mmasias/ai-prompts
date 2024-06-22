@@ -72,7 +72,7 @@ Visión|[Diferentes escenarios de visión](visionGPT.md)|[Reconocimiento](https:
 
 |Caso|Breve descripción|Herramientas|Transcripción|
 |-|-|-|-|
-|[Reconocimientos académicos](https://github.com/mmasias/mmasias/blob/main/ai/CdU/reconocimientos.md)|
+|[Reconocimientos académicos](reconocimientos.md)|
 |[Trabajo con imagenes](poster.md)
 |Construcción de un juego|-|-|[ChatGPT](https://chat.openai.com/share/f3d914ee-0166-4cdf-b063-a8346643b38a)
 |Refinar pregunta|-|-|[ChatGPT](https://chat.openai.com/share/1b68594e-ec33-4b76-a49e-cfadbad74243)
