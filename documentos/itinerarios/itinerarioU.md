@@ -2,7 +2,7 @@
 
 ## [Intro](/documentos/intro.md)
 
-## [LLMs](/documentos/LLMs.md)**
+## [LLMs](/documentos/LLMs.md)
 
 Modelos de lenguaje, una especialización de las IAs
 
