@@ -1,22 +1,26 @@
+title "Cualquier" tecnología
+
 class 5Primeros{
 Escopeta de feria
-- lo acaban de pulir
-- alguien lo aplica dodne no debe
-- facciones que pelean por la autoria
+---
+* Lo acaban de pulir
+* Se aplica donde no debe
+* Facciones que pelean por la autoría
 }
 
 
 class 5Siguientes{
-Acaba un poco el ruido
-- Se estudia
-- Se contraestudia
-- Tesis Antitesis Sintesis
+Reducción del ruido
+---
+* Se estudia
+* Se contraestudia
+* Tesis / Antítesis / Síntesis
 }
 
 class 5Posteriores{
-- Se asienta
-- Se conoce lo valido
-- Se estandariza
+* Se asienta
+* Se conoce lo valido
+* Se estandariza
 }
 
 5Primeros-r->5Siguientes
