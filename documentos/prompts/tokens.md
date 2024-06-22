@@ -48,6 +48,19 @@ Profundizar en algunos de estos procesos, como la elección del algoritmo de tok
 
 ### 2See2
 
+Solicitud: **escribe 10 oraciones que terminen con la palabra "Manzana"**
+
+- [GPT-3.5](https://chatgpt.com/share/b4d0ea9a-01be-4cdb-870b-7c045b0f74f8)
+- [GPT-4](https://chatgpt.com/share/36d73f87-c13a-442c-b52f-673bbaeb6e2f)
+- [GPT-4o](https://chatgpt.com/share/f8e74da9-73ca-455e-ad6f-600cb6c22d69)
+- [Claude](https://claude.ai/chat/1f7c267e-5b77-4e12-9ce7-1dc156b9251b)
+- [Gemini](https://g.co/gemini/share/0ab6e9d33141)
+- [Copilot](https://copilot.microsoft.com/sl/b0oJi4iAlNY)
+- [Mistral](https://chat.mistral.ai/chat/7514447a-4f0e-42a1-b97c-36610a0635fd)
+- [Meta·Llama@Huggingface](https://huggingface.co/chat/conversation/66770a226601390add72bbde)
+
+### 2See3
+
 > A partir de un [prompt de @VictorTaelin](https://gist.github.com/VictorTaelin/e514844f4df9e5f182b28e5a07e44b17) - ([post original en X](https://twitter.com/VictorTaelin/status/1776096481704804789), *seguido de una muy interesante discusión*)
 
 ```
