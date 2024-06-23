@@ -168,13 +168,12 @@
 |Nombre|Descripción|Categoría|
 |-|-|-|
 |[**Suno**](https://app.suno.ai/create/)|Productor musical
+|[**elevenlabs.io**](https://elevenlabs.io)|Sintetizador de voz con IA|
+|[**fireflies.ai**](https://fireflies.ai/)|Transcripción y análisis de reuniones con IA|
 |[assemblyai.com](https://www.assemblyai.com)|Transcripción y procesamiento de audio con IA|
 |[lovo.ai](https://lovo.ai)|Generación de voz y audio con IA|
-|[elevenlabs.io](https://elevenlabs.io)|Sintetizador de voz con IA|
 |[songburst.ai](https://www.songburst.ai)|Creación de música y audio con IA|
 |[Adobe](https://podcast.adobe.com)|Herramienta de IA para podcasters|
-|[oto.ai](https://www.oto.ai)|Análisis de voz y audio con IA|
-|[fireflies.ai](https://fireflies.ai/)|Transcripción y análisis de reuniones con IA|
 |[HappyScribe](https://www.happyscribe.com/)|transcripciones de audio
 
 </div>
@@ -185,13 +184,12 @@
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
+|[**learningstudioai.com**](https://learningstudioai.com/)|Personalización del aprendizaje|[CdU](https://learningstudioai.com/go/v3u9BmS6GUp404tH1oZi)
+|[learnworlds.com](https://www.learnworlds.com/)|Creación y gestión de cursos en línea|[CdU](https://puntoreflex.learnworlds.com/pages/home)
 |[coursebox.ai](https://www.coursebox.ai/)|Plataforma para la creación de cursos en línea|
 |[Juji](https://juji.io/)|Asistentes *empáticos*|
 |[studyable.app](https://studyable.app/)|Plataforma para aprendizaje y educación|
 |[gajix.com](https://gajix.com/)|Herramienta para aprendizaje y educación|
-|[humata.ai](https://www.humata.ai/)|Aprendizaje y desarrollo de habilidades|
-|[learningstudioai.com](https://learningstudioai.com/)|Personalización del aprendizaje|
-|[learnworlds.com](https://www.learnworlds.com/)|Creación y gestión de cursos en línea|
 |[Khanmigo](https://www.khanmigo.ai/)|Hijo de la [Khan Academy](https://es.khanacademy.org/)|
 |[Rori](https://rori.ai/)|Tutor a través de Whatsapp|
 |[TutorOcean](https://www.tutorocean.com/ai)|
