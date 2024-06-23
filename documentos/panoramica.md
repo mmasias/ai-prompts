@@ -13,14 +13,14 @@
 
 |Texto |Imágenes|Música|Vídeos|
 |-|-|-|-
-|[ChatGPT](https://chat.openai.com/)        |[Dall-e](https://openai.com/dall-e-3) [📓](https://pitch.com/v/DALL-E-prompt-book-v1-tmd33y/d959fd01-3eea-4b16-9472-e79ccb635e98)  |[Mubert](https://mubert.com/)                      |[CapCut](https://www.capcut.com/)
-|[Claude](https://claude.ai/chats)          |[MS Designer](https://designer.microsoft.com/)                                                                                     |[Moises](https://moises.ai/)                       |[Sora](https://openai.com/sora)
-|[Gemini](https://gemini.google.com/app)    |[BlueWillow](https://www.bluewillow.ai/)                                                                                           |[StableAudio](https://www.stableaudio.com/)        |[heyGen](https://www.heygen.com/)
-|[Copilot](https://copilot.microsoft.com)   |[VisualChatGPT](https://stablediffusionweb.com/Visual-ChatGPT#demo)                                                                |[MusicGen](https://huggingface.co/spaces/facebook/MusicGen)  [(*Repo*)](https://github.com/facebookresearch/audiocraft)                                                 |[Pika](https://pika.art/home)
-|[Huggingface](https://huggingface.co/chat) |[Ideogram.ai](https://ideogram.ai/)                                                                                                |[Suno](https://app.suno.ai/create/)                |[haiper.ai](https://haiper.ai/)
-|                                           |[MidJourney](https://docs.midjourney.com/docs/prompts)                                                                             |                                |[Luma](https://lumalabs.ai/) [📽️](https://lumalabs.ai/dream-machine/creations/00e89855-b8de-45ac-aad0-01abdd343465)
+|[ChatGPT](https://chat.openai.com/)        |[Dall-e](https://openai.com/dall-e-3) [📓](https://pitch.com/v/DALL-E-prompt-book-v1-tmd33y/d959fd01-3eea-4b16-9472-e79ccb635e98)  |[Mubert](https://mubert.com/)                                                                                              |[CapCut](https://www.capcut.com/)
+|[Claude](https://claude.ai/chats)          |[MS Designer](https://designer.microsoft.com/)                                                                                     |[Moises](https://moises.ai/)                                                                                               |[Sora](https://openai.com/sora) [📽️](https://www.youtube.com/watch?v=1eXtDbc2iRM)
+|[Gemini](https://gemini.google.com/app)    |[BlueWillow](https://www.bluewillow.ai/)                                                                                           |[StableAudio](https://www.stableaudio.com/)                                                                                |[heyGen](https://www.heygen.com/) [📽️](https://app.heygen.com/share/813aa590238a42f8af238550a271b195)
+|[Copilot](https://copilot.microsoft.com)   |[VisualChatGPT](https://stablediffusionweb.com/Visual-ChatGPT#demo)                                                                |[MusicGen](https://huggingface.co/spaces/facebook/MusicGen)  [(*Repo*)](https://github.com/facebookresearch/audiocraft)    |[Pika](https://pika.art/home) [📽️](/documentos/videos/pika.mp4)
+|[Huggingface](https://huggingface.co/chat) |[Ideogram.ai](https://ideogram.ai/)                                                                                                |[Suno](https://app.suno.ai/create/)                                                                                        |[haiper.ai](https://haiper.ai/) [📽️](https://haiper.ai/creation/6678667a036a2e93ba252eff)
+|                                           |[MidJourney](https://docs.midjourney.com/docs/prompts)                                                                             |                                                                                                                           |[Luma](https://lumalabs.ai/) [📽️](https://lumalabs.ai/dream-machine/creations/00e89855-b8de-45ac-aad0-01abdd343465)
 |                                           |
-|[***🥊🥊***](https://chat.lmsys.org/)            |
+|[***🥊🥊***](https://chat.lmsys.org/)      |
 
 |Ofimática|
 |-|
@@ -52,18 +52,6 @@
 |[**Whimsical**](https://whimsical.com/)|Creación de mapas mentales, diagramas y prototipos visuales.|Plataforma / [CdU](https://whimsical.com/seminario-ai-YKgQuAQtcHKUYicLPAisqE)
 |[**ChatPDF**](https://www.chatpdf.com/)|Chatear con un PDF
 |[**Humata**](http://humata.ai)|Chat con documentos
-
-</div>
-
-## 🌐🖥️ Agentes de navegador
-
-<div align=center>
-
-|Nombre|Descripción|Categoría|
-|-|-|-|
-|[Execo.ai](https://execo.ai)|Agente para gestión de investigaciones|Servicio / 
-|[Harpa.ai](https://harpa.ai/)|Agente para gestión de investigaciones|Servicio / 
-|[Eightify.app](https://eightify.app)|Agente TLDR y similares8|Herramienta
 
 </div>
 
@@ -300,6 +288,18 @@
 ### 🖼️🛠️ Marcos de trabajo
 
 - [MetaGPT](https://github.com/geekan/MetaGPT) / [Enlace directo](https://huggingface.co/spaces/deepwisdom/MetaGPT)
+
+## 🌐🖥️ Agentes de navegador
+
+<div align=center>
+
+|Nombre|Descripción|Categoría|
+|-|-|-|
+|[Execo.ai](https://execo.ai)|Agente para gestión de investigaciones|Servicio / 
+|[Harpa.ai](https://harpa.ai/)|Agente para gestión de investigaciones|Servicio / 
+|[Eightify.app](https://eightify.app)|Agente TLDR y similares8|Herramienta
+
+</div>
 
 
 ## 📈🌐 Verticales
