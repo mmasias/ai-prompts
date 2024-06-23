@@ -14,7 +14,7 @@
 |Texto |Imágenes|Música|Vídeos|
 |-|-|-|-
 |[ChatGPT](https://chat.openai.com/)        |[Dall-e](https://openai.com/dall-e-3) [📓](https://pitch.com/v/DALL-E-prompt-book-v1-tmd33y/d959fd01-3eea-4b16-9472-e79ccb635e98)  |[Mubert](https://mubert.com/)                                                                                              |[CapCut](https://www.capcut.com/)
-|[Claude](https://claude.ai/chats)          |[MS Designer](https://designer.microsoft.com/)                                                                                     |[Moises](https://moises.ai/)                                                                                               |[Sora](https://openai.com/sora) [📽️](https://www.youtube.com/watch?v=1eXtDbc2iRM)
+|[Claude](https://claude.ai/chats)          |[MS Designer](https://designer.microsoft.com/)                                                                                     |[Moises](https://moises.ai/)                                                                                               |[Sora](https://openai.com/sora) [📽️](/documentos/videos/soraAI.mp4)
 |[Gemini](https://gemini.google.com/app)    |[BlueWillow](https://www.bluewillow.ai/)                                                                                           |[StableAudio](https://www.stableaudio.com/)                                                                                |[heyGen](https://www.heygen.com/) [📽️](https://app.heygen.com/share/813aa590238a42f8af238550a271b195)
 |[Copilot](https://copilot.microsoft.com)   |[VisualChatGPT](https://stablediffusionweb.com/Visual-ChatGPT#demo)                                                                |[MusicGen](https://huggingface.co/spaces/facebook/MusicGen)  [(*Repo*)](https://github.com/facebookresearch/audiocraft)    |[Pika](https://pika.art/home) [📽️](/documentos/videos/pika.mp4)
 |[Huggingface](https://huggingface.co/chat) |[Ideogram.ai](https://ideogram.ai/)                                                                                                |[Suno](https://app.suno.ai/create/)                                                                                        |[haiper.ai](https://haiper.ai/) [📽️](https://haiper.ai/creation/6678667a036a2e93ba252eff)
@@ -158,19 +158,6 @@
 |[vidiq.com](https://vidiq.com)|Herramientas para creadores de contenido en YouTube|
 |[Virbo](https://virbo.wondershare.com)|Edición y producción de video|
 |[opus.ai](https://opus.ai)|Herramienta para la creación de videos narrativos|
-
-</div>
-
-## 🆔🎨 Logotipos
-
-<div align=center>
-
-|Nombre|Descripción|Categoría|
-|-|-|-|
-|[namecheap.com](https://www.namecheap.com/logo-maker/)|Generador de logotipos|
-|[brandmark.io](https://brandmark.io)|Diseño de logotipos|
-|[logopony.com](https://www.logopony.com)|Creación de logotipos|
-|[makelogo.ai](https://makelogo.ai)|Herramienta para diseño de logotipos|
 
 </div>
 
@@ -327,3 +314,19 @@
 [https://ttsmaker.com/](https://ttsmaker.com/)
 [https://lumalabs.ai/](https://lumalabs.ai/)
 -->
+## Obsoletos
+
+### 🆔🎨 Logotipos
+
+Dall·E & Copilot los han vuelto obsoletos
+
+<div align=center>
+
+|Nombre|Descripción|Categoría|
+|-|-|-|
+|[namecheap.com](https://www.namecheap.com/logo-maker/)|Generador de logotipos|
+|[brandmark.io](https://brandmark.io)|Diseño de logotipos|
+|[logopony.com](https://www.logopony.com)|Creación de logotipos|
+|[makelogo.ai](https://makelogo.ai)|Herramienta para diseño de logotipos|
+
+</div>
