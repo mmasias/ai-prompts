@@ -28,13 +28,13 @@
 
 ## ¿Qué?
 
-[Panorámica al mundo de las AIs](documentos/panoramica.md)
+[Modelos de lenguaje](documentos/LLMs.md)
 
 ## Para qué
 
 - Aproximarnos con una base que nos permita...
-- comprender (o al menos intentar entender) [el cambio](documentos/aDiaDeHoy.md) y que podamos
-- tener base para encontrarle a todo esto aplicación real, efectiva (eficiente & eficaz)
+  - comprender (o al menos intentar entender) [el cambio](documentos/aDiaDeHoy.md) y que podamos
+  - tener base para encontrarle a todo esto aplicación real, efectiva (eficiente & eficaz)
 <!-- TODO: #1 Extender el para qué de las sesiones @mmasias -->
 
 ## ¿Cómo?
