@@ -94,6 +94,7 @@ Visión|[Diferentes escenarios de visión](visionGPT.md)|
 
 - [A day in life](aDayInTheLife.md)
 - [Entender un Real Decreto de ámbito financiero (y aplicarlo a varios casos, valorándolos)](https://chat.openai.com/share/a8116bc2-d61a-4339-ab2e-71d109eaf3e5)
+- [Enigma matemático (LLMs tester!)](acertijoMatemático.md)
 - Mapas: [Ultima II](https://chat.openai.com/c/d618bc9d-bea1-4891-bada-8d443b39243a) / [Ultima IV](https://chat.openai.com/c/2ce7ea01-6a80-40a7-9aa2-a16585829b80)
 - [Organización de repos@Github](https://chat.openai.com/share/6dbb5c00-549a-4afa-babd-958e88beed0e)
 - [Listas de personas](https://docs.google.com/spreadsheets/d/165DnYz3crJugiWnKrc9OLPECBia9Nkx0u22IZqvdOco/edit?usp=sharing) ❗
