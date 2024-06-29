@@ -17,3 +17,4 @@
 - [Harvard & AI](https://hbsp.harvard.edu/inspiring-minds/student-use-cases-for-ai)
 - 📖 [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/abs/2302.11382)
 - 📖 [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
+- [Generative AI for beginners](https://github.com/microsoft/generative-ai-for-beginners)
