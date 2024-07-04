@@ -45,3 +45,5 @@ Además, el grupo rojo recibió capacitación adicional sobre cómo utilizarlo.
 <img src="imagenes/cyborg-centaur-infographic.jpg" width=55%>
 
 </div>
+
+[Matriz de interacción bidireccional](matrizBidireccional.md)
