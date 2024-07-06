@@ -55,6 +55,7 @@ Propuesta de creación de un ejemplo - [Comparando respuestas](microComparativa.
 
 |x|Área|Caso de Uso|Breve descripción|
 |-|:-:|-|-|
+["Dilema" ético](dilemaEtico.md)
 |**Análisis de datos**|📈|[Analizar datos y su evolución](analisisDeDatos.md)
 |Esquemas, diagrama y dibujos|📐|[Generar esquemas y diagramas](esquemasDiagramas.md)
 |Anticipación|[Anticipación](anticipacion.md)|
