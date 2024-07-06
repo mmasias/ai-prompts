@@ -37,7 +37,7 @@ Estudio de cómo diferentes culturas adoptan y adaptan la IA||Informa sobre vari
 Implicaciones de la IA para la evolución humana||Ayuda a diseñar IA que preserve y respete la diversidad cultural
 |<hr/>|<hr/>|<hr>|
 |Desarrollo de procesamiento del lenguaje natural|**Lingüística**|Mejora los modelos de procesamiento del lenguaje natural|
-Impacto de la IA en la evolución del lenguaje||Aporta comprensión de estructuras lingüísticas para mejores traducciones
+[Impacto de la IA en la evolución del lenguaje](/documentos/casosDeUso/influenciaLLMsLenguaje.md)||Aporta comprensión de estructuras lingüísticas para mejores traducciones
 Traducción automática y sus implicaciones culturales||Influye en el desarrollo de IA capaz de manejar matices del lenguaje
 |<hr/>|<hr/>|<hr>|
 |Análisis del desarrollo histórico de la IA|**Historia**|Proporciona lecciones del pasado para el desarrollo ético de IA|
