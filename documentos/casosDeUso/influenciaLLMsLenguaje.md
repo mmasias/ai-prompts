@@ -21,15 +21,15 @@ Examen escrito de DSI, sin ordenadores ni dispositivos móviles
 
 <div align=center>
 
-![](/images/examenEnConclusion001.png)
+![](/documentos/imagenes/examenEnConclusion001.png)
 
 ---
 
-![](/images/examenEnConclusion002.png)
+![](/documentos/imagenes/examenEnConclusion002.png)
 
 ---
 
-![](/images/examenEnConclusion003.png)
+![](/documentos/imagenes/examenEnConclusion003.png)
 
 
 </div>
