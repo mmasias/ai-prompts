@@ -23,31 +23,31 @@ Entendido. Aquí tienes la tabla con la parte inferior formateada de la misma ma
 |Impacto de la IA en la estructura social y laboral| **Sociología** |Informa sobre impactos sociales para un diseño de IA más inclusivo|
 Cambios en las interacciones sociales debido a la IA||Ayuda a anticipar y mitigar desigualdades potenciales
 Desigualdades potenciales creadas o exacerbadas por la IA||Proporciona insights para IA en análisis de redes sociales
-|<hr/>|<hr/>|<hr>|
+||||
 |Cuestiones éticas en el uso y aplicación de la IA|**Filosofía**| Guía el desarrollo de IA ética y responsable|
 Implicaciones para el concepto de conciencia e inteligencia||Influye en la definición de inteligencia y conciencia para IA
 [Debates sobre el libre albedrío](https://openreview.net/pdf?id=W3VsHuga3j) y determinismo en sistemas de IA||Aporta marcos para abordar dilemas morales en IA
-|<hr/>|<hr/>|<hr>|
+||||
 |Efectos de la IA en el comportamiento y cognición humana|**Psicología**|Mejora el diseño de interfaces IA-humano más intuitivas|
 Desarrollo de interfaces hombre-máquina más intuitivas||Aporta modelos de cognición para sistemas de IA más naturales
 Aplicaciones de IA en terapia y diagnóstico psicológico||Influye en el desarrollo de IA para apoyo en salud mental
-|<hr/>|<hr/>|<hr>|
+||||
 |Cambios culturales debido a la integración de IA en la sociedad|**Antropología**|Contribuye a crear IA culturalmente sensible y adaptable|
 Estudio de cómo diferentes culturas adoptan y adaptan la IA||Informa sobre variabilidad cultural en la interacción con IA
 Implicaciones de la IA para la evolución humana||Ayuda a diseñar IA que preserve y respete la diversidad cultural
-|<hr/>|<hr/>|<hr>|
+||||
 |Desarrollo de procesamiento del lenguaje natural|**Lingüística**|Mejora los modelos de procesamiento del lenguaje natural|
 [Impacto de la IA en la evolución del lenguaje](/documentos/casosDeUso/influenciaLLMsLenguaje.md)||Aporta comprensión de estructuras lingüísticas para mejores traducciones
 Traducción automática y sus implicaciones culturales||Influye en el desarrollo de IA capaz de manejar matices del lenguaje
-|<hr/>|<hr/>|<hr>|
+||||
 |Análisis del desarrollo histórico de la IA|**Historia**|Proporciona lecciones del pasado para el desarrollo ético de IA|
 Uso de IA para investigación histórica y arqueológica||Informa sobre la evolución tecnológica para prever tendencias
 Preservación digital del patrimonio cultural||Ayuda a crear IA para preservación y análisis histórico
-|<hr/>|<hr/>|<hr>|
+||||
 |IA en la creación artística (música, pintura, literatura)|**Artes**|Inspira nuevas formas de creatividad en IA generativa|
 Nuevas formas de expresión artística facilitadas por IA||Aporta perspectivas estéticas para diseño de interfaces IA
 Debates sobre creatividad y autoría en obras generadas por IA||Influye en el desarrollo de IA para análisis y creación artística
-|<hr/>|<hr/>|<hr>|
+||||
 |Desarrollo de marcos éticos para el uso de IA|**Ética**|Establece principios para el desarrollo responsable de IA|
 Responsabilidad y transparencia en sistemas de IA||Guía la creación de marcos regulatorios para IA
 [Dilemas éticos](/documentos/casosDeUso/dilemaEtico.md) en la toma de decisiones automatizada||Influye en el diseño de sistemas de toma de decisiones éticas en IA
