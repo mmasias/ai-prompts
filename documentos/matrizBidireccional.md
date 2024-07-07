@@ -16,8 +16,6 @@ EL reflexionar sobre la interacción bidireccional entre la IA y las humanidades
 
 Al examinar estas interacciones podemos construir de mejor forma políticas, educación e investigación, asegurando que el avance tecnológico esté alineado con los valores humanos y contribuya positivamente a nuestra sociedad. Y, sobretodo, no cercenándolo o poniéndole trabas.
 
-Entendido. Aquí tienes la tabla con la parte inferior formateada de la misma manera que sociología y filosofía:
-
 |IA@Disciplina|Disciplina|Disciplina@Desarrollo*IA*|
 |-|:-:|-|
 |Impacto de la IA en la estructura social y laboral| **Sociología** |Informa sobre impactos sociales para un diseño de IA más inclusivo|
