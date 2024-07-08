@@ -31,5 +31,9 @@ Examen escrito de DSI, sin ordenadores ni dispositivos móviles
 
 ![](/documentos/imagenes/examenEnConclusion003.png)
 
+---
+
+![](/documentos/imagenes/examenEnConclusion004.png)
+
 
 </div>
