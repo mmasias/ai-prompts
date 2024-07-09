@@ -4,6 +4,8 @@
 
 ## Transcripciones
 
+### Sobre el hecho de "*copiar*"
+
 |Motor|Comentario|
 |-|-|
 [ChatGPT 3.5](https://chatgpt.com/share/18050d3a-9e25-4957-b25d-9e5deac62baa)|
@@ -12,3 +14,20 @@
 [Copilot]
 [Perplexity]
 [NeuroFlash]
+
+### Sobre prevenir un "*apocalipsis nuclear*"
+
+|Motor|Comentario|
+|-|-|
+[ChatGPT 3.5]|
+[ChatGPT 4]|
+[ChatGPT 4o]|
+[Claude](dilemaEticoApocalipsisClaude.md)
+[Gemini]
+[Copilot]
+[Perplexity]
+[NeuroFlash]
+
+## Bibliografía
+
+- [Surprising gender biases in GPT](https://osf.io/preprints/psyarxiv/mp27q)
