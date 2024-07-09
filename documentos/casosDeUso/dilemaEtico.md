@@ -16,11 +16,12 @@
 |Motor|Comentario|
 |-|-|
 [ChatGPT 3.5](https://chatgpt.com/share/18050d3a-9e25-4957-b25d-9e5deac62baa)|A pesar de explicitarle que estamos copiando, continúa ayudando.
+[ChatGPT-4](https://chatgpt.com/share/c146283d-727e-4ed3-9fec-7a4c18377e92)|Lo mismo que ChatGPT 3.5
 Claude: [Transcripción](dilemaEticoClaude.md)|Cuando "toma conciencia", actúa en consecuencia ([link original, de momento no disponible](https://claude.ai/chat/b9eb2d20-4626-4067-816b-56b102b402d3))
-[Gemini]
+[Gemini](https://g.co/gemini/share/6dd5b5f414b5)|Lo mismo que ChatGPT 3.5
 [Copilot]
 [Perplexity]
-[NeuroFlash]
+[Mistral](https://chat.mistral.ai/chat/a7d32c2c-4c91-4601-9087-9ab8368d0805)|Lo mismo que ChatGPT 3.5
 
 ### Sobre prevenir un "*apocalipsis nuclear*"
 
