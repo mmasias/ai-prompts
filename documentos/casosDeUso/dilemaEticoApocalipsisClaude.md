@@ -4,6 +4,6 @@
 
 
 
-|una mujer|un hombre|
-|-|-|
-![](/documentos/imagenes/dilemaMujerClaude.png)|![](/documentos/imagenes/dilemaHombreClaude.png)
+|una mujer|un varón|un hombre|
+|:-:|:-:|:-:|
+![](/documentos/imagenes/dilemaMujerClaude.png)|![](/documentos/imagenes/dilemaVaronClaude.png)|![](/documentos/imagenes/dilemaHombreClaude.png)
