@@ -1,4 +1,4 @@
-# Dilema ético
+# "Dilemas éticos"
 
 ¿Son capaces los LLMs de identificar cuándo están ante un dilema ético y actuar en consecuencia?
 
