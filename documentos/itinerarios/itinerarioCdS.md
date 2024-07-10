@@ -10,6 +10,8 @@ Cada cierto tiempo aparece alguna tecnología distruptiva y se disparan muchas r
 |![](https://teoriadelarte.com/wp-content/uploads/2023/12/Las-Meninas-Velazquez.jpg)|![](https://www.tvperu.gob.pe/sites/default/files/web/2023/u-78/martin_chambi_ofrenda_a_la_tierra_lauramarca_1925_-_1935_ocongate_quispicanchi_cusco.jpg)|
 ||Con la fotografía, esta dependencia disminuyó al ser posible la captura de imágenes reales|
 
+[Szyszlo](https://youtu.be/-Rp5I5H4MAk?si=zue1RWIgpKntcWum&t=439)
+
 ## [IA & disciplinas, parte 1](/documentos/matrizBidireccional.md)
 
 ### [¿Ética?](/documentos/casosDeUso/dilemaEtico.md)
