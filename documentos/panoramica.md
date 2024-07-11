@@ -10,11 +10,28 @@
 ## Primera división
 
 <div align=center>
-<table border=1>
+<table border=1 width=100%>
 <tr>
 <td valign=top width=25%>
 
 ### Texto a texto
+
+</td><td valign=top width=25%>
+
+### Texto a imágenes
+
+</td><td valign=top width=25%>
+
+### Texto a audio/voz/música
+
+</td><td valign=top width=25%>
+
+### Texto a vídeos
+
+</td>
+</tr>
+<tr>
+<td valign=top width=25%>
 
 - [ChatGPT](https://chat.openai.com/)
 - [Claude](https://claude.ai/chats)
@@ -23,8 +40,6 @@
 - [Huggingface](https://huggingface.co/chat)
 
 </td><td valign=top width=25%>
-
-### Texto a imágenes
 
 - [Dall-e](https://openai.com/dall-e-3)
 - [MS Designer](https://designer.microsoft.com/)   
@@ -35,8 +50,6 @@
 
 </td><td valign=top width=25%>
 
-### Texto a audio/voz/música
-
 - [Moshi](https://www.moshi.chat/?queue_id=talktomoshi)
 - [Mubert](https://mubert.com/)
 - [Moises](https://moises.ai/)
@@ -45,8 +58,6 @@
 - [Suno](https://app.suno.ai/create/)
 
 </td><td valign=top width=25%>
-
-### Texto a vídeos
 
 - [Gen-3 Alpha](https://app.runwayml.com/login)
 - [CapCut](https://www.capcut.com/)
