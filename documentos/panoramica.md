@@ -10,7 +10,7 @@
 ## Primera división
 
 <div align=center>
-<table>
+<table border=0>
 
 <tr>
 <td valign=top width=25%>
@@ -49,6 +49,7 @@
 
 |Texto a vídeos
 |-
+[Imagine Art](https://www.imagine.art/) [📽️](https://www.youtube.com/watch?v=TLxpfN23fGA&ab_channel=hellolaco)
 [Gen-3 Alpha](https://app.runwayml.com/login)
 [CapCut](https://www.capcut.com/)
 [Sora](https://openai.com/sora) [📽️](/documentos/videos/soraAI.mp4)
