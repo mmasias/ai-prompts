@@ -10,62 +10,52 @@
 ## Primera división
 
 <div align=center>
-<table border=1 width=100%>
+<table>
+
 <tr>
 <td valign=top width=25%>
 
-### Texto a texto
+|Texto a texto|
+|-|
+[ChatGPT](https://chat.openai.com/)
+[Claude](https://claude.ai/chats)
+[Gemini](https://gemini.google.com/app)
+[Copilot](https://copilot.microsoft.com)
+[Huggingface](https://huggingface.co/chat)
 
 </td><td valign=top width=25%>
 
-### Texto a imágenes
+|Texto a imágenes
+|-|
+[Dall-e](https://openai.com/dall-e-3)
+[MS Designer](https://designer.microsoft.com/)   
+[BlueWillow](https://www.bluewillow.ai/)
+[VisualChatGPT](https://stablediffusionweb.com/Visual-ChatGPT#demo)  
+[Ideogram.ai](https://ideogram.ai/)
+[MidJourney](https://docs.midjourney.com/docs/prompts)  
 
 </td><td valign=top width=25%>
 
-### Texto a audio/voz/música
+|Texto a audio/voz/música
+|-|
+[Moshi](https://www.moshi.chat/?queue_id=talktomoshi)
+[Mubert](https://mubert.com/)
+[Moises](https://moises.ai/)
+[StableAudio](https://www.stableaudio.com/)
+[MusicGen](https://huggingface.co/spaces/facebook/MusicGen)  [(*Repo*)](https://github.com/facebookresearch/audiocraft)        
+[Suno](https://app.suno.ai/create/)
 
 </td><td valign=top width=25%>
 
-### Texto a vídeos
-
-</td>
-</tr>
-<tr>
-<td valign=top width=25%>
-
-- [ChatGPT](https://chat.openai.com/)
-- [Claude](https://claude.ai/chats)
-- [Gemini](https://gemini.google.com/app)
-- [Copilot](https://copilot.microsoft.com)
-- [Huggingface](https://huggingface.co/chat)
-
-</td><td valign=top width=25%>
-
-- [Dall-e](https://openai.com/dall-e-3)
-- [MS Designer](https://designer.microsoft.com/)   
-- [BlueWillow](https://www.bluewillow.ai/)
-- [VisualChatGPT](https://stablediffusionweb.com/Visual-ChatGPT#demo)  
-- [Ideogram.ai](https://ideogram.ai/)
-- [MidJourney](https://docs.midjourney.com/docs/prompts)  
-
-</td><td valign=top width=25%>
-
-- [Moshi](https://www.moshi.chat/?queue_id=talktomoshi)
-- [Mubert](https://mubert.com/)
-- [Moises](https://moises.ai/)
-- [StableAudio](https://www.stableaudio.com/)
-- [MusicGen](https://huggingface.co/spaces/facebook/MusicGen)  [(*Repo*)](https://github.com/facebookresearch/audiocraft)        
-- [Suno](https://app.suno.ai/create/)
-
-</td><td valign=top width=25%>
-
-- [Gen-3 Alpha](https://app.runwayml.com/login)
-- [CapCut](https://www.capcut.com/)
-- [Sora](https://openai.com/sora) [📽️](/documentos/videos/soraAI.mp4)
-- [heyGen](https://www.heygen.com/) [📽️](https://app.heygen.com/share/813aa590238a42f8af238550a271b195)
-- [Pika](https://pika.art/home) [📽️](/documentos/videos/pika.mp4)
-- [haiper.ai](https://haiper.ai/) [📽️](https://haiper.ai/creation/6678667a036a2e93ba252eff)
-- [Luma](https://lumalabs.ai/) [📽️](https://lumalabs.ai/dream-machine/creations/00e89855-b8de-45ac-aad0-01abdd343465)
+|Texto a vídeos
+|-
+[Gen-3 Alpha](https://app.runwayml.com/login)
+[CapCut](https://www.capcut.com/)
+[Sora](https://openai.com/sora) [📽️](/documentos/videos/soraAI.mp4)
+[heyGen](https://www.heygen.com/) [📽️](https://app.heygen.com/share/813aa590238a42f8af238550a271b195)
+[Pika](https://pika.art/home) [📽️](/documentos/videos/pika.mp4)
+[haiper.ai](https://haiper.ai/) [📽️](https://haiper.ai/creation/6678667a036a2e93ba252eff)
+[Luma](https://lumalabs.ai/) [📽️](https://lumalabs.ai/dream-machine/creations/00e89855-b8de-45ac-aad0-01abdd343465)
 
 </td>
 </tr>
