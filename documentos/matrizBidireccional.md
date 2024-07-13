@@ -19,7 +19,7 @@ Al examinar estas interacciones podemos construir de mejor forma políticas, edu
 |IA@Disciplina|Disciplina|Disciplina@Desarrollo*IA*|
 |-|:-:|-|
 |Impacto de la IA en la estructura social y laboral| **[Sociología](sociologia.md)** |Informa sobre impactos sociales para un diseño de IA más inclusivo|
-Cambios en las interacciones sociales debido a la IA||Ayuda a anticipar y mitigar desigualdades potenciales
+Aparición o incremento de desigualdades debido a la IA||Ayuda a anticipar y mitigar desigualdades potenciales
 Desigualdades potenciales creadas o exacerbadas por la IA||Proporciona insights para IA en análisis de redes sociales
 ||||
 |Cuestiones éticas en el uso y aplicación de la IA|**Filosofía**| Guía el desarrollo de IA ética y responsable|
