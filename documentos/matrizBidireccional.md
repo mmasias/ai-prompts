@@ -34,7 +34,7 @@ Aplicaciones de IA en terapia y diagnóstico psicológico||Influye en el desarro
 Estudio de cómo diferentes culturas adoptan y adaptan la IA||Informa sobre variabilidad cultural en la interacción con IA
 Implicaciones de la IA para la evolución humana||Ayuda a diseñar IA que preserve y respete la diversidad cultural
 ||||
-|Desarrollo de procesamiento del lenguaje natural|**Lingüística**|Mejora los modelos de procesamiento del lenguaje natural|
+|Desarrollo de procesamiento del lenguaje natural|**[Lingüística](linguistica.md)**|Mejora los modelos de procesamiento del lenguaje natural|
 [Impacto de la IA en la evolución del lenguaje](/documentos/casosDeUso/influenciaLLMsLenguaje.md)||Aporta comprensión de estructuras lingüísticas para mejores traducciones
 Traducción automática y sus implicaciones culturales||Influye en el desarrollo de IA capaz de manejar matices del lenguaje
 ||||
