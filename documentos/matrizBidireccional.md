@@ -20,7 +20,7 @@ Al examinar estas interacciones podemos construir de mejor forma políticas, edu
 |-|:-:|-|
 |Impacto de la IA en la estructura social y laboral| **[Sociología](sociologia.md)** |Informa sobre impactos sociales para un diseño de IA más inclusivo|
 Aparición o incremento de desigualdades debido a la IA||Ayuda a anticipar y mitigar desigualdades potenciales
-Desigualdades potenciales creadas o exacerbadas por la IA||Proporciona insights para IA en análisis de redes sociales
+Dinámicas de poder alteradas o exacerbadas por la IA||Promueve la equidad en la era de la IA
 ||||
 |Cuestiones éticas en el uso y aplicación de la IA|**Filosofía**| Guía el desarrollo de IA ética y responsable|
 Implicaciones para el concepto de conciencia e inteligencia||Influye en la definición de inteligencia y conciencia para IA
