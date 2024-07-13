@@ -26,7 +26,7 @@ Dinámicas de poder alteradas o exacerbadas por la IA||Promueve la equidad en la
 Implicaciones para el concepto de conciencia e inteligencia||Influye en la definición de inteligencia y conciencia para IA
 [Debates sobre el libre albedrío](https://openreview.net/pdf?id=W3VsHuga3j) y determinismo en sistemas de IA||Aporta marcos para abordar dilemas morales en IA
 ||||
-|Efectos de la IA en el comportamiento y cognición humana|**Psicología**|Mejora el diseño de interfaces IA-humano más intuitivas|
+|Efectos de la IA en el comportamiento y cognición humana|**[Psicología](psicologia.md)**|Mejora el diseño de interfaces IA-humano más intuitivas|
 Desarrollo de interfaces hombre-máquina más intuitivas||Aporta modelos de cognición para sistemas de IA más naturales
 Aplicaciones de IA en terapia y diagnóstico psicológico||Influye en el desarrollo de IA para apoyo en salud mental
 ||||

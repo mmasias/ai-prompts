@@ -1,6 +1,6 @@
-# @Filosofia
+# @Filosofía
 
-| Punto (Impacto de IA) | Qué | Cómo | Manifestación concreta | Acción concreta | Cómo | Qué | Punto (Contribución de Filosofía) |
+|Impacto de la IA | Qué | Cómo | Manifestación concreta | Acción concreta | Cómo | Qué | Contribución |
 |------------------------|-----|------|------------------------|------------------|------|-----|----------------------------------|
 | Cuestiones éticas en el uso y aplicación de la IA | Surgimiento de nuevos dilemas morales | Implementación de IA en toma de decisiones críticas | Debates sobre responsabilidad en accidentes de vehículos autónomos | Desarrollar marcos éticos para la toma de decisiones en IA | Analizar escenarios éticos en situaciones de riesgo | Proponer principios éticos para la programación de vehículos autónomos | Establece fundamentos éticos para el desarrollo de IA |
 | | Redefinición de conceptos éticos tradicionales | Desarrollo de IA capaz de tomar decisiones morales | Cuestionamientos sobre la capacidad de la IA para ser verdaderamente ética | Realizar experimentos mentales sobre ética en IA | Examinar las implicaciones de diferentes teorías éticas en IA | Desarrollar modelos de razonamiento ético para IA | |
