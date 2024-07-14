@@ -30,6 +30,7 @@ El enfoque debe ser mantener la conciencia y decisión humana en el corazón de 
 
 - [Sesgo](etica.sesgo.md)
 - [Cortesía](/documentos/cortesia.md)
+- [Dilemas éticos](/documentos/casosDeUso/dilemaEtico.md)
 - [A new study reported that AI could be more persuasive than human persuaders.](https://www.psychologytoday.com/us/blog/emotional-behavior-behavioral-emotions/202403/ai-is-becoming-more-persuasive-than-humans)
 - [Entrevista a la presidenta de la Federal Trade Commission (FTC), Lina Khan, sobre el papel de su agencia y del gobierno en el actual panorama de la inteligencia artificial](https://www.youtube.com/watch?v=3mh8Z5pcJpg)
 
