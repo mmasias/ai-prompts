@@ -16,3 +16,8 @@
 [Railway mania](https://es.wikipedia.org/wiki/Railway_Mania)|Denominación historiográfica de una burbuja especulativa relacionada con los ferrocarriles que tuvo lugar en Gran Bretaña en la década de 1840.
 [Globomanía](https://es.wikipedia.org/wiki/Globoman%C3%ADa)|Fuerte interés público o moda por los globos que se originó en Francia a finales del siglo xviii y continuó en el siglo xix, durante la llegada de los vuelos en globo.
 [Canalmanía](https://es.wikipedia.org/wiki/Canalman%C3%ADa)|Canalmanía es la denominación de una burbuja económica de comienzos de los años noventa del siglo XVIII, relacionada con los proyectos de canales que se promovían. Terminó provocando una crisis en Inglaterra y Gales que se prolongó hasta la segunda década del siglo XIX.
+
+## Algunos ya se lo plantean
+
+- [GEN AI: TOO MUCH SPEND, TOO LITTLE BENEFIT?](https://www.goldmansachs.com/intelligence/pages/gs-research/gen-ai-too-much-spend-too-little-benefit/report.pdf)
+- [Reality Check: Generative AI’s Impact May Be Overstated, For Now](https://www.forbes.com/sites/joemckendrick/2024/07/11/reality-check-generative-ais-impact-may-be-overstated-right-now/)
