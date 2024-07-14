@@ -19,5 +19,7 @@
 
 ## Algunos ya se lo plantean
 
-- [GEN AI: TOO MUCH SPEND, TOO LITTLE BENEFIT?](https://www.goldmansachs.com/intelligence/pages/gs-research/gen-ai-too-much-spend-too-little-benefit/report.pdf)
-- [Reality Check: Generative AI’s Impact May Be Overstated, For Now](https://www.forbes.com/sites/joemckendrick/2024/07/11/reality-check-generative-ais-impact-may-be-overstated-right-now/)
+|||
+|-|-|
+[GEN AI: TOO MUCH SPEND, TOO LITTLE BENEFIT?](https://www.goldmansachs.com/intelligence/pages/gs-research/gen-ai-too-much-spend-too-little-benefit/report.pdf)|AI technology is exceptionally expensive, and to justify those costs, the technology must be able to solve complex problems, which it isn’t designed to do. - Jim Covello
+[Reality Check: Generative AI’s Impact May Be Overstated, For Now](https://www.forbes.com/sites/joemckendrick/2024/07/11/reality-check-generative-ais-impact-may-be-overstated-right-now/)|“Given the focus and architecture of generative AI technology today... truly transformative changes won’t happen quickly and few — if any — will likely occur within the next 10 years,” according to Daron Acemoglu, professor at MIT, in a new reality check published by Goldman Sachs.
