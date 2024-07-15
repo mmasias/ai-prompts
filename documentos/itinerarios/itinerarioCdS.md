@@ -76,12 +76,12 @@ Existe un impacto en diversas disciplinas que hemos de saber reconocer y dimensi
 
 | Disciplina | IA@Disciplina |
 |:----------:|---------------|
-| **[Sociología](sociologia.md)** | Impacto de la IA en la estructura social y laboral |
+| **[Sociología](/documentos/sociologia.md)** | Impacto de la IA en la estructura social y laboral |
 | | Aparición o incremento de desigualdades debido a la IA |
 | | Dinámicas de poder alteradas o exacerbadas por la IA |
-| **[Filosofía](filosofia.md)** | [Debates sobre el libre albedrío](https://openreview.net/pdf?id=W3VsHuga3j) y determinismo en sistemas de IA |
-| **[Lingüística](linguistica.md)** | [Impacto de la IA en la evolución del lenguaje](/documentos/casosDeUso/influenciaLLMsLenguaje.md) |
-| **[Psicología](psicologia.md)** | Efectos de la IA en el comportamiento y cognición humana |
+| **[Filosofía](/documentos/filosofia.md)** | [Debates sobre el libre albedrío](https://openreview.net/pdf?id=W3VsHuga3j) y determinismo en sistemas de IA |
+| **[Lingüística](/documentos/linguistica.md)** | [Impacto de la IA en la evolución del lenguaje](/documentos/casosDeUso/influenciaLLMsLenguaje.md) |
+| **[Psicología](/documentos/psicologia.md)** | Efectos de la IA en el comportamiento y cognición humana |
 | **Antropología** | Cambios culturales debido a la integración de IA en la sociedad |
 | **Historia** | Análisis del desarrollo histórico de la IA |
 | **Artes** | IA en la creación artística (música, pintura, literatura) |
