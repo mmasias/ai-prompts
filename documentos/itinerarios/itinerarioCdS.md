@@ -22,8 +22,8 @@ Con la aparición de la técnica, este proceso se factoriza: técnica + interpre
 
 |||
 |-|-|
-|Duda|[🎭🎨 ¿Es el arte una característica humana?](https://twitter.com/Culture_Crit/status/1689685381283815435)|
-||[Can't help myself](https://historia-arte.com/obras/can-t-help-myself)
+|Duda|[¿Es el arte una característica humana?](https://twitter.com/Culture_Crit/status/1689685381283815435)|
+||[Can't help myself](https://historia-arte.com/obras/can-t-help-myself) / [📽️](https://www.youtube.com/watch?v=4ooVr6RZ_nw)
 Reacciones|[Sorpresa, miedo, negación](https://docs.google.com/presentation/d/1UscAlHfjGgg4pPzz_p0V1eX18R74DRlvTtMXsbLVtI0/edit?usp=sharing) / [PessimistArchive](https://pessimistsarchive.org/)
 ||[Ironía](/documentos/imagenes/publicidadGPT.jpeg)
 Recurrencia|[Esto ya lo he visto](olvidarPasado.md) 
@@ -54,7 +54,23 @@ Inserción|[¿A la fuerza?](/documentos/imagenes/modelosUML/5mas5mas5.svg)
 
 </div>
 
+### Componentes
+
+<div align=center>
+
+|Principales
+|:-:|
+|![](/documentos/imagenes/modelosUML/componentes.svg)|
+<u>**Secundarios:**</u>
+Infraestructura
+Curado de datos
+Seguridad, privacidad, [ética, sesgo](/documentos/etica@AI.md)
+
+</div>
+
 ## ¿Para qué?
+
+
 
 ### [¿Ética?](/documentos/casosDeUso/dilemaEtico.md)
 
