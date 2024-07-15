@@ -56,7 +56,7 @@ Aprender una habilidad que en un futuro será considerada básica
 
 ## ¿Cómo?
 
-- Con lo que ya sabemos de [Prompts](/prompts/README.md)
+- Con lo que ya sabemos de [Prompts](/documentos/prompts/README.md)
 - [Técnicas y conceptos](tecnicasResumen.md)
   - [Prompt sin entrenamiento previo](0ShotPrompting.md)
   - [x-Shot prompting](xShotPrompting.md)
