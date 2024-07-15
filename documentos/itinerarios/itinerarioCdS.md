@@ -16,7 +16,7 @@ Con la aparición de la técnica, este proceso se factoriza: técnica + interpre
 
 ## ¿Por qué?
 
-### Cada vez que aparece una *tecnología* distruptiva
+Cada vez que aparece una *tecnología* disruptiva
 
 <div align=center>
 
