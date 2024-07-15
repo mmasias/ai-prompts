@@ -73,7 +73,7 @@ Inserción|[¿A la fuerza?](/documentos/imagenes/modelosUML/5mas5mas5.svg)
 <u>**Secundarios:**</u>
 Infraestructura
 Curado de datos
-Seguridad, privacidad, [ética, sesgo](/documentos/etica@AI.md)
+Seguridad, privacidad, [ética, sesgo](/documentos/etica.sesgo.md)
 
 </div>
 
