@@ -46,7 +46,11 @@ Inserción|[¿A la fuerza?](/documentos/imagenes/modelosUML/5mas5mas5.svg)
 |-|-|-|
 |**Modelo de lenguaje a gran escala**|Modelos avanzados de aprendizaje automático diseñados para procesar y generar texto, entrenados en grandes cantidades de datos textuales de modo que son capaces de entender y producir lenguaje similar al humano.|Autocompletar|
 
-*Los LLMs generan nuevo contenido, convirtiéndolos en una forma de "IA generativa".*
+|*Los LLMs generan nuevo contenido, convirtiéndolos en una forma de "IA generativa".*
+|-|
+|![](/documentos/imagenes/timelineLLMs.png)
+
+> Pero ya un año antes (el 2018) [Google presentaba esto!!!](https://www.youtube.com/watch?v=l9BTMWOupGM&t=20s)
 
 </div>
 
