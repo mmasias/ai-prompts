@@ -4,7 +4,7 @@
 
 | Qué | Cómo | Manifestación concreta | Acción concreta | Cómo | Qué |
 |-|-|-|-|-|-|
-|Alteración de las relaciones de poder entre individuos, organizaciones y gobiernos|Facilitación de sistemas de monitoreo masivo|Vigilancia y control| Estudiar el impacto de sistemas de vigilancia basados en IA en comunidades específicas | Evaluar implicaciones éticas | [Desarrollar marcos regulatorios](legislacionAI.md) |
+|Alteración de las relaciones de poder entre individuos, organizaciones y gobiernos|Facilitación de sistemas de monitoreo masivo [🇵🇪](https://www.infobae.com/peru/2024/01/19/mtpe-el-37-de-las-empresas-peruanas-usa-la-inteligencia-artificial/) [🇪🇸](https://web.archive.org/web/20240208102854/https://www.aena.es/es/pasajeros/equipajes-controles/reconocimiento-facial-aeropuertos.html)|Vigilancia y control| Estudiar el impacto de sistemas de vigilancia basados en IA en comunidades específicas | Evaluar implicaciones éticas | [Desarrollar marcos regulatorios](legislacionAI.md) |
 ||Algoritmos de IA en [redes sociales](https://www.slate.com/articles/technology/cover_story/2016/01/how_facebook_s_news_feed_algorithm_works.html) y motores de búsqueda|Influencia en la opinión pública| Realizar experimentos sociales sobre la influencia de algoritmos en la formación de opiniones | Estudiar impacto en el discurso público | Crear pautas para la transparencia algorítmica |
 ||Mayor dependencia de sistemas de IA para [toma de decisiones](https://digitalfuturesociety.com/es/podcasts/capitulo-3-bosco-y-el-bono-para-pagar-la-luz/)|Autonomía vs. dependencia| Investigar patrones de toma de decisiones en entornos altamente automatizados | Investigar efectos en la toma de decisiones | Proponer modelos de gobernanza de IA |
 

@@ -91,12 +91,14 @@ Existe un impacto en diversas disciplinas que hemos de **saber reconocer y dimen
 
 ## ¿Cómo?
 
-# Aspectos de la interacción entre IA y disciplinas humanistas
+### Aspectos de la interacción entre IA y disciplinas humanistas
 
 | Reciprocidad | Transformación mutua | Nuevos campos de estudio | Desafíos y oportunidades | Impacto cultural y social | Mejora mutua |
 |-|-|-|-|-|-|
 | Cada disciplina no solo se ve afectada por la IA, sino que también influye significativamente en su desarrollo. | Tanto las disciplinas humanistas como la IA están evolucionando como resultado de esta interacción.  | Ej.: ética de la IA, la antropología digital, o la creación artística asistida por IA. | Que surgen de esta interacción. | Que las disciplinas humanistas están ayudando a comprender y abordar. | En muchos casos, vemos cómo la interacción entre la IA y las disciplinas humanistas conduce a mejoras en ambos campos. |
 
+
+#### @Sociología
 
 |IA@Disciplina|Disciplina|Disciplina@Desarrollo*IA*|
 |:-|:-:|-:|
