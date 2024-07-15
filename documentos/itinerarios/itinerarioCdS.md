@@ -70,25 +70,45 @@ Seguridad, privacidad, [ética, sesgo](/documentos/etica@AI.md)
 
 ## ¿Para qué?
 
-Existe un impacto en diversas disciplinas que hemos de saber reconocer y dimensionar
+Existe un impacto en diversas disciplinas que hemos de **saber reconocer y dimensionar**
 
 <div align=center>
 
 | Disciplina | IA@Disciplina |
 |:----------:|---------------|
-| **[Sociología](/documentos/sociologia.md)** | Impacto de la IA en la estructura social y laboral |
-| | Aparición o incremento de desigualdades debido a la IA |
-| | Dinámicas de poder alteradas o exacerbadas por la IA |
-| **[Filosofía](/documentos/filosofia.md)** | [Debates sobre el libre albedrío](https://openreview.net/pdf?id=W3VsHuga3j) y determinismo en sistemas de IA |
-| **[Lingüística](/documentos/linguistica.md)** | [Impacto de la IA en la evolución del lenguaje](/documentos/casosDeUso/influenciaLLMsLenguaje.md) |
-| **[Psicología](/documentos/psicologia.md)** | Efectos de la IA en el comportamiento y cognición humana |
+| **Lingüística** | [Impacto de la IA en la evolución del lenguaje](/documentos/casosDeUso/influenciaLLMsLenguaje.md) |
+| **Ética** | [Dilemas éticos](/documentos/casosDeUso/dilemaEtico.md) en la toma de decisiones automatizada |
+| **Filosofía** | [Debates sobre el libre albedrío](https://openreview.net/pdf?id=W3VsHuga3j) y determinismo en sistemas de IA |
+| **Psicología** | Efectos de la IA en el comportamiento y cognición humana |
 | **Antropología** | Cambios culturales debido a la integración de IA en la sociedad |
 | **Historia** | Análisis del desarrollo histórico de la IA |
 | **Artes** | IA en la creación artística (música, pintura, literatura) |
-| **Ética** | [Dilemas éticos](/documentos/casosDeUso/dilemaEtico.md) en la toma de decisiones automatizada |
+| **Sociología** | Dinámicas de poder alteradas o exacerbadas por la IA |
+| | Aparición o incremento de desigualdades debido a la IA |
+| | Impacto de la IA en la estructura social y laboral |
 
 </div>
 
 ## ¿Cómo?
 
-## [IA & disciplinas, parte 2](/documentos/matrizBidireccional.md)
+# Aspectos de la interacción entre IA y disciplinas humanistas
+
+| Reciprocidad | Transformación mutua | Nuevos campos de estudio | Desafíos y oportunidades | Impacto cultural y social | Mejora mutua |
+|-|-|-|-|-|-|
+| Cada disciplina no solo se ve afectada por la IA, sino que también influye significativamente en su desarrollo. Esta reciprocidad subraya la importancia de un enfoque interdisciplinario en el avance de la IA. | Tanto las disciplinas humanistas como la IA están evolucionando como resultado de esta interacción. Por ejemplo, la ética está desarrollando nuevos marcos para abordar los dilemas planteados por la IA, mientras que la IA está incorporando principios éticos en su diseño. | La intersección entre la IA y estas disciplinas está dando lugar a nuevos campos de investigación y práctica, como la ética de la IA, la antropología digital, o la creación artística asistida por IA. | Que surgen de esta interacción. | Se evidencia cómo la IA no es solo una cuestión tecnológica, sino que tiene profundas implicaciones culturales y sociales que las disciplinas humanistas están ayudando a comprender y abordar. | En muchos casos, vemos cómo la interacción entre la IA y las disciplinas humanistas conduce a mejoras en ambos campos. Por ejemplo, la psicología ayuda a crear interfaces IA-humano más intuitivas, mientras que la IA ofrece nuevas herramientas para la investigación psicológica. |
+
+
+|||
+|-|-|
+|**Reciprocidad**|Cada disciplina no solo se ve afectada por la IA, sino que también influye significativamente en su desarrollo. Esta reciprocidad subraya la importancia de un enfoque interdisciplinario en el avance de la IA.|
+|**Transformación mutua**|Tanto las disciplinas humanistas como la IA están evolucionando como resultado de esta interacción. Por ejemplo, la ética está desarrollando nuevos marcos para abordar los dilemas planteados por la IA, mientras que la IA está incorporando principios éticos en su diseño.|
+|**Nuevos campos de estudio**|La intersección entre la IA y estas disciplinas está dando lugar a nuevos campos de investigación y práctica, como la ética de la IA, la antropología digital, o la creación artística asistida por IA.|
+|**Desafíos y oportunidades**|Que surgen de esta interacción.|
+|**Impacto cultural y social**|Se evidencia cómo la IA no es solo una cuestión tecnológica, sino que tiene profundas implicaciones culturales y sociales que las disciplinas humanistas están ayudando a comprender y abordar.|
+|**Mejora mutua**|En muchos casos, vemos cómo la interacción entre la IA y las disciplinas humanistas conduce a mejoras en ambos campos. Por ejemplo, la psicología ayuda a crear interfaces IA-humano más intuitivas, mientras que la IA ofrece nuevas herramientas para la investigación psicológica.|
+
+|IA@Disciplina|Disciplina|Disciplina@Desarrollo*IA*|
+|-|:-:|-|
+|Dinámicas de poder alteradas o exacerbadas por la IA| **[Sociología](/documentos/sociologia.md)** |Promueve la equidad en la era de la IA
+Aparición o incremento de desigualdades debido a la IA||Ayuda a anticipar y mitigar desigualdades potenciales
+Impacto de la IA en la estructura social y laboral||Informa sobre impactos sociales para un diseño de IA más inclusivo|
