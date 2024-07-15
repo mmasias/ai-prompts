@@ -23,6 +23,7 @@ Con la aparición de la técnica, este proceso se factoriza: técnica + interpre
 |||
 |-|-|
 |Duda|[🎭🎨 ¿Es el arte una característica humana?](https://twitter.com/Culture_Crit/status/1689685381283815435)|
+||[Can't help myself](https://historia-arte.com/obras/can-t-help-myself)
 Reacciones|[Sorpresa, miedo, negación](https://docs.google.com/presentation/d/1UscAlHfjGgg4pPzz_p0V1eX18R74DRlvTtMXsbLVtI0/edit?usp=sharing) / [PessimistArchive](https://pessimistsarchive.org/)
 ¿Ironía?|[😜](/documentos/imagenes/publicidadGPT.jpeg)
 Recurrencia|[Esto ya lo he visto](olvidarPasado.md) / Ocurrió y no lo ví: [14/jun/2022](https://timesofindia.indiatimes.com/business/international-business/full-transcript-google-ai-bots-interview-that-convinced-engineer-it-was-sentient/articleshow/92178185.cms)
