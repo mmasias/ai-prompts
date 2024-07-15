@@ -70,7 +70,9 @@ Seguridad, privacidad, [ética, sesgo](/documentos/etica@AI.md)
 
 ## ¿Para qué?
 
-Existe un impacto en diversas disciplinas
+Existe un impacto en diversas disciplinas que hemos de saber reconocer y dimensionar
+
+<div align=center>
 
 | Disciplina | IA@Disciplina |
 |:----------:|---------------|
@@ -84,6 +86,8 @@ Existe un impacto en diversas disciplinas
 | **Historia** | Análisis del desarrollo histórico de la IA |
 | **Artes** | IA en la creación artística (música, pintura, literatura) |
 | **Ética** | [Dilemas éticos](/documentos/casosDeUso/dilemaEtico.md) en la toma de decisiones automatizada |
+
+</div>
 
 ## ¿Cómo?
 
