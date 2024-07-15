@@ -70,11 +70,20 @@ Seguridad, privacidad, [ética, sesgo](/documentos/etica@AI.md)
 
 ## ¿Para qué?
 
+Existe un impacto en diversas disciplinas
 
-
-### [¿Ética?](/documentos/casosDeUso/dilemaEtico.md)
-
-### [Influencia en el lenguaje](/documentos/casosDeUso/influenciaLLMsLenguaje.md)
+| Disciplina | IA@Disciplina |
+|:----------:|---------------|
+| **[Sociología](sociologia.md)** | Impacto de la IA en la estructura social y laboral |
+| | Aparición o incremento de desigualdades debido a la IA |
+| | Dinámicas de poder alteradas o exacerbadas por la IA |
+| **[Filosofía](filosofia.md)** | [Debates sobre el libre albedrío](https://openreview.net/pdf?id=W3VsHuga3j) y determinismo en sistemas de IA |
+| **[Lingüística](linguistica.md)** | [Impacto de la IA en la evolución del lenguaje](/documentos/casosDeUso/influenciaLLMsLenguaje.md) |
+| **[Psicología](psicologia.md)** | Efectos de la IA en el comportamiento y cognición humana |
+| **Antropología** | Cambios culturales debido a la integración de IA en la sociedad |
+| **Historia** | Análisis del desarrollo histórico de la IA |
+| **Artes** | IA en la creación artística (música, pintura, literatura) |
+| **Ética** | [Dilemas éticos](/documentos/casosDeUso/dilemaEtico.md) en la toma de decisiones automatizada |
 
 ## ¿Cómo?
 
