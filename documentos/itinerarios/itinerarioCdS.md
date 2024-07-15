@@ -1,20 +1,24 @@
 # I·CdS
 
-## ¿Por qué?
+Expresar una idea creativa dependía de la habilidad artística humana, amén de la interpretación personal.
 
-|||
-|-|-|
-|Capturar la realidad o expresar una idea creativa dependía de la habilidad artística humana, amén de la interpretación personal.||
+<div align=center>
+
 |![Meninas](https://teoriadelarte.com/wp-content/uploads/2023/12/Las-Meninas-Velazquez.jpg)|![Chambi](https://www.tvperu.gob.pe/sites/default/files/web/2023/u-78/martin_chambi_ofrenda_a_la_tierra_lauramarca_1925_-_1935_ocongate_quispicanchi_cusco.jpg)|
-||Con la técnica, esta dependencia se reduce|
+|-|-|
+|||
 
-<div>
-
-[Szyszlo](https://youtu.be/-Rp5I5H4MAk?si=zue1RWIgpKntcWum&t=439)
+Con la aparición de la técnica, este proceso se factoriza: técnica + interpretación.
 
 </div>
 
+> **[Fernando de Szyszlo](https://youtu.be/-Rp5I5H4MAk?si=zue1RWIgpKntcWum&t=439)**
+
+## ¿Por qué?
+
 ### Cada vez que aparece una *tecnología* distruptiva
+
+<div align=center>
 
 |||
 |-|-|
@@ -29,7 +33,19 @@ Inserción|[¿A la fuerza?](/documentos/imagenes/modelosUML/5mas5mas5.svg)
 ||Se [entrena](/documentos/entrenamiento.md) 
 || [Se (intenta) regular](/documentos/etica@AI.md)
 
+</div>
+
 ## ¿Qué?
+
+<div align=center>
+
+|LLMs|||
+|-|-|-|
+|**Modelo de lenguaje a gran escala**|Modelos avanzados de aprendizaje automático diseñados para procesar y generar texto, entrenados en grandes cantidades de datos textuales de modo que son capaces de entender y producir lenguaje similar al humano.|Autocompletar|
+
+*Los LLMs generan nuevo contenido, convirtiéndolos en una forma de "IA generativa".*
+
+</div>
 
 ## ¿Para qué?
 
