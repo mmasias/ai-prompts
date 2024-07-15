@@ -33,7 +33,7 @@ Cada vez que aparece una *tecnología* disruptiva
 ||[Can't help myself](https://historia-arte.com/obras/can-t-help-myself) / [📽️](https://www.youtube.com/watch?v=4ooVr6RZ_nw)
 Reacciones|[Sorpresa, miedo, negación](https://docs.google.com/presentation/d/1UscAlHfjGgg4pPzz_p0V1eX18R74DRlvTtMXsbLVtI0/edit?usp=sharing) / [PessimistArchive](https://pessimistsarchive.org/)
 ||[Ironía](/documentos/imagenes/publicidadGPT.jpeg)
-Recurrencia|[Esto ya lo he visto](olvidarPasado.md) 
+Recurrencia|[Esto ya lo he visto](/documentos/olvidarPasado.md) 
 ||Ocurrió y no lo ví: [jun/2022](https://timesofindia.indiatimes.com/business/international-business/full-transcript-google-ai-bots-interview-that-convinced-engineer-it-was-sentient/articleshow/92178185.cms)
 Inserción|[¿A la fuerza?](/documentos/imagenes/modelosUML/5mas5mas5.svg)
 ||"Aparecen" términos nuevos... *FOMO* / *JOMO*, *Nomofobia*, *Infoxicación*, *Cibercondría*
