@@ -44,7 +44,7 @@ Inserción|[¿A la fuerza?](/documentos/imagenes/modelosUML/5mas5mas5.svg)
 
 |LLMs|||
 |-|-|-|
-|**Modelo de lenguaje a gran escala**|Modelos avanzados de aprendizaje automático diseñados para procesar y generar texto, entrenados en grandes cantidades de datos textuales de modo que son capaces de entender y producir lenguaje similar al humano.|Autocompletar|
+|**Modelo de lenguaje a gran escala**|Modelos avanzados de aprendizaje automático diseñados para procesar y generar texto, entrenados en grandes cantidades de datos textuales de modo que son capaces de entender y producir lenguaje similar al humano.|¿Autocompletar?|
 
 |*Los LLMs generan nuevo contenido, convirtiéndolos en una forma de "IA generativa".*
 |-|
@@ -53,6 +53,8 @@ Inserción|[¿A la fuerza?](/documentos/imagenes/modelosUML/5mas5mas5.svg)
 > Pero ya un año antes (el 2018) [Google presentaba esto!!!](https://www.youtube.com/watch?v=l9BTMWOupGM&t=20s)
 
 </div>
+
+***En realidad, lo que es importante entender es que estas herramientas no se limitan en absoluto a copiar, recombinar y pegar, sino que llevan a cabo procesos estadísticos como la inferencia, la correlación o la estadística bayesiana, muy parecidos a los que lleva a cabo nuestro cerebro cuando aprende. Menospreciar al algoritmo y reducirlo a un supuesto papel de «mono estocástico» puede ser un craso error.*** -- [Enrique Dans](https://www.enriquedans.com/2023/08/trabajo-y-algoritmos-generativos.html)
 
 ### Componentes
 
