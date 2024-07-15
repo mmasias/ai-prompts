@@ -2,13 +2,13 @@
 
 ## Transforma estructuras sociales y laborales
 
-|| Qué | Cómo | Manifestación concreta | Acción concreta | Cómo | Qué ||
-|-|-|-|-|-|-|-|-|
-|Transforma estructuras sociales y laborales|Cambios fundamentales en la organización de la sociedad y el mercado laboral|Reemplazo de muchas tareas repetitivas y algunas complejas|Automatización de trabajos| Realizar estudios de campo sobre el impacto de la automatización en diferentes sectores | Analizar impacto social de la automatización | Informar políticas de adaptación laboral ||
-|||Elitización de especialistas en IA|Cambios en la jerarquía laboral| Conducir entrevistas y encuestas a trabajadores en industrias afectadas por la IA | Estudiar nuevas dinámicas laborales | Proponer modelos de organización inclusivos | |
-|||Transformación de sectores como manufactura y comercio minorista|Reorganización de industrias| Crear modelos predictivos de cambios en la estructura laboral | Investigar cambios en sectores clave | Desarrollar estrategias de transición sectorial | |
+| Qué | Cómo | Manifestación concreta | Acción concreta | Cómo | Qué |
+|-|-|-|-|-|-|
+|Cambios fundamentales en la organización de la sociedad y el mercado laboral|Reemplazo de muchas tareas repetitivas y algunas complejas|Automatización de trabajos| Realizar estudios de campo sobre el impacto de la automatización en diferentes sectores | Analizar impacto social de la automatización | Informar políticas de adaptación laboral|
+||Elitización de especialistas en IA|Cambios en la jerarquía laboral| Conducir entrevistas y encuestas a trabajadores en industrias afectadas por la IA | Estudiar nuevas dinámicas laborales | Proponer modelos de organización inclusivos |
+||Transformación de sectores como manufactura y comercio minorista|Reorganización de industrias| Crear modelos predictivos de cambios en la estructura laboral | Investigar cambios en sectores clave | Desarrollar estrategias de transición sectorial |
 
-Contribución >> Guía la transformación laboral ética 
+### Contribución >> Guía la transformación laboral ética 
 
 ## Crea o incrementa desigualdades 
 
