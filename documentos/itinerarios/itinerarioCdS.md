@@ -38,7 +38,7 @@ Recurrencia|[Esto ya lo he visto](/documentos/olvidarPasado.md)
 Inserción|[¿A la fuerza?](/documentos/imagenes/modelosUML/5mas5mas5.svg)
 ||"Aparecen" términos nuevos... *FOMO* / *JOMO*, *Nomofobia*, *Infoxicación*, *Cibercondría*
 ||"Desaparecen" otros: *NoCode / Blockchain / Criptodivisas / Ciberseguridad / otros...* */ [Calidad](calidadAI.md)*
-||Aparecen [🌬️💨](💨.md)
+||Aparecen [🌬️💨](/documentos/💨.md)
 ||[Se analiza su fiabilidad](/documentos/casosDeUso/fiabilidad.md) 
 ||Se estudia, se [entrena](/documentos/entrenamiento.md) 
 || [Se (intenta) regular](/documentos/etica@AI.md)
