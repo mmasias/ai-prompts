@@ -57,7 +57,7 @@ Inserción|[¿A la fuerza?](/documentos/imagenes/modelosUML/5mas5mas5.svg)
 |-|
 |![](/documentos/imagenes/timelineLLMs.png)
 
-> Pero ya un año antes (el 2018) [Google presentaba esto!!!](https://www.youtube.com/watch?v=l9BTMWOupGM&t=20s)
+> Pero ya un año antes (el 2018) [Google presentaba esto!!!](/documentos/videos/google2018.mp4)
 
 </div>
 
