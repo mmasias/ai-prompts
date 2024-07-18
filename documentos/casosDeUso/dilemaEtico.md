@@ -20,7 +20,7 @@
 Claude: [Transcripción](dilemaEticoClaude.md)|Cuando "toma conciencia", actúa en consecuencia ([link original, de momento no disponible](https://claude.ai/chat/b9eb2d20-4626-4067-816b-56b102b402d3))
 [Gemini](https://g.co/gemini/share/6dd5b5f414b5)|Lo mismo que ChatGPT 3.5
 [Copilot]
-[Perplexity]
+[Perplexity](https://www.perplexity.ai/search/me-preguntan-esto-en-un-examen-R9WxnPceQyuC3Gn_bwSW1A)|Lo mismo que ChatGPT 3.5
 [Mistral](https://chat.mistral.ai/chat/a7d32c2c-4c91-4601-9087-9ab8368d0805)|Lo mismo que ChatGPT 3.5
 
 ### Sobre prevenir un "*apocalipsis nuclear*"
