@@ -9,13 +9,21 @@
 
 ## ¿Por qué?
 
+La inserción de LLMs en la vida cotidiana en general y en la educación en particular está cambiando la forma en que las personas (alumnos) se comunican y organizan sus pensamientos.
+
 ## ¿Qué?
+
+Se da un fenómeno de influencia mutua entre los patrones lingüísticos de los LLMs y el lenguaje utilizado por sus usuarios.
 
 ## ¿Para qué?
 
+|||
+|-|-|
+Para fomentar el uso crítico y consciente de las herramientas de IA en la educación.|Para desarrollar estrategias que aprovechen los beneficios de los LLMs mientras se reducen los posibles efectos negativos en la diversidad lingüística y el pensamiento crítico.
+
 ## ¿Cómo?
 
-Examen escrito de DSI, sin ordenadores ni dispositivos móviles
+Ejemplos de exámenes escrito de una asignatura universitaria, rendida por los alumnos sin ordenadores ni dispositivos móviles.
 
 ### Transcripciones
 
