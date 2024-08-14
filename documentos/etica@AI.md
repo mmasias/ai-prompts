@@ -28,7 +28,7 @@ El enfoque debe ser mantener la conciencia y decisión humana en el corazón de 
 
 ## Otros
 
-- [Sesgo](etica.sesgo.md)
+- [Sesgo](etica.sesgo.md) / [Vamos a tener mucha ideología codificada en la inteligencia artificial ](https://www.error500.net/p/vamos-a-tener-mucha-ideologia-codificada)
 - [Cortesía](/documentos/cortesia.md)
 - [Dilemas éticos](/documentos/casosDeUso/dilemaEtico.md)
 - [A new study reported that AI could be more persuasive than human persuaders.](https://www.psychologytoday.com/us/blog/emotional-behavior-behavioral-emotions/202403/ai-is-becoming-more-persuasive-than-humans)
