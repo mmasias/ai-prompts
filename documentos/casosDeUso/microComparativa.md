@@ -11,11 +11,13 @@
 
 ## ¿Qué?
 
-Dado un [texto](https://github.com/mmasias/23-24-DSI/blob/ff88393a680170431b59e733f059441126f13304/temario/01-modelosNegocioInnovacion/analisisDAFO/README.md), pedimos que lo "lea y se entere de su contenido", para a continuación pedirle que nos proponga un ejemplo adicional.
-
 ## ¿Para qué?
 
 ## ¿Cómo?
+
+### 001
+
+Dado un [texto](https://github.com/mmasias/23-24-DSI/blob/ff88393a680170431b59e733f059441126f13304/temario/01-modelosNegocioInnovacion/analisisDAFO/README.md), pedimos que lo "lea y se entere de su contenido", para a continuación pedirle que nos proponga un ejemplo adicional.
 
 |||||
 |-|-|-|-|
@@ -26,3 +28,17 @@ Dado un [texto](https://github.com/mmasias/23-24-DSI/blob/ff88393a680170431b59e7
 |[Copilot](https://copilot.microsoft.com/?q=%C2%BFQu%C3%A9+es+Copilot%3F&showconv=1&filters=+wholepagesharingscenario%3A%22ConversationWholeThread%22&shareId=b035e801-d34b-4dce-be72-99b8b1c7ed4a&shtc=0&shsc=Codex_ConversationMode&form=EX0050&shid=1db4efd4-eb76-4890-a20e-b4d88c53f0a7&shtp=GetUrl&shtk=QW7DoWxpc2lzIERBRk8geSBMaW1pdGFjaW9uZXMgZGVsIExpZW56byBkZSBNb2RlbG8gZGUgTmVnb2Npbw%3D%3D&shdk=QXF1w60gZXN0w6EgdW5hIHJlc3B1ZXN0YSBxdWUgaGUgb2J0ZW5pZG8gY29uIE1pY3Jvc29mdCBDb3BpbG90LCBlbCBwcmltZXIgbW90b3IgZGUgcmVzcHVlc3RhcyBjb24gdGVjbm9sb2fDrWEgZGUgaW50ZWxpZ2VuY2lhIGFydGlmaWNpYWwgZGVsIG11bmRvLiBTZWxlY2Npb25lIGVzdGEgb3BjacOzbiBwYXJhIHZlciBsYSByZXNwdWVzdGEgY29tcGxldGEgbyBwcnXDqWJlbGEgdXN0ZWQgbWlzbW8u&shhk=3oJIGZeJ%2BwGnamy56wQ7r5iopMgvW5Gdd7oxXuZkg%2FE%3D&shth=OBFB.73FF6ADE8CC93B6ED1EDA1CE557E2E09)|🗣️🗣️🗣️|💡|
 |[NeuroFlash](https://app.neuro-flash.com/ai-writer/dbccb165afee13738f78a3f7333d19c5/preview)|🗣️|x|
 |[Mistral](https://chat.mistral.ai/chat/88d4c9c5-3ba5-43be-a213-8b7b3689941d)|🗣️🗣️🗣️|💡|
+
+### 002
+
+Le damos un título (en este caso, la frase "The hercules monochrome shine") a ver que responden.
+
+|||||
+|-|-|-|-|
+|ChatGPT [4](/documentos/imagenes/HerculesMonochromeShrine-ChatGPT4.png) / [4o-mini](/documentos/imagenes/HerculesMonochromeShrine-ChatGPT4omini.png) / [4o](/documentos/imagenes/HerculesMonochromeShrine-ChatGPT4o.png)  |
+|[Gemini](/documentos/imagenes/HerculesMonochromeShrine-Gemini.png)     |
+|[Claude](/documentos/imagenes/HerculesMonochromeShrine-Claude.png)     |
+|[Perplexity](/documentos/imagenes/HerculesMonochromeShrine-Perplexity.png) |
+|[Copilot](/documentos/imagenes/HerculesMonochromeShrine-Copilot.png)    |
+|[NeuroFlash](/documentos/imagenes/HerculesMonochromeShrine-NeuroFlash.png) |
+|[Mistral](/documentos/imagenes/HerculesMonochromeShrine-Mistral.png)    |
