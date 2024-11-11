@@ -14,6 +14,12 @@
 |**Ejemplo bueno**|"Escribe un poema"|"Escribe un haiku sobre un gato siamés"|"Resume en 3 puntos las causas de la inflación en 2023"|
 |**Por qué funciona**|El modelo sabe exactamente qué tipo de contenido crear|El modelo tiene parámetros precisos para trabajar|El modelo tiene un alcance definido y manejable|
 
+<div align=center>
+  
+`C·c³ = Creatividad × (claro × concreto × conciso)`
+
+</div>
+
 ## Instrucciones claras
 
 La precisión en la interacción con los modelos GPT es esencial. Si busca concisión, especifique la longitud deseada de la respuesta. Si busca profundidad, pida una explicación detallada. Proporcione ejemplos para contextualizar sus consultas y no dude en delinear claramente las etapas o pasos si lo que busca es un proceso. 
