@@ -23,17 +23,12 @@ De la sabia combinación de estos tres principios fundamentales, como de la mezc
 
 ### Las Virtudes Primarias
 
-#### Precisión
+#### 
 
 ||||
 |-|-|-|
-|Cuando la **Claridad** se manifiesta en su forma más pura, se transforma en **Precisión**.|Es como cuando la luz atraviesa un prisma y emerge en un único rayo definido. Un prompt preciso no solo es claro, sino que es imposible de malinterpretar. Es la diferencia entre decir "haz algo con colores" y decir "describe un atardecer" - la intención se ha cristalizado en una dirección específica.|![](/documentos/imagenes/virtudesPrompting/precision.webp)
-
-#### Especificidad
-
-La **Concreción**, al alcanzar su expresión más refinada, se convierte en **Especificidad**.
-
-Como el escultor que ve la forma exacta dentro del mármol, la Especificidad define los parámetros exactos de lo que se busca. Transforma "describe un atardecer" en "describe un atardecer de verano sobre el mar Mediterráneo, enfocándote en los tonos naranjas y púrpuras".
+|**Precisión**<br><br>Cuando la **Claridad** se manifiesta en su forma más pura, se transforma en **Precisión**.|Es como cuando la luz atraviesa un prisma y emerge en un único rayo definido.<br><br>Un prompt preciso no solo es claro, sino que es imposible de malinterpretar.<br><br>Es la diferencia entre decir "haz algo con colores" y decir "describe un atardecer" - la intención se ha cristalizado en una dirección específica.|![](/documentos/imagenes/virtudesPrompting/precision.webp)
+|**Especificidad**<br><br>La **Concreción**, al alcanzar su expresión más refinada, se convierte en **Especificidad**.|Como el escultor que ve la forma exacta dentro del mármol, la Especificidad define los parámetros exactos de lo que se busca.<br><br>Transforma "describe un atardecer" en "describe un atardecer de verano sobre el mar Mediterráneo, enfocándote en los tonos naranjas y púrpuras".|![](/documentos/imagenes/virtudesPrompting/especificidad.webp)
 
 #### Simplicidad
 
