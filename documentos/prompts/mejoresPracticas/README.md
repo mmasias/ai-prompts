@@ -7,18 +7,20 @@
 
 # Mejores prácticas
 
+<div align=center>
+  
+`C·c³ = Creatividad × (claro × concreto × conciso)`
+
+*[Manifiesto de las virtudes del prompting](8virtudesDelPrompting.md)*
+
+</div>
+
 |C³|Claro|Concreto|Conciso|
 |-|-|-|-|
 |**Definición**|Sin ambigüedades ni confusiones|Específico y bien delimitado|Breve y directo|
 |**Ejemplo malo**|"Haz algo creativo"|"Escribe sobre animales"|"Analiza exhaustivamente todos los aspectos posibles de la economía mundial"|
 |**Ejemplo bueno**|"Escribe un poema"|"Escribe un haiku sobre un gato siamés"|"Resume en 3 puntos las causas de la inflación en 2023"|
 |**Por qué funciona**|El modelo sabe exactamente qué tipo de contenido crear|El modelo tiene parámetros precisos para trabajar|El modelo tiene un alcance definido y manejable|
-
-<div align=center>
-  
-`C·c³ = Creatividad × (claro × concreto × conciso)`
-
-</div>
 
 ## Instrucciones claras
 
