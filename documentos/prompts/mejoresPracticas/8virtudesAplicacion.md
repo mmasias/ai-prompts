@@ -59,3 +59,15 @@
 |**Maestría** *(C³)*|"Plan gestión talento"|"Programa desarrollo talento:<br>Identificación:<br>- Performance sostenido<br>- Potencial crecimiento<br>- Competencias core<br>Desarrollo:<br>- Mentoring personalizado<br>- Rotación roles<br>- Proyectos estratégicos<br>Retención:<br>- Plan carrera<br>- Compensación"|Integra todas las virtudes de forma equilibrada|
 |**Flexibilidad** *(Meta-virtud)*|"Implementa el programa corporativo estándar de gestión de talento"|"Diseña programa talento adaptativo:<br>- Fast track para tech<br>- Desarrollo tradicional para áreas core<br>- Mentoring híbrido<br>Ajustable según área y perfil"|Adapta el programa a diferentes necesidades|
 
+## Control presupuestario
+
+|Virtud|Prompt Original|Prompt Transformado|¿Qué mejoró?|
+|-|-|-|-|
+|**Precisión** *(de la Claridad)*|"Ayúdame con el presupuesto"|"Crea un sistema de control de desviaciones presupuestarias mensuales"|La intención pasa de genérica a específica|
+|**Especificidad** *(de la Concreción)*|"Analiza las desviaciones del presupuesto"|"Analiza desviaciones presupuestarias del Q1 2024:<br>- Por departamento<br>- Umbral: ±5%<br>- Enfoque en OPEX"|Define exactamente alcance y parámetros|
+|**Simplicidad** *(de la Concisión)*|"¿Podrías por favor ayudarme a desarrollar un método para poder hacer seguimiento y control de todas las partidas presupuestarias y sus posibles desviaciones a lo largo del ejercicio fiscal?"|"Define KPIs para monitorizar desviaciones presupuestarias mensuales"|Elimina verbosidad innecesaria|
+|**Coherencia** *(Claridad + Concreción)*|"Quiero un control muy estricto pero flexible y detallado pero simple de entender"|"Sistema control presupuestario:<br>- KPIs críticos (diario)<br>- KPIs secundarios (mensual)<br>- Alertas automáticas >3%"|Alinea requisitos aparentemente opuestos|
+|**Eficiencia** *(Concreción + Concisión)*|"Necesitamos establecer un sistema que nos permita monitorizar todas las partidas presupuestarias y sus desviaciones, generando alertas cuando sea necesario y permitiendo análisis detallados"|"Dashboard control:<br>- Desviación vs presupuesto<br>- Tendencia mensual<br>- Top 5 variaciones<br>- Alertas automáticas"|Maximiza control con mínimos elementos|
+|**Estructura** *(Claridad + Concisión)*|"Presupuesto control desviaciones alertas análisis reporting"|"Estructura control presupuestario:<br>1. Monitorización diaria<br>2. Análisis semanal<br>3. Reporting mensual<br>4. Acciones correctivas"|Organiza el proceso lógicamente|
+|**Maestría** *(C³)*|"Sistema control gastos"|"Sistema control presupuestario:<br>Monitorización:<br>- Real vs Budget (diario)<br>- Forecast rolling (semanal)<br>- Análisis tendencias (mensual)<br>Alertas:<br>- OPEX: >3%<br>- CAPEX: >5%<br>Acciones:<br>- Plan mitigación automático"|Integra todas las virtudes equilibradamente|
+|**Flexibilidad** *(Meta-virtud)*|"Aplica control estricto del 3% a todas las partidas"|"Sistema control adaptativo:<br>- OPEX crítico: 3%<br>- OPEX regular: 5%<br>- CAPEX: 10%<br>Ajustable por temporada"|Adapta el control según contexto|
