@@ -7,14 +7,14 @@
 
 # Mejores prácticas
 
-<div align=right>
+|C³|Claro|Concreto|Conciso|
+|-|-|-|-|
+|**Definición**|Sin ambigüedades ni confusiones|Específico y bien delimitado|Breve y directo|
+|**Ejemplo malo**|"Haz algo creativo"|"Escribe sobre animales"|"Analiza exhaustivamente todos los aspectos posibles de la economía mundial"|
+|**Ejemplo bueno**|"Escribe un poema"|"Escribe un haiku sobre un gato siamés"|"Resume en 3 puntos las causas de la inflación en 2023"|
+|**Por qué funciona**|El modelo sabe exactamente qué tipo de contenido crear|El modelo tiene parámetros precisos para trabajar|El modelo tiene un alcance definido y manejable|
 
-|[![](https://img.shields.io/badge/-Inicio-FFF?style=flat&logo=Emlakjet&logoColor=black)](/README.md) [![](https://img.shields.io/badge/-Introducción-FFF?style=flat&logo=abbrobotstudio&logoColor=black)](/documentos/intro.md) [![](https://img.shields.io/badge/-Modelos_de_lenguaje-FFF?style=flat&logo=LiveChat&logoColor=black)](/documentos/LLMs.md) [![](https://img.shields.io/badge/-Panorámica-FFF?style=flat&logo=openstreetmap&logoColor=black)](/documentos/panoramica.md)<br>  [![](https://img.shields.io/badge/-Prompts-FFF?style=flat&logo=Proton&logoColor=black)](/documentos/prompts/README.md) [![](https://img.shields.io/badge/-Ing,_de_prompts-FFF?style=flat&logo=googleearthengine&logoColor=black)](/documentos/ingenieriaDePrompts/README.md) [![](https://img.shields.io/badge/-Patrones-FFF?style=flat&logo=textpattern&logoColor=black)](/documentos/ingenieriaDePrompts/patrones/README.md) [![](https://img.shields.io/badge/-Casos_de_uso-FFF?style=flat&logo=gitbook&logoColor=black)](/documentos/casosDeUso/README.md)|
-|-:|
-
-</div>
-
-# Instrucciones claras
+## Instrucciones claras
 
 La precisión en la interacción con los modelos GPT es esencial. Si busca concisión, especifique la longitud deseada de la respuesta. Si busca profundidad, pida una explicación detallada. Proporcione ejemplos para contextualizar sus consultas y no dude en delinear claramente las etapas o pasos si lo que busca es un proceso. 
 
