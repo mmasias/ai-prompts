@@ -25,9 +25,9 @@ De la sabia combinación de estos tres principios fundamentales, como de la mezc
 
 #### Precisión
 
-Cuando la **Claridad** se manifiesta en su forma más pura, se transforma en **Precisión**.
-
-Es como cuando la luz atraviesa un prisma y emerge en un único rayo definido. Un prompt preciso no solo es claro, sino que es imposible de malinterpretar. Es la diferencia entre decir "haz algo con colores" y decir "describe un atardecer" - la intención se ha cristalizado en una dirección específica.
+||||
+|-|-|-|
+|Cuando la **Claridad** se manifiesta en su forma más pura, se transforma en **Precisión**.|Es como cuando la luz atraviesa un prisma y emerge en un único rayo definido. Un prompt preciso no solo es claro, sino que es imposible de malinterpretar. Es la diferencia entre decir "haz algo con colores" y decir "describe un atardecer" - la intención se ha cristalizado en una dirección específica.|![](/documentos/imagenes/virtudesPrompting/precision.webp)
 
 #### Especificidad
 
