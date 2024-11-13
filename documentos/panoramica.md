@@ -21,6 +21,8 @@
 [Claude](https://claude.ai/chats)
 [Gemini](https://gemini.google.com/app)
 [Copilot](https://copilot.microsoft.com)
+[Mistral AI](https://chat.mistral.ai/chat)
+[Llama AI](https://www.llama2.ai/)
 [Huggingface](https://huggingface.co/chat)
 
 </td><td valign=top width=25%>
@@ -79,6 +81,7 @@
 |[**Perplexity.ai**](https://www.perplexity.ai)|Análisis e investigaciones|Plataforma / [CdU](/documentos/casosDeUso/perplexity.md)
 |[**SCISPACE**](https://typeset.io/)|Papers académicos
 |[**Consensus**](https://consensus.app/)|Papers académicos
+|[**Elicit**](https://elicit.com/)|Investigación académica
 |[Silatus](https://silatus.com)|Plataforma de IA para investigación y análisis de datos|Plataforma / De pago
 
 </div>
