@@ -79,11 +79,11 @@
 |Nombre|Descripción|Categoría|
 |-|-|-|
 |[**Perplexity.ai**](https://www.perplexity.ai)|Análisis e investigaciones|Plataforma / [CdU](/documentos/casosDeUso/perplexity.md)
-|[SCISPACE](https://typeset.io/)|Papers académicos
-|[Consensus](https://consensus.app/)|Papers académicos
 |[**Elicit**](https://elicit.com/)|Investigación académica|Plataforma / [CdU](https://elicit.com/notebook/713f9d40-e186-47df-8304-1a69ad32b061)
 |[**Connected papers**](https://www.connectedpapers.com/)|Relación entre papers|Plataforma / [CdU](https://www.connectedpapers.com/main/b24ef5f12177439560c859e6cad11ad020ac6f42/Effects-of-phytochemicals-on-thyroid-function-and-their-possible-role-in-thyroid-disease/graph)
 |[**NotebookLM**](https://notebooklm.google.com/)|Wow!!!
+|[SCISPACE](https://typeset.io/)|Papers académicos
+|[Consensus](https://consensus.app/)|Papers académicos
 |[Silatus](https://silatus.com)|Plataforma de IA para investigación y análisis de datos|Plataforma / De pago
 
 </div>
@@ -95,8 +95,9 @@
 |Nombre|Descripción|Categoría|
 |-|-|-|
 |[**Whimsical**](https://whimsical.com/)|Creación de mapas mentales, diagramas y prototipos visuales.|Plataforma / [CdU](https://whimsical.com/seminario-ai-YKgQuAQtcHKUYicLPAisqE)
-|[**fireflies.ai**](https://fireflies.ai/)|Transcripción y análisis de reuniones con IA|
+|[**MemAI**](https://mem.ai/)|Organización de notas
 |[**Otter**](https://otter.ai/home)|Transcripción y análisis de reuniones con IA|
+|[**fireflies.ai**](https://fireflies.ai/)|Transcripción y análisis de reuniones con IA|
 |[**ChatPDF**](https://www.chatpdf.com/)|Chatear con un PDF
 |[**Humata**](http://humata.ai)|Chat con documentos
 
