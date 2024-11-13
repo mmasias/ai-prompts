@@ -7,6 +7,11 @@
 
 # Prompts
 
+
+||||
+|-|-|-|
+Ayúdame a analizar un estado de flujo de caja para identificar posibles problemas de liquidez y oportunidades de optimización de efectivo.|Ayúdame a redactar una introducción clara y persuasiva para un proyecto de investigación sobre sostenibilidad en la industria alimentaria.|Proporcióname un análisis de la competencia en el sector de servicios de logística, enfocándote en las estrategias de precios, servicios diferenciados y presencia digital de las principales empresas.
+
 ## Componentes
 
 |![](/documentos/imagenes/modelosUML/promptRecetaComponentes.svg)
