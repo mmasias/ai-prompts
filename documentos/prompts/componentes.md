@@ -53,6 +53,7 @@ Los parámetros pueden variar desde configuraciones simples de temperatura y pro
 
 > *Un contable está revisando el estado de flujo de caja de una empresa y necesita ayuda para evaluar la salud financiera, identificando áreas de riesgo y oportunidades para mejorar la gestión de efectivo.*
 
+| | |
 |-|-|
 **Prompt** | Ayúdame a analizar un estado de flujo de caja para identificar posibles problemas de liquidez y oportunidades de optimización de efectivo.
 **Tarea** | Ayúdame a analizar un estado de flujo de caja.
@@ -63,6 +64,7 @@ Los parámetros pueden variar desde configuraciones simples de temperatura y pro
 
 > *Un gestor de proyectos está iniciando la redacción de un proyecto de investigación y necesita una introducción que establezca el objetivo y la relevancia del estudio en el contexto de la sostenibilidad.*
 
+| | |
 |-|-|
 **Prompt** | Ayúdame a redactar una introducción clara y persuasiva para un proyecto de investigación sobre sostenibilidad en la industria alimentaria.
 **Tarea** | Ayúdame a redactar una introducción para un proyecto de investigación.
@@ -73,6 +75,7 @@ Los parámetros pueden variar desde configuraciones simples de temperatura y pro
 
 > *Empresarios que necesitan entender cómo se están posicionando las empresas competidoras en el mercado de servicios de logística para ajustar sus propias estrategias de negocio y detectar oportunidades de mejora.*
 
+| | |
 |-|-|
 **Prompt** | Proporcióname un análisis de la competencia en el sector de servicios de logística, enfocándote en las estrategias de precios, servicios diferenciados y presencia digital de las principales empresas.
 **Tarea** | Proporcióname un análisis de la competencia en el sector de servicios de logística.
