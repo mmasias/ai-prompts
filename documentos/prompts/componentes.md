@@ -51,6 +51,37 @@ Los parámetros pueden variar desde configuraciones simples de temperatura y pro
 
 ## Ejemplos
 
+> *Un contable está revisando el estado de flujo de caja de una empresa y necesita ayuda para evaluar la salud financiera, identificando áreas de riesgo y oportunidades para mejorar la gestión de efectivo.*
+
+|-|-|
+**Prompt** | Ayúdame a analizar un estado de flujo de caja para identificar posibles problemas de liquidez y oportunidades de optimización de efectivo.
+**Tarea** | Ayúdame a analizar un estado de flujo de caja.
+**Instrucciones** | Identifica posibles problemas de liquidez y sugiere oportunidades para optimizar el flujo de efectivo.
+**Contexto** | 
+**Entrada** | Estado de flujo de caja de la empresa.
+**Parámetros** | -
+
+> *Un gestor de proyectos está iniciando la redacción de un proyecto de investigación y necesita una introducción que establezca el objetivo y la relevancia del estudio en el contexto de la sostenibilidad.*
+
+|-|-|
+**Prompt** | Ayúdame a redactar una introducción clara y persuasiva para un proyecto de investigación sobre sostenibilidad en la industria alimentaria.
+**Tarea** | Ayúdame a redactar una introducción para un proyecto de investigación.
+**Instrucciones** | Debe ser clara, persuasiva y enfocada en la sostenibilidad en la industria alimentaria.
+**Contexto** | 
+**Entrada** | -
+**Parámetros** | -
+
+> *Empresarios que necesitan entender cómo se están posicionando las empresas competidoras en el mercado de servicios de logística para ajustar sus propias estrategias de negocio y detectar oportunidades de mejora.*
+
+|-|-|
+**Prompt** | Proporcióname un análisis de la competencia en el sector de servicios de logística, enfocándote en las estrategias de precios, servicios diferenciados y presencia digital de las principales empresas.
+**Tarea** | Proporcióname un análisis de la competencia en el sector de servicios de logística.
+**Instrucciones** | Enfócate en las estrategias de precios, servicios diferenciados y la presencia digital de las principales empresas del sector.
+**Contexto** | 
+**Entrada** | Datos de mercado, informes de competencia, sitios web de competidores.
+**Parámetros** | -
+
+
 |[💬🤖](https://chat.openai.com/share/07120d38-6bd2-4e00-a0dd-5c407e4fbde8)|Redacción de un artículo|
 |-|-|
 |**Prompt**|Utiliza la siguiente idea para escribir un artículo motivacional sobre la atención plena (mindfulness) para emprendedores. Enfatiza la importancia de la claridad mental y la paz interior para el éxito en los negocios. Aquí está la idea: ser emprendedor se trata de servir.|
