@@ -85,3 +85,5 @@ Tweets<br>*considerando que un tweet tiene un límite de 280 caracteres*|15-20|3
 |||¿*consciente* de limitaciones?
 
 - [Trabajar con documentos](/documentos/casosDeUso/examenTipoTest.md), una forma de "mitigar" el problema con la ventana de contexto
+
+> ***Actualización:*** [Copilot ahora mantiene el contexto](https://copilot.microsoft.com/chats/FZif3PHfxRXSym3crGjsy) y lo [hace sorprendentemente bien!](https://drive.google.com/drive/folders/15NpyxP458Ct5b0pGa5f2Rx_6WEBHUmvP?usp=drive_link)
