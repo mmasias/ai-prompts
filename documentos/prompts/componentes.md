@@ -7,10 +7,12 @@
 
 # Prompts
 
-
-||||
+|Ayúdame a redactar una introducción clara y persuasiva para un proyecto de investigación sobre sostenibilidad en la industria alimentaria.|Ayúdame a analizar un estado de flujo de caja para identificar posibles problemas de liquidez y oportunidades de optimización de efectivo.|Proporcióname un análisis de la competencia en el sector de servicios de logística, enfocándote en las estrategias de precios, servicios diferenciados y presencia digital de las principales empresas.|
 |-|-|-|
-Ayúdame a analizar un estado de flujo de caja para identificar posibles problemas de liquidez y oportunidades de optimización de efectivo.|Ayúdame a redactar una introducción clara y persuasiva para un proyecto de investigación sobre sostenibilidad en la industria alimentaria.|Proporcióname un análisis de la competencia en el sector de servicios de logística, enfocándote en las estrategias de precios, servicios diferenciados y presencia digital de las principales empresas.
+|[ChatGPT](https://chatgpt.com/share/67353c64-83d0-8002-a537-0b4bdef4e967)||
+|[**Claude**](https://claude.ai/chat/d52d7385-8e92-4d09-9d0a-42f5fe0f0418)||
+|[Copilot](https://copilot.microsoft.com/chats/U5RtqNBJW3g2VF5v3AhQk)||
+|[**Gemini**](https://g.co/gemini/share/34a6a42de302)||
 
 ## Componentes
 
