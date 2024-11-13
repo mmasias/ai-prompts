@@ -18,7 +18,7 @@
 |Texto a texto|
 |-|
 [ChatGPT](https://chat.openai.com/)
-[Claude](https://claude.ai/chats)
+[**Claude**](https://claude.ai/chats)
 [Gemini](https://gemini.google.com/app)
 [Copilot](https://copilot.microsoft.com)
 [Mistral AI](https://chat.mistral.ai/chat)
@@ -41,8 +41,8 @@
 |Texto a audio/voz/música
 |-|
 [Moshi](https://www.moshi.chat/?queue_id=talktomoshi)
-[Mubert](https://mubert.com/)
-[Moises](https://moises.ai/)
+[**Mubert**](https://mubert.com/)
+[**Moises**](https://moises.ai/)
 [StableAudio](https://www.stableaudio.com/)
 [MusicGen](https://huggingface.co/spaces/facebook/MusicGen)  [(*Repo*)](https://github.com/facebookresearch/audiocraft)        
 [Suno](https://app.suno.ai/create/)
