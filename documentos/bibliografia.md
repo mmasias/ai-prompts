@@ -7,6 +7,7 @@
 
 # Bibliografía
 
+- [Biblioteca de prompts](https://docs.anthropic.com/es/prompt-library/library), de Anthropic (los creadores de Claude)
 - [Educator FAQ](https://help.openai.com/en/collections/5929286-educator-faq)
 - [Recopilatorio de otros cursos](/documentos/cursosExternos/README.md)
 - [Documentación OpenAI](https://platform.openai.com/docs/introduction/overview)
