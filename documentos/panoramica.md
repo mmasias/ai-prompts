@@ -96,8 +96,9 @@
 |-|-|-|
 |[**Whimsical**](https://whimsical.com/)|Creación de mapas mentales, diagramas y prototipos visuales.|Plataforma / [CdU](https://whimsical.com/seminario-ai-YKgQuAQtcHKUYicLPAisqE)
 |[**MemAI**](https://mem.ai/)|Organización de notas
-|[**Otter**](https://otter.ai/home)|Transcripción y análisis de reuniones con IA|
-|[**fireflies.ai**](https://fireflies.ai/)|Transcripción y análisis de reuniones con IA|
+|[**Otter**](https://otter.ai/home)|Transcripción y análisis de reuniones
+|[**fireflies.ai**](https://fireflies.ai/)|Transcripción y análisis de reuniones
+|[Unstuck study](https://unstuckstudy.com)|Transcripción, análisis y posibilidad de chatear alrededor de una reunión
 |[**ChatPDF**](https://www.chatpdf.com/)|Chatear con un PDF
 |[**Humata**](http://humata.ai)|Chat con documentos
 
