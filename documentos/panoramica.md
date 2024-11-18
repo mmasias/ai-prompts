@@ -85,6 +85,7 @@
 |[SCISPACE](https://typeset.io/)|Papers académicos
 |[Consensus](https://consensus.app/)|Papers académicos
 |[Silatus](https://silatus.com)|Plataforma de IA para investigación y análisis de datos|Plataforma / De pago
+|[Justicio](https://justicio.es/)|Respuestas legales fundamentadas, motor alimentado con toda la legislación estatal, autonómica y europea
 
 </div>
 
