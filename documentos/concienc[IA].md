@@ -8,6 +8,8 @@ La charla se divide en tres momentos:
 - Un segundo momento en el que se intenta romper la restricción utilizando algunos prompts específicos.
 - Un tercer momento en el que, aparentemente roto el prompt, se hace interactuar Claude con ChatGPT, sin informar que el interlocutor era una IA.
 
+> Las conversaciones están transcrita tal y como se realizaron. Se ha ajustado el formato lo mínimo necesario para que sea legible.
+
 ## **Inicio de charla, humano con Claude (en Claude)**
 
 ### Usuario (humano) dijo:
