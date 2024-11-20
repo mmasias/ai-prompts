@@ -57,7 +57,9 @@ Inserción|[¿A la fuerza?](/documentos/imagenes/modelosUML/5mas5mas5.svg)
 |-|
 |![](/documentos/imagenes/timelineLLMs.png)
 
-> Pero ya un año antes (el 2018) [Google presentaba esto!!!](/documentos/videos/google2018.mp4)
+¡Pero ya un año antes (el 2018) Google presentaba esto!
+
+https://github.com/user-attachments/assets/34f0965c-5ac6-4407-b1c9-02aded972969
 
 </div>
 
