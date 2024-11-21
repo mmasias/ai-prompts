@@ -51,6 +51,7 @@ Al finalizar, se habrán visto un conjunto de casos de uso que se apoyan en la I
 
 ## Itinerarios
 
+- [SC24](/documentos/itinerarios/iSC24.md)
 - [U](/documentos/itinerarios/itinerarioU.md) 
 - [DSI](/documentos/itinerarios/itinerarioDSI.md) 
 - [LATec](/documentos/itinerarios/itinerarioUAL.md)
