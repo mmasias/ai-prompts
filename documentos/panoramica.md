@@ -69,6 +69,10 @@
 [**GPT for work**](https://gptforwork.com/) + [Plantilla muy útil](https://docs.google.com/spreadsheets/d/1SOz3u2A8Y6RXvXK_X2QdrcWJ7WklbgtWNE9ljZ_yaEc/template/preview)
 [Numerous](https://numerous.ai/)
 [ChatGPT-4o](https://openai.com/index/improvements-to-data-analysis-in-chatgpt/)
+[FormulaBOT](https://www.formulabot.com/)
+[Coda](https://coda.io/)
+[Presentaciones](https://www.presentations.ai/)
+[Agenda](https://reclaim.ai/)
 
 </div>
 
