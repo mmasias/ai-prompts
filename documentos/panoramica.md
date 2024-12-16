@@ -317,6 +317,7 @@
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
+|[Botpress](https://botpress.com/)
 |[Dante](https://dante-ai.com/)|
 |[Droxy](https://www.droxy.ai/)|
 
