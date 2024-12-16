@@ -308,19 +308,25 @@
 
 ## 🔗⚙️ Integraciones
 
+<div align=center>
+
+<table border=0>
+<tr><th>🤖🛠️ Automatización de procesos</th><th>🤖🛠️ Constructores de chatbots</th></tr>
+<tr>
+<td valign=top>
+
 - [Make](https://www.make.com/en)
 - [Integrately](https://app.integrately.com/)
 - [Zapier](https://zapier.com/)
+</td>
+<td valign=top>
 
-### 🤖🛠️ Constructores de chatbots
-
-<div align=center>
-
-|Nombre|Descripción|Categoría|
-|-|-|-|
-|[Botpress](https://botpress.com/)
-|[Dante](https://dante-ai.com/)|
-|[Droxy](https://www.droxy.ai/)|
+- [Botpress](https://botpress.com/)
+- [Dante](https://dante-ai.com/)
+- [Droxy](https://www.droxy.ai/)
+</td>
+</tr>
+</table>
 
 </div>
 
