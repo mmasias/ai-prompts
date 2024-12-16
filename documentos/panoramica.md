@@ -20,6 +20,7 @@
 [ChatGPT](https://chat.openai.com/)
 [**Claude**](https://claude.ai/chats)
 [Gemini](https://gemini.google.com/app) / [AIStudio](https://aistudio.google.com/prompts/new_chat)
+[Grok](https://x.com/i/grok)
 [Copilot](https://copilot.microsoft.com)
 [Mistral AI](https://chat.mistral.ai/chat)
 [Llama AI](https://www.llama2.ai/)
