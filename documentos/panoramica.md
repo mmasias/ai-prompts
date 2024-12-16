@@ -308,8 +308,9 @@
 
 ## 🔗⚙️ Integraciones
 
-- https://app.integrately.com/
-- https://zapier.com/
+- [Make](https://www.make.com/en)
+- [Integrately](https://app.integrately.com/)
+- [Zapier](https://zapier.com/)
 
 ### 🤖🛠️ Constructores de chatbots
 
