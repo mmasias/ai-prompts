@@ -18,6 +18,8 @@
 
 ## ¿Algo nuevo?
 
+> [El ciclo de Sísifo de los pánicos tecnológicos](https://journals.sagepub.com/doi/full/10.1177/1745691620919372)
+
 |Teletrabajo|Paradoja de la dirección|
 |-|-|
 ![](/documentos/imagenes/modelosUML/introTeletrabajo.svg)|![](/documentos/imagenes/modelosUML/introDireccion.svg)
