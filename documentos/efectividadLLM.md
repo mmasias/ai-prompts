@@ -7,6 +7,20 @@
 
 # Optimizando la interacción con modelos de lenguaje
 
+<div align=right>
+
+<font size=-1>
+
+*Algo sobre lo que reflexioné es que en cierto modo hay que tratar a la IA como tratamos a nuestra metamemoria,<br>
+esa «facultad de tener conocimiento de nuestra propia capacidad memorística». En lenguaje llano es simplemente<br>
+**saber lo que se sabe y lo que no se sabe**. Aquí hay que saber un poco sobre cómo funcionan los LLM de los<br>
+diferentes modelos de IA –de dónde sacan los datos, cómo se entrenan, etcétera– para adelantarse e imaginar<br>
+si pueden proporcionar o no una respuesta válida.* ([***microsiervos***](https://www.microsiervos.com/archivo/ia/como-trabajar-dia-dia-ia-no-morir-intento.html))
+
+</font>
+
+</div>
+
 ## ¿Por qué?
 
 Los modelos de lenguaje se han convertido en herramientas fundamentales para el aprendizaje, la productividad y la resolución de problemas. 
