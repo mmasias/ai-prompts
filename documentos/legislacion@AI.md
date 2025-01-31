@@ -43,3 +43,16 @@
   - El uso de IA como herramienta no afecta la protección.
   - Los prompts por sí solos no proporcionan suficiente control humano.
   - Se requiere análisis caso por caso de las contribuciones humanas.
+
+
+
+### [Pedir algo no significa que lo hayas creado](https://boingboing.net/2025/01/30/prompting-ai-doesnt-get-copyright-in-the-output.html)
+
+- Las cuestiones de derechos de autor e IA pueden resolverse según la ley existente, sin necesidad de cambios legislativos.
+- El uso de herramientas de IA para asistir en lugar de reemplazar la creatividad humana no afecta la disponibilidad de protección de derechos de autor para el resultado.
+- Los derechos de autor protegen la expresión original en una obra creada por un autor humano, incluso si la obra también incluye material generado por IA.
+- Los derechos de autor no se extienden a material puramente generado por IA, o material donde hay insuficiente control humano sobre los elementos expresivos.
+- Si las contribuciones humanas a los resultados generados por IA son suficientes para constituir autoría debe analizarse caso por caso.
+- Según el funcionamiento de la tecnología actual generalmente disponible, los prompts por sí solos no proporcionan suficiente control.
+- Los autores humanos tienen derecho a derechos de autor sobre sus obras de autoría que son perceptibles en los resultados generados por IA, así como la selección creativa, coordinación o disposición del material en los resultados, o modificaciones creativas de los resultados.
+- No se ha justificado la necesidad de derechos de autor adicionales o protección sui generis para el contenido generado por IA.
