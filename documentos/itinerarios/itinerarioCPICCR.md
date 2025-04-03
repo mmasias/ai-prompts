@@ -45,7 +45,7 @@ Cada vez que aparece una tecnología disruptiva se genera un ***ciclo de adaptac
 ||[@Mar2025, hace pocos días](https://x.com/DaniNovarama/status/1907354905540522184)
 ||**El patrón histórico: de brechas a puentes** - La imprenta, el teléfono, internet - inicialmente divisores, finalmente conectores|
 ||**La paradoja actual:** tecnologías diseñadas para conectar que a veces nos separan más|
-|Inserción|[¿A la fuerza?](/documentos/imagenes/modelosUML/5mas5mas5.svg)
+|Inserción|[¿A la fuerza?](https://raw.githubusercontent.com/mmasias/ai-prompts/fc1b92688c37307a590217063aea0aecc565032a/documentos/imagenes/modelosUML/5mas5mas5.svg)
 ||"Aparecen" términos nuevos que reflejan tensión... *FOMO* / *JOMO*, *Nomofobia*, *Infoxicación*, *Cibercondría*
 ||"Aparecen" términos que reflejan integración... comunidades digitales, inteligencia colectiva, co-creación
 ||Otros "desaparecen" o reducen su volumen: *NoCode / Blockchain / Criptodivisas / Ciberseguridad / otros...* */ [Calidad](/documentos/calidadAI.md)*
