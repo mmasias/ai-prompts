@@ -31,7 +31,7 @@ Cada vez que aparece una tecnología disruptiva se genera un ***ciclo de adaptac
 |Duda|[¿Es el arte una característica humana?](/documentos/arteEsSoloHumano.md)|
 ||[Can't help myself](https://historia-arte.com/obras/can-t-help-myself) / [📽️](https://www.youtube.com/watch?v=4ooVr6RZ_nw)
 |Reacciones|[Sorpresa, miedo, negación](https://docs.google.com/presentation/d/1UscAlHfjGgg4pPzz_p0V1eX18R74DRlvTtMXsbLVtI0/edit?usp=sharing) / [PessimistArchive](https://pessimistsarchive.org/)
-|**Entra la IA**|Se interactúa con ellos [con modos antropomórficos](/documentos/cortesia.md)
+|Interactuamos|Se interactúa con ellos [con modos antropomórficos](/documentos/cortesia.md)
 ||[Se analiza su fiabilidad](/documentos/casosDeUso/fiabilidad.md#cómo) / [Incluso con manzanas!!!](/documentos/casosDeUso/manzanas.md)
 ||[Se observan con atención](/documentos/etica.sesgo.md), se [entrena](/documentos/entrenamiento.md) 
 ||[Se ve como se comportan](/documentos/casosDeUso/dilemaEtico.md)
@@ -42,12 +42,12 @@ Cada vez que aparece una tecnología disruptiva se genera un ***ciclo de adaptac
 ||Ocurrió y no lo ví: [@Jun2022](https://timesofindia.indiatimes.com/business/international-business/full-transcript-google-ai-bots-interview-that-convinced-engineer-it-was-sentient/articleshow/92178185.cms)
 ||[@Feb2025: *Is AI a bubble?*](https://qz.com/ai-tech-stocks-dot-com-bubble-markets-1851768177) (***Spoiler***: [*sí, pero no es tan malo*](https://www.enriquedans.com/2024/04/hay-una-burbuja-de-la-inteligencia-artificial.html))
 ||[@Mar2025, hace pocos días](https://x.com/DaniNovarama/status/1907354905540522184)
-||**El patrón histórico: de brechas a puentes** - La imprenta, el teléfono, internet - inicialmente divisores, finalmente conectores|
-||**La paradoja actual:** tecnologías diseñadas para conectar que a veces nos separan más|
 |Inserción|[¿A la fuerza?](https://raw.githubusercontent.com/mmasias/ai-prompts/fc1b92688c37307a590217063aea0aecc565032a/documentos/imagenes/modelosUML/5mas5mas5.svg)
 ||"Aparecen" términos nuevos que reflejan tensión... *FOMO* / *JOMO*, *Nomofobia*, *Infoxicación*, *Cibercondría*
 ||"Aparecen" términos que reflejan integración... comunidades digitales, inteligencia colectiva, co-creación
 ||Otros "desaparecen" o reducen su volumen: *NoCode / Blockchain / Criptodivisas / Ciberseguridad / otros...* */ [Calidad](/documentos/calidadAI.md)*
+||**La paradoja actual:** tecnologías diseñadas para conectar que a veces nos separan más|
+||**El patrón histórico: de brechas a puentes** - La imprenta, el teléfono, internet - inicialmente divisores, finalmente conectores|
 
 ---
 
@@ -76,6 +76,8 @@ Cada vez que aparece una tecnología disruptiva se genera un ***ciclo de adaptac
 https://github.com/user-attachments/assets/34f0965c-5ac6-4407-b1c9-02aded972969
 
 </div>
+
+---
 
 ***En realidad, lo que es importante entender es que estas herramientas no se limitan en absoluto a copiar, recombinar y pegar, sino que llevan a cabo procesos estadísticos como la inferencia, la correlación o la estadística bayesiana, muy parecidos a los que lleva a cabo nuestro cerebro cuando aprende. Menospreciar al algoritmo y reducirlo a un supuesto papel de «mono estocástico» puede ser un craso error.*** -- [Enrique Dans](https://www.enriquedans.com/2023/08/trabajo-y-algoritmos-generativos.html)
 
