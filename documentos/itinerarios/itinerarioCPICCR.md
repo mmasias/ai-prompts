@@ -5,7 +5,7 @@
 
 </div>
 
-<img src="../imagenes/CPIC-Logo-Color-1024x400.png" width=40% align=right>
+<img src="../imagenes/CPIC-Logo-Color-1024x400.png" width=30% align=right>
 
 # Tiempos modernos: transformadores tecnológicos y sociales
 
