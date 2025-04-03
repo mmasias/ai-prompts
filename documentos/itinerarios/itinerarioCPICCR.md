@@ -25,7 +25,8 @@ Con la aparición de la técnica, este proceso se factoriza: técnica + interpre
 
 ## ¿Por qué?
 
-Cada vez que aparece una *tecnología* disruptiva
+Cada vez que aparece una tecnología disruptiva se genera un ***ciclo de adaptación*** que revela nuestra relación compleja con la innovación:
+
 
 <div align=center>
 
@@ -33,17 +34,27 @@ Cada vez que aparece una *tecnología* disruptiva
 |-|-|
 |Duda|[¿Es el arte una característica humana?](https://twitter.com/Culture_Crit/status/1689685381283815435)|
 ||[Can't help myself](https://historia-arte.com/obras/can-t-help-myself) / [📽️](https://www.youtube.com/watch?v=4ooVr6RZ_nw)
-Reacciones|[Sorpresa, miedo, negación](https://docs.google.com/presentation/d/1UscAlHfjGgg4pPzz_p0V1eX18R74DRlvTtMXsbLVtI0/edit?usp=sharing) / [PessimistArchive](https://pessimistsarchive.org/)
+|Reacciones|[Sorpresa, miedo, negación](https://docs.google.com/presentation/d/1UscAlHfjGgg4pPzz_p0V1eX18R74DRlvTtMXsbLVtI0/edit?usp=sharing) / [PessimistArchive](https://pessimistsarchive.org/)
 ||[Ironía](/documentos/imagenes/publicidadGPT.jpeg)
-Recurrencia|[Esto ya lo he visto](/documentos/olvidarPasado.md) 
-||Ocurrió y no lo ví: [jun/2022](https://timesofindia.indiatimes.com/business/international-business/full-transcript-google-ai-bots-interview-that-convinced-engineer-it-was-sentient/articleshow/92178185.cms)
-Inserción|[¿A la fuerza?](/documentos/imagenes/modelosUML/5mas5mas5.svg)
-||"Aparecen" términos nuevos... *FOMO* / *JOMO*, *Nomofobia*, *Infoxicación*, *Cibercondría*
-||"Desaparecen" otros: *NoCode / Blockchain / Criptodivisas / Ciberseguridad / otros...* */ [Calidad](/documentos/calidadAI.md)*
+|Recurrencia y ciclos|[Esto ya lo he visto](/documentos/olvidarPasado.md)|
+||Ocurrió y no lo ví: [jun/2022](https://timesofindia.indiatimes.com/business/international-business/full-transcript-google-ai-bots-interview-that-convinced-engineer-it-was-sentient/articleshow/92178185.cms)|
+||**El patrón histórico: de brechas a puentes** - La imprenta, el teléfono, internet - inicialmente divisores, finalmente conectores|
+||**La paradoja actual:** tecnologías diseñadas para conectar que a veces nos separan más|
+|Inserción|[¿A la fuerza?](/documentos/imagenes/modelosUML/5mas5mas5.svg)
+||"Aparecen" términos nuevos que reflejan tensión... *FOMO* / *JOMO*, *Nomofobia*, *Infoxicación*, *Cibercondría*
+||"Aparecen" términos que reflejan integración... comunidades digitales, inteligencia colectiva, co-creación
+||Otros "desaparecen" o reducen su volumen: *NoCode / Blockchain / Criptodivisas / Ciberseguridad / otros...* */ [Calidad](/documentos/calidadAI.md)*
 ||Aparecen [🌬️💨](/documentos/💨.md) que se saltan una [aproximación metodológica](https://docs.google.com/spreadsheets/d/12ZWrmk_hv4i6X0tUPkBYEHCHynxTdQNHClmBFpjqbJc/edit?gid=0#gid=0)
 ||[Se analiza su fiabilidad](/documentos/casosDeUso/fiabilidad.md) 
 ||Se estudia, se [entrena](/documentos/entrenamiento.md) 
 || [Se (intenta) regular](/documentos/etica@AI.md)
+
+---
+
+|Brechas actuales
+|-
+|Entre quienes adoptan tempranamente y quienes resisten al cambio|
+|Entre diferentes generaciones y sus formas de relacionarse con la tecnología|
 
 </div>
 
@@ -108,13 +119,5 @@ Existe un impacto en diversas disciplinas que hemos de **saber reconocer y dimen
 
 | Reciprocidad | Transformación mutua | Nuevos campos de estudio | Desafíos y oportunidades | Impacto cultural y social | Mejora mutua |
 |-|-|-|-|-|-|
-| Cada disciplina no solo se ve afectada por la IA, sino que también influye significativamente en su desarrollo. | Tanto las disciplinas humanistas como la IA están evolucionando como resultado de esta interacción.  | Ej.: ética de la IA, la antropología digital, o la creación artística asistida por IA. | Que surgen de esta interacción. | Que las disciplinas humanistas están ayudando a comprender y abordar. | En muchos casos, vemos cómo la interacción entre la IA y las disciplinas humanistas conduce a mejoras en ambos campos. |
+| Cada disciplina no solo se ve afectada por la IA, sino que también influye significativamente en su desarrollo. | Tanto las disciplinas como la IA están evolucionando como resultado de esta interacción.  | Ej.: ética de la IA, la antropología digital, o la ***creación artística asistida por IA***. | Que surgen de esta interacción. | Que las disciplinas humanistas están ayudando a comprender y abordar. | En muchos casos, vemos cómo la interacción entre la IA y las disciplinas humanistas conduce a mejoras en ambos campos. |
 
-
-#### @Sociología
-
-|IA@Disciplina|Disciplina|Disciplina@Desarrollo*IA*|
-|:-|:-:|-:|
-|Dinámicas de poder alteradas o exacerbadas por la IA| **[Sociología](/documentos/sociologia.md)** |Promueve la equidad en la era de la IA
-Aparición o incremento de desigualdades debido a la IA||Ayuda a anticipar y mitigar desigualdades potenciales
-Impacto de la IA en la estructura social y laboral||Informa sobre impactos sociales para un diseño de IA más inclusivo|
