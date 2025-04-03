@@ -150,7 +150,7 @@ Más allá de estos impactos específicos, debemos recordar que **la tecnología
 
 <div align=center>
 
-<img src="../../documentos/imagenes/parabolaParrilladaImagen.png" width=350>
+<img src="../../documentos/imagenes/parrillada.jpg" width=350>
 
 </div>
 
