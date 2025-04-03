@@ -69,11 +69,12 @@ Cada vez que aparece una tecnología disruptiva se genera un ***ciclo de adaptac
 
 |LLMs|||
 |-|-|-|
-|**Modelo de lenguaje a gran escala**|Modelos avanzados de aprendizaje automático diseñados para procesar y generar texto, entrenados en grandes cantidades de datos textuales de modo que son capaces de entender y producir lenguaje similar al humano.|¿Autocompletar?|
+|**Modelo de lenguaje a gran escala**|Modelos avanzados de aprendizaje automático diseñados para procesar y generar texto, entrenados en grandes cantidades de datos textuales de modo que son capaces de entender y producir lenguaje similar al humano.|¿Autocompletar? ¿Solo eso?|
 
 |*Los LLMs generan nuevo contenido, convirtiéndolos en una forma de "IA generativa".*
 |-|
 |![](/documentos/imagenes/timelineLLMs.png)
+
 
 ¡Pero ya un año antes (el 2018) Google presentaba esto!
 
@@ -87,7 +88,7 @@ https://github.com/user-attachments/assets/34f0965c-5ac6-4407-b1c9-02aded972969
 
 <div align=center>
 
-|Principales
+|Estructurales
 |:-:|
 |![](/documentos/imagenes/modelosUML/componentes.svg)|
 <u>**Secundarios:**</u>
@@ -104,19 +105,36 @@ Existe un impacto en diversas disciplinas que hemos de **saber reconocer y dimen
 <div align=center>
 
 | Disciplina | IA@Disciplina |
-|:----------:|---------------|
-| **Lingüística** | [Impacto de la IA en la evolución del lenguaje](/documentos/casosDeUso/influenciaLLMsLenguaje.md) |
-| **Ética** | [Dilemas éticos](/documentos/casosDeUso/dilemaEtico.md) en la toma de decisiones automatizada |
-| **Filosofía** | [Debates sobre el libre albedrío](https://openreview.net/pdf?id=W3VsHuga3j) y determinismo en sistemas de IA |
-| **Psicología** | Efectos de la IA en el comportamiento y cognición humana |
-| **Antropología** | Cambios culturales debido a la integración de IA en la sociedad |
-| **Historia** | Análisis del desarrollo histórico de la IA |
-| **Artes** | IA en la creación artística (música, pintura, literatura) |
-| **Sociología** | Dinámicas de poder alteradas o exacerbadas por la IA |
-| | Aparición o incremento de desigualdades debido a la IA |
-| | Impacto de la IA en la estructura social y laboral |
+|-|-|
+|**Lingüística**|[Impacto de la IA en la evolución del lenguaje](/documentos/casosDeUso/influenciaLLMsLenguaje.md) |
+|**Ética**|[Dilemas éticos](/documentos/casosDeUso/dilemaEtico.md) en la toma de decisiones automatizada |
+|**Filosofía**|[Debates sobre el libre albedrío](https://openreview.net/pdf?id=W3VsHuga3j) y determinismo en sistemas de IA |
+|**Psicología**|Efectos de la IA en el comportamiento y cognición humana |
+|**Antropología**|Cambios culturales debido a la integración de IA en la sociedad |
+|**Historia**|Análisis del desarrollo histórico de la IA |
+|**Artes**|IA en la creación artística (música, pintura, literatura) |
+|**Sociología**|Dinámicas de poder alteradas o exacerbadas por la IA |
+|| Aparición o incremento de desigualdades debido a la IA |
+|| Impacto de la IA en la estructura social y laboral |
 
 </div>
+
+### La tecnología como elemento de servicio
+
+Más allá de estos impactos específicos, debemos recordar que **la tecnología es un elemento de servicio**. No existe para sí misma, sino para facilitar y potenciar las capacidades humanas. Como profesionales de la informática, debemos preguntarnos constantemente:
+
+- ¿Estamos creando soluciones que realmente sirven a las necesidades humanas?
+- ¿O estamos obligando a los humanos a adaptarse a nuestra visión tecnológica?
+
+<div align=center>
+
+|[12:00](https://es.wikipedia.org/wiki/Problema_del_doce_parpadeante)|[Google Wave](https://es.wikipedia.org/wiki/Apache_Wave) [📹](https://www.youtube.com/watch?v=v_UyVmITiYQ)|
+|:-:|:-:|
+|![](/documentos/imagenes/Metz_VH48_v2.jpg)|![](/documentos/imagenes/Wave[1].webp)|
+||[PdC](https://docs.google.com/presentation/d/1qQXZE0g10PZHzisHxJbp32Dkxx9gktXhPHh3fNLmgDs/edit?slide=id.g13b61317ea1_0_118#slide=id.g13b61317ea1_0_118)|
+</div>
+
+
 
 ## ¿Cómo?
 
