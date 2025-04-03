@@ -4,7 +4,7 @@
 
 <img src="../imagenes/CPIC-Logo-Color-1024x400.png" width=30% align=right>
 
-# Tiempos modernos: transformadores tecnológicos y sociales
+# Tiempos modernos:<br>transformadores tecnológicos y sociales
 
 Expresar una idea creativa dependía de la habilidad artística humana, amén de la interpretación personal.
 
