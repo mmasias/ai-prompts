@@ -31,7 +31,6 @@ https://github.com/user-attachments/assets/720ad51c-7dc6-4f60-8f13-598cd8282d84
 
 Cada vez que aparece una tecnología disruptiva se genera un ***ciclo de adaptación*** que revela nuestra relación compleja con la innovación:
 
-
 <div align=center>
 
 |||
@@ -40,8 +39,10 @@ Cada vez que aparece una tecnología disruptiva se genera un ***ciclo de adaptac
 ||[Can't help myself](https://historia-arte.com/obras/can-t-help-myself) / [📽️](https://www.youtube.com/watch?v=4ooVr6RZ_nw)
 |Reacciones|[Sorpresa, miedo, negación](https://docs.google.com/presentation/d/1UscAlHfjGgg4pPzz_p0V1eX18R74DRlvTtMXsbLVtI0/edit?usp=sharing) / [PessimistArchive](https://pessimistsarchive.org/)
 ||[Ironía](/documentos/imagenes/publicidadGPT.jpeg) ([*o no...*](https://www.1x.tech/neo)) --> [*Unboxing*](https://x.com/nothing/status/1894007732044259657)
-|Recurrencia y ciclos|[Esto ya lo he visto](/documentos/olvidarPasado.md)|
-||Ocurrió y no lo ví: [jun/2022](https://timesofindia.indiatimes.com/business/international-business/full-transcript-google-ai-bots-interview-that-convinced-engineer-it-was-sentient/articleshow/92178185.cms)|
+|Recurrencia y ciclos|[Esto ya lo he visto](/documentos/olvidarPasado.md)
+||Ocurrió y no lo ví: [@Jun2022](https://timesofindia.indiatimes.com/business/international-business/full-transcript-google-ai-bots-interview-that-convinced-engineer-it-was-sentient/articleshow/92178185.cms)
+||[@Feb2025: *Is AI a bubble?*](https://qz.com/ai-tech-stocks-dot-com-bubble-markets-1851768177)
+||[@Mar2025, hace pocos días](https://x.com/DaniNovarama/status/1907354905540522184)
 ||**El patrón histórico: de brechas a puentes** - La imprenta, el teléfono, internet - inicialmente divisores, finalmente conectores|
 ||**La paradoja actual:** tecnologías diseñadas para conectar que a veces nos separan más|
 |Inserción|[¿A la fuerza?](/documentos/imagenes/modelosUML/5mas5mas5.svg)
