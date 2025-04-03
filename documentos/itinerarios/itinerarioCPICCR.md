@@ -150,13 +150,13 @@ Más allá de estos impactos específicos, debemos recordar que **la tecnología
 
 <div align=center>
 
-<img src="../../documentos/imagenes/parrillada.jpg" width=350>
+<img src="../../documentos/imagenes/parrillada.jpg" width=50%>
 
 </div>
 
 |-|-|-|-|-|-|-|-|-|-|-|-|
 |-|-|-|-|-|-|-|-|-|-|-|-|
-|Idea|Clima, sitio|Invitados|¿Qué preparamos?|Compras|Preparación previa|Recepción|Parrillada|Servir y comer|Sobremesa|Recogida|Repaso mental
+|Idea|Clima<br>sitio|Invitados|¿Qué preparar?|Compras|Preparación<br>previa|Recepción|Parrillada|Servir<br>Comer|Sobremesa|Recogida|Repaso mental|
 
 Un modelo para el desarrollo tecnológico centrado en lo humano
 
