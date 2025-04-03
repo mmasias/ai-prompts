@@ -1,8 +1,4 @@
-<div align=right><i>Siempre hemos tenido que lidiar con nuevas formas de expresión.<br>Hoy, una de ellas habla... y responde.</i></div>
-
----
-
-<img src="../imagenes/CPIC-Logo-Color-1024x400.png" width=30% align=right>
+<div align=right><sub><i>Siempre hemos tenido que lidiar con nuevas formas de expresión.<br>Hoy, una de ellas habla... y responde.</i></sub></div>
 
 # Tiempos modernos:<br>transformadores tecnológicos y sociales
 
