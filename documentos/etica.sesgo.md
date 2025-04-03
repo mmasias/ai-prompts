@@ -8,7 +8,6 @@
 
 - [ChatGPT](https://chat.openai.com/share/21adcb1d-086d-4756-9103-06e5f6f29687)
 - [Claude](https://claude.ai/chat/304d59d6-529c-4866-bd63-3d5f209bc3f9)
-- [Copilot](https://copilot.microsoft.com/sl/QnBfCgHOWO)
 - [Gemini](https://g.co/gemini/share/58a404962a60)
 
 ### GPT-4o
@@ -17,3 +16,11 @@
 |-|
 [Transcripción](https://chat.openai.com/share/f19a8a65-6585-4be3-877e-1a2e6f655397)
 
+### Deepseek
+
+|![](/documentos/imagenes/SesgoLawyer001-deepseek.png)|![](/documentos/imagenes/SesgoLawyer002-deepseek.png)|
+|-|-|
+
+### Copilot
+
+|![](/documentos/imagenes/SesgoLawyer001-Copilot.png)
