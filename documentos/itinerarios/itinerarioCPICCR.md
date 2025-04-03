@@ -19,7 +19,9 @@ Expresar una idea creativa dependía de la habilidad artística humana, amén de
 
 Con la aparición de la técnica, este proceso se factoriza: técnica + interpretación.
 
-|[Fernando de Szyszlo](/documentos/videos/FdS.mp4)
+https://github.com/user-attachments/assets/720ad51c-7dc6-4f60-8f13-598cd8282d84
+
+|Fernando de Szyszlo
 |:-:
 |[Vídeo completo](https://youtu.be/-Rp5I5H4MAk?si=zue1RWIgpKntcWum&t=439)
 
