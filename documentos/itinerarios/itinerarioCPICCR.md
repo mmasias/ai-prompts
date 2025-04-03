@@ -143,9 +143,7 @@ Más allá de estos impactos específicos, debemos recordar que **la tecnología
 
 Esta sutil diferencia es clave para entender cómo la tecnología debe tender puentes en lugar de crear brechas.
 
-### Lectura recomendada: [*En el principio... fue la línea de comandos*](https://biblioweb.sindominio.net/telematica/command_es/)
-
-|||
+|Lectura recomendada|[*En el principio... fue la línea de comandos*](https://biblioweb.sindominio.net/telematica/command_es/)|
 |-|-|
 |Ensayo del escritor estadounidense Neal Stephenson, publicado originalmente en Internet en 19991​ y más tarde ese mismo año en forma de libro, donde se postula que *“los usuarios no prefieren los productos de Microsoft y Apple porque sean inherentemente más sencillos de usar que los de Linux, sino porque parecen más sencillos de usar y porque confían en que el servicio técnico de Apple y Microsoft se hará cargo de cualquier avería que pueda surgir…”*|![](/documentos/imagenes/enElPrincipioLineaComandos.jpg)
 
