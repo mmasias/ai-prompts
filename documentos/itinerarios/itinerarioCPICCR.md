@@ -132,13 +132,24 @@ Más allá de estos impactos específicos, debemos recordar que **la tecnología
 |:-:|:-:|
 |![](/documentos/imagenes/Metz_VH48_v2.jpg)|![](/documentos/imagenes/Wave[1].webp)|
 ||[PdC](https://docs.google.com/presentation/d/1qQXZE0g10PZHzisHxJbp32Dkxx9gktXhPHh3fNLmgDs/edit?slide=id.g13b61317ea1_0_118#slide=id.g13b61317ea1_0_118)|
+
 </div>
-
-
 
 ## ¿Cómo?
 
-### Aspectos de la interacción entre IA y disciplinas humanistas
+> *los usuarios no prefieren los productos porque sean inherentemente más sencillos de usar, sino porque **parecen** más sencillos.*
+>
+> Neal Stephenson
+
+Esta sutil diferencia es clave para entender cómo la tecnología debe tender puentes en lugar de crear brechas.
+
+### Lectura recomendada: [*En el principio... fue la línea de comandos*](https://biblioweb.sindominio.net/telematica/command_es/)
+
+|||
+|-|-|
+|Ensayo del escritor estadounidense Neal Stephenson, publicado originalmente en Internet en 19991​ y más tarde ese mismo año en forma de libro, donde se postula que *“los usuarios no prefieren los productos de Microsoft y Apple porque sean inherentemente más sencillos de usar que los de Linux, sino porque parecen más sencillos de usar y porque confían en que el servicio técnico de Apple y Microsoft se hará cargo de cualquier avería que pueda surgir…”*|![](/documentos/imagenes/enElPrincipioLineaComandos.jpg)
+
+### Aspectos de la interacción entre IA y otras disciplinas
 
 | Reciprocidad | Transformación mutua | Nuevos campos de estudio | Desafíos y oportunidades | Impacto cultural y social | Mejora mutua |
 |-|-|-|-|-|-|
