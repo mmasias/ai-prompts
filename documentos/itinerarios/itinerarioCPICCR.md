@@ -137,7 +137,7 @@ Más allá de estos impactos específicos, debemos recordar que **la tecnología
 
 |¿Cuántas soluciones tecnológicas brillantes fracasan porque no logran conectar genuinamente con las necesidades humanas?|¿Cómo evitamos que la tecnología disruptiva se convierta en un elemento de alienación en lugar de conexión?|¿Qué sucede cuando la tecnología, en lugar de servir, impone su propia lógica a los usuarios?
 |:-:|:-:|:-:|
-|[🪦](https://killedbygoogle.com/)|El antiejemplo:<br>🐁 / 👆🏼 / `[textbox]`||
+|[🪦](https://killedbygoogle.com/)|El antiejemplo:<br>🐁 / 👆🏼 / `[textbox]`|12:00|
 
 </div>
 
@@ -149,9 +149,94 @@ Más allá de estos impactos específicos, debemos recordar que **la tecnología
 
 > Esta sutil diferencia es clave para entender ***cómo la tecnología debe tender puentes en lugar de crear brechas.***
 
-### Aspectos de la interacción entre IA y otras disciplinas
+### La parábola de la parrillada
 
-| Reciprocidad | Transformación mutua | Nuevos campos de estudio | Desafíos y oportunidades | Impacto cultural y social | Mejora mutua |
-|-|-|-|-|-|-|
-| Cada disciplina no solo se ve afectada por la IA, sino que también influye significativamente en su desarrollo. | Tanto las disciplinas como la IA están evolucionando como resultado de esta interacción.  | Ej.: ética de la IA, la antropología digital, o la ***creación artística asistida por IA***. | Que surgen de esta interacción. | Que las disciplinas humanistas están ayudando a comprender y abordar. | En muchos casos, vemos cómo la interacción entre la IA y las disciplinas humanistas conduce a mejoras en ambos campos. |
+<div align=center>
 
+<img src="../../documentos/imagenes/parabolaParrilladaImagen.png" width=350>
+
+</div>
+
+|-|-|-|-|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|-|-|-|-|
+|Idea|Clima, sitio|Invitados|¿Qué preparamos?|Compras|Preparación previa|Recepción|Parrillada|Servir y comer|Sobremesa|Recogida|Repaso mental
+
+Un modelo para el desarrollo tecnológico centrado en lo humano
+
+<div align=center>
+
+| Ciclo de una parrillada | Desarrollo tecnológico | 
+|-|-|
+| **Idea**: surge la inspiración | **Detección de necesidades**: identificar problemas reales |
+| **Clima, sitio**: evaluar condiciones | **Análisis del contexto**: entender el entorno donde se aplicará |
+| **Invitados**: ¿para quién cocinamos? | **Usuarios finales**: ¿quiénes son realmente nuestros usuarios? |
+| **¿Qué preparamos?**: según preferencias | **Especificaciones**: adaptadas a necesidades reales |
+| **Compras**: ingredientes necesarios | **Recursos**: seleccionar tecnologías adecuadas |
+| **Preparación previa**: mise en place | **Diseño**: planificar antes de construir |
+| **Recepción**: acoger a los invitados | **Onboarding**: facilitar la entrada al sistema |
+| **Parrillada**: el acto de cocinar | **Desarrollo**: construir con atención a detalles |
+| **Servir y comer**: disfrutar juntos | **Implementación**: poner en uso, acompañar |
+| **Sobremesa**: conversar, disfrutar | **Feedback**: escuchar experiencias de uso |
+| **Recogida**: ordenar y limpiar | **Mantenimiento**: corregir, mejorar |
+| **Repaso mental**: ¿qué haría diferente? | **Iteración**: aprender para la próxima versión |
+
+</div>
+
+> - Una parrillada: experiencia social.
+> - Desarrollo tecnológico: experiencia humana completa.
+
+### Aspectos de la transformación tecnológica genuina
+
+<div align=center>
+
+| Transformación, no imposición | Puentes, no barreras | Servicio, no dominación |
+|-|-|-|
+| La verdadera transformación digital implica un cambio que es percibido como **mejora** por el usuario. | La tecnología debe construir conexiones entre diferentes realidades, disciplinas y personas. | Como expertos, nuestra responsabilidad es estar seguros de ir en la dirección correcta antes de implementar. |
+| *"La transformación es percibida por el usuario"* | *"Evitar pervertir al usuario con nuestra metodología"* | *"La tecnología es un elemento de servicio"* |
+
+</div>
+
+### Metodologías para tender puentes
+
+1. **Diseño centrado en el usuario genuino**
+   - No se trata de hacer pruebas superficiales con usuarios
+   - Implica comprender profundamente sus contextos, limitaciones y aspiraciones
+   - El [bachillerato por radio](https://web.archive.org/web/20240724204101/https://www.saberpopular.org/index.php?option=com_content&view=article&id=182:bachillerato-por-radio&catid=42&Itemid=240) de Radio Sutatenza en Colombia como ejemplo histórico: la tecnología adaptada a la realidad contextual
+1. **Interfaces que conectan mundos**
+   - Del "12:00 parpadeante" a interfaces que se adaptan al usuario
+   - Simplicidad e intuición como norte: el ratón, el dedo táctil, la caja de texto
+   - Los LLMs como puentes entre lenguaje técnico y lenguaje natural
+1. **Co-creación en lugar de imposición**
+   - Involucrar a todas las disciplinas relevantes desde el inicio
+   - Evitar la "***tiranía del experto técnico***"
+   - Crear equipos multidisciplinarios donde informáticos y usuarios finales tengan voz igual
+1. **Evaluación por adopción y transformación real**
+   - El éxito no se mide por la complejidad técnica implementada
+   - Se mide por cuánto se usa y cómo mejora realmente la vida de las personas
+   - Se mide por la eliminación de barreras, no por la adición de funcionalidades
+
+### Retos específicos para profesionales informáticos
+
+<div align=center>
+
+|En la academia|En la empresa|En la sociedad|
+|:-:|:-:|:-:|
+|¿Se prepara a la gente utilizando tecnología?|Uso correcto y adopción de la tecnología|Capacidad de detección de fake news|
+|¿Se adopta la tecnología?|Trabajo colaborativo facilitado por tecnología|Introducción responsable de tecnología|
+|¿Tiene éxito la adopción?|Innovación disruptiva centrada en el usuario|La legislación como guía, no como freno|
+
+</div>
+
+### Las tres reflexiones fundamentales
+
+Para que la tecnología realmente tienda puentes y no construya muros, debemos mantener siempre presentes tres principios:
+
+<div align=center>
+
+|La tecnología es un elemento de servicio|Debemos evitar pervertir el área de destino|Informarse más allá de la informática|
+|-|-|-|
+|No un fin en sí misma|La tecnología debe adaptarse al contexto, no al revés|Comprender los contextos humanos donde operará nuestra tecnología
+
+</div>
+
+Tender puentes requiere conocer ambas orillas. Como profesionales informáticos, tenemos la responsabilidad no solo de dominar nuestro campo técnico, sino de comprender profundamente los ámbitos humanos donde nuestras creaciones vivirán.
