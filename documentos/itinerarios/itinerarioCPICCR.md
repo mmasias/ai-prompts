@@ -39,7 +39,7 @@ Cada vez que aparece una tecnología disruptiva se genera un ***ciclo de adaptac
 |Duda|[¿Es el arte una característica humana?](/documentos/arteEsSoloHumano.md)|
 ||[Can't help myself](https://historia-arte.com/obras/can-t-help-myself) / [📽️](https://www.youtube.com/watch?v=4ooVr6RZ_nw)
 |Reacciones|[Sorpresa, miedo, negación](https://docs.google.com/presentation/d/1UscAlHfjGgg4pPzz_p0V1eX18R74DRlvTtMXsbLVtI0/edit?usp=sharing) / [PessimistArchive](https://pessimistsarchive.org/)
-||[Ironía](/documentos/imagenes/publicidadGPT.jpeg) ([*o no...*](https://www.1x.tech/neo))
+||[Ironía](/documentos/imagenes/publicidadGPT.jpeg) ([*o no...*](https://www.1x.tech/neo)) --> [*Unboxing*](https://x.com/nothing/status/1894007732044259657)
 |Recurrencia y ciclos|[Esto ya lo he visto](/documentos/olvidarPasado.md)|
 ||Ocurrió y no lo ví: [jun/2022](https://timesofindia.indiatimes.com/business/international-business/full-transcript-google-ai-bots-interview-that-convinced-engineer-it-was-sentient/articleshow/92178185.cms)|
 ||**El patrón histórico: de brechas a puentes** - La imprenta, el teléfono, internet - inicialmente divisores, finalmente conectores|
