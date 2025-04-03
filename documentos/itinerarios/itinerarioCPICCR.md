@@ -38,10 +38,10 @@ Cada vez que aparece una tecnología disruptiva se genera un ***ciclo de adaptac
 ||Aparecen [🌬️💨](/documentos/💨.md) que se saltan una [aproximación metodológica](https://docs.google.com/spreadsheets/d/12ZWrmk_hv4i6X0tUPkBYEHCHynxTdQNHClmBFpjqbJc/edit?gid=0#gid=0)
 ||[Se (intenta) regular](/documentos/etica@AI.md)
 ||[Ironía](/documentos/imagenes/publicidadGPT.jpeg) ([*o no...*](https://www.1x.tech/neo)) --> [*Unboxing*](https://x.com/nothing/status/1894007732044259657)
-|Recurrencia y ciclos|[Esto ya lo he visto](/documentos/olvidarPasado.md)
-||Ocurrió y no lo ví: [@Jun2022](https://timesofindia.indiatimes.com/business/international-business/full-transcript-google-ai-bots-interview-that-convinced-engineer-it-was-sentient/articleshow/92178185.cms)
-||[@Feb2025: *Is AI a bubble?*](https://qz.com/ai-tech-stocks-dot-com-bubble-markets-1851768177) (***Spoiler***: [*sí, pero no es tan malo*](https://www.enriquedans.com/2024/04/hay-una-burbuja-de-la-inteligencia-artificial.html))
-||[@Mar2025, hace pocos días](https://x.com/DaniNovarama/status/1907354905540522184)
+|Recurrencia y ciclos|¿Burbuja?: [Esto ya lo he visto](/documentos/olvidarPasado.md)
+||¿ConciencIA?: Ocurrió y no lo ví: [@Jun2022](https://timesofindia.indiatimes.com/business/international-business/full-transcript-google-ai-bots-interview-that-convinced-engineer-it-was-sentient/articleshow/92178185.cms)
+||¿Burbuja?: [@Feb2025: *Is AI a bubble?*](https://qz.com/ai-tech-stocks-dot-com-bubble-markets-1851768177) (***Spoiler***: [*sí, pero no es tan malo*](https://www.enriquedans.com/2024/04/hay-una-burbuja-de-la-inteligencia-artificial.html))
+||¿ConciencIA?: [@Mar2025, hace pocos días](https://x.com/DaniNovarama/status/1907354905540522184)
 |Inserción|[¿A la fuerza?](https://raw.githubusercontent.com/mmasias/ai-prompts/fc1b92688c37307a590217063aea0aecc565032a/documentos/imagenes/modelosUML/5mas5mas5.svg)
 ||"Aparecen" términos nuevos que reflejan tensión... *FOMO* / *JOMO*, *Nomofobia*, *Infoxicación*, *Cibercondría*
 ||"Aparecen" términos que reflejan integración... comunidades digitales, inteligencia colectiva, co-creación
