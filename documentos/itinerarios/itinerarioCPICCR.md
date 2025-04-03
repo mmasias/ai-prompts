@@ -38,6 +38,12 @@ Cada vez que aparece una tecnología disruptiva se genera un ***ciclo de adaptac
 |Duda|[¿Es el arte una característica humana?](/documentos/arteEsSoloHumano.md)|
 ||[Can't help myself](https://historia-arte.com/obras/can-t-help-myself) / [📽️](https://www.youtube.com/watch?v=4ooVr6RZ_nw)
 |Reacciones|[Sorpresa, miedo, negación](https://docs.google.com/presentation/d/1UscAlHfjGgg4pPzz_p0V1eX18R74DRlvTtMXsbLVtI0/edit?usp=sharing) / [PessimistArchive](https://pessimistsarchive.org/)
+|**Entra la IA**|Se interactúa con ellos [con modos antropomórficos](/documentos/cortesia.md)
+||[Se analiza su fiabilidad](/documentos/casosDeUso/fiabilidad.md#cómo) / [Incluso con manzanas!!!](/documentos/casosDeUso/manzanas.md)
+||[Se observan con atención](/documentos/etica.sesgo.md), se [entrena](/documentos/entrenamiento.md) 
+||[Se ve como se comportan](/documentos/casosDeUso/dilemaEtico.md)
+||Aparecen [🌬️💨](/documentos/💨.md) que se saltan una [aproximación metodológica](https://docs.google.com/spreadsheets/d/12ZWrmk_hv4i6X0tUPkBYEHCHynxTdQNHClmBFpjqbJc/edit?gid=0#gid=0)
+||[Se (intenta) regular](/documentos/etica@AI.md)
 ||[Ironía](/documentos/imagenes/publicidadGPT.jpeg) ([*o no...*](https://www.1x.tech/neo)) --> [*Unboxing*](https://x.com/nothing/status/1894007732044259657)
 |Recurrencia y ciclos|[Esto ya lo he visto](/documentos/olvidarPasado.md)
 ||Ocurrió y no lo ví: [@Jun2022](https://timesofindia.indiatimes.com/business/international-business/full-transcript-google-ai-bots-interview-that-convinced-engineer-it-was-sentient/articleshow/92178185.cms)
@@ -49,10 +55,6 @@ Cada vez que aparece una tecnología disruptiva se genera un ***ciclo de adaptac
 ||"Aparecen" términos nuevos que reflejan tensión... *FOMO* / *JOMO*, *Nomofobia*, *Infoxicación*, *Cibercondría*
 ||"Aparecen" términos que reflejan integración... comunidades digitales, inteligencia colectiva, co-creación
 ||Otros "desaparecen" o reducen su volumen: *NoCode / Blockchain / Criptodivisas / Ciberseguridad / otros...* */ [Calidad](/documentos/calidadAI.md)*
-||Aparecen [🌬️💨](/documentos/💨.md) que se saltan una [aproximación metodológica](https://docs.google.com/spreadsheets/d/12ZWrmk_hv4i6X0tUPkBYEHCHynxTdQNHClmBFpjqbJc/edit?gid=0#gid=0)
-||[Se analiza su fiabilidad](/documentos/casosDeUso/fiabilidad.md#cómo) / [Incluso con manzanas!!!](/documentos/casosDeUso/manzanas.md)
-||Se estudia, [se observa con atención](/documentos/etica.sesgo.md), se [entrena](/documentos/entrenamiento.md) 
-|| [Se (intenta) regular](/documentos/etica@AI.md)
 
 ---
 
