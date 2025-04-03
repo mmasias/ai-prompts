@@ -1,6 +1,10 @@
 # ¿Es el arte una característica solo humana?
 
+<div align=center>
+
 https://github.com/user-attachments/assets/9629a61d-736f-4d7a-9862-6af475da54fc
+
+</div>
 
 *“Estar abiertos a las nuevas tecnologías es parte de nuestra responsabilidad”, afirmó Antonelli, curador principal del departamento de arquitectura y diseño del museo, conocido por guiar las adquisiciones del MoMA de videojuegos históricos como Pac-Man y el símbolo @. “Nunca nos lanzamos a las nuevas tecnologías, sino que somos conscientes de que debemos seguir el ritmo del mundo”.*
 
