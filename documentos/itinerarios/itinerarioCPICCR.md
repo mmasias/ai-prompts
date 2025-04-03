@@ -231,7 +231,7 @@ Para que la tecnología realmente tienda puentes y no construya muros, debemos m
 <div align=center>
 
 |La tecnología es un elemento de servicio|Debemos evitar pervertir el área de destino|Informarse más allá de la informática|
-|-|-|-|
+|:-:|:-:|:-:|
 |No un fin en sí misma|La tecnología debe adaptarse al contexto, no al revés|Comprender los contextos humanos donde operará nuestra tecnología
 
 </div>
