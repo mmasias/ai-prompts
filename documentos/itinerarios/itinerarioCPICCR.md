@@ -70,9 +70,13 @@ https://github.com/user-attachments/assets/34f0965c-5ac6-4407-b1c9-02aded972969
 
 </div>
 
-|||
+Y ahora nosotros...
+
+<div align=center>
+
+|Interactuamos...||
 |-|-|
-|Interactuamos|Se interactúa con ellos [con modos antropomórficos](/documentos/cortesia.md)
+||Se interactúa con ellos [con modos antropomórficos](/documentos/cortesia.md)
 ||[Se analiza su fiabilidad](/documentos/casosDeUso/fiabilidad.md#cómo) / [Incluso con manzanas!!!](/documentos/casosDeUso/manzanas.md)
 ||[Se observan con atención](/documentos/etica.sesgo.md), se [entrena](/documentos/entrenamiento.md) 
 ||[Se ve como se comportan](/documentos/casosDeUso/dilemaEtico.md)
@@ -80,6 +84,7 @@ https://github.com/user-attachments/assets/34f0965c-5ac6-4407-b1c9-02aded972969
 ||[Se (intenta) regular](/documentos/etica@AI.md)
 ||[Ironía](/documentos/imagenes/publicidadGPT.jpeg) ([*o no...*](https://www.1x.tech/neo)) --> [*Unboxing*](https://x.com/nothing/status/1894007732044259657)
 
+</div>
 
 ---
 
