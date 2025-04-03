@@ -50,7 +50,7 @@ Cada vez que aparece una tecnología disruptiva se genera un ***ciclo de adaptac
 ||"Aparecen" términos que reflejan integración... comunidades digitales, inteligencia colectiva, co-creación
 ||Otros "desaparecen" o reducen su volumen: *NoCode / Blockchain / Criptodivisas / Ciberseguridad / otros...* */ [Calidad](/documentos/calidadAI.md)*
 ||Aparecen [🌬️💨](/documentos/💨.md) que se saltan una [aproximación metodológica](https://docs.google.com/spreadsheets/d/12ZWrmk_hv4i6X0tUPkBYEHCHynxTdQNHClmBFpjqbJc/edit?gid=0#gid=0)
-||[Se analiza su fiabilidad](/documentos/casosDeUso/fiabilidad.md) 
+||[Se analiza su fiabilidad](/documentos/casosDeUso/fiabilidad.md#cómo) 
 ||Se estudia, se [entrena](/documentos/entrenamiento.md) 
 || [Se (intenta) regular](/documentos/etica@AI.md)
 
