@@ -31,13 +31,6 @@ Cada vez que aparece una tecnología disruptiva se genera un ***ciclo de adaptac
 |Duda|[¿Es el arte una característica humana?](/documentos/arteEsSoloHumano.md)|
 ||[Can't help myself](https://historia-arte.com/obras/can-t-help-myself) / [📽️](https://www.youtube.com/watch?v=4ooVr6RZ_nw)
 |Reacciones|[Sorpresa, miedo, negación](https://docs.google.com/presentation/d/1UscAlHfjGgg4pPzz_p0V1eX18R74DRlvTtMXsbLVtI0/edit?usp=sharing) / [PessimistArchive](https://pessimistsarchive.org/)
-|Interactuamos|Se interactúa con ellos [con modos antropomórficos](/documentos/cortesia.md)
-||[Se analiza su fiabilidad](/documentos/casosDeUso/fiabilidad.md#cómo) / [Incluso con manzanas!!!](/documentos/casosDeUso/manzanas.md)
-||[Se observan con atención](/documentos/etica.sesgo.md), se [entrena](/documentos/entrenamiento.md) 
-||[Se ve como se comportan](/documentos/casosDeUso/dilemaEtico.md)
-||Aparecen [🌬️💨](/documentos/💨.md) que se saltan una [aproximación metodológica](https://docs.google.com/spreadsheets/d/12ZWrmk_hv4i6X0tUPkBYEHCHynxTdQNHClmBFpjqbJc/edit?gid=0#gid=0)
-||[Se (intenta) regular](/documentos/etica@AI.md)
-||[Ironía](/documentos/imagenes/publicidadGPT.jpeg) ([*o no...*](https://www.1x.tech/neo)) --> [*Unboxing*](https://x.com/nothing/status/1894007732044259657)
 |Recurrencia y ciclos|¿Burbuja?: [Esto ya lo he visto](/documentos/olvidarPasado.md)
 ||¿ConciencIA?: Ocurrió y no lo ví: [@Jun2022](https://timesofindia.indiatimes.com/business/international-business/full-transcript-google-ai-bots-interview-that-convinced-engineer-it-was-sentient/articleshow/92178185.cms)
 ||¿Burbuja?: [@Feb2025: *Is AI a bubble?*](https://qz.com/ai-tech-stocks-dot-com-bubble-markets-1851768177) (***Spoiler***: [*sí, pero no es tan malo*](https://www.enriquedans.com/2024/04/hay-una-burbuja-de-la-inteligencia-artificial.html))
@@ -76,6 +69,17 @@ Cada vez que aparece una tecnología disruptiva se genera un ***ciclo de adaptac
 https://github.com/user-attachments/assets/34f0965c-5ac6-4407-b1c9-02aded972969
 
 </div>
+
+|||
+|-|-|
+|Interactuamos|Se interactúa con ellos [con modos antropomórficos](/documentos/cortesia.md)
+||[Se analiza su fiabilidad](/documentos/casosDeUso/fiabilidad.md#cómo) / [Incluso con manzanas!!!](/documentos/casosDeUso/manzanas.md)
+||[Se observan con atención](/documentos/etica.sesgo.md), se [entrena](/documentos/entrenamiento.md) 
+||[Se ve como se comportan](/documentos/casosDeUso/dilemaEtico.md)
+||Aparecen [🌬️💨](/documentos/💨.md) que se saltan una [aproximación metodológica](https://docs.google.com/spreadsheets/d/12ZWrmk_hv4i6X0tUPkBYEHCHynxTdQNHClmBFpjqbJc/edit?gid=0#gid=0)
+||[Se (intenta) regular](/documentos/etica@AI.md)
+||[Ironía](/documentos/imagenes/publicidadGPT.jpeg) ([*o no...*](https://www.1x.tech/neo)) --> [*Unboxing*](https://x.com/nothing/status/1894007732044259657)
+
 
 ---
 
