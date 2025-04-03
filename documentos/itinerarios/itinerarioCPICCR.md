@@ -133,6 +133,12 @@ Más allá de estos impactos específicos, debemos recordar que **la tecnología
 |![](/documentos/imagenes/Metz_VH48_v2.jpg)|![](/documentos/imagenes/Wave[1].webp)|
 ||[PdC](https://docs.google.com/presentation/d/1qQXZE0g10PZHzisHxJbp32Dkxx9gktXhPHh3fNLmgDs/edit?slide=id.g13b61317ea1_0_118#slide=id.g13b61317ea1_0_118)|
 
+---
+
+|¿Cuántas soluciones tecnológicas brillantes fracasan porque no logran conectar genuinamente con las necesidades humanas?|¿Cómo evitamos que la tecnología disruptiva se convierta en un elemento de alienación en lugar de conexión?|¿Qué sucede cuando la tecnología, en lugar de servir, impone su propia lógica a los usuarios?
+|:-:|:-:|:-:|
+|[🪦](https://killedbygoogle.com/)|El antiejemplo:<br>🐁 / 👆🏼 / `[textbox]`||
+
 </div>
 
 ## ¿Cómo?
