@@ -31,11 +31,12 @@ Adelante, entonces, aprendiz de mago digital. Que tu verbo se haga claro, y que 
 
 ## C³: los Tres Principios Fundamentales del Prompting
 
-|Principio|Definicion|Responde a la pregunta|Sello|
+||![](/documentos/imagenes/virtudesPrompting/claridad.png)|![](/documentos/imagenes/virtudesPrompting/concrecion.png)|![](/documentos/imagenes/virtudesPrompting/concision.png)|
 |-|-|-|-|
-|**Claridad**|Es el principio de la transparencia absoluta en la comunicación. Es la cualidad que hace que nuestras intenciones sean cristalinas, eliminando toda sombra de ambigüedad.<br><br>Como un espejo de agua en calma, un prompt claro refleja exactamente nuestra intención, sin distorsiones ni interpretaciones múltiples.|*¿Puede entenderse esto de una única manera?*|![](/documentos/imagenes/virtudesPrompting/claridad.png)
-|**Concreción**|Es el principio de la definición precisa. Es la cualidad que establece los límites exactos de lo que buscamos, como las murallas de una ciudad antigua que definen dónde empieza y termina el territorio.<br><br>Un prompt concreto dibuja con exactitud los contornos de lo que se busca, sin dejar espacios indefinidos.|*¿Están todos los parámetros necesarios bien definidos?*|![](/documentos/imagenes/virtudesPrompting/concrecion.png)
-|**Concisión**|Es el principio de la economía del lenguaje. Es la cualidad que nos permite destilar la esencia de nuestro propósito hasta su forma más pura, como un alquimista que reduce una poción hasta obtener solo su elixir vital.<br><br>Un prompt conciso elimina todo lo superfluo, manteniendo solo aquello que sirve a su propósito.|*¿Puede decirse esto con menos palabras sin perder significado?*|![](/documentos/imagenes/virtudesPrompting/concision.png)
+||**Claridad**|**Concreción**|**Concisión**
+||Es el principio de la transparencia absoluta en la comunicación. Es la cualidad que hace que nuestras intenciones sean cristalinas, eliminando toda sombra de ambigüedad.|Es el principio de la definición precisa. Es la cualidad que establece los límites exactos de lo que buscamos, como las murallas de una ciudad antigua que definen dónde empieza y termina el territorio.|Es el principio de la economía del lenguaje. Es la cualidad que nos permite destilar la esencia de nuestro propósito hasta su forma más pura, como un alquimista que reduce una poción hasta obtener solo su elixir vital.
+||Como un espejo de agua en calma, un prompt claro refleja exactamente nuestra intención, sin distorsiones ni interpretaciones múltiples.|Un prompt concreto dibuja con exactitud los contornos de lo que se busca, sin dejar espacios indefinidos.|Un prompt conciso elimina todo lo superfluo, manteniendo solo aquello que sirve a su propósito.
+||*¿Puede entenderse esto de una única manera?*|*¿Están todos los parámetros necesarios bien definidos?*|*¿Puede decirse esto con menos palabras sin perder significado?*|
 
 ## De los principios a las virtudes: el camino del prompting
 
