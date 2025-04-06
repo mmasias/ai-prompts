@@ -120,6 +120,12 @@ Existe un impacto en diversas disciplinas que hemos de **saber reconocer y dimen
 
 </div>
 
+### ¿Y en la educación?
+
+- Usos éticos y responsables
+- Cómo utilizar LLMs para el aprendizaje
+- Herramientas para planificación, generación de ideas, etc.
+
 ## ¿Cómo?
 
 ## [LLMs](/documentos/LLMs.md)
@@ -162,9 +168,8 @@ Revisión de algunos [casos de uso](/documentos/casosDeUso/README.md), junto con
 
 - [La ventana de contexto](/documentos/prompts/ventanaDeContexto.md)
 - [Anatomía de un prompt](/documentos/prompts/anatomia.md) - Los [componentes](/documentos/prompts/componentes.md)
-- [Ejemplos de partida para prompts](/documentos/prompts/ejemplos.md)
-- [Buenas prácticas al construir un prompt](/documentos/prompts/mejoresPracticas/README.md)
-- [Intrucciones personalizadas (Custom instructions en ChatGPT)](/documentos/prompts/customInstructions.md)
+- [Mejores prácticas](/documentos/prompts/mejoresPracticas/README.md)
+- [Las 8 virtudes del prompting](/documentos/prompts/mejoresPracticas/8virtudesDelPrompting.md)
 
 ### Debate@U
 
