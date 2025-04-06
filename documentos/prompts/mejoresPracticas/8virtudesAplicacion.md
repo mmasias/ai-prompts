@@ -12,7 +12,7 @@
 |Virtud|Prompt Original|Prompt Transformado|¿Qué mejoró?|
 |-|-|-|-|
 |**Precisión** *(de la Claridad)*|"Haz algo creativo"|"Escribe un poema"|La intención pasa de vaga a específica|
-|**Especificidad** *(de la Concreción)*|"Escribe un poema"|"Escribe un haiku sobre cerezos en flor"|Los parámetros están bien definidos|
+|**Especificidad** *(de la Concreción)*|"Escribe un poema"|"Escribe un [haiku](haiku.md) sobre cerezos en flor"|Los parámetros están bien definidos|
 |**Simplicidad** *(de la Concisión)*|"¿Podrías, por favor, si fueras tan amable, escribir algún tipo de poema corto de estilo japonés sobre la naturaleza?"|"Escribe un haiku sobre la primavera"|Elimina toda palabra superflua|
 |**Coherencia** *(Claridad + Concreción)*|"Escribe un haiku alegre sobre la tristeza del invierno que sea optimista pero melancólico"|"Escribe un haiku sobre la esperanza al final del invierno"|Elimina contradicciones internas|
 |**Eficiencia** *(Concreción + Concisión)*|"Necesito que escribas un poema del tipo haiku que trate sobre el momento en que la nieve se derrite y llega la primavera"|"Haiku: nieve derritiéndose"|Máximo resultado, mínimas palabras|
