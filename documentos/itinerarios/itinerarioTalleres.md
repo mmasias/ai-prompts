@@ -2,27 +2,21 @@
 
 # Itinerario talleres
 
+## ¿Por qué?
+
 Expresar una idea creativa dependía de la habilidad artística humana, amén de la interpretación personal.
 
 <div align=center>
 
-|![Meninas](https://teoriadelarte.com/wp-content/uploads/2023/12/Las-Meninas-Velazquez.jpg)|![Chambi](https://www.tvperu.gob.pe/sites/default/files/web/2023/u-78/martin_chambi_ofrenda_a_la_tierra_lauramarca_1925_-_1935_ocongate_quispicanchi_cusco.jpg)|
-|-|-|
-|||
+|![Meninas](https://teoriadelarte.com/wp-content/uploads/2023/12/Las-Meninas-Velazquez.jpg)|![Chambi](https://www.tvperu.gob.pe/sites/default/files/web/2023/u-78/martin_chambi_ofrenda_a_la_tierra_lauramarca_1925_-_1935_ocongate_quispicanchi_cusco.jpg)|![](/documentos/imagenes/hnosLumiere.png)|
+|-|-|:-:|
+|||[📽️](https://www.youtube.com/watch?v=xxLGDF_121U)|
 
 Con la aparición de la técnica, este proceso se factoriza: técnica + interpretación.
 
-https://github.com/user-attachments/assets/720ad51c-7dc6-4f60-8f13-598cd8282d84
-
-|Fernando de Szyszlo|
-|:-:|
-|[Vídeo completo](https://youtu.be/-Rp5I5H4MAk?si=zue1RWIgpKntcWum&t=439)|
-
 </div>
 
-## ¿Por qué?
-
-Cada vez que aparece una tecnología disruptiva se genera un ***ciclo de adaptación*** que revela nuestra relación compleja con la innovación:
+Ahora bien... cada vez que aparece una tecnología disruptiva se genera un ***ciclo de adaptación*** que revela nuestra relación compleja con la innovación:
 
 <div align=center>
 
@@ -130,14 +124,12 @@ Existe un impacto en diversas disciplinas que hemos de **saber reconocer y dimen
 
 ## [LLMs](/documentos/LLMs.md)
 
-Modelos de lenguaje, una especialización de las IAs
-
-- [Por qué se elige el texto para interactuar con ellos](/documentos/LLMs.md)
+Modelos de lenguaje, una especialización de las IAs / [¿Por qué se elige el texto para interactuar con ellos?](/documentos/LLMs.md)
 
 <div align=center>
 
 <table>
-  <tr><td>
+  <tr><td align=center>
 
 [![](https://img.shields.io/badge/-ChatGPT-FFF?style=flat&logo=openai&logoColor=black)](https://chat.openai.com/)
 [![](https://img.shields.io/badge/-Claude-FFF?style=flat&logo=anthropic&logoColor=black)](https://claude.ai/chats)
@@ -150,7 +142,15 @@ Modelos de lenguaje, una especialización de las IAs
     
   </td></tr>
   <tr><td align=center>
-Modelos propuestos ☝🏻
+Modelos existentes ☝🏻
+  </td></tr>
+  <tr><td align=center>
+Modelos propuestos 👇🏻
+  </td></tr>  
+  <tr><td align=center>
+
+[![](https://img.shields.io/badge/-Claude-FFF?style=flat&logo=anthropic&logoColor=black)](https://claude.ai/chats)
+[![](https://img.shields.io/badge/-Perplexity-FFF?style=flat&logo=perplexity&logoColor=black)](https://www.perplexity.ai/)
   </td></tr>
 </table>
 
