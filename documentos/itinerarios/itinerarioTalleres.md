@@ -9,8 +9,8 @@ Expresar una idea creativa dependía de la habilidad artística humana, amén de
 <div align=center>
 
 |![Meninas](https://teoriadelarte.com/wp-content/uploads/2023/12/Las-Meninas-Velazquez.jpg)|![Chambi](https://www.tvperu.gob.pe/sites/default/files/web/2023/u-78/martin_chambi_ofrenda_a_la_tierra_lauramarca_1925_-_1935_ocongate_quispicanchi_cusco.jpg)|![](/documentos/imagenes/hnosLumiere.png)|
-|-|-|:-:|
-|||[📽️](https://www.youtube.com/watch?v=xxLGDF_121U)|
+|:-:|-|:-:|
+|[**Meninas**](/documentos/meninas.md)||[📽️](https://www.youtube.com/watch?v=xxLGDF_121U)|
 
 Con la aparición de la técnica, este proceso se factoriza: técnica + interpretación.
 
