@@ -62,6 +62,10 @@ Fuente: [***Timeline of AI and language models***](https://lifearchitect.ai/time
 [*2025 LifeArchitect.ai data*](https://docs.google.com/spreadsheets/d/1kc262HZSMAWI6FVsh0zJwbB-ooYvzhCHaHcNUiA0_hY/edit?gid=1158069878#gid=1158069878)
 ![](/documentos/imagenes/logrosAI.png)
 
+|||
+|-|-|
+|Los resultados presentados muestran una evolución acelerada de los modelos de lenguaje (LLMs) entre 2023 y 2025, con avances significativos en múltiples campos. Desde octubre de 2023, cuando GPT-4 ya superaba a humanos en redacción académica, hasta marzo de 2025, donde GPT-4.5 fue evaluado como indistinguible de un humano en conversaciones, estos sistemas han demostrado capacidades crecientes en áreas tan diversas como matemáticas (o1 completando exámenes con puntuación perfecta), medicina (superando a psiquiatras), ingeniería, seguridad informática, y creatividad (generación de memes y arte).|Particularmente notables son los resultados en tareas sociales y cognitivas complejas como humor, persuasión, y relaciones interpersonales, junto con aplicaciones prácticas en inversiones financieras y modelado biológico. Esta progresión ilustra cómo los LLMs están trascendiendo rápidamente sus limitaciones iniciales para competir o superar capacidades humanas en dominios cada vez más amplios y sofisticados, sugiriendo un futuro donde estas tecnologías podrían transformar fundamentalmente numerosos campos profesionales.
+
 ¡Pero ya un año antes (el 2018) Google presentaba esto!
 
 https://github.com/user-attachments/assets/34f0965c-5ac6-4407-b1c9-02aded972969
