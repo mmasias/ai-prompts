@@ -164,12 +164,14 @@ Modelos propuestos 👇🏻
 
 ### Interacción con modelos de lenguaje
 
+[**Las 8 virtudes del prompting**](/documentos/prompts/mejoresPracticas/8virtudesDelPrompting.md)
+
 Revisión de algunos [casos de uso](/documentos/casosDeUso/README.md), junto con conceptos de [**prompts**](/documentos/prompts/README.md).
 
 - [La ventana de contexto](/documentos/prompts/ventanaDeContexto.md)
 - [Anatomía de un prompt](/documentos/prompts/anatomia.md) - Los [componentes](/documentos/prompts/componentes.md)
 - [Mejores prácticas](/documentos/prompts/mejoresPracticas/README.md)
-- [Las 8 virtudes del prompting](/documentos/prompts/mejoresPracticas/8virtudesDelPrompting.md)
+
 
 ### Debate@U
 
