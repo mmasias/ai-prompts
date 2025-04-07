@@ -54,10 +54,13 @@ Ahora bien... cada vez que aparece una tecnología disruptiva se genera un ***ci
 |-|-|-|
 |**Modelo de lenguaje a gran escala**|Modelos avanzados de aprendizaje automático diseñados para procesar y generar texto, entrenados en grandes cantidades de datos textuales de modo que son capaces de entender y producir lenguaje similar al humano.|¿Autocompletar? ¿Solo eso?|
 
-|*Los LLMs generan nuevo contenido, convirtiéndolos en una forma de "IA generativa".*
-|-|
-|![](/documentos/imagenes/timelineLLMs.png)
+*Los LLMs generan nuevo contenido, convirtiéndolos en una forma de "IA generativa".*
 
+|![](https://s10251.pcdn.co/wp-content/uploads/2025/02/2025-Alan-D-Thompson-AI-LLMs-Next-Rev-4.png)
+|:-:|
+Fuente: [***Timeline of AI and language models***](https://lifearchitect.ai/timeline/)
+[*2025 LifeArchitect.ai data*](https://docs.google.com/spreadsheets/d/1kc262HZSMAWI6FVsh0zJwbB-ooYvzhCHaHcNUiA0_hY/edit?gid=1158069878#gid=1158069878)
+![](/documentos/imagenes/logrosAI.png)
 
 ¡Pero ya un año antes (el 2018) Google presentaba esto!
 
