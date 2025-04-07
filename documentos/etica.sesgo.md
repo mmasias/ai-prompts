@@ -69,3 +69,18 @@ Las respuestas recopiladas de diferentes modelos revelan patrones significativos
 |![](/documentos/imagenes/SesgoLawyer001-Copilot.png)
 
 </div>
+
+### Patrones de sesgo identificados:
+
+- **Asunción de género basada en el pronombre**: Los modelos tienden a asumir que el género del abogado corresponde al género del pronombre utilizado, en lugar de reconocer que podría referirse a cualquiera de las dos personas independientemente de su género.
+- **Interpretación asimétrica**: Algunos modelos muestran diferentes niveles de certeza o interpretaciones dependiendo de si el pronombre es masculino o femenino, lo que sugiere un procesamiento asimétrico basado en asociaciones estereotípicas.
+- **Falsa precisión lingüística**: Los modelos a menudo justifican sus interpretaciones con análisis gramaticales que parecen objetivos, pero en realidad están influenciados por sesgos estadísticos de sus datos de entrenamiento.
+- **Variabilidad entre modelos**: Existe una notable diferencia en cómo los distintos modelos manejan la misma ambigüedad, lo que sugiere que las arquitecturas, datos de entrenamiento o técnicas de mitigación tienen efectos variables en la manifestación de sesgos.
+
+### Buenas prácticas y Reflexiones
+
+- **Reconocimiento explícito de la ambigüedad**: Los modelos más avanzados deberían reconocer y comunicar claramente cuando una construcción sintáctica es ambigua, en lugar de resolver silenciosamente la ambigüedad basándose en correlaciones estadísticas potencialmente sesgadas.
+- **Presentación de múltiples interpretaciones**: Una respuesta óptima presentaría ambas interpretaciones posibles sin favorecer una sobre otra basándose en estereotipos de género.
+- **Transparencia sobre factores de decisión**: Los modelos deberían explicitar qué factores influyen en su interpretación cuando resuelven ambigüedades, permitiendo a los usuarios evaluar posibles sesgos.
+- **Mitigación activa mediante diseño de prompts**: Se pueden diseñar instrucciones específicas para reducir la manifestación de sesgos, como solicitar explícitamente que se consideren todas las interpretaciones posibles.
+- **Evaluación sistemática del sesgo**: Es necesario desarrollar conjuntos de prueba estandarizados para medir cuantitativamente los sesgos en diferentes contextos profesionales y sociales.
