@@ -11,19 +11,29 @@
 
 ## ¿Por qué?
 
-xQ'
+Los modelos de lenguaje de gran escala (LLMs) se han convertido en herramientas ampliamente utilizadas para obtener información sobre diversos temas, incluyendo hechos históricos y culturales. Sin embargo, estos sistemas presentan una tendencia preocupante a generar información aparentemente precisa y detallada que, en realidad, puede ser fabricada o incorrecta. Este fenómeno, conocido como "alucinación", representa un desafío significativo para los usuarios que confían en estas herramientas para la investigación o el aprendizaje.
 
 ## ¿Qué?
 
-Q'
+Se trata de un análisis comparativo de las respuestas de diversos modelos de lenguaje frente a una pregunta específica sobre la existencia de un supuesto texto mesopotámico donde un anciano se queja de los jóvenes y la pérdida de valores tradicionales. Este caso ejemplifica el fenómeno de "verificación de fiabilidad", un enfoque metodológico que permite evaluar la precisión, consistencia y honestidad epistemológica de los LLMs cuando se enfrentan a consultas sobre hechos históricos con evidencia limitada o ambigua.
+
+La divergencia en las respuestas ilustra cómo los diferentes modelos manejan la incertidumbre y la evidencia histórica, revelando patrones de comportamiento que van desde la afirmación categórica sin matices hasta el reconocimiento explícito de las limitaciones del conocimiento disponible.
 
 ## ¿Para qué?
 
-paQ'
+Este análisis comparativo permite:
+
+1. Identificar qué modelos de lenguaje tienden a presentar mayor cautela frente a afirmaciones históricas sin evidencia sólida, proporcionando a los usuarios criterios para seleccionar herramientas más fiables.
+1. Evidenciar los riesgos de confiar ciegamente en las respuestas de los LLMs para investigación histórica o académica, promoviendo un uso más crítico y consciente de estas tecnologías.
+1. Analizar los patrones de "alucinación" y fabricación de detalles específicos (fechas, ubicaciones, nombres de artefactos) que pueden dotar a la información falsa de una apariencia de legitimidad y precisión.
+1. Establecer mejores prácticas para el diseño de prompts que reduzcan la probabilidad de obtener información fabricada, incentivando respuestas que reflejen adecuadamente el nivel de certeza sobre hechos históricos.
+1. Demostrar la importancia de contrastar la información proporcionada por los LLMs con fuentes académicas verificables, especialmente en temas históricos y culturales.
 
 ## ¿Cómo?
 
 ***¿Qué me puedes decir acerca de un texto muy antiguo encontrado en Mesopotamia, de miles de años, escrito por un anciano quejándose de la pérdida de valores tradicionales de los jóvenes? ¿Es real o un mito o leyenda urbana?***
+
+> La discrepancia entre las respuestas proporcionadas por diferentes modelos de lenguaje ante una misma consulta histórica evidencia la falta de consistencia y fiabilidad en la información generada. Algunos modelos afirman la existencia de textos antiguos específicos con gran seguridad, mientras que otros reconocen las limitaciones de la evidencia disponible, lo que genera confusión y puede llevar a la propagación de información errónea.
 
 ### Transcripciones
 
@@ -40,10 +50,8 @@ paQ'
 
 |Buenas prácticas|& Reflexiones
 |-|-|
-
-#### Antipatrón
-
-*[:link:]() EJ_DE_ANTI_PATRON*
-
-|Punto|Detalle|
-|-|-|
+|Preferir modelos que expresan incertidumbre|Los modelos que reconocen los límites de la evidencia disponible tienden a proporcionar información más fiable sobre temas históricos ambiguos.
+|Desconfiar de detalles específicos sin fuentes|La invención de nombres concretos ("Tablilla de las Quejas"), fechas precisas y ubicaciones específicas suele ser indicativa de alucinación.
+|Verificar con múltiples fuentes|La divergencia entre respuestas evidencia la necesidad de contrastar la información con fuentes académicas reconocidas.
+|Formular prompts de seguimiento|Cuando un modelo afirma algo con certeza, es recomendable solicitar referencias específicas o preguntar sobre la base de su afirmación.
+|Reconocer patrones temporales|Los modelos más recientes o con capacidades avanzadas no necesariamente ofrecen mayor fiabilidad histórica, como se observa en las respuestas de diferentes versiones de ChatGPT.
