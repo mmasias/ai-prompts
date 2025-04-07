@@ -96,13 +96,13 @@ Y ahora nosotros...
 
 <div align=center>
 
-|Estructurales
+|Estructurales|
 |:-:|
 |![](/documentos/imagenes/modelosUML/componentes.svg)|
-<u>**Secundarios:**</u>
-Infraestructura
-Curado de datos
-Seguridad, privacidad, ética, sesgo
+|**Secundarios:**|
+|Infraestructura|
+|Curado de datos|
+|Seguridad, privacidad, ética, sesgo|
 
 </div>
 
