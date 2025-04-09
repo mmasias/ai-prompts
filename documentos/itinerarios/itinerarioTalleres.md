@@ -79,7 +79,7 @@ Y ahora nosotros...
 |Interactuamos...||
 |-|-|
 ||Se interactúa con ellos [con modos antropomórficos](/documentos/cortesia.md)
-||[Se analiza su fiabilidad](/documentos/casosDeUso/fiabilidad.md#cómo) / [Incluso con manzanas!!!](/documentos/casosDeUso/manzanas.md)
+||[Se analiza su fiabilidad](/documentos/casosDeUso/fiabilidad.md#cómo) / [Se les pone a prueba](/documentos/casosDeUso/santiagoRamonCajal.md) / [Incluso con manzanas!!!](/documentos/casosDeUso/manzanas.md)
 ||[Se observan con atención](/documentos/etica.sesgo.md), se [entrena](/documentos/entrenamiento.md) 
 ||[Se ve como se comportan](/documentos/casosDeUso/dilemaEtico.md)
 ||Aparecen [🌬️💨](/documentos/💨.md) que se saltan una [aproximación metodológica](https://docs.google.com/spreadsheets/d/12ZWrmk_hv4i6X0tUPkBYEHCHynxTdQNHClmBFpjqbJc/edit?gid=0#gid=0)
