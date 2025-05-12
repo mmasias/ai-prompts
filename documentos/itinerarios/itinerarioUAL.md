@@ -23,8 +23,12 @@
 [![](https://img.shields.io/badge/-Claude-FFF?style=flat&logo=anthropic&logoColor=black)](https://claude.ai/chats)
 [![](https://img.shields.io/badge/-Gemini-FFF?style=flat&logo=googlegemini&logoColor=black)](https://gemini.google.com/app)
 [![](https://img.shields.io/badge/-Perplexity-FFF?style=flat&logo=perplexity&logoColor=black)](https://www.perplexity.ai/)
+[![](https://img.shields.io/badge/-Copilot-FFF?style=flat&logo=microsoft&logoColor=black)](https://copilot.microsoft.com/)
+[![](https://img.shields.io/badge/-Grok-FFF?style=flat&logo=x&logoColor=black)](https://x.com/i/grok)
+[![](https://img.shields.io/badge/-MetaAI-FFF?style=flat&logo=meta&logoColor=black)](https://www.meta.ai/)
+[![](https://img.shields.io/badge/-Qwen-FFF?style=flat&logo=qwen&logoColor=black)](https://chat.qwen.ai/)
+[![](https://img.shields.io/badge/-DeepSeek-FFF?style=flat&logo=deepseek&logoColor=black)](https://chat.deepseek.com/)
 [![](https://img.shields.io/badge/-Neuroflash-FFF?style=flat&logo=&logoColor=black)](https://app.neuro-flash.com/aiWriter)
 [![](https://img.shields.io/badge/-Huggingface-FFF?style=flat&logo=&logoColor=black)](https://huggingface.co/chat)
-[![](https://img.shields.io/badge/-Copilot-FFF?style=flat&logo=microsoft&logoColor=black)](https://copilot.microsoft.com/)
 
 </div>
