@@ -13,3 +13,4 @@
 |Alicia tiene 3 hermanos y también tiene 6 hermanas. ¿Cuántas hermanas tienen los hermanos de Alicia? (*respuesta correcta: 7*)
 |Alicia tiene 2 hermanas y también tiene 4 hermanos. ¿Cuántas hermanas tienen los hermanos de Alicia? (*respuesta correcta: 3*)
 |Alicia tiene 4 hermanos y también tiene 1 hermana. ¿Cuántas hermanas tienen los hermanos de Alicia? (*respuesta correcta: 2*)
+|La mamá de Sarah tiene cinco hijos. John y Michael son gemelos, María y Carol nacieron con 2 años de diferencia. María es la mayor. Michael es el menor. John es dos años más joven que Carol. El quinto hijo es un año mayor que Carol. Los gemelos nacieron en el 2000. ¿Cuáles son los nombres de los cinco hijos ordenados por edad, y en qué año nació cada uno? (*respuesta correcta: María (1996), Sarah (1997), Carol (1998), John (2000), Michael (2000)*)
