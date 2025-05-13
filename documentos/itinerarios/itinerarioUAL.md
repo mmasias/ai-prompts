@@ -7,7 +7,7 @@
   - **LLM**: modelos de lenguaje. Una especialización de las IAs.
     - [Por qué se elige el texto para interactuar con ellos](/documentos/LLMs.md)
     - El factor [ético](/documentos/etica@AI.md) y de seguridad: [legislación](/documentos/legislacionAI.md) y el desafio de la [regulación](/documentos/regulacionAI.md).
-- [Vademecum de modelos de lenguaje](/documentos/panoramica.md)
+- [Vademecum de modelos de lenguaje y herramienta](/documentos/panoramica.md)
 - Interacción con modelos de lenguaje: los [**prompts**](/documentos/prompts/README.md)
   - [La ventana de contexto](/documentos/prompts/ventanaDeContexto.md)
   - [Anatomía de un prompt](/documentos/prompts/anatomia.md) - Los [componentes](/documentos/prompts/componentes.md)
