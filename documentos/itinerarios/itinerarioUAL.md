@@ -13,7 +13,7 @@
   - [Anatomía de un prompt](/documentos/prompts/anatomia.md) - Los [componentes](/documentos/prompts/componentes.md)
   - [Ejemplos de partida para prompts](/documentos/prompts/ejemplos.md)
   - [Buenas prácticas al construir un prompt](/documentos/prompts/mejoresPracticas/README.md)
-  - [Intrucciones personalizadas (Custom instructions en ChatGPT)](/documentos/prompts/customInstructions.md)
+  - [Instrucciones personalizadas (Custom instructions en ChatGPT)](/documentos/prompts/customInstructions.md)
 
 ## Modelos a utilizar
 
