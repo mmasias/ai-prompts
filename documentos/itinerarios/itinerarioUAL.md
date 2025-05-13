@@ -3,7 +3,7 @@
 ## Itinerario de sesiones LATec@UNEATLANTICO
 
 - Introducción
-  - [¿Por qué?](/documentos/intro.md): *no veremos tanto una sustitución de personas por algoritmos, como una de personas que no saben manejar algoritmos por personas que sí saben hacerlo*.
+  - [¿Por qué?](/documentos/itinerarios/itinerarioCPICCR.md): *no veremos tanto una sustitución de personas por algoritmos, como una de personas que no saben manejar algoritmos por personas que sí saben hacerlo*.
   - **LLM**: modelos de lenguaje. Una especialización de las IAs.
     - [Por qué se elige el texto para interactuar con ellos](/documentos/LLMs.md)
     - El factor [ético](/documentos/etica@AI.md) y de seguridad: [legislación](/documentos/legislacionAI.md) y el desafio de la [regulación](/documentos/regulacionAI.md).
