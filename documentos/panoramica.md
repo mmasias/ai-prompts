@@ -17,14 +17,16 @@
 
 |Texto a texto|
 |-|
-[ChatGPT](https://chat.openai.com/)
+[ChatGPT](https://chat.openai.com/) 
 [**Claude**](https://claude.ai/chats)
 [Gemini](https://gemini.google.com/app) / [AIStudio](https://aistudio.google.com/prompts/new_chat)
 [DeepSeek](https://chat.deepseek.com/)
 [Grok](https://x.com/i/grok)
+[MetaAI](https://www.meta.ai/) 👀
 [Copilot](https://copilot.microsoft.com)
 [Mistral AI](https://chat.mistral.ai/chat)
 [Llama AI](https://www.llama2.ai/)
+[Cohere](https://dashboard.cohere.com/playground/chat)
 [Huggingface](https://huggingface.co/chat)
 
 </td><td valign=top width=25%>
@@ -35,7 +37,7 @@
 [MS Designer](https://designer.microsoft.com/)   
 [BlueWillow](https://www.bluewillow.ai/)
 [VisualChatGPT](https://stablediffusionweb.com/Visual-ChatGPT#demo)  
-[Ideogram.ai](https://ideogram.ai/)
+[Ideogram.ai](https://ideogram.ai/) [🖼️](/documentos/imagenes/ideogramExample.png)
 [MidJourney](https://docs.midjourney.com/docs/prompts)  
 
 </td><td valign=top width=25%>
@@ -48,6 +50,8 @@
 [StableAudio](https://www.stableaudio.com/)
 [MusicGen](https://huggingface.co/spaces/facebook/MusicGen)  [(*Repo*)](https://github.com/facebookresearch/audiocraft)        
 [Suno](https://app.suno.ai/create/)
+[ElevenLabs](https://elevenlabs.io/)
+[Udio](https://www.udio.com/create)
 
 </td><td valign=top width=25%>
 
@@ -77,6 +81,12 @@
 [Agenda](https://reclaim.ai/)
 
 </div>
+
+## 🧑‍🏫📚 Docencia
+
+- [Roshi](https://www.roshi.ai/lessons): para educación y tutorías interactivas.
+- [Pi](https://pi.ai/onboarding): Asistente conversacional con fuerte orientación emocional.
+
 
 ## 🔍📚 Investigación
 
