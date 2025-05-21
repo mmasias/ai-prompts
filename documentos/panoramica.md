@@ -367,7 +367,6 @@
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
-|[Execo.ai](https://execo.ai)|Agente para gestión de investigaciones|Servicio / 
 |[Harpa.ai](https://harpa.ai/)|Agente para gestión de investigaciones|Servicio / 
 |[Eightify.app](https://eightify.app)|Agente TLDR y similares8|Herramienta
 
@@ -380,7 +379,6 @@
 - Salud [Glass AI](https://glass.health/ai)
 - RRHH [Sesame](https://www.sesamehr.es/ai/)
 - [Google Document AI](https://cloud.google.com/solutions/procurement-doc-ai?hl=es-419)
-
 
 <!--
 ## Por clasificar
@@ -399,19 +397,3 @@
 [https://ttsmaker.com/](https://ttsmaker.com/)
 [https://lumalabs.ai/](https://lumalabs.ai/)
 -->
-## Obsoletos
-
-### 🆔🎨 Logotipos
-
-Dall·E & Copilot los han vuelto obsoletos
-
-<div align=center>
-
-|Nombre|Descripción|Categoría|
-|-|-|-|
-|[namecheap.com](https://www.namecheap.com/logo-maker/)|Generador de logotipos|
-|[brandmark.io](https://brandmark.io)|Diseño de logotipos|
-|[logopony.com](https://www.logopony.com)|Creación de logotipos|
-|[makelogo.ai](https://makelogo.ai)|Herramienta para diseño de logotipos|
-
-</div>
