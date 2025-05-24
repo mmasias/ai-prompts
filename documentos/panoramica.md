@@ -43,14 +43,14 @@
 
 |Texto a audio/voz/música
 |-|
-[**Mubert**](https://mubert.com/)
-[**Moises**](https://moises.ai/)
 [StableAudio](https://www.stableaudio.com/)
-[MusicGen](https://huggingface.co/spaces/facebook/MusicGen)  [(*Repo*)](https://github.com/facebookresearch/audiocraft)        
+[**Moises**](https://moises.ai/)
+[Mubert](https://mubert.com/)
 [Suno](https://app.suno.ai/create/)
 [ElevenLabs](https://elevenlabs.io/)
 [Udio](https://www.udio.com/create)
 [Moshi](https://www.moshi.chat/?queue_id=talktomoshi)
+[MusicGen](https://huggingface.co/spaces/facebook/MusicGen)  [(*Repo*)](https://github.com/facebookresearch/audiocraft)        
 
 </td><td valign=top width=25%>
 
