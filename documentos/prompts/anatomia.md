@@ -5,6 +5,18 @@
 
 </div>
 
+<div align=right><font size=-2>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[¿Qué son los prompts?](README.md)<br>Conceptos básicos necesarios|Fundamentos > Prompts > **Anatomía**|[Componentes](componentes.md)<br>Detalle de cada parte
+|||[Elementos](elementos.md)<br>Especificaciones granulares
+|||[Recetas](recetas.md)<br>Metodología de combinación
+
+<i>**Relacionado**: [Tokens](tokens.md) - Limitaciones técnicas que afectan el diseño / [Mejores prácticas](mejoresPracticas/README.md) - Aplicación de estos conceptos / [Chain of Thought](../ingenieriaDePrompts/chainOfThought.md) - Técnica que usa esta estructura</i>
+
+</font></div>
+
 # Anatomía de un prompt
 
 <div align=center>

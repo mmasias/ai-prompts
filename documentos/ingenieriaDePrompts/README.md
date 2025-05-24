@@ -5,6 +5,18 @@
 
 </div>
 
+<div align=right><font size=-2>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[Prompts](../prompts/README.md)<br>Fundamentos de prompts necesarios|Metodología > **Ingeniería de Prompts** (Introducción)|[Chain of Thought](chainOfThought.md)<br>Técnica de razonamiento paso a paso
+|[Anatomía de prompts](../prompts/anatomia.md)<br>Comprende componentes y estructura||[0-Shot Prompting](0ShotPrompting.md)<br>Generalización sin ejemplos
+|||[x-Shot Prompting](xShotPrompting.md)<br>Aprendizaje con ejemplos
+
+<i>**Relacionado**: [Patrones](patrones/README.md) - Aplicaciones estructuradas / [Mejores prácticas](../prompts/mejoresPracticas/README.md) - Principios fundamentales / [Casos de uso](../casosDeUso/README.md) - Implementaciones prácticas</i>
+
+</font></div>
+
 # Ingeniería de Prompts
 
 ## ¿Por qué?

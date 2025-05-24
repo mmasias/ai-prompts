@@ -1,3 +1,14 @@
+<div align=right><font size=-2>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[¿Qué son los prompts?](README.md)<br>Base conceptual|Fundamentos > Prompts > **Tokens** (Conceptos técnicos)|[Ventana de contexto](ventanaDeContexto.md)<br>Aplicación práctica de tokens
+|||[Mejores prácticas](mejoresPracticas/README.md)<br>Optimización considerando limitaciones
+
+<i>**Relacionado**: [Anatomía](anatomia.md) - Los tokens afectan el diseño de prompts / [0-Shot Prompting](../ingenieriaDePrompts/0ShotPrompting.md) - Técnica que debe considerar límites de tokens</i>
+
+</font></div>
+
 # Tokens
 
 ## ¿Por qué?

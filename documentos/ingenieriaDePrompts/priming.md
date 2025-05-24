@@ -5,6 +5,17 @@
 
 </div>
 
+<div align=right><font size=-2>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[Ingeniería de Prompts](README.md)<br>Base metodológica necesaria|Metodología > Ingeniería de Prompts > **Priming**|[Árbol de pensamiento](arbolPensamiento.md)<br>Estructuras complejas
+|[Contexto en prompts](../prompts/componentes.md)<br>Componente clave para priming||[Chain of Thought](chainOfThought.md)<br>Razonamiento guiado
+
+<i>**Relacionado**: [0-Shot Prompting](0ShotPrompting.md) - Otra forma de guiar sin ejemplos / [x-Shot Prompting](xShotPrompting.md) - Contraste con ejemplos / [Acrónimo](../casosDeUso/acronimo.md) - Caso práctico de priming</i>
+
+</font></div>
+
 # Ingeniería de Prompts > Priming
 
 > *[Efecto relacionado con la memoria implícita por el cual la exposición a determinados estímulos influye en la respuesta que se da a estímulos presentados con posterioridad.](https://es.wikipedia.org/wiki/Primado_(psicolog%C3%ADa))*

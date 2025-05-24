@@ -5,6 +5,17 @@
 
 </div>
 
+<div align=right><font size=-2>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[0-Shot Prompting](0ShotPrompting.md)<br>Comprende generalización básica|Metodología > Ingeniería de Prompts > **x-Shot Prompting**|[Chain of Thought](chainOfThought.md)<br>Razonamiento estructurado
+|[Componentes de prompts](../prompts/componentes.md)<br>Estructura para incluir ejemplos||[Priming](priming.md)<br>Otra forma de contextualizar
+
+<i>**Relacionado**: [Jitanjáfora](../casosDeUso/aprendizajeJitanjafora.md) - Caso práctico / [Acrónimos](../casosDeUso/acronimo.md) - Ejemplo de aplicación / [Elementos](../prompts/elementos.md) - Detalles de implementación</i>
+
+</font></div>
+
 # X-Shot prompting
 
 ## ¿Por qué?

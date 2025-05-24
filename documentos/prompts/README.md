@@ -5,6 +5,17 @@
 
 </div>
 
+<div align=right><font size=-2>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[Modelos de lenguaje](../LLMs.md)<br>Comprende cómo funcionan los LLMs|Fundamentos > **Prompts** (Introducción)|[Anatomía de un prompt](anatomia.md)<br>Estructura y componentes
+|[Introducción general](../intro.md)<br>Contexto de la IA generativa||[Ventana de contexto](ventanaDeContexto.md)<br>Limitaciones técnicas fundamentales
+
+<i>**Relacionado**: [Ingeniería de Prompts](../ingenieriaDePrompts/README.md) - Metodología avanzada / [Mejores prácticas](mejoresPracticas/README.md) - Aplicación práctica inmediata</i>
+
+</font></div>
+
 # Prompts
 
 ## ¿Por qué?
