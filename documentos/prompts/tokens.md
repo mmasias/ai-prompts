@@ -1,14 +1,3 @@
-<div align=right><font size=-2>
-
-|Requisitos|Estás en|Sigue...|
-|-|-|-|
-|[¿Qué son los prompts?](README.md)<br>Base conceptual|Fundamentos > Prompts > **Tokens** (Conceptos técnicos)|[Ventana de contexto](ventanaDeContexto.md)<br>Aplicación práctica de tokens
-|||[Mejores prácticas](mejoresPracticas/README.md)<br>Optimización considerando limitaciones
-
-<i>**Relacionado**: [Anatomía](anatomia.md) - Los tokens afectan el diseño de prompts / [0-Shot Prompting](../ingenieriaDePrompts/0ShotPrompting.md) - Técnica que debe considerar límites de tokens</i>
-
-</font></div>
-
 # Tokens
 
 ## ¿Por qué?
@@ -114,3 +103,16 @@ Calcúlalo completamente, paso a paso.
 - [ChatGPT-4o](https://chat.openai.com/share/4fd77181-bf32-4ae7-97fa-0c0703ad9d19)
 - [Gemini](https://g.co/gemini/share/f4dff41a1423)
 - [Copilot](https://copilot.microsoft.com/sl/dZcFJEQ7QiG)
+
+---
+
+<div align=right><font size=-2>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[¿Qué son los prompts?](README.md)<br>Base conceptual|Fundamentos > Prompts > **Tokens** (Conceptos técnicos)|[Ventana de contexto](ventanaDeContexto.md)<br>Aplicación práctica de tokens
+|||[Mejores prácticas](mejoresPracticas/README.md)<br>Optimización considerando limitaciones
+
+<i>**Relacionado**: [Anatomía](anatomia.md) - Los tokens afectan el diseño de prompts / [0-Shot Prompting](../ingenieriaDePrompts/0ShotPrompting.md) - Técnica que debe considerar límites de tokens</i>
+
+</font></div>

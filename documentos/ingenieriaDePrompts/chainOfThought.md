@@ -5,17 +5,6 @@
 
 </div>
 
-<div align=right><font size=-2>
-
-|Requisitos|Estás en|Sigue...|
-|-|-|-|
-|[Ingeniería de Prompts](README.md)<br>Base metodológica necesaria|Metodología > Ingeniería de Prompts > **Chain of Thought**|[Árbol de pensamiento](arbolPensamiento.md)<br>Evolución de CoT
-|[Anatomía de prompts](../prompts/anatomia.md)<br>Comprende componentes básicos||[x-Shot Prompting](xShotPrompting.md)<br>Técnica complementaria
-
-<i>**Relacionado**: [Ventana de contexto](../prompts/ventanaDeContexto.md) - Mantener contexto en conversaciones / [Casos prácticos: Artesanía](../casosDeUso/artesania.md) - Ver CoT en acción / [Priming](priming.md) - Otra forma de guiar respuestas</i>
-
-</font></div>
-
 # Chain of thought 
 
 ## ¿Por qué?
@@ -38,3 +27,16 @@ El concepto de "Chain of Thought" es útil para mantener una conversación coher
 
 - [Pidiéndole que piense, paso a paso](https://g.co/gemini/share/dfd8f14e1eb2)
 - [Artesanía](/documentos/casosDeUso/artesania.md)
+
+---
+
+<div align=right><font size=-2>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[Ingeniería de Prompts](README.md)<br>Base metodológica necesaria|Metodología > Ingeniería de Prompts > **Chain of Thought**|[Árbol de pensamiento](arbolPensamiento.md)<br>Evolución de CoT
+|[Anatomía de prompts](../prompts/anatomia.md)<br>Comprende componentes básicos||[x-Shot Prompting](xShotPrompting.md)<br>Técnica complementaria
+
+<i>**Relacionado**: [Ventana de contexo](../prompts/ventanaDeContexto.md) - Mantener contexto en conversaciones / [Casos prácticos: Artesanía](../casosDeUso/artesania.md) - Ver CoT en acción / [Priming](priming.md) - Otra forma de guiar respuestas</i>
+
+</font></div>

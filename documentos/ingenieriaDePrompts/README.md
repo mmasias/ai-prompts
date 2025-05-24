@@ -5,18 +5,6 @@
 
 </div>
 
-<div align=right><font size=-2>
-
-|Requisitos|Estás en|Sigue...|
-|-|-|-|
-|[Prompts](../prompts/README.md)<br>Fundamentos de prompts necesarios|Metodología > **Ingeniería de Prompts** (Introducción)|[Chain of Thought](chainOfThought.md)<br>Técnica de razonamiento paso a paso
-|[Anatomía de prompts](../prompts/anatomia.md)<br>Comprende componentes y estructura||[0-Shot Prompting](0ShotPrompting.md)<br>Generalización sin ejemplos
-|||[x-Shot Prompting](xShotPrompting.md)<br>Aprendizaje con ejemplos
-
-<i>**Relacionado**: [Patrones](patrones/README.md) - Aplicaciones estructuradas / [Mejores prácticas](../prompts/mejoresPracticas/README.md) - Principios fundamentales / [Casos de uso](../casosDeUso/README.md) - Implementaciones prácticas</i>
-
-</font></div>
-
 # Ingeniería de Prompts
 
 ## ¿Por qué?
@@ -82,3 +70,17 @@ Aprender una habilidad que en un futuro será considerada básica
 |-|-|
 [OpenAI](https://openai.com/) / [❓](https://help.openai.com/en/)|
 [Prompt engineering institute](https://www.promptengineering.org/)|
+
+---
+
+<div align=right><font size=-2>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[Fundamentos de prompts](../prompts/README.md)<br>Comprende estructura y componentes básicos|Fundamentos > **Ingeniería de Prompts** (Metodología)|[Consideraciones](consideraciones.md)<br>Factores críticos para el diseño
+|[Ventana de contexto](../prompts/ventanaDeContexto.md)<br>Limitaciones técnicas fundamentales||[Chain of Thought](chainOfThought.md)<br>Razonamiento paso a paso
+|[Anatomía del prompt](../prompts/anatomia.md)<br>Estructura de componentes||[Técnicas x-Shot](xShotPrompting.md)<br>Aprendizaje por ejemplos
+
+<i>**Relacionado**: [Mejores prácticas](../prompts/mejoresPracticas/README.md) - Aplicación inmediata / [Patrones](patrones/README.md) - Soluciones reutilizables / [Casos de uso](../casosDeUso/README.md) - Ejemplos prácticos</i>
+
+</font></div>
