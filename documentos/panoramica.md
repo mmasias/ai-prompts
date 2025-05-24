@@ -43,7 +43,6 @@
 
 |Texto a audio/voz/música
 |-|
-[Moshi](https://www.moshi.chat/?queue_id=talktomoshi)
 [**Mubert**](https://mubert.com/)
 [**Moises**](https://moises.ai/)
 [StableAudio](https://www.stableaudio.com/)
@@ -51,6 +50,7 @@
 [Suno](https://app.suno.ai/create/)
 [ElevenLabs](https://elevenlabs.io/)
 [Udio](https://www.udio.com/create)
+[Moshi](https://www.moshi.chat/?queue_id=talktomoshi)
 
 </td><td valign=top width=25%>
 
