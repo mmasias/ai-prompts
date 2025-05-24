@@ -95,14 +95,33 @@
 |-|-|-|
 |[**Perplexity.ai**](https://www.perplexity.ai)|Análisis e investigaciones|Plataforma / [CdU](/documentos/casosDeUso/perplexity.md)
 |[**Elicit**](https://elicit.com/)|Investigación académica|Plataforma / [CdU](https://elicit.com/notebook/713f9d40-e186-47df-8304-1a69ad32b061)
-|[**Connected papers**](https://www.connectedpapers.com/)|Relación entre papers|Plataforma / [CdU](https://www.connectedpapers.com/main/b24ef5f12177439560c859e6cad11ad020ac6f42/Effects-of-phytochemicals-on-thyroid-function-and-their-possible-role-in-thyroid-disease/graph)
-|[**NotebookLM**](https://notebooklm.google.com/)|Wow!!!
+|[**Connected papers**](https://www.connectedpapers.com/)|Relación entre papers|Plataforma / [CdU](https://www.connectedpapers.com/main/b24ef5f12177439560c859e6cad11ad020ac6f42/Effects-of-phytochemicals-on-thyroid-function-and-their-possible-role-in-thyroid-disease/graph) >> [CdU](https://www.connectedpapers.com/main/b24ef5f12177439560c859e6cad11ad020ac6f42+ea1938338fb27e9295b27c0c2cc32e22a5b29769/Connected-Papers-%7C-Find-and-explore-academic-papers/graph)
 |[SCISPACE](https://typeset.io/)|Papers académicos
 |[Consensus](https://consensus.app/)|Papers académicos
 |[Silatus](https://silatus.com)|Plataforma de IA para investigación y análisis de datos|Plataforma / De pago
 |[Justicio](https://justicio.es/)|Respuestas legales fundamentadas, motor alimentado con toda la legislación estatal, autonómica y europea
 
 </div>
+
+## 📚🎓 Aprender & estudiar
+
+<div align=center>
+
+|Nombre|Descripción|Categoría|
+|-|-|-|
+|[**NotebookLM**](https://notebooklm.google.com/)|Wow!!!
+|[**learningstudioai.com**](https://learningstudioai.com/)|Personalización del aprendizaje|[CdU](https://learningstudioai.com/go/v3u9BmS6GUp404tH1oZi)
+|[learnworlds.com](https://www.learnworlds.com/)|Creación y gestión de cursos en línea|[CdU](https://puntoreflex.learnworlds.com/pages/home)
+|[coursebox.ai](https://www.coursebox.ai/)|Plataforma para la creación de cursos en línea|
+|[Juji](https://juji.io/)|Asistentes *empáticos*|
+|[studyable.app](https://studyable.app/)|Plataforma para aprendizaje y educación|
+|[gajix.com](https://gajix.com/)|Herramienta para aprendizaje y educación|
+|[Khanmigo](https://www.khanmigo.ai/)|Hijo de la [Khan Academy](https://es.khanacademy.org/)|
+|[Rori](https://rori.ai/)|Tutor a través de Whatsapp|
+|[TutorOcean](https://www.tutorocean.com/ai)|
+
+</div>
+
 
 ## 👥🤝 Trabajo, trabajo colaborativo y similares
 
@@ -239,24 +258,6 @@
 |[songburst.ai](https://www.songburst.ai)|Creación de música y audio con IA|
 |[Adobe](https://podcast.adobe.com)|Herramienta de IA para podcasters|
 |[HappyScribe](https://www.happyscribe.com/)|transcripciones de audio
-
-</div>
-
-## 📚🎓 Aprender
-
-<div align=center>
-
-|Nombre|Descripción|Categoría|
-|-|-|-|
-|[**learningstudioai.com**](https://learningstudioai.com/)|Personalización del aprendizaje|[CdU](https://learningstudioai.com/go/v3u9BmS6GUp404tH1oZi)
-|[learnworlds.com](https://www.learnworlds.com/)|Creación y gestión de cursos en línea|[CdU](https://puntoreflex.learnworlds.com/pages/home)
-|[coursebox.ai](https://www.coursebox.ai/)|Plataforma para la creación de cursos en línea|
-|[Juji](https://juji.io/)|Asistentes *empáticos*|
-|[studyable.app](https://studyable.app/)|Plataforma para aprendizaje y educación|
-|[gajix.com](https://gajix.com/)|Herramienta para aprendizaje y educación|
-|[Khanmigo](https://www.khanmigo.ai/)|Hijo de la [Khan Academy](https://es.khanacademy.org/)|
-|[Rori](https://rori.ai/)|Tutor a través de Whatsapp|
-|[TutorOcean](https://www.tutorocean.com/ai)|
 
 </div>
 
