@@ -16,3 +16,17 @@
 - [x] [Conversación](ejemplos/conversacion.md)
 - [x] [Generación de código](ejemplos/generacionCodigo.md)
 - [x] [Razonamiento](ejemplos/razonamiento.md)
+
+---
+
+<div align=right>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[Anatomía de un prompt](anatomia.md)<br>Estructura básica|Fundamentos > Prompts > **Ejemplos**|[Mejores prácticas](mejoresPracticas/README.md)<br>Metodología sistemática
+|[Componentes](componentes.md)<br>Partes del prompt||[8 virtudes del prompting](mejoresPracticas/8virtudesDelPrompting.md)<br>Principios de calidad
+|[Recetas](recetas.md)<br>Metodología de combinación|||
+
+<i>**Relacionado**: [Casos de uso](../../casosDeUso/README.md) - Aplicaciones específicas / [Ingeniería de Prompts](../ingenieriaDePrompts/README.md) - Técnicas avanzadas / [GPTs](GPTs.md) - Automatización de ejemplos</i>
+
+</div>

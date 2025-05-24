@@ -106,7 +106,7 @@ Calcúlalo completamente, paso a paso.
 
 ---
 
-<div align=right><font size=-2>
+<div align=right>
 
 |Requisitos|Estás en|Sigue...|
 |-|-|-|
@@ -115,4 +115,4 @@ Calcúlalo completamente, paso a paso.
 
 <i>**Relacionado**: [Anatomía](anatomia.md) - Los tokens afectan el diseño de prompts / [0-Shot Prompting](../ingenieriaDePrompts/0ShotPrompting.md) - Técnica que debe considerar límites de tokens</i>
 
-</font></div>
+</div>

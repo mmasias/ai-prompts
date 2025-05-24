@@ -5,7 +5,7 @@
 
 </div>
 
-<div align=right><font size=-2>
+<div align=right>
 
 |Requisitos|Estás en|Sigue...|
 |-|-|-|
@@ -14,7 +14,7 @@
 
 <i>**Relacionado**: [Priming](priming.md) - Guiar sin ejemplos específicos / [Patrones](patrones/README.md) - Aplicaciones estructuradas / [Mejores prácticas](../prompts/mejoresPracticas/README.md) - Optimización general</i>
 
-</font></div>
+</div>
 
 # 0 Shot prompting
 

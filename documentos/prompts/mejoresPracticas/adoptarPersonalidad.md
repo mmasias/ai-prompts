@@ -32,3 +32,16 @@ Indique el público objetivo|Si la información es para una audiencia específic
 |Solicite ejemplos o analogías acorde al estilo|Al pedir ejemplos o comparaciones, indique el marco de referencia que desea.|En lugar de "Dime cómo funciona la publicidad en línea", pregunte "Dime cómo funciona la publicidad en línea usando una analogía con un mercado tradicional".
 
 Al instruir al modelo para que adopte una personalidad o estilo específico, puede orientar la forma en que se presenta la información, haciéndola más relevante y adaptada a sus necesidades.
+
+---
+
+<div align=right>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[Incluir detalles](incluyaDetalles.md)<br>Técnica previa de instrucciones claras|Fundamentos > Prompts > Mejores prácticas > **Adoptar personalidad**|[Usar delimitadores](useDelimitadores.md)<br>Siguiente técnica de estructuración
+|[Mejores prácticas](README.md)<br>Marco metodológico||[Especificar pasos](especificarPasos.md)<br>Técnica de proceso estructurado
+
+<i>**Relacionado**: [Contexto](../componentes.md) - Rol como componente / [Conversación](../ejemplos/conversacion.md) - Aplicación en diálogos / [GPTs](../GPTs.md) - Personalidades automatizadas</i>
+
+</div>

@@ -30,7 +30,7 @@ El concepto de "Chain of Thought" es útil para mantener una conversación coher
 
 ---
 
-<div align=right><font size=-2>
+<div align=right>
 
 |Requisitos|Estás en|Sigue...|
 |-|-|-|
@@ -39,4 +39,4 @@ El concepto de "Chain of Thought" es útil para mantener una conversación coher
 
 <i>**Relacionado**: [Ventana de contexo](../prompts/ventanaDeContexto.md) - Mantener contexto en conversaciones / [Casos prácticos: Artesanía](../casosDeUso/artesania.md) - Ver CoT en acción / [Priming](priming.md) - Otra forma de guiar respuestas</i>
 
-</font></div>
+</div>

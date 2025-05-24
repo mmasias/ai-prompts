@@ -5,7 +5,7 @@
 
 </div>
 
-<div align=right><font size=-2>
+<div align=right>
 
 |Requisitos|Estás en|Sigue...|
 |-|-|-|
@@ -14,7 +14,7 @@
 
 <i>**Relacionado**: [Jitanjáfora](../casosDeUso/aprendizajeJitanjafora.md) - Caso práctico / [Acrónimos](../casosDeUso/acronimo.md) - Ejemplo de aplicación / [Elementos](../prompts/elementos.md) - Detalles de implementación</i>
 
-</font></div>
+</div>
 
 # X-Shot prompting
 

@@ -34,7 +34,7 @@ En la ingeniería de prompts, esta estructura jerárquica ayuda a descomponer y 
 
 ---
 
-<div align=right><font size=-2>
+<div align=right>
 
 |Requisitos|Estás en|Sigue...|
 |-|-|-|
@@ -44,4 +44,4 @@ En la ingeniería de prompts, esta estructura jerárquica ayuda a descomponer y 
 
 <i>**Relacionado**: [Tokens](tokens.md) - Limitaciones técnicas que afectan el diseño / [Mejores prácticas](mejoresPracticas/README.md) - Aplicación de estos conceptos / [Chain of Thought](../ingenieriaDePrompts/chainOfThought.md) - Técnica que usa esta estructura</i>
 
-</font></div>
+</div>

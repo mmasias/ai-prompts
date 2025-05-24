@@ -31,4 +31,17 @@ Se refiere a guiar al modelo a través de un conjunto de consultas o afirmacione
 Plantee consultas intermedias|En lugar de pedir una respuesta directa, puede hacer varias preguntas intermedias que guíen al modelo hacia la respuesta deseada.|"Para empezar, ¿qué factores consideras cruciales al determinar un precio? Una vez identificados, ¿cómo los evaluarías?"
 Haga que el modelo reflexione sobre sus decisiones|Esto puede ser especialmente útil para comprender las motivaciones y lógica detrás de las respuestas.|"Después de elegir una estrategia de marketing específica, ¿puedes detallar las razones detrás de esa elección y cómo influiría en nuestro público objetivo?"
 
-Al emplear estos métodos, no solo se obtiene una respuesta, sino también una visión del proceso de razonamiento del modelo, lo que puede ser invaluable en contextos empresariales y de marketing donde la justificación y la estrategia son esenciales.
+Al emplear estos métodos, no solo se obtiene una respuesta, sino también una visión del proceso de razonamiento del modelo, lo que puede ser invaluable en contextos donde la justificación y la estrategia son esenciales.
+
+---
+
+<div align=right>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[Pensar paso a paso](piensaGPT.md)<br>Técnica base de razonamiento|Fundamentos > Prompts > Mejores prácticas > **Razonamiento interno**|[Repaso y verificación](repasaGPT.md)<br>Técnica de validación final
+|[Mejores prácticas](README.md)<br>Marco metodológico||[Ventana de contexto](../ventanaDeContexto.md)<br>Conceptos técnicos avanzados
+
+<i>**Relacionado**: [Meta-razonamiento](../ejemplos/experimentoMetaRazonamiento.md) - Experimento avanzado / [Chain of Thought](../../ingenieriaDePrompts/chainOfThought.md) - Técnica relacionada / [Razonamiento](../ejemplos/razonamiento.md) - Aplicación práctica</i>
+
+</div>

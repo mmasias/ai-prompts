@@ -73,7 +73,7 @@ Aprender una habilidad que en un futuro será considerada básica
 
 ---
 
-<div align=right><font size=-2>
+<div align=right>
 
 |Requisitos|Estás en|Sigue...|
 |-|-|-|
@@ -83,4 +83,4 @@ Aprender una habilidad que en un futuro será considerada básica
 
 <i>**Relacionado**: [Mejores prácticas](../prompts/mejoresPracticas/README.md) - Aplicación inmediata / [Patrones](patrones/README.md) - Soluciones reutilizables / [Casos de uso](../casosDeUso/README.md) - Ejemplos prácticos</i>
 
-</font></div>
+</div>

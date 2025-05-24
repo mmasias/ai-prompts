@@ -32,3 +32,16 @@ Solicite secuenciación lógica|Al pedir pasos, indique que desea que estén en 
 Clarifique cualquier criterio específico|Si hay criterios o condiciones particulares para la tarea, asegúrese de incluirlos.|"Deseo establecer una estrategia de contenidos para redes sociales orientada a la audiencia joven. ¿Qué pasos debo seguir considerando las tendencias actuales?"
 
 Al especificar y solicitar un desglose detallado de los pasos para una tarea, se asegura una comprensión clara y una implementación eficiente, maximizando las posibilidades de éxito en la ejecución.
+
+---
+
+<div align=right>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[Usar delimitadores](useDelimitadores.md)<br>Técnica previa de estructuración|Fundamentos > Prompts > Mejores prácticas > **Especificar pasos**|[Proporcionar ejemplos](proporcioneEjemplos.md)<br>Técnica de contextualización
+|[Mejores prácticas](README.md)<br>Marco metodológico||[Explicitar longitud](expliciteLongitudRespuesta.md)<br>Control de formato de salida
+
+<i>**Relacionado**: [Divide y vencerás](clasificacionIntenciones.md) - Descomposición de tareas / [Chain of Thought](../../ingenieriaDePrompts/chainOfThought.md) - Razonamiento paso a paso / [Recetas](../recetas.md) - Secuenciación metodológica</i>
+
+</div>

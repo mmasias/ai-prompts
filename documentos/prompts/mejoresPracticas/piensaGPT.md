@@ -32,3 +32,16 @@ Utilice metáforas o analogías|A veces, alentar al modelo a pensar en términos
 Solicite justificaciones|Pida al modelo que, junto con su respuesta, proporcione una justificación o explicación de por qué considera que esa es la mejor solución.|"Si eligieras una campaña publicitaria centrada en influencers, ¿por qué crees que sería efectiva?".
 
 Al guiar al modelo hacia una reflexión más profunda, se pueden obtener respuestas que son más holísticas y bien fundamentadas, maximizando así la calidad de las soluciones propuestas.
+
+---
+
+<div align=right>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[Resumen recursivo](resumenDeResumen.md)<br>Técnica previa de procesamiento complejo|Fundamentos > Prompts > Mejores prácticas > **Pensar paso a paso**|[Razonamiento interno](razonaGPT.md)<br>Técnica de proceso cognitivo
+|[Mejores prácticas](README.md)<br>Marco metodológico||[Repaso y verificación](repasaGPT.md)<br>Técnica de validación
+
+<i>**Relacionado**: [Razonamiento](../ejemplos/razonamiento.md) - Aplicación práctica / [Chain of Thought](../../ingenieriaDePrompts/chainOfThought.md) - Técnica avanzada relacionada / [Especificar pasos](especificarPasos.md) - Técnica complementaria</i>
+
+</div>

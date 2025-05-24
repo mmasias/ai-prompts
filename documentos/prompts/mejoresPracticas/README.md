@@ -69,3 +69,17 @@ En la toma de decisiones y el análisis dentro de contextos especializados, es e
 ## Bibliografía
 
 - Basado y adaptado del artículo de OpenAI [gpt-best-practices](https://platform.openai.com/docs/guides/gpt-best-practices) 
+
+---
+
+<div align=right>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[Ejemplos prácticos](../ejemplos.md)<br>Aplicación de conceptos|Fundamentos > Prompts > **Mejores prácticas**|[8 virtudes del prompting](8virtudesDelPrompting.md)<br>Principios fundamentales
+|[Anatomía de un prompt](../anatomia.md)<br>Estructura y componentes||[Instrucciones claras](incluyaDetalles.md)<br>Técnicas específicas
+|[Recetas](../recetas.md)<br>Metodología de combinación|||
+
+<i>**Relacionado**: [Ingeniería de Prompts](../../ingenieriaDePrompts/README.md) - Técnicas avanzadas / [Casos de uso](../../casosDeUso/README.md) - Aplicaciones específicas / [Tokens](../tokens.md) - Optimización técnica</i>
+
+</div>

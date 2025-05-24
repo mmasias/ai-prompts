@@ -33,3 +33,16 @@ Use marcadores o delimitadores|Al presentar el diálogo resumido o filtrado, uti
 ||Ejemplo|[Una conversación larga, con pinceladas de contextualización](https://chat.openai.com/share/b175c472-3421-4be3-b270-aa8df5172557)
 
 Al resumir o filtrar diálogos anteriores en aplicaciones que requieren conversaciones extensas, se mantiene el foco en la información más esencial, permitiendo que el modelo genere respuestas más precisas y contextualizadas.
+
+---
+
+<div align=right>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[Clasificación intenciones](clasificacionIntenciones.md)<br>Técnica previa de descomposición|Fundamentos > Prompts > Mejores prácticas > **Repaso conversaciones**|[Resumen recursivo](resumenDeResumen.md)<br>Técnica de procesamiento de documentos
+|[Ventana de contexto](../ventanaDeContexto.md)<br>Limitaciones técnicas fundamentales||[Pensar paso a paso](piensaGPT.md)<br>Siguiente bloque "Ayuda a pensar"
+
+<i>**Relacionado**: [Tokens](../tokens.md) - Gestión de límites / [Conversación](../ejemplos/conversacion.md) - Aplicación en diálogos / [Custom Instructions](../customInstructions.md) - Optimización de contexto persistente</i>
+
+</div>

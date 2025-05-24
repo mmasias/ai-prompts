@@ -151,7 +151,7 @@ Entrada|-
 
 ---
 
-<div align=right><font size=-2>
+<div align=right>
 
 |Requisitos|Estás en|Sigue...|
 |-|-|-|
@@ -160,4 +160,4 @@ Entrada|-
 
 <i>**Relacionado**: [Recetas](recetas.md) - Cómo combinar estos componentes efectivamente / [Priming](../ingenieriaDePrompts/priming.md) - Técnica que se enfoca en contexto / [x-Shot Prompting](../ingenieriaDePrompts/xShotPrompting.md) - Usa componentes con ejemplos</i>
 
-</font></div>
+</div>

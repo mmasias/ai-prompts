@@ -49,7 +49,7 @@ Los prompts se utilizan para interactuar con modelos de lenguaje, solicitar info
 
 ---
 
-<div align=right><font size=-2>
+<div align=right>
 
 |Requisitos|Estás en|Sigue...|
 |-|-|-|
@@ -58,4 +58,4 @@ Los prompts se utilizan para interactuar con modelos de lenguaje, solicitar info
 
 <i>**Relacionado**: [Ingeniería de Prompts](../ingenieriaDePrompts/README.md) - Metodología avanzada / [Mejores prácticas](mejoresPracticas/README.md) - Aplicación práctica inmediata</i>
 
-</font></div>
+</div>

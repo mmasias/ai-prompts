@@ -5,7 +5,7 @@
 
 </div>
 
-<div align=right><font size=-2>
+<div align=right>
 
 |Requisitos|Estás en|Sigue...|
 |-|-|-|
@@ -14,7 +14,7 @@
 
 <i>**Relacionado**: [0-Shot Prompting](0ShotPrompting.md) - Otra forma de guiar sin ejemplos / [x-Shot Prompting](xShotPrompting.md) - Contraste con ejemplos / [Acrónimo](../casosDeUso/acronimo.md) - Caso práctico de priming</i>
 
-</font></div>
+</div>
 
 # Ingeniería de Prompts > Priming
 
