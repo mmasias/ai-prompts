@@ -33,12 +33,11 @@
 
 |Texto a imágenes
 |-|
-[Dall-e](https://openai.com/dall-e-3)
+[OpenArt](https://openart.ai/create)
 [MS Designer](https://designer.microsoft.com/)   
 [BlueWillow](https://www.bluewillow.ai/)
-[VisualChatGPT](https://stablediffusionweb.com/Visual-ChatGPT#demo)  
 [Ideogram.ai](https://ideogram.ai/) [🖼️](/documentos/imagenes/ideogramExample.png)
-[MidJourney](https://docs.midjourney.com/docs/prompts)  
+[MidJourney](https://www.midjourney.com) [Documentación](https://docs.midjourney.com/docs/prompts)  
 
 </td><td valign=top width=25%>
 
