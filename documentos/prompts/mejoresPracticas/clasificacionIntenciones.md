@@ -51,6 +51,6 @@ Utilizar la clasificación de intenciones facilita una comprensión más profund
 |[Pedir referencias](pideReferencias.md)<br>Técnica previa de texto de referencia|Fundamentos > Prompts > Mejores prácticas > **Clasificación intenciones**|[Repaso conversaciones](repasoDeVezEnCuando.md)<br>Gestión de diálogos extensos
 |[Mejores prácticas](README.md)<br>Marco metodológico||[Resumen recursivo](resumenDeResumen.md)<br>Procesamiento de documentos largos
 
-<i>**Relacionado**: [Clasificación texto](../ejemplos/clasificacionTexto.md) - Aplicación práctica / [Componentes](../componentes.md) - Identificación de tareas / [Ingeniería de Prompts](../../ingenieriaDePrompts/README.md) - Técnicas avanzadas de análisis</i>
+<i>**Relacionado**: [Componentes](../componentes.md) - Identificación de tareas / [Ingeniería de Prompts](../../ingenieriaDePrompts/README.md) - Técnicas avanzadas de análisis</i>
 
 </div>

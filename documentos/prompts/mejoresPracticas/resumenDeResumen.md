@@ -42,6 +42,6 @@ Este enfoque, al descomponer y reestructurar la información, permite que los mo
 |[Repaso conversaciones](repasoDeVezEnCuando.md)<br>Técnica previa de gestión de contexto|Fundamentos > Prompts > Mejores prácticas > **Resumen recursivo**|[Pensar paso a paso](piensaGPT.md)<br>Inicio del bloque "Ayuda a pensar"
 |[Ventana de contexto](../ventanaDeContexto.md)<br>Limitaciones de procesamiento||[Razonamiento interno](razonaGPT.md)<br>Técnica de proceso cognitivo
 
-<i>**Relacionado**: [Resumen de textos](../ejemplos/resumenTexto.md) - Aplicación práctica / [Tokens](../tokens.md) - Optimización de espacio / [Casos de uso](../../casosDeUso/README.md) - Procesamiento de documentos extensos</i>
+<i>**Relacionado**: [Tokens](../tokens.md) - Optimización de espacio / [Casos de uso](../../casosDeUso/README.md) - Procesamiento de documentos extensos</i>
 
 </div>

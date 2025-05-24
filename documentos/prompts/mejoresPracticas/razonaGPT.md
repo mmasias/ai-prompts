@@ -42,6 +42,6 @@ Al emplear estos métodos, no solo se obtiene una respuesta, sino también una v
 |[Pensar paso a paso](piensaGPT.md)<br>Técnica base de razonamiento|Fundamentos > Prompts > Mejores prácticas > **Razonamiento interno**|[Repaso y verificación](repasaGPT.md)<br>Técnica de validación final
 |[Mejores prácticas](README.md)<br>Marco metodológico||[Ventana de contexto](../ventanaDeContexto.md)<br>Conceptos técnicos avanzados
 
-<i>**Relacionado**: [Meta-razonamiento](../ejemplos/experimentoMetaRazonamiento.md) - Experimento avanzado / [Chain of Thought](../../ingenieriaDePrompts/chainOfThought.md) - Técnica relacionada / [Razonamiento](../ejemplos/razonamiento.md) - Aplicación práctica</i>
+<i>**Relacionado**: [Chain of Thought](../../ingenieriaDePrompts/chainOfThought.md) - Técnica relacionada
 
 </div>

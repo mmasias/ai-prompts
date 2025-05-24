@@ -42,6 +42,6 @@ Al guiar al modelo hacia una reflexión más profunda, se pueden obtener respues
 |[Resumen recursivo](resumenDeResumen.md)<br>Técnica previa de procesamiento complejo|Fundamentos > Prompts > Mejores prácticas > **Pensar paso a paso**|[Razonamiento interno](razonaGPT.md)<br>Técnica de proceso cognitivo
 |[Mejores prácticas](README.md)<br>Marco metodológico||[Repaso y verificación](repasaGPT.md)<br>Técnica de validación
 
-<i>**Relacionado**: [Razonamiento](../ejemplos/razonamiento.md) - Aplicación práctica / [Chain of Thought](../../ingenieriaDePrompts/chainOfThought.md) - Técnica avanzada relacionada / [Especificar pasos](especificarPasos.md) - Técnica complementaria</i>
+<i>**Relacionado**: [Chain of Thought](../../ingenieriaDePrompts/chainOfThought.md) - Técnica avanzada relacionada / [Especificar pasos](especificarPasos.md) - Técnica complementaria</i>
 
 </div>

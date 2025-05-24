@@ -41,6 +41,7 @@ En la ingeniería de prompts, esta estructura jerárquica ayuda a descomponer y 
 |[¿Qué son los prompts?](README.md)<br>Conceptos básicos necesarios|Fundamentos > Prompts > **Anatomía**|[Componentes](componentes.md)<br>Detalle de cada parte
 |||[Elementos](elementos.md)<br>Especificaciones granulares
 |||[Recetas](recetas.md)<br>Metodología de combinación
+|||[**Mejores prácticas**](mejoresPracticas/README.md)<br>Aplicación sistemática
 
 <i>**Relacionado**: [Tokens](tokens.md) - Limitaciones técnicas que afectan el diseño / [Mejores prácticas](mejoresPracticas/README.md) - Aplicación de estos conceptos / [Chain of Thought](../ingenieriaDePrompts/chainOfThought.md) - Técnica que usa esta estructura</i>
 

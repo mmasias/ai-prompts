@@ -43,6 +43,6 @@ Al resumir o filtrar diálogos anteriores en aplicaciones que requieren conversa
 |[Clasificación intenciones](clasificacionIntenciones.md)<br>Técnica previa de descomposición|Fundamentos > Prompts > Mejores prácticas > **Repaso conversaciones**|[Resumen recursivo](resumenDeResumen.md)<br>Técnica de procesamiento de documentos
 |[Ventana de contexto](../ventanaDeContexto.md)<br>Limitaciones técnicas fundamentales||[Pensar paso a paso](piensaGPT.md)<br>Siguiente bloque "Ayuda a pensar"
 
-<i>**Relacionado**: [Tokens](../tokens.md) - Gestión de límites / [Conversación](../ejemplos/conversacion.md) - Aplicación en diálogos / [Custom Instructions](../customInstructions.md) - Optimización de contexto persistente</i>
+<i>**Relacionado**: [Tokens](../tokens.md) - Gestión de límites / [Custom Instructions](../customInstructions.md) - Optimización de contexto persistente</i>
 
 </div>

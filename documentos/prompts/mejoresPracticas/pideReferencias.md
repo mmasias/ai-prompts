@@ -42,6 +42,6 @@ Solicitar al modelo que responda con citas del texto de referencia permite obten
 |[Uso texto referencia](usoTextoReferencia.md)<br>Técnica base del bloque|Fundamentos > Prompts > Mejores prácticas > **Pedir referencias**|[Clasificación intenciones](clasificacionIntenciones.md)<br>Inicio del bloque "Divide y vencerás"
 |[Mejores prácticas](README.md)<br>Marco metodológico||[Repaso conversaciones](repasoDeVezEnCuando.md)<br>Técnica de gestión de contexto
 
-<i>**Relacionado**: [Tokens](../tokens.md) - Citas y límites de espacio / [Extracción información](../ejemplos/extraccionInformacion.md) - Aplicación práctica / [Ventana de contexto](../ventanaDeContexto.md) - Gestión de referencias extensas</i>
+<i>**Relacionado**: [Tokens](../tokens.md) - Citas y límites de espacio / [Ventana de contexto](../ventanaDeContexto.md) - Gestión de referencias extensas</i>
 
 </div>

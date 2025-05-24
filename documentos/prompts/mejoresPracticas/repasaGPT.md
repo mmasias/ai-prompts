@@ -41,6 +41,6 @@ Al usar esta táctica, no sólo se garantiza que el modelo haya considerado todo
 |[Razonamiento interno](razonaGPT.md)<br>Técnica previa de proceso cognitivo|Fundamentos > Prompts > Mejores prácticas > **Repaso y verificación**|[Ventana de contexto](../ventanaDeContexto.md)<br>Conceptos técnicos fundamentales
 |[Pensar paso a paso](piensaGPT.md)<br>Base del razonamiento estructurado||[Tokens](../tokens.md)<br>Limitaciones técnicas
 
-<i>**Relacionado**: [Meta-razonamiento](../ejemplos/experimentoMetaRazonamiento.md) - Experimento de validación / [Ingeniería de Prompts](../../ingenieriaDePrompts/README.md) - Técnicas avanzadas / [Casos de uso](../../casosDeUso/README.md) - Aplicación práctica completa</i>
+<i>**Relacionado**: [Ingeniería de Prompts](../../ingenieriaDePrompts/README.md) - Técnicas avanzadas / [Casos de uso](../../casosDeUso/README.md) - Aplicación práctica completa</i>
 
 </div>

@@ -48,3 +48,16 @@ Pueden ser configurados fácilmente sin necesidad de codificación, lo que los h
 
 - [Documentación @OpenAI](https://help.openai.com/en/articles/8554397-creating-a-gpt)
 - [Tienda GPT](https://chat.openai.com/gpts)
+
+---
+
+<div align=right>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[Custom Instructions](customInstructions.md)<br>Personalización básica|Fundamentos > Prompts > **GPTs**|[Casos de uso GPTs](casosDeUsoGPTs.md)<br>Ejemplos específicos de aplicación
+|[¿Qué son los prompts?](README.md)<br>Conceptos fundamentales||[Casos de uso](../casosDeUso/README.md)<br>Aplicaciones prácticas generales
+
+<i>**Relacionado**: [Recetas](recetas.md) - Metodología para GPTs personalizados / [8 virtudes](mejoresPracticas/8virtudesDelPrompting.md) - Principios aplicables a GPTs / [Ingeniería de Prompts](../ingenieriaDePrompts/README.md) - Técnicas avanzadas para GPTs</i>
+
+</div>

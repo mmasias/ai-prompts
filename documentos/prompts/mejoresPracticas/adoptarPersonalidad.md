@@ -42,6 +42,6 @@ Al instruir al modelo para que adopte una personalidad o estilo específico, pue
 |[Incluir detalles](incluyaDetalles.md)<br>Técnica previa de instrucciones claras|Fundamentos > Prompts > Mejores prácticas > **Adoptar personalidad**|[Usar delimitadores](useDelimitadores.md)<br>Siguiente técnica de estructuración
 |[Mejores prácticas](README.md)<br>Marco metodológico||[Especificar pasos](especificarPasos.md)<br>Técnica de proceso estructurado
 
-<i>**Relacionado**: [Contexto](../componentes.md) - Rol como componente / [Conversación](../ejemplos/conversacion.md) - Aplicación en diálogos / [GPTs](../GPTs.md) - Personalidades automatizadas</i>
+<i>**Relacionado**: [Contexto](../componentes.md) - Rol como componente / [GPTs](../GPTs.md) - Personalidades automatizadas</i>
 
 </div>

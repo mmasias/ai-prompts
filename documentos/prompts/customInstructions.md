@@ -33,3 +33,16 @@ Dado que cada usuario tiene necesidades y contextos únicos que desean ver refle
 
 
 A partir de la configuración de custom instructions, ChatGPT notifica que la respuesta probablemente esté *sesgada*: [*Exceso*](https://chat.openai.com/share/b505d7b7-c852-4987-bfc0-af7d800fae11)
+
+---
+
+<div align=right>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[¿Qué son los prompts?](README.md)<br>Conceptos básicos|Fundamentos > Prompts > **Custom Instructions**|[GPTs](GPTs.md)<br>Personalización avanzada automatizada
+|[Ventana de contexto](ventanaDeContexto.md)<br>Limitaciones técnicas||[Mejores prácticas](mejoresPracticas/README.md)<br>Optimización sistemática
+
+<i>**Relacionado**: [Componentes](componentes.md) - Contexto persistente / [Elementos](elementos.md) - Rol y audiencia personalizados / [Casos de uso](../casosDeUso/README.md) - Aplicaciones personalizadas</i>
+
+</div>
