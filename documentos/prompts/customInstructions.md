@@ -36,6 +36,8 @@ A partir de la configuración de custom instructions, ChatGPT notifica que la re
 
 ---
 
+## ¿Y ahora qué?
+
 <div align=right>
 
 |Requisitos|Estás en|Sigue...|

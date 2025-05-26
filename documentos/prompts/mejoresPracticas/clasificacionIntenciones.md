@@ -44,6 +44,8 @@ Utilizar la clasificación de intenciones facilita una comprensión más profund
 
 ---
 
+## ¿Y ahora qué?
+
 <div align=right>
 
 |Requisitos|Estás en|Sigue...|

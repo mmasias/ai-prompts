@@ -35,6 +35,8 @@ Al seguir estos consejos, no solo obtendrá respuestas más precisas, sino que t
 
 ---
 
+## ¿Y ahora qué?
+
 <div align=right>
 
 |Requisitos|Estás en|Sigue...|

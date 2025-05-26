@@ -72,6 +72,8 @@ En la toma de decisiones y el análisis dentro de contextos especializados, es e
 
 ---
 
+## ¿Y ahora qué?
+
 <div align=right>
 
 |Requisitos|Estás en|Sigue...|

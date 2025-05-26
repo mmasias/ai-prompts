@@ -36,6 +36,8 @@ Al resumir o filtrar diálogos anteriores en aplicaciones que requieren conversa
 
 ---
 
+## ¿Y ahora qué?
+
 <div align=right>
 
 |Requisitos|Estás en|Sigue...|

@@ -58,6 +58,8 @@ Similar a una receta de cocina: no sólo se trata de tener los ingredientes corr
 
 ---
 
+## ¿Y ahora qué?
+
 <div align=right>
 
 |Requisitos|Estás en|Sigue...|

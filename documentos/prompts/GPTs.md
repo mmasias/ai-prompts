@@ -51,6 +51,8 @@ Pueden ser configurados fácilmente sin necesidad de codificación, lo que los h
 
 ---
 
+## ¿Y ahora qué?
+
 <div align=right>
 
 |Requisitos|Estás en|Sigue...|

@@ -35,6 +35,8 @@ Especificar la longitud deseada de la salida ayuda a personalizar la experiencia
 
 ---
 
+## ¿Y ahora qué?
+
 <div align=right>
 
 |Requisitos|Estás en|Sigue...|

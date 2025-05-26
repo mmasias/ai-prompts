@@ -35,6 +35,8 @@ Al guiar al modelo hacia una reflexión más profunda, se pueden obtener respues
 
 ---
 
+## ¿Y ahora qué?
+
 <div align=right>
 
 |Requisitos|Estás en|Sigue...|

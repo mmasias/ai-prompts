@@ -30,6 +30,8 @@ El concepto de "Chain of Thought" es útil para mantener una conversación coher
 
 ---
 
+## ¿Y ahora qué?
+
 <div align=right>
 
 |Requisitos|Estás en|Sigue...|

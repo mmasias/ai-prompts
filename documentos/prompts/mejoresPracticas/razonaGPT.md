@@ -35,6 +35,8 @@ Al emplear estos métodos, no solo se obtiene una respuesta, sino también una v
 
 ---
 
+## ¿Y ahora qué?
+
 <div align=right>
 
 |Requisitos|Estás en|Sigue...|

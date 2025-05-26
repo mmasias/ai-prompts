@@ -69,6 +69,8 @@ De la sabia combinación de estos tres principios fundamentales, como de la mezc
 
 ---
 
+## ¿Y ahora qué?
+
 <div align=right>
 
 |Requisitos|Estás en|Sigue...|

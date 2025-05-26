@@ -90,6 +90,8 @@ Tweets<br>*considerando que un tweet tiene un límite de 280 caracteres*|15-20|3
 
 ---
 
+## ¿Y ahora qué?
+
 <div align=right>
 
 |Requisitos|Estás en|Sigue...|

@@ -35,6 +35,8 @@ Solicitar al modelo que responda con citas del texto de referencia permite obten
 
 ---
 
+## ¿Y ahora qué?
+
 <div align=right>
 
 |Requisitos|Estás en|Sigue...|

@@ -34,6 +34,8 @@ Al usar esta táctica, no sólo se garantiza que el modelo haya considerado todo
 
 ---
 
+## ¿Y ahora qué?
+
 <div align=right>
 
 |Requisitos|Estás en|Sigue...|

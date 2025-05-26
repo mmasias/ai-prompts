@@ -35,6 +35,8 @@ Al especificar y solicitar un desglose detallado de los pasos para una tarea, se
 
 ---
 
+## ¿Y ahora qué?
+
 <div align=right>
 
 |Requisitos|Estás en|Sigue...|

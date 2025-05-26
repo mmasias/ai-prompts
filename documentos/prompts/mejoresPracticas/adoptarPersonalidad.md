@@ -35,6 +35,8 @@ Al instruir al modelo para que adopte una personalidad o estilo específico, pue
 
 ---
 
+## ¿Y ahora qué?
+
 <div align=right>
 
 |Requisitos|Estás en|Sigue...|

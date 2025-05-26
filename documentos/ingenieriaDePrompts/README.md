@@ -73,6 +73,8 @@ Aprender una habilidad que en un futuro será considerada básica
 
 ---
 
+## ¿Y ahora qué?
+
 <div align=right>
 
 |Requisitos|Estás en|Sigue...|

@@ -34,6 +34,8 @@ En la ingeniería de prompts, esta estructura jerárquica ayuda a descomponer y 
 
 ---
 
+## ¿Y ahora qué?
+
 <div align=right>
 
 |Requisitos|Estás en|Sigue...|

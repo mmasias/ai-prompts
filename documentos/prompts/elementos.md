@@ -108,6 +108,8 @@ En algunos contextos, especialmente cuando los modelos se integran con otros sis
 
 ---
 
+## ¿Y ahora qué?
+
 <div align=right>
 
 |Requisitos|Estás en|Sigue...|

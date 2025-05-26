@@ -35,6 +35,8 @@ Indicar al modelo que utilice un texto de referencia potencia la precisión de l
 
 ---
 
+## ¿Y ahora qué?
+
 <div align=right>
 
 |Requisitos|Estás en|Sigue...|

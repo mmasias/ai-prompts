@@ -49,6 +49,8 @@ Los prompts se utilizan para interactuar con modelos de lenguaje, solicitar info
 
 ---
 
+## ¿Y ahora qué?
+
 <div align=right>
 
 |Requisitos|Estás en|Sigue...|

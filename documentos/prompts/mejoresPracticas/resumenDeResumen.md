@@ -35,6 +35,8 @@ Este enfoque, al descomponer y reestructurar la información, permite que los mo
 
 ---
 
+## ¿Y ahora qué?
+
 <div align=right>
 
 |Requisitos|Estás en|Sigue...|
