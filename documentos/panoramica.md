@@ -447,27 +447,27 @@
 
 ### 📊💼 Presentaciones
 
-*Esta sección tuvo relevancia cuando existían herramientas especializadas únicamente en crear presentaciones con IA. Sin embargo, en 2025 estas funciones se han integrado completamente en plataformas más amplias y versátiles.*
+<sub>Esta sección tuvo relevancia cuando existían herramientas especializadas únicamente en crear presentaciones con IA. Sin embargo, en 2025 estas funciones se han integrado completamente en plataformas más amplias y versátiles.*</sub>
 
-*Herramientas como [Gamma](https://gamma.app), [Beautiful.ai](https://www.beautiful.ai/) y [Slideoo](https://slideoo.ai/) han sido superadas por las capacidades integradas de **Canva**, **PowerPoint Copilot**, **Google Slides AI** y **Figma**, que ofrecen funciones de presentación dentro de ecosistemas más completos.*
+<sub>Herramientas como [Gamma](https://gamma.app), [Beautiful.ai](https://www.beautiful.ai/) y [Slideoo](https://slideoo.ai/) han sido superadas por las capacidades integradas de **Canva**, **PowerPoint Copilot**, **Google Slides AI** y **Figma**, que ofrecen funciones de presentación dentro de ecosistemas más completos.*</sub>
 
-*Las funciones de presentaciones con IA ahora se encuentran en: **Marketing**: Canva y herramientas de diseño visual / **Trabajo colaborativo**: Microsoft 365 Copilot y Google Workspace AI / **Herramientas generales de IA**: ChatGPT y Claude para estructurar contenido, combinados con herramientas de diseño*
+<sub>Las funciones de presentaciones con IA ahora se encuentran en: **Marketing**: Canva y herramientas de diseño visual / **Trabajo colaborativo**: Microsoft 365 Copilot y Google Workspace AI / **Herramientas generales de IA**: ChatGPT y Claude para estructurar contenido, combinados con herramientas de diseño*</sub>
 
 ### ✍️📝 Copywriting
 
-Esta sección existía cuando las herramientas de copywriting eran especializadas y diferenciadas. Sin embargo, en 2025 la IA generativa se ha integrado de tal manera en el marketing y la creación de contenido que las herramientas específicas de copywriting han perdido su razón de ser como categoría independiente.
+<sub>Esta sección existía cuando las herramientas de copywriting eran especializadas y diferenciadas. Sin embargo, en 2025 la IA generativa se ha integrado de tal manera en el marketing y la creación de contenido que las herramientas específicas de copywriting han perdido su razón de ser como categoría independiente.</sub>
 
-Herramientas como [Copy.ai](https://www.copy.ai), [Writesonic](https://writesonic.com) y [Rytr](https://rytr.me) han evolucionado hacia plataformas más amplias de marketing de contenido o han sido absorbidas por las capacidades generales de ChatGPT, Claude y otros LLMs principales.
+<sub>Herramientas como [Copy.ai](https://www.copy.ai), [Writesonic](https://writesonic.com) y [Rytr](https://rytr.me) han evolucionado hacia plataformas más amplias de marketing de contenido o han sido absorbidas por las capacidades generales de ChatGPT, Claude y otros LLMs principales.</sub>
 
-Las funciones de copywriting ahora se encuentran en las secciones de **Marketing**: Para campañas y contenido comercial / **Trabajo colaborativo**: Para redacción empresarial y comunicación interna / **Herramientas generales de IA**: ChatGPT, Claude, etc. con prompts específicos
+<sub>Las funciones de copywriting ahora se encuentran en las secciones de **Marketing**: Para campañas y contenido comercial / **Trabajo colaborativo**: Para redacción empresarial y comunicación interna / **Herramientas generales de IA**: ChatGPT, Claude, etc. con prompts específicos</sub>
 
 ### 📄💼 Currículums
 
-*Esta sección ha perdido su relevancia específica en 2025, ya que las herramientas especializadas de CV con IA han sido ampliamente superadas por soluciones más versátiles e integradas.*
+<sub>*Esta sección ha perdido su relevancia específica en 2025, ya que las herramientas especializadas de CV con IA han sido ampliamente superadas por soluciones más versátiles e integradas.*</sub>
 
-*Herramientas como [Rezi](https://www.rezi.ai), [Kickresume](https://www.kickresume.com/) y [Teal HQ](https://www.tealhq.com) han sido reemplazadas por las capacidades de **Canva AI** para diseño profesional, **LinkedIn AI** para perfiles optimizados, y los LLMs principales para redacción personalizada de contenido.*
+<sub>*Herramientas como [Rezi](https://www.rezi.ai), [Kickresume](https://www.kickresume.com/) y [Teal HQ](https://www.tealhq.com) han sido reemplazadas por las capacidades de **Canva AI** para diseño profesional, **LinkedIn AI** para perfiles optimizados, y los LLMs principales para redacción personalizada de contenido.*</sub>
 
-*Las funciones de creación de CV con IA ahora se encuentran en: **Marketing/Diseño**: Canva y herramientas de diseño visual para plantillas profesionales/ **Trabajo colaborativo**: LinkedIn y plataformas profesionales con optimización automática/ **Herramientas generales de IA**: ChatGPT y Claude para redacción personalizada de contenido y cartas de presentación*
+<sub>*Las funciones de creación de CV con IA ahora se encuentran en: **Marketing/Diseño**: Canva y herramientas de diseño visual para plantillas profesionales/ **Trabajo colaborativo**: LinkedIn y plataformas profesionales con optimización automática/ **Herramientas generales de IA**: ChatGPT y Claude para redacción personalizada de contenido y cartas de presentación*</sub>
 
 <!--
 
