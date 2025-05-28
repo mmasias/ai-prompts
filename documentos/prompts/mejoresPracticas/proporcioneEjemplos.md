@@ -32,3 +32,14 @@ Use ejemplos para aclarar términos o conceptos|Si un término puede tener múlt
 Solicite ejemplos en la respuesta|Si desea que el modelo ilustre su respuesta con ejemplos, especifíquelo en su consulta.|"Explícame las estrategias de marketing de contenidos y dame algunos ejemplos de marcas que las aplican efectivamente".
 
 Proporcionar ejemplos en sus consultas no solo enriquece la interacción con el modelo, sino que también asegura respuestas más contextualizadas y comprensibles, alineadas con la intención original de la consulta.
+
+<div align=right>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[Especificar pasos](especificarPasos.md)<br>Técnica previa de proceso estructurado|Fundamentos > Prompts > Mejores prácticas > **Proporcionar ejemplos**|[Explicitar longitud](expliciteLongitudRespuesta.md)<br>Control de formato de salida
+|[Mejores prácticas](README.md)<br>Marco metodológico||[Texto de referencia](usoTextoReferencia.md)<br>Siguiente bloque de técnicas
+
+<i>**Relacionado**: [Ejemplos prácticos](../ejemplos.md) - Casos de aplicación / [x-Shot Prompting](../../ingenieriaDePrompts/xShotPrompting.md) - Técnica avanzada con ejemplos / [Contexto](../componentes.md) - Ejemplos como componente</i>
+
+</div>

@@ -41,3 +41,18 @@ Dirija la consulta de acuerdo a la intención identificada|Con la intención cla
 [Copilot]()
 
 Utilizar la clasificación de intenciones facilita una comprensión más profunda de las consultas de los usuarios y permite generar respuestas que satisfacen de manera más efectiva sus necesidades y expectativas.
+
+---
+
+## ¿Y ahora qué?
+
+<div align=right>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[Pedir referencias](pideReferencias.md)<br>Técnica previa de texto de referencia|Fundamentos > Prompts > Mejores prácticas > **Clasificación intenciones**|[Repaso conversaciones](repasoDeVezEnCuando.md)<br>Gestión de diálogos extensos
+|[Mejores prácticas](README.md)<br>Marco metodológico||[Resumen recursivo](resumenDeResumen.md)<br>Procesamiento de documentos largos
+
+<i>**Relacionado**: [Componentes](../componentes.md) - Identificación de tareas / [Ingeniería de Prompts](../../ingenieriaDePrompts/README.md) - Técnicas avanzadas de análisis</i>
+
+</div>

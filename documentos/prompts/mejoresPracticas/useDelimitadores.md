@@ -32,3 +32,14 @@ Use caracteres comunes como delimitadores| Puede utilizar signos de puntuación,
 Indique la estructura deseada en la respuesta|Si espera una respuesta en un formato específico, use delimitadores para indicar cómo quiere que se organice la respuesta.|"Explica: a) el concepto de branding, b) su importancia en el mercado actual, y c) ejemplos de marcas exitosas".
 
 Al utilizar delimitadores en sus consultas, facilita la tarea del modelo al presentar información de manera estructurada, lo que a menudo resulta en respuestas más claras y organizadas.
+
+<div align=right>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[Adoptar personalidad](adoptarPersonalidad.md)<br>Técnica previa de instrucciones claras|Fundamentos > Prompts > Mejores prácticas > **Usar delimitadores**|[Especificar pasos](especificarPasos.md)<br>Técnica de proceso estructurado
+|[Mejores prácticas](README.md)<br>Marco metodológico||[Proporcionar ejemplos](proporcioneEjemplos.md)<br>Técnica de contextualización
+
+<i>**Relacionado**: [Estructura](../componentes.md) - Organización de componentes / [8 virtudes](8virtudesDelPrompting.md) - Principio de Estructura / [Tokens](../tokens.md) - Optimización de separadores</i>
+
+</div>

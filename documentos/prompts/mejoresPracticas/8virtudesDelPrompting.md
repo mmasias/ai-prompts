@@ -66,3 +66,18 @@ De la sabia combinación de estos tres principios fundamentales, como de la mezc
 ---
 
 ![](/documentos/imagenes/virtudesPrompting/virtudesPrompting.png)
+
+---
+
+## ¿Y ahora qué?
+
+<div align=right>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[Mejores prácticas](README.md)<br>Marco general de optimización|Fundamentos > Prompts > Mejores prácticas > **8 virtudes**|[Aplicación práctica](8virtudesAplicacion.md)<br>Ejemplos concretos por sector
+|[Anatomía de un prompt](../anatomia.md)<br>Componentes y estructura||[Técnicas específicas](incluyaDetalles.md)<br>Implementación detallada
+
+<i>**Relacionado**: [C³ principios](../recetas.md) - Base conceptual de las virtudes / [Ingeniería de Prompts](../../ingenieriaDePrompts/README.md) - Aplicación avanzada / [Casos de uso](../../casosDeUso/README.md) - Virtudes en contexto real</i>
+
+</div>

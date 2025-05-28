@@ -148,3 +148,18 @@ Contexto|La oscuridad primordial personificando a un dios griego, Erebus vistien
 Entrada|-
 [Parámetros](https://docs.midjourney.com/docs/parameter-list)| --ar 2:3 --upbeta --q 2 --v 4
 <!-- TODO: #22 promptear esto en midjourney o en bluewillow -->
+
+---
+
+## ¿Y ahora qué?
+
+<div align=right>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[Anatomía de un prompt](anatomia.md)<br>Marco conceptual general|Fundamentos > Prompts > **Componentes**|[Elementos](elementos.md)<br>Especificaciones dentro de cada componente
+|||[Ejemplos prácticos](ejemplos.md)<br>Ver componentes en acción
+
+<i>**Relacionado**: [Recetas](recetas.md) - Cómo combinar estos componentes efectivamente / [Priming](../ingenieriaDePrompts/priming.md) - Técnica que se enfoca en contexto / [x-Shot Prompting](../ingenieriaDePrompts/xShotPrompting.md) - Usa componentes con ejemplos</i>
+
+</div>

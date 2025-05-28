@@ -87,9 +87,7 @@ En algunos contextos, especialmente cuando los modelos se integran con otros sis
 
 ## De los componentes a los elementos, un ejemplo (Parte II)
 
-
-
-### Proceso de creación:
+### Proceso de creación
 
 [🔗](https://chat.openai.com/share/214692d5-7e24-4ec2-8f31-ff0bd2c4aec3)
 
@@ -108,3 +106,17 @@ En algunos contextos, especialmente cuando los modelos se integran con otros sis
 |Contexto|Rol|Escriba desde la perspectiva de un entrenador motivacional que habla individualmente con una persona deprimida y confundida.
 ||Audiencia|Esto será enviado como un mensaje a personas que pueden estar experimentando este síndrome, profesionales de 30 años, con experiencia en el sector pero con dudas razonables sobre su capacidad.
 
+---
+
+## ¿Y ahora qué?
+
+<div align=right>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[Componentes](componentes.md)<br>Categorías fundamentales de un prompt|Fundamentos > Prompts > **Elementos**|[Recetas](recetas.md)<br>Cómo combinar componentes y elementos
+|[Anatomía de un prompt](anatomia.md)<br>Marco conceptual base||[Ejemplos prácticos](ejemplos.md)<br>Ver elementos aplicados
+
+<i>**Relacionado**: [Tokens](tokens.md) - Los elementos consumen tokens / [Mejores prácticas](mejoresPracticas/README.md) - Optimización de elementos / [Custom Instructions](customInstructions.md) - Aplicación práctica de elementos</i>
+
+</div>

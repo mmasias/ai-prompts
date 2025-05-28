@@ -32,3 +32,18 @@ Especifique el propósito|Si tiene un objetivo particular en mente, inclúyalo p
 Determine detalles clave|Si hay detalles específicos que son cruciales para su consulta, asegúrese de mencionarlos.|En lugar de "Dime sobre la Revolución Francesa", pregunte "Dime sobre el papel de las mujeres en la Revolución Francesa".
 
 Al seguir estos consejos, no solo obtendrá respuestas más precisas, sino que también hará un uso más eficiente de su tiempo y recursos al interactuar con modelos de lenguaje o cualquier otra herramienta de consulta.
+
+---
+
+## ¿Y ahora qué?
+
+<div align=right>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[Mejores prácticas](README.md)<br>Marco metodológico general|Fundamentos > Prompts > Mejores prácticas > **Incluir detalles**|[Adoptar personalidad](adoptarPersonalidad.md)<br>Siguiente técnica de instrucciones claras
+|[8 virtudes del prompting](8virtudesDelPrompting.md)<br>Principios de Claridad y Concreción||[Usar delimitadores](useDelimitadores.md)<br>Estructuración de información
+
+<i>**Relacionado**: [Componentes](../componentes.md) - Contexto y especificaciones / [Elementos](../elementos.md) - Detalles granulares / [Ejemplos prácticos](../ejemplos.md) - Ver técnica aplicada</i>
+
+</div>

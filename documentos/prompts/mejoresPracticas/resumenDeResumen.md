@@ -32,3 +32,18 @@ Resumir cada segmento|Una vez dividido, resuma cada sección de manera individua
 Construcción recursiva|Luego de obtener los resúmenes individuales, combine estos resúmenes para formar un resumen más amplio y coherente del documento completo. Esto puede requerir un proceso iterativo para asegurarse de que el resumen final sea coherente y representativo.|Consolidar los resúmenes de cada trimestre para obtener un panorama anual.
 
 Este enfoque, al descomponer y reestructurar la información, permite que los modelos GPT aborden documentos extensos de manera más eficiente y precisa, garantizando una representación fiel y concisa del contenido original.
+
+---
+
+## ¿Y ahora qué?
+
+<div align=right>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[Repaso conversaciones](repasoDeVezEnCuando.md)<br>Técnica previa de gestión de contexto|Fundamentos > Prompts > Mejores prácticas > **Resumen recursivo**|[Pensar paso a paso](piensaGPT.md)<br>Inicio del bloque "Ayuda a pensar"
+|[Ventana de contexto](../ventanaDeContexto.md)<br>Limitaciones de procesamiento||[Razonamiento interno](razonaGPT.md)<br>Técnica de proceso cognitivo
+
+<i>**Relacionado**: [Tokens](../tokens.md) - Optimización de espacio / [Casos de uso](../../casosDeUso/README.md) - Procesamiento de documentos extensos</i>
+
+</div>

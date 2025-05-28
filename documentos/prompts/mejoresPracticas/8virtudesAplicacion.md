@@ -71,3 +71,18 @@
 |**Estructura** *(Claridad + Concisión)*|"Presupuesto control desviaciones alertas análisis reporting"|"Estructura control presupuestario:<br>1. Monitorización diaria<br>2. Análisis semanal<br>3. Reporting mensual<br>4. Acciones correctivas"|Organiza el proceso lógicamente|
 |**Maestría** *(C³)*|"Sistema control gastos"|"Sistema control presupuestario:<br>Monitorización:<br>- Real vs Budget (diario)<br>- Forecast rolling (semanal)<br>- Análisis tendencias (mensual)<br>Alertas:<br>- OPEX: >3%<br>- CAPEX: >5%<br>Acciones:<br>- Plan mitigación automático"|Integra todas las virtudes equilibradamente|
 |**Flexibilidad** *(Meta-virtud)*|"Aplica control estricto del 3% a todas las partidas"|"Sistema control adaptativo:<br>- OPEX crítico: 3%<br>- OPEX regular: 5%<br>- CAPEX: 10%<br>Ajustable por temporada"|Adapta el control según contexto|
+
+---
+
+## ¿Y ahora qué?
+
+<div align=right>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[8 virtudes del prompting](8virtudesDelPrompting.md)<br>Principios fundamentales C³|Fundamentos > Prompts > Mejores prácticas > **Aplicación virtudes**|[Técnicas específicas](incluyaDetalles.md)<br>Implementación detallada
+|[Mejores prácticas](README.md)<br>Marco metodológico||[Casos de uso](../../casosDeUso/README.md)<br>Aplicación en contextos reales
+
+<i>**Relacionado**: [Ejemplos prácticos](../ejemplos.md) - Más casos de aplicación / [Recetas](../recetas.md) - Metodología de combinación / [GPTs](../GPTs.md) - Automatización de virtudes</i>
+
+</div>

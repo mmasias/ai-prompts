@@ -32,3 +32,18 @@ Solicite comparaciones o contrastes|Si tiene un texto y desea compararlo con el 
 Pida síntesis o resúmenes|Si el texto de referencia es extenso, puede pedir al modelo que sintetice la información o destaque los aspectos más relevantes.|"Basándote en la siguiente investigación sobre e-commerce: [texto de la investigación], ¿puedes proporcionar un resumen de las principales conclusiones?"
 
 Indicar al modelo que utilice un texto de referencia potencia la precisión de las respuestas y permite a los usuarios obtener insights específicos y contextualizados a partir de una fuente dada.
+
+---
+
+## ¿Y ahora qué?
+
+<div align=right>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[Explicitar longitud](expliciteLongitudRespuesta.md)<br>Técnica previa de control de salida|Fundamentos > Prompts > Mejores prácticas > **Uso texto referencia**|[Pedir referencias](pideReferencias.md)<br>Técnica complementaria del bloque
+|[Mejores prácticas](README.md)<br>Marco metodológico||[Clasificación intenciones](clasificacionIntenciones.md)<br>Siguiente bloque "Divide y vencerás"
+
+<i>**Relacionado**: [Contexto](../componentes.md) - Texto como componente contextual / [Entrada](../componentes.md) - Texto como input específico / [Ventana de contexto](../ventanaDeContexto.md) - Gestión de texto extenso</i>
+
+</div>

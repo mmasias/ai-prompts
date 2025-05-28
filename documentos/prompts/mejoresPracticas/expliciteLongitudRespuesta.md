@@ -32,3 +32,18 @@ Solicite formatos específicos|Si tiene una preferencia sobre cómo debe estruct
 Establezca límites claros|Si necesita una respuesta que se adapte a un espacio o tiempo específico, como una presentación o una publicación, indíquelo.|"Describe las tendencias actuales en publicidad digital en un párrafo apto para incluir en una presentación".
 
 Especificar la longitud deseada de la salida ayuda a personalizar la experiencia de interacción con el modelo, garantizando respuestas que se alineen adecuadamente con las necesidades y expectativas del usuario.
+
+---
+
+## ¿Y ahora qué?
+
+<div align=right>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[Proporcionar ejemplos](proporcioneEjemplos.md)<br>Técnica previa de contextualización|Fundamentos > Prompts > Mejores prácticas > **Explicitar longitud**|[Uso texto referencia](usoTextoReferencia.md)<br>Inicio del bloque "Texto de referencia"
+|[Mejores prácticas](README.md)<br>Marco metodológico||[Clasificación intenciones](clasificacionIntenciones.md)<br>Inicio del bloque "Divide y vencerás"
+
+<i>**Relacionado**: [Tokens](../tokens.md) - Limitaciones de longitud / [Ventana de contexto](../ventanaDeContexto.md) - Gestión de espacio / [8 virtudes](8virtudesDelPrompting.md) - Principio de Concisión</i>
+
+</div>

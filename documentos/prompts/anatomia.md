@@ -31,3 +31,20 @@ Imagine que está construyendo una casa (su resultado deseado del modelo AI).
 **La receta** sería el plan arquitectónico que le dice en qué orden y cómo ensamblar esos materiales para construir la casa.
 
 En la ingeniería de prompts, esta estructura jerárquica ayuda a descomponer y organizar la creación de prompts de manera que sean efectivos y generen el resultado deseado del modelo AI.
+
+---
+
+## ¿Y ahora qué?
+
+<div align=right>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[¿Qué son los prompts?](README.md)<br>Conceptos básicos necesarios|Fundamentos > Prompts > **Anatomía**|[Componentes](componentes.md)<br>Detalle de cada parte
+|||[Elementos](elementos.md)<br>Especificaciones granulares
+|||[Recetas](recetas.md)<br>Metodología de combinación
+|||[**Mejores prácticas**](mejoresPracticas/README.md)<br>Aplicación sistemática
+
+<i>**Relacionado**: [Tokens](tokens.md) - Limitaciones técnicas que afectan el diseño / [Mejores prácticas](mejoresPracticas/README.md) - Aplicación de estos conceptos / [Chain of Thought](../ingenieriaDePrompts/chainOfThought.md) - Técnica que usa esta estructura</i>
+
+</div>

@@ -5,6 +5,17 @@
 
 </div>
 
+<div align=right>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[Ingeniería de Prompts](README.md)<br>Base metodológica necesaria|Metodología > Ingeniería de Prompts > **0-Shot Prompting**|[x-Shot Prompting](xShotPrompting.md)<br>Aprendizaje con ejemplos
+|[Tokens](../prompts/tokens.md)<br>Comprende limitaciones técnicas||[Chain of Thought](chainOfThought.md)<br>Razonamiento paso a paso
+
+<i>**Relacionado**: [Priming](priming.md) - Guiar sin ejemplos específicos / [Patrones](patrones/README.md) - Aplicaciones estructuradas / [Mejores prácticas](../prompts/mejoresPracticas/README.md) - Optimización general</i>
+
+</div>
+
 # 0 Shot prompting
 
 ## ¿Por qué?

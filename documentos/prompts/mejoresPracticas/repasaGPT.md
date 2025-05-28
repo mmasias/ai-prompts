@@ -31,3 +31,18 @@ Revisión de contenidos|Después de obtener una respuesta o solución del modelo
 Verificación de puntos clave|Puede enumerar algunos puntos clave y preguntarle al modelo si ha considerado todos ellos en su respuesta.|"Para nuestra campaña de marketing, los puntos esenciales son: segmentación del público, canales de distribución y retroalimentación del cliente. ¿Has considerado todos estos puntos en tu estrategia?"
 
 Al usar esta táctica, no sólo se garantiza que el modelo haya considerado todos los aspectos relevantes, sino que también proporciona una capa adicional de revisión, lo que puede ser esencial en contextos empresariales donde los detalles y la exhaustividad son cruciales.
+
+---
+
+## ¿Y ahora qué?
+
+<div align=right>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[Razonamiento interno](razonaGPT.md)<br>Técnica previa de proceso cognitivo|Fundamentos > Prompts > Mejores prácticas > **Repaso y verificación**|[Ventana de contexto](../ventanaDeContexto.md)<br>Conceptos técnicos fundamentales
+|[Pensar paso a paso](piensaGPT.md)<br>Base del razonamiento estructurado||[Tokens](../tokens.md)<br>Limitaciones técnicas
+
+<i>**Relacionado**: [Ingeniería de Prompts](../../ingenieriaDePrompts/README.md) - Técnicas avanzadas / [Casos de uso](../../casosDeUso/README.md) - Aplicación práctica completa</i>
+
+</div>

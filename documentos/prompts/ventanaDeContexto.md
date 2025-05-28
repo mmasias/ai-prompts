@@ -87,3 +87,18 @@ Tweets<br>*considerando que un tweet tiene un límite de 280 caracteres*|15-20|3
 - [Trabajar con documentos](/documentos/casosDeUso/examenTipoTest.md), una forma de "mitigar" el problema con la ventana de contexto
 
 > ***Actualización:*** [Copilot ahora mantiene el contexto](https://copilot.microsoft.com/chats/FZif3PHfxRXSym3crGjsy) y lo [hace sorprendentemente bien!](https://drive.google.com/drive/folders/15NpyxP458Ct5b0pGa5f2Rx_6WEBHUmvP?usp=drive_link)
+
+---
+
+## ¿Y ahora qué?
+
+<div align=right>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[¿Qué son los prompts?](README.md)<br>Conceptos básicos|Fundamentos > Prompts > **Ventana de contexto**|[Tokens](tokens.md)<br>Unidades básicas de procesamiento
+|[Modelos de lenguaje](../LLMs.md)<br>Funcionamiento de los LLMs||[Mejores prácticas](mejoresPracticas/README.md)<br>Optimización considerando limitaciones
+
+<i>**Relacionado**: [Repaso conversaciones](mejoresPracticas/repasoDeVezEnCuando.md) - Gestión práctica de límites / [Resumen recursivo](mejoresPracticas/resumenDeResumen.md) - Técnica para documentos extensos / [Casos de uso](../casosDeUso/README.md) - Aplicaciones que consideran limitaciones</i>
+
+</div>

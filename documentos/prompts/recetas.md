@@ -55,3 +55,19 @@ Similar a una receta de cocina: no sólo se trata de tener los ingredientes corr
 **Inclusión de opciones de personalización**|Se indica qué partes de la plantilla pueden ser modificadas y se proporciona orientación para adaptarlas.
 **Adición de documentación de metadatos**|Se proporciona información detallada sobre el propósito, uso y opciones de personalización de la plantilla, incluyendo las mejores prácticas para un rendimiento óptimo de la IA.
 **Prueba y refinamiento**|Se valida la plantilla con tareas ejemplares y se realizan los ajustes necesarios para mejorar la usabilidad y efectividad.
+
+---
+
+## ¿Y ahora qué?
+
+<div align=right>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[Componentes](componentes.md)<br>Categorías fundamentales|Fundamentos > Prompts > **Recetas**|[Ejemplos prácticos](ejemplos.md)<br>Ver recetas en acción
+|[Elementos](elementos.md)<br>Especificaciones granulares||[Mejores prácticas](mejoresPracticas/README.md)<br>Aplicación sistemática
+|[Anatomía de un prompt](anatomia.md)<br>Marco conceptual completo|||
+
+<i>**Relacionado**: [8 virtudes del prompting](mejoresPracticas/8virtudesDelPrompting.md) - Principios para crear buenas recetas / [GPTs](GPTs.md) - Recetas personalizadas automatizadas / [Ingeniería de Prompts](../ingenieriaDePrompts/README.md) - Técnicas avanzadas</i>
+
+</div>

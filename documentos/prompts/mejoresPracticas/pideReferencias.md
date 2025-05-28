@@ -32,3 +32,18 @@ Solicite confirmación de datos o hechos|Si tiene una información y desea confi
 Pida análisis con respaldo de citas|Si desea una interpretación o análisis de un aspecto del texto, solicite que cualquier afirmación se respalde con citas directas.|"Analiza la percepción del público sobre la inteligencia artificial según el siguiente artículo: [texto del artículo]. Asegúrate de incluir citas que respalden tus puntos".
 
 Solicitar al modelo que responda con citas del texto de referencia permite obtener respuestas que reflejen con exactitud y autenticidad el contenido de la fuente original, brindando mayor confianza y precisión en la información compartida.
+
+---
+
+## ¿Y ahora qué?
+
+<div align=right>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[Uso texto referencia](usoTextoReferencia.md)<br>Técnica base del bloque|Fundamentos > Prompts > Mejores prácticas > **Pedir referencias**|[Clasificación intenciones](clasificacionIntenciones.md)<br>Inicio del bloque "Divide y vencerás"
+|[Mejores prácticas](README.md)<br>Marco metodológico||[Repaso conversaciones](repasoDeVezEnCuando.md)<br>Técnica de gestión de contexto
+
+<i>**Relacionado**: [Tokens](../tokens.md) - Citas y límites de espacio / [Ventana de contexto](../ventanaDeContexto.md) - Gestión de referencias extensas</i>
+
+</div>

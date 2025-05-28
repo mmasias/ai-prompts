@@ -70,3 +70,19 @@ Aprender una habilidad que en un futuro será considerada básica
 |-|-|
 [OpenAI](https://openai.com/) / [❓](https://help.openai.com/en/)|
 [Prompt engineering institute](https://www.promptengineering.org/)|
+
+---
+
+## ¿Y ahora qué?
+
+<div align=right>
+
+|Requisitos|Estás en|Sigue...|
+|-|-|-|
+|[Fundamentos de prompts](../prompts/README.md)<br>Comprende estructura y componentes básicos|Fundamentos > **Ingeniería de Prompts** (Metodología)|[Consideraciones](consideraciones.md)<br>Factores críticos para el diseño
+|[Ventana de contexto](../prompts/ventanaDeContexto.md)<br>Limitaciones técnicas fundamentales||[Chain of Thought](chainOfThought.md)<br>Razonamiento paso a paso
+|[Anatomía del prompt](../prompts/anatomia.md)<br>Estructura de componentes||[Técnicas x-Shot](xShotPrompting.md)<br>Aprendizaje por ejemplos
+
+<i>**Relacionado**: [Mejores prácticas](../prompts/mejoresPracticas/README.md) - Aplicación inmediata / [Patrones](patrones/README.md) - Soluciones reutilizables / [Casos de uso](../casosDeUso/README.md) - Ejemplos prácticos</i>
+
+</div>
