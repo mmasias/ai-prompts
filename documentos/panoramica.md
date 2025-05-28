@@ -5,13 +5,34 @@
 
 </div>
 
-# 🌐 🔭 Panorámica
+# 🌐 🔭 Panorámica 
 
 <div align=center>
   
-[![](https://img.shields.io/badge/-Primera_división-0078D4?style=flat&logo=chatbot&logoColor=white)](#primera-división) [![](https://img.shields.io/badge/-Ofimática-0078D4?style=flat&logo=microsoftexcel&logoColor=white)](#️-ofimática) [![](https://img.shields.io/badge/-Educación-0078D4?style=flat&logo=academia&logoColor=white)](#educación-y-aprendizaje) [![](https://img.shields.io/badge/-Trabajo-0078D4?style=flat&logo=slack&logoColor=white)](#trabajo-y-productividad) [![](https://img.shields.io/badge/-Creación-0078D4?style=flat&logo=canva&logoColor=white)](#creación-de-contenido) [![](https://img.shields.io/badge/-Marketing-0078D4?style=flat&logo=googleads&logoColor=white)](#comunicación-y-marketing) [![](https://img.shields.io/badge/-Desarrollo-0078D4?style=flat&logo=github&logoColor=white)](#desarrollo--áreas-técnicas) [![](https://img.shields.io/badge/-Especializaciones-0078D4?style=flat&logo=microscope&logoColor=white)](#especializaciones)
+|[![](https://img.shields.io/badge/-Primera_división-0078D4?style=flat&logo=chatbot&logoColor=white)](#primera-división) [![](https://img.shields.io/badge/-Ofimática-0078D4?style=flat&logo=microsoftexcel&logoColor=white)](#️-ofimática) [![](https://img.shields.io/badge/-Educación-0078D4?style=flat&logo=academia&logoColor=white)](#educación-y-aprendizaje) [![](https://img.shields.io/badge/-Trabajo-0078D4?style=flat&logo=slack&logoColor=white)](#trabajo-y-productividad) [![](https://img.shields.io/badge/-Creación-0078D4?style=flat&logo=canva&logoColor=white)](#creación-de-contenido) [![](https://img.shields.io/badge/-Marketing-0078D4?style=flat&logo=googleads&logoColor=white)](#comunicación-y-marketing) [![](https://img.shields.io/badge/-Desarrollo-0078D4?style=flat&logo=github&logoColor=white)](#desarrollo--áreas-técnicas) [![](https://img.shields.io/badge/-Especializaciones-0078D4?style=flat&logo=microscope&logoColor=white)](#especializaciones)
+|-
+|![](https://img.shields.io/badge/Actualizado-mayo_2025-28a745?style=for-the-badge&logo=calendar&logoColor=white)|
 
 </div>
+
+## Cómo evaluar una herramienta de IA
+
+Antes de explorar las opciones presentadas (u otras), conviene considerar estos criterios clave para elegir la herramienta más adecuada:
+
+<div align=center>
+
+|Criterio|Qué evaluar|Para qué|Cómo evaluarlo|
+|-|-|-|-|
+|**Precio**|Plan gratuito, costo mensual, límites de uso|Determinar viabilidad económica y sostenibilidad|¿Tiene versión gratuita? ¿El precio se ajusta al presupuesto?|
+|**Privacidad**|Política de datos, ubicación servidores, cifrado|Proteger información personal y empresarial|¿Los datos se usan para entrenar el modelo? ¿Dónde se almacenan?|
+|**Idiomas**|Soporte multiidioma, calidad en español|Asegurar comunicación efectiva en el contexto local|¿Funciona bien en el idioma requerido? ¿Entiende contexto cultural?|
+|**Compatibilidad**|Tipos de archivos, integraciones, APIs|Integrar con flujos de trabajo existentes|¿Se integra con las herramientas actuales? ¿Importa los formatos necesarios?|
+|**Apertura**|Código abierto, transparencia, comunidad|Evaluar transparencia y control sobre la herramienta|¿Se puede auditar el código? ¿Existen alternativas locales?|
+|**Datos sensibles**|Cifrado extremo a extremo, cumplimiento normativo|Garantizar seguridad en entornos profesionales|¿Es seguro para información confidencial o empresarial?|
+
+</div>
+
+**💡 Recomendación**: Es aconsejable probar siempre la versión gratuita antes de comprometerse con un plan de pago.
 
 ## Primera división
 
