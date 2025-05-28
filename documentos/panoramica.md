@@ -41,7 +41,7 @@
 
 </div>
 
-> **Más**: [Notion AI](https://www.notion.so/product/ai) / [Airtable AI](https://www.airtable.com/) / [Smartsheet](https://www.smartsheet.com/) / [Monday.com AI](https://monday.com/) / [Clickup AI](https://clickup.com/) / [Asana Intelligence](https://asana.com/) / [Zapier Tables](https://zapier.com/tables) / [FormulasHQ](https://formulashq.com/es-LA/) / [Sheetplus](https://sheetplus.ai/) / [ExcelFormulaBot](https://excelformulabot.com/)
+> <sub><i>**Más**: [Airtable AI](https://www.airtable.com/) / [Smartsheet](https://www.smartsheet.com/) / [Clickup AI](https://clickup.com/) / [Asana Intelligence](https://asana.com/) / [Zapier Tables](https://zapier.com/tables) / [FormulasHQ](https://formulashq.com/es-LA/) / [Sheetplus](https://sheetplus.ai/) / [ExcelFormulaBot](https://excelformulabot.com/)</i></sub>
 
 ## 🧑‍🏫📚 Docencia y educación
 
@@ -59,7 +59,7 @@
 
 </div>
 
-> **Más**: [Pi](https://pi.ai/onboarding) / [Knewton Alta](https://www.knewton.com/) / [Smart Sparrow](https://www.smartsparrow.com/) / [Megaprofe](https://megaprofe.es/) / [Carnegie Learning](https://www.carnegielearning.com/) / [IBM Watson Tutor](https://www.ibm.com/watson/education) / [Eduaide.AI](https://www.eduaide.ai/) / [Rori](https://rori.ai/) / [TutorOcean](https://www.tutorocean.com/ai) / [Socratic by Google](https://socratic.org/) / [Quill](https://www.quill.org/) / [Century Tech](https://www.century.tech/) / [Squirrel AI](https://www.squirrelai.com/) / [ALEKS](https://www.aleks.com/) / [Copilot Education](https://copilot.microsoft.com/) / [Coursebox](https://www.coursebox.ai/) / [Mindsmith](https://www.mindsmith.ai/) / [TeacherMatic](https://teachermatic.com/) / [Education Copilot](https://educationcopilot.com/) / [Diffit](https://diffit.me/) / [Formative](https://www.formative.com/) / [Brainly](https://brainly.com/) / [Wolfram Alpha](https://www.wolframalpha.com/)
+> <sub><i>**Más**: [Pi](https://pi.ai/onboarding) / [Knewton Alta](https://www.knewton.com/) / [Smart Sparrow](https://www.smartsparrow.com/) / [Megaprofe](https://megaprofe.es/) / [Carnegie Learning](https://www.carnegielearning.com/) / [IBM Watson Tutor](https://www.ibm.com/watson/education) / [Eduaide.AI](https://www.eduaide.ai/) / [Rori](https://rori.ai/) / [TutorOcean](https://www.tutorocean.com/ai) / [Socratic by Google](https://socratic.org/) / [Quill](https://www.quill.org/) / [Century Tech](https://www.century.tech/) / [Squirrel AI](https://www.squirrelai.com/) / [ALEKS](https://www.aleks.com/) / [Copilot Education](https://copilot.microsoft.com/) / [Coursebox](https://www.coursebox.ai/) / [Mindsmith](https://www.mindsmith.ai/) / [TeacherMatic](https://teachermatic.com/) / [Education Copilot](https://educationcopilot.com/) / [Diffit](https://diffit.me/) / [Formative](https://www.formative.com/) / [Brainly](https://brainly.com/) / [Wolfram Alpha](https://www.wolframalpha.com/)</i></sub>
 
 ## 🔍📚 Investigación
 
@@ -77,7 +77,7 @@
 
 </div>
 
-> **Más**: [SCISPACE](https://typeset.io/) / [Silatus](https://silatus.com) / [Scite](https://scite.ai/) / [Litmaps](https://www.litmaps.com/) / [Inciteful](https://inciteful.xyz/) / [Scholarcy](https://www.scholarcy.com/) / [SummarizeBot](https://summarizebot.com/) / [Iris.ai](https://iris.ai/) / [Paper Digest](https://www.paperdigest.org/) / [Meta](https://meta.com/ai/research/) / [OpenRead](https://www.openread.academy/) / [ChatPDF](https://www.chatpdf.com/) / [Humata](http://humata.ai) / [LawNext](https://lawnext.ai/) / [Casetext](https://casetext.com/)
+> <sub><i>**Más**: [SCISPACE](https://typeset.io/) / [Silatus](https://silatus.com) / [Scite](https://scite.ai/) / [Litmaps](https://www.litmaps.com/) / [Inciteful](https://inciteful.xyz/) / [Scholarcy](https://www.scholarcy.com/) / [SummarizeBot](https://summarizebot.com/) / [Iris.ai](https://iris.ai/) / [Paper Digest](https://www.paperdigest.org/) / [Meta](https://meta.com/ai/research/) / [OpenRead](https://www.openread.academy/) / [ChatPDF](https://www.chatpdf.com/) / [Humata](http://humata.ai) / [LawNext](https://lawnext.ai/) / [Casetext](https://casetext.com/)</i></sub>
 
 ## 📚🎓 Aprender y estudiar
 
@@ -95,7 +95,7 @@
 
 </div>
 
-> **Más**: [learnworlds.com](https://www.learnworlds.com/) / [coursebox.ai](https://www.coursebox.ai/) / [Juji](https://juji.io/) / [studyable.app](https://studyable.app/) / [gajix.com](https://gajix.com/) / [Rori](https://rori.ai/) / [TutorOcean](https://www.tutorocean.com/ai) / [Brainly](https://brainly.com/) / [StudySmarter](https://www.studysmarter.co.uk/) / [Mindgrasp](https://mindgrasp.ai/) / [Otter.ai](https://otter.ai/students) / [Grammarly](https://www.grammarly.com/students) / [Wolfram Alpha](https://www.wolframalpha.com/) / [Anki](https://apps.ankiweb.net/) / [RemNote](https://www.remnote.com/)
+> <sub><i>**Más**: [learnworlds.com](https://www.learnworlds.com/) / [coursebox.ai](https://www.coursebox.ai/) / [Juji](https://juji.io/) / [studyable.app](https://studyable.app/) / [gajix.com](https://gajix.com/) / [Rori](https://rori.ai/) / [TutorOcean](https://www.tutorocean.com/ai) / [Brainly](https://brainly.com/) / [StudySmarter](https://www.studysmarter.co.uk/) / [Mindgrasp](https://mindgrasp.ai/) / [Otter.ai](https://otter.ai/students) / [Grammarly](https://www.grammarly.com/students) / [Wolfram Alpha](https://www.wolframalpha.com/) / [Anki](https://apps.ankiweb.net/) / [RemNote](https://www.remnote.com/)</i></sub>
 
 ## 🎓📚 Educación personalizada y aprendizaje adaptativo
 
@@ -113,7 +113,7 @@
 
 </div>
 
-> **Más**: [Megaprofe](https://megaprofe.es/) / [IBM Watson Tutor](https://www.ibm.com/watson/education) / [Coursera Coach](https://www.coursera.org/) / [edX AI](https://www.edx.org/) / [Pearson MyLab](https://www.pearsonmylabandmastering.com/) / [McGraw Hill Connect](https://www.mheducation.com/highered/connect) / [Wiley PLUS](https://www.wileyplus.com/) / [Khan Academy](https://www.khanacademy.org/) / [IXL Learning](https://www.ixl.com/) / [Prodigy Math](https://www.prodigygame.com/) / [Renaissance Learning](https://www.renaissance.com/) / [Adaptive Learning Solutions](https://www.adaptivelearningsolutions.com/)
+> <sub><i>**Más**: [Megaprofe](https://megaprofe.es/) / [IBM Watson Tutor](https://www.ibm.com/watson/education) / [Coursera Coach](https://www.coursera.org/) / [edX AI](https://www.edx.org/) / [Pearson MyLab](https://www.pearsonmylabandmastering.com/) / [McGraw Hill Connect](https://www.mheducation.com/highered/connect) / [Wiley PLUS](https://www.wileyplus.com/) / [Khan Academy](https://www.khanacademy.org/) / [IXL Learning](https://www.ixl.com/) / [Prodigy Math](https://www.prodigygame.com/) / [Renaissance Learning](https://www.renaissance.com/) / [Adaptive Learning Solutions](https://www.adaptivelearningsolutions.com/)</i></sub>
 
 ## 👥🤝 Trabajo, trabajo colaborativo y similares
 
@@ -131,7 +131,7 @@
 
 </div>
 
-> **Más**: [Unstuck study](https://unstuckstudy.com) / [Krisp](https://krisp.ai/) / [Jasper](https://www.jasper.ai/) / [Copy.ai](https://www.copy.ai/) / [Writesonic](https://writesonic.com/) / [Grammarly](https://www.grammarly.com/) / [Loom AI](https://www.loom.com/) / [Calendly](https://calendly.com/) / [Zapier](https://zapier.com/) / [Monday.com](https://monday.com/) / [Slack AI](https://slack.com/) / [Microsoft Viva](https://www.microsoft.com/en-us/microsoft-viva) / [Teams Premium](https://www.microsoft.com/en-us/microsoft-teams/premium) / [Google Workspace AI](https://workspace.google.com/solutions/ai/)
+> <sub><i>**Más**: [Unstuck study](https://unstuckstudy.com) / [Krisp](https://krisp.ai/) / [Jasper](https://www.jasper.ai/) / [Copy.ai](https://www.copy.ai/) / [Writesonic](https://writesonic.com/) / [Grammarly](https://www.grammarly.com/) / [Loom AI](https://www.loom.com/) / [Monday.com](https://monday.com/) / [Slack AI](https://slack.com/) / [Microsoft Viva](https://www.microsoft.com/en-us/microsoft-viva) / [Teams Premium](https://www.microsoft.com/en-us/microsoft-teams/premium) / [Google Workspace AI](https://workspace.google.com/solutions/ai/)</i></sub>
 
 ## ⏰📅 Gestión del tiempo y productividad personal
 
@@ -149,7 +149,7 @@
 
 </div>
 
-> **Más**: [Fantastical](https://flexibits.com/fantastical) / [Calendly](https://calendly.com/) / [Scheduler AI](https://scheduler.ai/) / [Clara](https://claralabs.com/) / [x.ai](https://x.ai/) / [Trevor](https://trevor.io/) / [Plan](https://getplan.co/) / [Sunsama](https://sunsama.com/) / [TickTick](https://ticktick.com/) / [Toggl Track](https://toggl.com/track/) / [RescueTime](https://www.rescuetime.com/) / [Focus Keeper](https://focuskeeperapp.com/) / [Forest](https://www.forestapp.cc/) / [Brain.fm](https://www.brain.fm/)
+> <sub><i>**Más**: [Fantastical](https://flexibits.com/fantastical) / [Calendly](https://calendly.com/) / [Scheduler AI](https://scheduler.ai/) / [Clara](https://claralabs.com/) / [x.ai](https://x.ai/) / [Trevor](https://trevor.io/) / [Plan](https://getplan.co/) / [Sunsama](https://sunsama.com/) / [TickTick](https://ticktick.com/) / [Toggl Track](https://toggl.com/track/) / [RescueTime](https://www.rescuetime.com/) / [Focus Keeper](https://focuskeeperapp.com/) / [Forest](https://www.forestapp.cc/) / [Brain.fm](https://www.brain.fm/)</i></sub>
 
 ## 📷🎨 Fotografía
 
@@ -167,7 +167,7 @@
 
 </div>
 
-> **Más**: [Adobe Firefly](https://firefly.adobe.com/) / [Luminar AI](https://skylum.com/luminar-ai) / [Canva AI](https://www.canva.com/ai-image-generator/) / [VSCO](https://vsco.co/) / [Snapseed](https://snapseed.online/) / [FaceApp](https://www.faceapp.com/) / [Lensa AI](https://prisma-ai.com/lensa) / [PhotoRoom](https://www.photoroom.com/) / [Remove.bg](https://www.remove.bg/) / [Cleanup.pictures](https://cleanup.pictures/) / [Upscale.media](https://upscale.media/) / [AI Image Enlarger](https://imglarger.com/) / [Waifu2x](https://waifu2x.udp.jp/) / [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
+> <sub><i>**Más**: [Adobe Firefly](https://firefly.adobe.com/) / [Luminar AI](https://skylum.com/luminar-ai) / [Canva AI](https://www.canva.com/ai-image-generator/) / [VSCO](https://vsco.co/) / [Snapseed](https://snapseed.online/) / [FaceApp](https://www.faceapp.com/) / [Lensa AI](https://prisma-ai.com/lensa) / [PhotoRoom](https://www.photoroom.com/) / [Remove.bg](https://www.remove.bg/) / [Cleanup.pictures](https://cleanup.pictures/) / [Upscale.media](https://upscale.media/) / [AI Image Enlarger](https://imglarger.com/) / [Waifu2x](https://waifu2x.udp.jp/) / [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)</i></sub>
 
 ## 📱💬 Redes sociales
 
@@ -185,7 +185,7 @@
 
 </div>
 
-> **Más**: [Jasper](https://www.jasper.ai/) / [Copy.ai](https://www.copy.ai/) / [Writesonic](https://writesonic.com/) / [SocialBee](https://socialbee.io/) / [MeetEdgar](https://meetedgar.com/) / [Lumen5](https://lumen5.com/) / [Animoto](https://animoto.com/) / [Canva](https://www.canva.com/) / [Brand24](https://brand24.com/) / [Mention](https://mention.com/) / [Buzzsumo](https://buzzsumo.com/) / [Socialbakers](https://www.socialbakers.com/) / [CreatorKit](https://creatorkit.com/) / [Predis.ai](https://predis.ai/)
+> <sub><i>**Más**: [Jasper](https://www.jasper.ai/) / [Copy.ai](https://www.copy.ai/) / [Writesonic](https://writesonic.com/) / [SocialBee](https://socialbee.io/) / [MeetEdgar](https://meetedgar.com/) / [Lumen5](https://lumen5.com/) / [Animoto](https://animoto.com/) / [Canva](https://www.canva.com/) / [Brand24](https://brand24.com/) / [Mention](https://mention.com/) / [Buzzsumo](https://buzzsumo.com/) / [Socialbakers](https://www.socialbakers.com/) / [CreatorKit](https://creatorkit.com/) / [Predis.ai](https://predis.ai/)</i></sub>
 
 ## 📈🛍️ Marketing
 
@@ -203,9 +203,9 @@
 
 </div>
 
-> **Más**: [renable.com](https://renable.com) / [Mailchimp AI](https://mailchimp.com/) / [Klaviyo](https://www.klaviyo.com/) / [Marketo](https://www.marketo.com/) / [Pardot](https://www.pardot.com/) / [ActiveCampaign](https://www.activecampaign.com/) / [ConvertKit](https://convertkit.com/) / [Unbounce](https://unbounce.com/) / [Leadpages](https://www.leadpages.com/) / [OptinMonster](https://optinmonster.com/) / [Drift](https://www.drift.com/) / [Intercom](https://www.intercom.com/) / [Zendesk AI](https://www.zendesk.com/) / [ChatGPT for Business](https://openai.com/chatgpt/enterprise/)
+> <sub><i>**Más**: [renable.com](https://renable.com) / [Mailchimp AI](https://mailchimp.com/) / [Klaviyo](https://www.klaviyo.com/) / [Marketo](https://www.marketo.com/) / [Pardot](https://www.pardot.com/) / [ActiveCampaign](https://www.activecampaign.com/) / [ConvertKit](https://convertkit.com/) / [Unbounce](https://unbounce.com/) / [Leadpages](https://www.leadpages.com/) / [OptinMonster](https://optinmonster.com/) / [Drift](https://www.drift.com/) / [Intercom](https://www.intercom.com/) / [Zendesk AI](https://www.zendesk.com/) / [ChatGPT for Business](https://openai.com/chatgpt/enterprise/)</i></sub>
 
-### 🖼️🎨 Imágenes
+## 🖼️🎨 Imágenes
 
 <div align=center>
 
@@ -221,7 +221,7 @@
 
 </div>
 
-> **Más**: [OpenArt](https://openart.ai/create) / [MS Designer](https://designer.microsoft.com/) / [BlueWillow](https://www.bluewillow.ai/) / [Nero AI](https://ai.nero.com) / [Magicstudio](https://magicstudio.com) / [AI Image Enlarger](https://imglarger.com) / [Supermeme AI](https://www.supermeme.ai) / [Aragon.ai](https://www.aragon.ai/) / [Stockimg](https://stockimg.ai) / [Segmind](https://www.segmind.com) / [Designify](https://www.designify.com) / [Flair AI](https://flair.ai) / [Clipdrop](https://clipdrop.co) / [NeuralAngelo](https://research.nvidia.com/labs/dir/neuralangelo/) / [Remove.bg](https://www.remove.bg/) / [Cleanup.pictures](https://cleanup.pictures/) / [Upscale.media](https://upscale.media/) / [Photoleap](https://www.photoleapapp.com/)
+> <sub><i>**Más**: [OpenArt](https://openart.ai/create) / [MS Designer](https://designer.microsoft.com/) / [BlueWillow](https://www.bluewillow.ai/) / [Nero AI](https://ai.nero.com) / [Magicstudio](https://magicstudio.com) / [AI Image Enlarger](https://imglarger.com) / [Supermeme AI](https://www.supermeme.ai) / [Aragon.ai](https://www.aragon.ai/) / [Stockimg](https://stockimg.ai) / [Segmind](https://www.segmind.com) / [Designify](https://www.designify.com) / [Flair AI](https://flair.ai) / [Clipdrop](https://clipdrop.co) / [NeuralAngelo](https://research.nvidia.com/labs/dir/neuralangelo/) / [Remove.bg](https://www.remove.bg/) / [Cleanup.pictures](https://cleanup.pictures/) / [Upscale.media](https://upscale.media/) / [Photoleap](https://www.photoleapapp.com/)</i></sub>
 
 ## 🌍🖥️ Creación de sitios web
 
@@ -239,7 +239,7 @@
 
 </div>
 
-> **Más**: [Stunning](http://stunning.so) / [Bookmark](https://www.bookmark.com/) / [sitekick.ai](https://www.sitekick.ai/) / [Wix ADI](https://www.wix.com/adi) / [Squarespace AI](https://www.squarespace.com/) / [Hostinger AI](https://www.hostinger.com/ai-website-builder) / [Zyro](https://zyro.com/) / [Jimdo Dolphin](https://www.jimdo.com/) / [Tilda](https://tilda.cc/) / [Carrd](https://carrd.co/) / [Landen](https://www.landen.co/) / [Unicorn Platform](https://unicornplatform.com/) / [Mixo](https://www.mixo.io/)
+> <sub><i>**Más**: [Stunning](http://stunning.so) / [Bookmark](https://www.bookmark.com/) / [sitekick.ai](https://www.sitekick.ai/) / [Wix ADI](https://www.wix.com/adi) / [Squarespace AI](https://www.squarespace.com/) / [Hostinger AI](https://www.hostinger.com/ai-website-builder) / [Zyro](https://zyro.com/) / [Jimdo Dolphin](https://www.jimdo.com/) / [Tilda](https://tilda.cc/) / [Carrd](https://carrd.co/) / [Landen](https://www.landen.co/) / [Unicorn Platform](https://unicornplatform.com/) / [Mixo](https://www.mixo.io/)</i></sub>
 
 ## 📹🎬 Videos
 
@@ -257,7 +257,7 @@
 
 </div>
 
-> **Más**: [Imagine Art](https://www.imagine.art/) / [📽️](https://www.youtube.com/watch?v=TLxpfN23fGA&ab_channel=hellolaco) / [Gen-3 Alpha](https://app.runwayml.com/login) / [Runway Gen-3](https://runwayml.com/) / [Lumen5](https://lumen5.com/) / [Pictory](https://pictory.ai/) / [Rendernet.ai](https://rendernet.ai/) / [flexclip.com](https://www.flexclip.com/) / [smilimedia.com](https://www.smilimedia.com/) / [fliki.ai](https://fliki.ai/) / [synthesia.io](https://www.synthesia.io) / [latte.social](https://www.latte.social) / [invideo.io](https://invideo.io) / [vidiq.com](https://vidiq.com) / [Virbo](https://virbo.wondershare.com) / [opus.ai](https://opus.ai) / [Descript](https://www.descript.com/) / [Wondershare Filmora](https://filmora.wondershare.com/)
+> <sub><i>**Más**: [Imagine Art](https://www.imagine.art/) / [📽️](https://www.youtube.com/watch?v=TLxpfN23fGA&ab_channel=hellolaco) / [Gen-3 Alpha](https://app.runwayml.com/login) / [Runway Gen-3](https://runwayml.com/) / [Lumen5](https://lumen5.com/) / [Pictory](https://pictory.ai/) / [Rendernet.ai](https://rendernet.ai/) / [flexclip.com](https://www.flexclip.com/) / [smilimedia.com](https://www.smilimedia.com/) / [fliki.ai](https://fliki.ai/) / [synthesia.io](https://www.synthesia.io) / [latte.social](https://www.latte.social) / [invideo.io](https://invideo.io) / [vidiq.com](https://vidiq.com) / [Virbo](https://virbo.wondershare.com) / [opus.ai](https://opus.ai) / [Descript](https://www.descript.com/) / [Wondershare Filmora](https://filmora.wondershare.com/)</i></sub>
 
 ## 🎵🎧 Audio
 
@@ -275,7 +275,7 @@
 
 </div>
 
-> **Más**: [StableAudio](https://www.stableaudio.com/) / [Moshi](https://www.moshi.chat/?queue_id=talktomoshi) / [assemblyai.com](https://www.assemblyai.com) / [lovo.ai](https://lovo.ai) / [songburst.ai](https://www.songburst.ai) / [HappyScribe](https://www.happyscribe.com/) / [Descript](https://www.descript.com/) / [Resemble AI](https://www.resemble.ai/) / [Speechify](https://speechify.com/) / [Otter.ai](https://otter.ai/) / [Rev.ai](https://www.rev.ai/) / [Trint](https://trint.com/) / [Sonantic](https://sonantic.io/) / [Boomy](https://boomy.com/) / [Amper Music](https://www.ampermusic.com/) / [Beatoven.ai](https://www.beatoven.ai/) / [Krisp](https://krisp.ai/)
+> <sub><i>**Más**: [StableAudio](https://www.stableaudio.com/) / [Moshi](https://www.moshi.chat/?queue_id=talktomoshi) / [assemblyai.com](https://www.assemblyai.com) / [lovo.ai](https://lovo.ai) / [songburst.ai](https://www.songburst.ai) / [HappyScribe](https://www.happyscribe.com/) / [Descript](https://www.descript.com/) / [Resemble AI](https://www.resemble.ai/) / [Speechify](https://speechify.com/) / [Otter.ai](https://otter.ai/) / [Rev.ai](https://www.rev.ai/) / [Trint](https://trint.com/) / [Sonantic](https://sonantic.io/) / [Boomy](https://boomy.com/) / [Amper Music](https://www.ampermusic.com/) / [Beatoven.ai](https://www.beatoven.ai/) / [Krisp](https://krisp.ai/)</i></sub>
 
 
 ## 📱⚙️ Desarrollo y código
@@ -294,7 +294,7 @@
 
 </div>
 
-> **Más**: [V0](https://v0.dev/) / [Claude for Coding](https://claude.ai/) / [ChatGPT Code Interpreter](https://openai.com/) / [Codex](https://openai.com/blog/openai-codex/) / [DeepCode](https://www.deepcode.ai/) / [Kite](https://www.kite.com/) / [IntelliCode](https://visualstudio.microsoft.com/services/intellicode/) / [Snyk Code](https://snyk.io/product/snyk-code/) / [SonarQube](https://www.sonarqube.org/) / [CodeT5](https://github.com/salesforce/CodeT5) / [Codiga](https://www.codiga.io/) / [DeepSource](https://deepsource.io/) / [Mintlify](https://mintlify.com/)
+> <sub><i>**Más**: [V0](https://v0.dev/) / [Claude for Coding](https://claude.ai/) / [ChatGPT Code Interpreter](https://openai.com/) / [Codex](https://openai.com/blog/openai-codex/) / [DeepCode](https://www.deepcode.ai/) / [Kite](https://www.kite.com/) / [IntelliCode](https://visualstudio.microsoft.com/services/intellicode/) / [Snyk Code](https://snyk.io/product/snyk-code/) / [SonarQube](https://www.sonarqube.org/) / [CodeT5](https://github.com/salesforce/CodeT5) / [Codiga](https://www.codiga.io/) / [DeepSource](https://deepsource.io/) / [Mintlify](https://mintlify.com/)</i></sub>
 
 ## 🔗⚙️ Integraciones
 
@@ -329,7 +329,7 @@
 
 </div>
 
-> **Más**: [Bubble](https://bubble.io/) / [Integromat](https://www.integromat.com/) / [Workato](https://www.workato.com/) / [Tray.io](https://tray.io/) / [ManyChat](https://manychat.com/) / [Chatfuel](https://chatfuel.com/) / [Landbot](https://landbot.io/) / [Voiceflow](https://www.voiceflow.com/) / [Rasa](https://rasa.com/) / [DialogFlow](https://dialogflow.cloud.google.com/) / [Microsoft Bot Framework](https://dev.botframework.com/) / [Amazon Lex](https://aws.amazon.com/lex/)
+> <sub><i>**Más**: [Bubble](https://bubble.io/) / [Integromat](https://www.integromat.com/) / [Workato](https://www.workato.com/) / [Tray.io](https://tray.io/) / [ManyChat](https://manychat.com/) / [Chatfuel](https://chatfuel.com/) / [Landbot](https://landbot.io/) / [Voiceflow](https://www.voiceflow.com/) / [Rasa](https://rasa.com/) / [DialogFlow](https://dialogflow.cloud.google.com/) / [Microsoft Bot Framework](https://dev.botframework.com/) / [Amazon Lex](https://aws.amazon.com/lex/)</i></sub>
 
 ## 🤖⚙️ Agentes de IA y Automatización
 
@@ -347,7 +347,7 @@
 
 </div>
 
-> **Más**: [MultiOn](https://multion.ai/) / [Adept](https://www.adept.ai/) / [Fixie](https://www.fixie.ai/) / [Dust](https://dust.tt/) / [Microsoft Copilot Studio](https://www.microsoft.com/en-us/microsoft-copilot/copilot-studio) / [Zapier Central](https://zapier.com/central) / [n8n](https://n8n.io/) / [Flowise](https://flowiseai.com/) / [LangFlow](https://www.langflow.org/) / [Haystack](https://haystack.deepset.ai/) / [LlamaIndex](https://www.llamaindex.ai/) / [Semantic Kernel](https://github.com/microsoft/semantic-kernel) / [AutoGen](https://microsoft.github.io/autogen/)
+> <sub><i>**Más**: [MultiOn](https://multion.ai/) / [Adept](https://www.adept.ai/) / [Fixie](https://www.fixie.ai/) / [Dust](https://dust.tt/) / [Microsoft Copilot Studio](https://www.microsoft.com/en-us/microsoft-copilot/copilot-studio) / [Zapier Central](https://zapier.com/central) / [n8n](https://n8n.io/) / [Flowise](https://flowiseai.com/) / [LangFlow](https://www.langflow.org/) / [Haystack](https://haystack.deepset.ai/) / [LlamaIndex](https://www.llamaindex.ai/) / [Semantic Kernel](https://github.com/microsoft/semantic-kernel) / [AutoGen](https://microsoft.github.io/autogen/)</i></sub>
 
 ## 🧠💙 Bienestar Digital y Salud Mental
 
@@ -365,7 +365,7 @@
 
 </div>
 
-> **Más**: [Woebot](https://woebothealth.com/) / [Replika](https://replika.com/) / [Sanvello](https://www.sanvello.com/) / [Moodpath](https://moodpath.com/) / [Daylio](https://daylio.com/) / [Insight Timer](https://insighttimer.com/) / [Ten Percent Happier](https://www.tenpercent.com/) / [Shine](https://www.theshineapp.com/) / [Talkspace](https://www.talkspace.com/) / [BetterHelp](https://www.betterhelp.com/) / [Mindfulness.com](https://www.mindfulness.com/) / [Simple Habit](https://www.simplehabit.com/) / [Aura](https://www.aurahealth.io/) / [Balance](https://www.balanceapp.com/)
+> <sub><i>**Más**: [Woebot](https://woebothealth.com/) / [Replika](https://replika.com/) / [Sanvello](https://www.sanvello.com/) / [Moodpath](https://moodpath.com/) / [Daylio](https://daylio.com/) / [Insight Timer](https://insighttimer.com/) / [Ten Percent Happier](https://www.tenpercent.com/) / [Shine](https://www.theshineapp.com/) / [Talkspace](https://www.talkspace.com/) / [BetterHelp](https://www.betterhelp.com/) / [Mindfulness.com](https://www.mindfulness.com/) / [Simple Habit](https://www.simplehabit.com/) / [Aura](https://www.aurahealth.io/) / [Balance](https://www.balanceapp.com/)</i></sub>
 
 ## 🧩@🏠 Modelos locales
 
@@ -383,11 +383,11 @@
 
 </div>
 
-> **Más**: [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) / [Kobold AI](https://github.com/KoboldAI/KoboldAI-Client) / [LocalAI](https://localai.io/) / [Serge](https://github.com/serge-chat/serge) / [Dalai](https://cocktailpeanut.github.io/dalai/) / [llama.cpp](https://github.com/ggerganov/llama.cpp) / [Alpaca Electron](https://github.com/ItsPi3141/alpaca-electron) / [***Más modelos***](https://opening-up-chatgpt.github.io/) / [HuggingFace](https://huggingface.co/chat/) / [LMSYS Chatbot Arena](https://chat.lmsys.org/)
+> <sub><i>**Más**: [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) / [Kobold AI](https://github.com/KoboldAI/KoboldAI-Client) / [LocalAI](https://localai.io/) / [Serge](https://github.com/serge-chat/serge) / [Dalai](https://cocktailpeanut.github.io/dalai/) / [llama.cpp](https://github.com/ggerganov/llama.cpp) / [Alpaca Electron](https://github.com/ItsPi3141/alpaca-electron) / [***Más modelos***](https://opening-up-chatgpt.github.io/) / [HuggingFace](https://huggingface.co/chat/) / [LMSYS Chatbot Arena](https://chat.lmsys.org/)</i></sub>
 
 **🖼️🛠️ Marcos de trabajo**
 
-> **Más**: [MetaGPT](https://github.com/geekan/MetaGPT) / [Enlace directo](https://huggingface.co/spaces/deepwisdom/MetaGPT) / [LangChain](https://langchain.com/) / [CrewAI](https://www.crewai.io/) / [AutoGen](https://microsoft.github.io/autogen/) / [Haystack](https://haystack.deepset.ai/) / [LlamaIndex](https://www.llamaindex.ai/)
+> <sub><i>**Más**: [MetaGPT](https://github.com/geekan/MetaGPT) / [Enlace directo](https://huggingface.co/spaces/deepwisdom/MetaGPT) / [LangChain](https://langchain.com/) / [CrewAI](https://www.crewai.io/) / [AutoGen](https://microsoft.github.io/autogen/) / [Haystack](https://haystack.deepset.ai/) / [LlamaIndex](https://www.llamaindex.ai/)</i></sub>
 
 ## 🌐🤖 Automatización web
 
@@ -405,7 +405,7 @@
 
 </div>
 
-> **Más**: [Puppeteer](https://pptr.dev/) / [WebDriver](https://www.selenium.dev/documentation/webdriver/) / [Scrapy](https://scrapy.org/) / [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) / [Octoparse](https://www.octoparse.com/) / [ParseHub](https://www.parsehub.com/) / [Diffbot](https://www.diffbot.com/) / [Apify](https://apify.com/) / [Scrapfly](https://scrapfly.io/) / [ScrapingBee](https://www.scrapingbee.com/) / [Brightdata](https://brightdata.com/) / [Zyte](https://www.zyte.com/)
+> <sub><i>**Más**: [Puppeteer](https://pptr.dev/) / [WebDriver](https://www.selenium.dev/documentation/webdriver/) / [Scrapy](https://scrapy.org/) / [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) / [Octoparse](https://www.octoparse.com/) / [ParseHub](https://www.parsehub.com/) / [Diffbot](https://www.diffbot.com/) / [Apify](https://apify.com/) / [Scrapfly](https://scrapfly.io/) / [ScrapingBee](https://www.scrapingbee.com/) / [Brightdata](https://brightdata.com/) / [Zyte](https://www.zyte.com/)</i></sub>
 
 ## 📈🌐 Verticales
 
@@ -423,7 +423,7 @@
 
 </div>
 
-> **Más**: [Jano](https://www.youtube.com/watch?v=fhoKnB6vwWg) / [PathAI](https://www.pathai.com/) / [Butterfly Network](https://www.butterflynetwork.com/) / [Zebra Medical](https://www.zebra-med.com/) / [Avanade](https://www.avanade.com/) / [CrowdStrike](https://www.crowdstrike.com/) / [SentinelOne](https://www.sentinelone.com/) / [Cylance](https://www.cylance.com/) / [Kensho](https://www.kensho.com/) / [Palantir](https://www.palantir.com/) / [DataRobot](https://www.datarobot.com/) / [H2O.ai](https://h2o.ai/) / [Workday](https://www.workday.com/) / [Salesforce Einstein](https://www.salesforce.com/products/einstein/)
+> <sub><i>**Más**: [Jano](https://www.youtube.com/watch?v=fhoKnB6vwWg) / [PathAI](https://www.pathai.com/) / [Butterfly Network](https://www.butterflynetwork.com/) / [Zebra Medical](https://www.zebra-med.com/) / [Avanade](https://www.avanade.com/) / [CrowdStrike](https://www.crowdstrike.com/) / [SentinelOne](https://www.sentinelone.com/) / [Cylance](https://www.cylance.com/) / [Kensho](https://www.kensho.com/) / [Palantir](https://www.palantir.com/) / [DataRobot](https://www.datarobot.com/) / [H2O.ai](https://h2o.ai/) / [Workday](https://www.workday.com/) / [Salesforce Einstein](https://www.salesforce.com/products/einstein/)</i></sub>
 
 ## Secciones obsoletas
 
