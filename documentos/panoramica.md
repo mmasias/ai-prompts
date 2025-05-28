@@ -21,13 +21,11 @@
 [**Claude**](https://claude.ai/chats)
 [Gemini](https://gemini.google.com/app) / [AIStudio](https://aistudio.google.com/prompts/new_chat)
 [DeepSeek](https://chat.deepseek.com/)
-[Grok](https://x.com/i/grok)
+[Grok](https://x.com/i/grok) [👀](https://www.washingtonpost.com/technology/2025/05/24/grok-musk-ai/)
 [MetaAI](https://www.meta.ai/) 👀
 [Copilot](https://copilot.microsoft.com)
 [Mistral AI](https://chat.mistral.ai/chat)
-[Llama AI](https://www.llama2.ai/)
 [Cohere](https://dashboard.cohere.com/playground/chat)
-[Huggingface](https://huggingface.co/chat)
 
 </td><td valign=top width=25%>
 
@@ -50,7 +48,7 @@
 [ElevenLabs](https://elevenlabs.io/)
 [Udio](https://www.udio.com/create)
 [Moshi](https://www.moshi.chat/?queue_id=talktomoshi)
-[MusicGen](https://huggingface.co/spaces/facebook/MusicGen)  [(*Repo*)](https://github.com/facebookresearch/audiocraft)        
+
 
 </td><td valign=top width=25%>
 
@@ -93,13 +91,13 @@
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
-|[**Perplexity.ai**](https://www.perplexity.ai)|Análisis e investigaciones|Plataforma / [CdU](/documentos/casosDeUso/perplexity.md)
+|[**Perplexity.ai**](https://www.perplexity.ai)|Análisis e investigaciones / ["*El 'Google' de las IA*"](https://www.greentecher.com/inteligencia-artificial-2025/?v=12470fe406d4)|Plataforma / [CdU](/documentos/casosDeUso/perplexity.md)
 |[**Elicit**](https://elicit.com/)|Investigación académica|Plataforma / [CdU](https://elicit.com/notebook/713f9d40-e186-47df-8304-1a69ad32b061)
 |[**Connected papers**](https://www.connectedpapers.com/)|Relación entre papers|Plataforma / [CdU](https://www.connectedpapers.com/main/b24ef5f12177439560c859e6cad11ad020ac6f42/Effects-of-phytochemicals-on-thyroid-function-and-their-possible-role-in-thyroid-disease/graph) >> [CdU](https://www.connectedpapers.com/main/b24ef5f12177439560c859e6cad11ad020ac6f42+ea1938338fb27e9295b27c0c2cc32e22a5b29769/Connected-Papers-%7C-Find-and-explore-academic-papers/graph)
-|[SCISPACE](https://typeset.io/)|Papers académicos
+|[**Justicio**](https://justicio.es/)|Respuestas legales fundamentadas, motor alimentado con toda la legislación estatal, autonómica y europea
 |[Consensus](https://consensus.app/)|Papers académicos
 |[Silatus](https://silatus.com)|Plataforma de IA para investigación y análisis de datos|Plataforma / De pago
-|[Justicio](https://justicio.es/)|Respuestas legales fundamentadas, motor alimentado con toda la legislación estatal, autonómica y europea
+|[SCISPACE](https://typeset.io/)|Papers académicos
 
 </div>
 
@@ -122,6 +120,16 @@
 
 </div>
 
+### 🎓📚 Educación personalizada y aprendizaje adaptativo
+
+|Nombre|Descripción|Categoría|
+|-|-|-|
+|[DreamBox Learning](https://www.dreambox.com/)|Matemáticas adaptativas|Plataforma / [CdU](/documentos/casosDeUso/dreambox.md)
+|[Knewton Alta](https://www.knewton.com/)|Análisis predictivo educativo|Herramienta
+|[Smart Sparrow](https://www.smartsparrow.com/)|Experiencias interactivas adaptativas|Plataforma
+|[Megaprofe](https://megaprofe.es/)|Chatbots educativos personalizados|Plataforma (España)
+|[Carnegie Learning](https://www.carnegielearning.com/)|Tutoría inteligente|Sistema
+|[IBM Watson Tutor](https://www.ibm.com/watson/education)|Tutoría personalizada conversacional|Herramienta
 
 ## 👥🤝 Trabajo, trabajo colaborativo y similares
 
@@ -139,17 +147,28 @@
 
 </div>
 
+### ⏰📅 Gestión del tiempo y productividad personal
+
+|Nombre|Descripción|Categoría|
+|-|-|-|
+|[Reclaim.ai](https://reclaim.ai/)|Planificación inteligente de calendarios|Herramienta
+|[Clockwise](https://www.getclockwise.com/)|Optimización de reuniones y tiempo enfocado|Herramienta
+|[Motion](https://www.usemotion.com/)|Calendario y tareas con IA|App
+|[Todoist](https://todoist.com/)|Gestor de tareas con IA Scheduler|App
+|[Akiflow](https://akiflow.com/)|Planificación diaria integrada|Herramienta
+|[Any.do](https://www.any.do/)|Listas y calendarios inteligentes|App
+
 ## Fotografía
 
 <div align=center>
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
-|[**MyHeritage In Color AI**](https://www.myheritage.com/incolor)|Anima fotos históricas y crea videos donde las personas "cobran vida". Enfocado en colorear y animar fotos antiguas.|Plataforma web|
-|[**Runway ML**](https://runwayml.com/)|Herramientas de video generativo con función Gen-2 para crear videos cortos donde las personas se mueven de forma natural a partir de fotos estáticas.|Plataforma / Herramienta profesional|
-|[**D-ID**](https://www.d-id.com/)|Especializado en crear videos hablantes a partir de fotos estáticas. Permite hacer que personas en fotos "hablen" textos escritos.|Plataforma / API|
-|[**Reface (Doublicat)**](https://hey.reface.ai/)|Intercambio de caras en videos y GIFs, incluye funciones para animar fotos estáticas.|App móvil / Plataforma|
-|[**LivePortrait**](https://liveportrait.github.io/)|Herramienta reciente que anima retratos de forma realista, permitiendo gestos y movimientos naturales en fotos.|Herramienta open source|
+|[MyHeritage In Color AI](https://www.myheritage.com/incolor)|Anima fotos históricas y crea videos donde las personas "cobran vida". Enfocado en colorear y animar fotos antiguas.|Plataforma web|
+|[Runway ML](https://runwayml.com/)|Herramientas de video generativo con función Gen-2 para crear videos cortos donde las personas se mueven de forma natural a partir de fotos estáticas.|Plataforma / Herramienta profesional|
+|[D-ID](https://www.d-id.com/)|Especializado en crear videos hablantes a partir de fotos estáticas. Permite hacer que personas en fotos "hablen" textos escritos.|Plataforma / API|
+|[Reface (Doublicat)](https://hey.reface.ai/)|Intercambio de caras en videos y GIFs, incluye funciones para animar fotos estáticas.|App móvil / Plataforma|
+|[LivePortrait](https://liveportrait.github.io/)|Herramienta reciente que anima retratos de forma realista, permitiendo gestos y movimientos naturales en fotos.|Herramienta open source|
 
 </div>
 
@@ -311,7 +330,7 @@
 |Nombre|Descripción|Categoría|
 |-|-|-|
 [GitHub Copilot](https://github.com/features/copilot)
-[Amazon CodeWhisperer](https://aws.amazon.com/es/q/developer/)
+[Amazon Q Developer](https://aws.amazon.com/es/q/developer/)
 [Tabnine](https://www.tabnine.com/)
 [Replit Ghost](https://replit.com/)
 
@@ -331,29 +350,30 @@
 
 </div>
 
-## 🔗⚙️ Integraciones
+### 🤖⚙️ Agentes de IA y Automatización
 
 <div align=center>
 
-<table border=0>
-<tr><th>🤖🛠️ Automatización de procesos</th><th>🤖🛠️ Constructores de chatbots</th></tr>
-<tr>
-<td valign=top>
-
-- [Make](https://www.make.com/en)
-- [Integrately](https://app.integrately.com/)
-- [Zapier](https://zapier.com/)
-</td>
-<td valign=top>
-
-- [Botpress](https://botpress.com/)
-- [Dante](https://dante-ai.com/)
-- [Droxy](https://www.droxy.ai/)
-</td>
-</tr>
-</table>
+|Nombre|Descripción|Categoría|
+|-|-|-|
+|[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)|Agente autónomo para tareas complejas|[CdU](/documentos/casosDeUso/autoGPT.md)
+|[AgentGPT](https://agentgpt.reworkd.ai/)|Plataforma sin código para crear agentes|Herramienta
+|[LangChain](https://langchain.com/)|Marco para aplicaciones de IA agéntica|Framework
+|[Cognosys](https://www.cognosys.ai/)|Investigación web y análisis automático|Herramienta
+|[SuperAGI](https://superagi.com/)|Plataforma para agentes autónomos|Plataforma
 
 </div>
+
+### 🧠💙 Bienestar Digital y Salud Mental
+
+|Nombre|Descripción|Categoría|
+|-|-|-|
+|[Wysa](https://www.wysa.io/)|Chatbot de IA para salud mental|App
+|[Youper](https://www.youper.ai/)|Asistente emocional con TCC|App
+|[Calm](https://www.calm.com/)|Meditación y mindfulness con IA|App
+|[Earkick](https://earkick.com/)|Seguimiento emocional en tiempo real|App
+|[7 Cups](https://www.7cups.com/)|Apoyo emocional 24/7|Plataforma
+|[VOS](https://vos.health/)|Diario de IA y autocuidado|App
 
 ## 🧩@🏠 Modelos locales
 
@@ -411,3 +431,4 @@
 [https://ttsmaker.com/](https://ttsmaker.com/)
 [https://lumalabs.ai/](https://lumalabs.ai/)
 -->
+
