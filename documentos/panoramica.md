@@ -10,7 +10,7 @@
 <div align=center>
   
 |[![](https://img.shields.io/badge/-Primera_división-0078D4?style=flat&logo=chatbot&logoColor=white)](#primera-división) [![](https://img.shields.io/badge/-Ofimática-0078D4?style=flat&logo=microsoftexcel&logoColor=white)](#️-ofimática) [![](https://img.shields.io/badge/-Educación-0078D4?style=flat&logo=academia&logoColor=white)](#educación-y-aprendizaje) [![](https://img.shields.io/badge/-Trabajo-0078D4?style=flat&logo=slack&logoColor=white)](#trabajo-y-productividad) [![](https://img.shields.io/badge/-Creación-0078D4?style=flat&logo=canva&logoColor=white)](#creación-de-contenido) [![](https://img.shields.io/badge/-Marketing-0078D4?style=flat&logo=googleads&logoColor=white)](#comunicación-y-marketing) [![](https://img.shields.io/badge/-Desarrollo-0078D4?style=flat&logo=github&logoColor=white)](#desarrollo--áreas-técnicas) [![](https://img.shields.io/badge/-Especializaciones-0078D4?style=flat&logo=microscope&logoColor=white)](#especializaciones)
-|-
+|:-:
 |![](https://img.shields.io/badge/Actualizado-mayo_2025-28a745?style=for-the-badge&logo=calendar&logoColor=white)|
 
 </div>
