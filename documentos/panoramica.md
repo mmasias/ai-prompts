@@ -139,6 +139,20 @@
 
 </div>
 
+## Fotografía
+
+<div align=center>
+
+|Nombre|Descripción|Categoría|
+|-|-|-|
+|[**MyHeritage In Color AI**](https://www.myheritage.com/incolor)|Anima fotos históricas y crea videos donde las personas "cobran vida". Enfocado en colorear y animar fotos antiguas.|Plataforma web|
+|[**Runway ML**](https://runwayml.com/)|Herramientas de video generativo con función Gen-2 para crear videos cortos donde las personas se mueven de forma natural a partir de fotos estáticas.|Plataforma / Herramienta profesional|
+|[**D-ID**](https://www.d-id.com/)|Especializado en crear videos hablantes a partir de fotos estáticas. Permite hacer que personas en fotos "hablen" textos escritos.|Plataforma / API|
+|[**Reface (Doublicat)**](https://hey.reface.ai/)|Intercambio de caras en videos y GIFs, incluye funciones para animar fotos estáticas.|App móvil / Plataforma|
+|[**LivePortrait**](https://liveportrait.github.io/)|Herramienta reciente que anima retratos de forma realista, permitiendo gestos y movimientos naturales en fotos.|Herramienta open source|
+
+</div>
+
 ## 📱💬 Redes sociales
 
 <div align=center>
