@@ -23,16 +23,17 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 |Criterio|Qué evaluar|Para qué|Cómo evaluarlo|
 |-|-|-|-|
-|**Precio**|Plan gratuito, costo mensual, límites de uso|Determinar viabilidad económica y sostenibilidad|¿Tiene versión gratuita? ¿El precio se ajusta al presupuesto?|
-|**Privacidad**|Política de datos, ubicación servidores, cifrado|Proteger información personal y empresarial|¿Los datos se usan para entrenar el modelo? ¿Dónde se almacenan?|
-|**Idiomas**|Soporte multiidioma, calidad en español|Asegurar comunicación efectiva en el contexto local|¿Funciona bien en el idioma requerido? ¿Entiende contexto cultural?|
-|**Compatibilidad**|Tipos de archivos, integraciones, APIs|Integrar con flujos de trabajo existentes|¿Se integra con las herramientas actuales? ¿Importa los formatos necesarios?|
-|**Apertura**|Código abierto, transparencia, comunidad|Evaluar transparencia y control sobre la herramienta|¿Se puede auditar el código? ¿Existen alternativas locales?|
+|**Precio**|Plan gratuito, costo mensual, límites de uso|Determinar viabilidad económica y sostenibilidad|¿Tiene versión gratuita?<br>¿El precio se ajusta al presupuesto?|
+|**Privacidad**|Política de datos, ubicación servidores, cifrado|Proteger información personal y empresarial|¿Los datos se usan para entrenar el modelo?<br>¿Dónde se almacenan?|
+|**Idiomas**|Soporte multiidioma, calidad en español|Asegurar comunicación efectiva en el contexto local|¿Funciona bien en el idioma requerido?<br>¿Entiende contexto cultural?|
+|**Compatibilidad**|Tipos de archivos, integraciones, APIs|Integrar con flujos de trabajo existentes|¿Se integra con las herramientas actuales?<br>¿Importa los formatos necesarios?|
+|**Apertura**|Código abierto, transparencia, comunidad|Evaluar transparencia y control sobre la herramienta|¿Se puede auditar el código?<br>¿Existen alternativas locales?|
 |**Datos sensibles**|Cifrado extremo a extremo, cumplimiento normativo|Garantizar seguridad en entornos profesionales|¿Es seguro para información confidencial o empresarial?|
 
 </div>
 
-**💡 Recomendación**: Es aconsejable probar siempre la versión gratuita antes de comprometerse con un plan de pago.
+> [!TIP]
+> Es aconsejable probar la versión gratuita antes de comprometerse con un plan de pago.
 
 ## Primera división
 
