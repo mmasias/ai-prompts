@@ -9,9 +9,9 @@
 
 |||
 |-|-|
-|
-|
-|
-|
-|
+| 
+| 
+| 
+| 
+| 
 |[El tubo fluorescente](asistenteHogar.md)
