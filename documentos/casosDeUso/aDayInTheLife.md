@@ -9,5 +9,9 @@
 
 |||
 |-|-|
-|![](/documentos/imagenes/validandoSuma.png)|[Validando suma](https://chatgpt.com/share/c27eeccc-be7c-4a72-8e64-c437a4b8bda9)
-|![](/documentos/imagenes/patronNombresArchivos.png)|[Patrón de nombres y regex](https://chatgpt.com/share/ce00a2b2-e339-4601-8036-13838b8bbf57)
+|
+|
+|
+|
+|
+|[El tubo fluorescente](asistenteHogar.md)
