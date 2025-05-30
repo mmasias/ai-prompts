@@ -13,9 +13,11 @@
 - Necesidad de mejor comunicación con los sistemas de AI.
 - Preparar el input adecuado para obtener mejores outputs.
 
-|Ingeniería de Prompts|
-|-|
-La Ingeniería de Prompts se utiliza para optimizar la forma en que interactuamos con los modelos de lenguaje como GPT-3 o GPT-4. Aunque estos modelos son increíblemente potentes, no siempre entregan los resultados esperados debido a su entrenamiento generalizado. Por ello, aprender a diseñar "prompts" efectivos puede ayudar a obtener respuestas más útiles y específicas.
+Los modelos de lenguaje modernos como Claude, GPT-4o, Gemini y otros sistemas avanzados de IA poseen capacidades extraordinarias para procesar y generar texto. Sin embargo, estas capacidades no se materializan automáticamente en resultados útiles. Se presenta una brecha fundamental entre lo que estos sistemas pueden hacer y lo que realmente producen cuando se les solicita información de manera general o ambigua.
+
+Los modelos se entrenan con enormes cantidades de datos para ser generalistas, lo que significa que pueden responder a casi cualquier pregunta, pero frecuentemente entregan respuestas genéricas, imprecisas o que no se alinean con las necesidades específicas del usuario. Esta generalización, aunque poderosa, crea la necesidad de técnicas especializadas para extraer respuestas más precisas, contextuales y útiles.
+
+Además, la comunicación humana es inherentemente ambigua. Las mismas palabras pueden tener múltiples interpretaciones según el contexto, y los usuarios frecuentemente asumen que los sistemas comprenden implícitamente sus intenciones. Esta ambiguidad bidireccional requiere de metodologías específicas para establecer comunicación efectiva.
 
 ## ¿Qué?
 
@@ -35,34 +37,51 @@ Los ingenieros de prompts resuelven el problema de guiar de manera efectiva a lo
 
 |Por un tema de|¿Para qué?|
 |-|-|
-Rendimiento|Los ingenieros de prompts ayudan a las empresas a obtener resultados óptimos de los sistemas de IA al diseñar indicaciones efectivas y refinar las estructuras de entrada. Esto asegura que los sistemas de IA generen respuestas relevantes, precisas y apropiadas al contexto para diversas aplicaciones.
-Experiencia de usuario|Los ingenieros de prompts colaboran con diseñadores de UX/UI para integrar los componentes de IA de manera fluida en aplicaciones y servicios, garantizando una experiencia de usuario suave e intuitiva que cumpla con las expectativas del cliente.
-Eficiencia|Al crear y mantener bibliotecas de prompts, los ingenieros de prompts permiten a las empresas aprovechar indicaciones preexistentes y optimizadas, ahorrando tiempo y esfuerzo en crear nuevas indicaciones desde cero y aumentando la eficiencia de las soluciones impulsadas por IA.
-Nuevos modelos de IA|Los ingenieros de prompts se mantienen actualizados sobre los últimos avances en modelos de IA y modelos de lenguaje, asegurando que las aplicaciones impulsadas por IA de la empresa sigan siendo competitivas y efectivas, incluso a medida que surgen nuevas tecnologías.
-Seguridad|Los ingenieros de prompts contribuyen a la seguridad y la integridad de los sistemas de IA al manejar indicaciones potencialmente maliciosas o perjudiciales, implementar validaciones de entrada y desarrollar planes de respuesta para incidentes de seguridad.
-Mejora continua|Los ingenieros de prompts monitorean el rendimiento del sistema de IA, los comentarios de los usuarios y las tendencias de la industria, realizando los ajustes y actualizaciones necesarias en las indicaciones y los componentes de IA para garantizar una mejora continua y adaptación a los cambiantes requisitos de los usuarios y los objetivos empresariales.
-Aplicaciones interdisciplinares|Los ingenieros de prompts pueden aplicar su experiencia en diversas industrias y áreas, como medicina, finanzas, educación, derecho, marketing y diseño, lo que permite a las empresas implementar soluciones de IA en áreas diversas y aprovechar nuevas oportunidades.
-
+|Especificidad|Adaptar las capacidades generales de los modelos a dominios especializados como medicina, finanzas, educación, desarrollo de software, y otras áreas que requieren conocimiento experto.
+|Precisión|Reducir significativamente la ambigüedad en las respuestas, obteniendo información más específica y relevante para cada caso de uso particular.
+|Eficiencia|Minimizar la necesidad de múltiples iteraciones y correcciones, ahorrando tiempo tanto en el desarrollo como en la implementación de soluciones basadas en IA.
+|Coherencia|Establecer patrones consistentes de interacción que pueden replicarse y escalarse a través de diferentes aplicaciones y contextos.
+|Experiencia de usuario|Crear interfaces más intuitivas y efectivas donde los usuarios obtienen exactamente lo que necesitan sin frustraciones o malentendidos.
+|Acceso|Reducir la barrera técnica para aprovechar IA avanzada, permitiendo que profesionales de diferentes áreas puedan utilizar estas herramientas sin necesidad de conocimiento técnico profundo.
 
 ### Individual
 
 |Por un tema de|¿Para qué?|
 |-|-|
-Mejorar la productividad
-Ser más creativo
-Mejorar la eficiencia en la resolución de problemas
-Ganar en adaptabilidad y versatilidad
-Aprender una habilidad que en un futuro será considerada básica
+|Mejorar la productividad
+|Ser más creativo
+|Mejorar la eficiencia en la resolución de problemas
+|Ganar en adaptabilidad y versatilidad
+|Aprender una habilidad que en un futuro será considerada básica
 
 ## ¿Cómo?
 
-- Con lo que ya sabemos de [Prompts](/documentos/prompts/README.md)
-- [Técnicas y conceptos](tecnicasResumen.md)
-  - [Prompt sin entrenamiento previo](0ShotPrompting.md)
-  - [x-Shot prompting](xShotPrompting.md)
-  - [Cadena de pensamiento (CoT)](chainOfThought.md)
-  - [Priming](priming.md)
-  - [Árbol de pensamiento](arbolPensamiento.md)
+La implementación de la Ingeniería de Prompts se realiza a través de múltiples técnicas y metodologías complementarias:
+
+### Técnicas fundamentales
+
+- [0-Shot Prompting](0ShotPrompting.md): Aprovecha las capacidades de generalización sin ejemplos previos
+- [x-Shot Prompting](xShotPrompting.md): Utiliza ejemplos específicos para guiar el comportamiento del modelo
+- [Chain of Thought](chainOfThought.md): Estructura el razonamiento paso a paso para problemas complejos
+- [Priming](priming.md): Establece contexto inicial para orientar las respuestas
+
+### Técnicas avanzadas
+
+- [Árbol de pensamiento](arbolPensamiento.md): Explora múltiples caminos de razonamiento simultáneamente
+- Técnicas multimodales: Integra texto, imágenes y otros tipos de datos
+- Prompting adaptativo: Ajusta dinámicamente la estrategia según el contexto
+
+### Principios de aplicación
+
+- [Consideraciones básicas](consideraciones.md): Directrices fundamentales para el diseño efectivo
+- [Mejores prácticas](../prompts/mejoresPracticas/README.md): Patrones probados y optimizados
+- Evaluación continua: Métricas y métodos para medir la efectividad
+
+### Aplicación práctica
+
+- [Patrones reutilizables](patrones/README.md): Soluciones estructuradas para problemas comunes
+- [Casos de uso](../casosDeUso/README.md): Ejemplos específicos de implementación
+- [Técnicas integradas](tecnicasResumen.md): Combinación efectiva de múltiples enfoques
 
 ## Bibliografía
 
@@ -79,10 +98,10 @@ Aprender una habilidad que en un futuro será considerada básica
 
 |Requisitos|Estás en|Sigue...|
 |-|-|-|
-|[Fundamentos de prompts](../prompts/README.md)<br>Comprende estructura y componentes básicos|Fundamentos > **Ingeniería de Prompts** (Metodología)|[Consideraciones](consideraciones.md)<br>Factores críticos para el diseño
-|[Ventana de contexto](../prompts/ventanaDeContexto.md)<br>Limitaciones técnicas fundamentales||[Chain of Thought](chainOfThought.md)<br>Razonamiento paso a paso
-|[Anatomía del prompt](../prompts/anatomia.md)<br>Estructura de componentes||[Técnicas x-Shot](xShotPrompting.md)<br>Aprendizaje por ejemplos
+|[Fundamentos de prompts](../prompts/README.md)<br>Comprende estructura y componentes básicos|Fundamentos > **Ingeniería de Prompts** (Metodología)|[Consideraciones](consideraciones.md)<br>Principios básicos de diseño
+|[Ventana de contexto](../prompts/ventanaDeContexto.md)<br>Limitaciones técnicas fundamentales||[0-Shot Prompting](0ShotPrompting.md)<br>Técnica fundamental
+|[Anatomía del prompt](../prompts/anatomia.md)<br>Estructura de componentes||[Casos de uso](../casosDeUso/README.md)<br>Aplicaciones prácticas
 
-<i>**Relacionado**: [Mejores prácticas](../prompts/mejoresPracticas/README.md) - Aplicación inmediata / [Patrones](patrones/README.md) - Soluciones reutilizables / [Casos de uso](../casosDeUso/README.md) - Ejemplos prácticos</i>
+<i>**Relacionado**: [Mejores prácticas](../prompts/mejoresPracticas/README.md) - Aplicación inmediata / [Patrones](patrones/README.md) - Soluciones reutilizables / [Mitos](mitos.md) - Clarificación de conceptos erróneos</i>
 
 </div>

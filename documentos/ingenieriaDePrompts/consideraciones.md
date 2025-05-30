@@ -7,6 +7,8 @@
 
 # Ingeniería de Prompts
 
+<div align=center>
+
 |||
 |-|-|
 |**Usar lenguage simple**|
@@ -14,3 +16,21 @@
 |**Mantener una estructura lógica**|
 |**Incluye ejemplos**|
 |**Tener en cuenta el contexto**|
+
+</div>
+
+## ¡Bah!
+
+<img src="../imagenes/ingDePrompts.png" width="30%" align=right>
+
+Al final, la ingeniería de prompts no es más que aplicar lo que se enseña desde la infancia sobre comunicación efectiva:
+
+
+- **Habla despacio**: Da tiempo al modelo para procesar cada parte de la instrucción
+- **Habla claro**: Usa lenguaje específico y sin ambigüedades
+- **Piensa antes de hablar**: Estructura tus ideas antes de formular el prompt
+- **No te aturulles**: Mantén la calma y la claridad en instrucciones complejas
+- **No te precipites**: Permite que el razonamiento se desarrolle paso a paso
+- **De a poquitos**: Divide problemas grandes en partes manejables
+
+La tecnología avanza, pero los principios de buena comunicación siguen siendo los mismos.
