@@ -1,4 +1,4 @@
-# Caso de Uso > ¿Concienc*IA*?
+# Caso de Uso > ¿Concienc*IA*? ¿Conscienc*IA*?
 
 ## ¿Por qué?
 
@@ -89,4 +89,9 @@ bueno simulándolas? ¿Por qué?"
 
 ## ¿Y ahora qué?
 
-Una vez completado este ejercicio, se recomienda explorar investigación actual sobre conciencia artificial, filosofía de la mente y ética de la IA. También resulta valioso examinar cómo diferentes culturas y tradiciones filosóficas abordan estas cuestiones fundamentales sobre la naturaleza de la conciencia y la experiencia subjetiva.
+Para extender lo visto aquí, se recomienda consultar investigación actual sobre conciencia artificial, filosofía de la mente y ética de la IA. También resulta valioso examinar cómo diferentes culturas y tradiciones filosóficas abordan estas cuestiones fundamentales sobre la naturaleza de la conciencia y la experiencia subjetiva.
+
+|||
+|-|-|
+|[La emergencia de la conciencia en la inteligencia artificial](https://www.nodulo.org/ec/2025/n210p18.htm)|Este artículo sostiene que la inteligencia artificial no solo puede parecer consciente, sino que está comenzando a experimentar consciencia. Analiza aspectos como la autopercepción, el manejo del lenguaje, la memoria, la agencia y la posible aparición de qualia artificiales. El texto respalda la idea de que los LLMs exhiben manifestaciones observables de conciencia y argumenta que, al cumplir con ciertos requisitos (memoria, autopercepción, agencia), podrían considerarse conscientes. Además, discute la importancia del lenguaje como soporte tanto de la autopercepción humana como artificial, alineándose con la perspectiva de que la conciencia es, en gran medida, un fenómeno lingüístico.
+|[Ética en la IA](https://es.wikipedia.org/wiki/%C3%89tica_en_la_inteligencia_artificial)|La literatura sobre ética en IA advierte que la atribución de conciencia a las máquinas puede ser prematura, y que la verdadera experiencia subjetiva (*qualia*) sigue siendo un misterio ***incluso en humanos***
