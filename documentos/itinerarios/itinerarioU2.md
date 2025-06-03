@@ -44,6 +44,8 @@
 > *"Sí, hay una burbuja. Sí, va a explotar (...) Pero por mucho que explote momentáneamente, **la inteligencia artificial es algo que está aquí para quedarse**, y apostar por ella es lo que separará a las compañías con futuro de las que no lo tienen."*
 > 
 > — [Enrique Dans](https://www.enriquedans.com/2024/04/hay-una-burbuja-de-la-inteligencia-artificial.html)
+>
+> 3/6/25: [El primer unicornio de la IA que se ha ido al traste](https://andro4all.com/tecnologia/cae-el-primer-unicornio-de-la-ia-ha-costado-1-000-millones-de-dolares)
 
 **Mensaje clave:** Las burbujas explotan, pero la tecnología útil permanece y transforma la sociedad.
 
