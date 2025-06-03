@@ -151,6 +151,12 @@ Piensen en:
 
 > Al finalizar, se habrán visto un conjunto de casos de uso que se apoyan en la IA y en otras tecnologías, con la intención de que puedan extraer lo mejor de cada uno de ellos y tengan una idea de como empezar a aplicarlos.
 
+### Herramientas
+
+- Ordenador(es) & móvil(es)
+- Una cuenta de correo "de batalla"
+- Curiosidad++
+
 ### Debate@U
 
 Luego de ver todo esto, si nos da tiempo, comentamos...
