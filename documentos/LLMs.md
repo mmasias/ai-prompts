@@ -23,6 +23,12 @@ Inteligencia artificial (AI por sus siglas en inglés)|Término general que se r
 Aprendizaje automático (ML por sus siglas en inglés)|Rama de la IA que utiliza algoritmos para aprender a partir de datos, identificar patrones y hacer predicciones o decisiones sin ser explícitamente programado.|[Google, “AI vs. Machine Learning: How Do They Differ?”](https://cloud.google.com/learn/artificial-intelligence-vs-machine-learning?hl=es)
 **Modelo de lenguaje de gran escala (LLMs por sus siglas en inglés)**|Modelos avanzados de aprendizaje automático diseñados para procesar y generar texto, entrenados en grandes cantidades de datos textuales de modo que son capaces de entender y producir lenguaje similar al humano.|<big>*Autocompletar*</big>
 
+<div align=right>
+
+[🤔](/documentos/casosDeUso/conciencIA.md)
+  
+</div>
+
 ### Cronología
 
 <div align=center>
