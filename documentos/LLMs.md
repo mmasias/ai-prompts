@@ -97,7 +97,7 @@ Esto es, cómo los LLMs se materializan en productos reales que los usuarios pue
 ||Herramienta|Servicio|Plataforma|
 |-|-|-|-|
 |**Def.:**|Recurso o aplicación diseñada para realizar una función o conjunto de funciones específicas, generalmente con un enfoque más limitado que una plataforma. Las herramientas pueden ser parte de una plataforma o estar disponibles de manera independiente.|Solución ofrecida a través de internet que permite a los usuarios acceder a funcionalidades específicas o realizar tareas concretas sin necesidad de instalar o mantener software adicional.|Conjunto de herramientas y servicios interconectados, diseñado para facilitar y gestionar una amplia gama de actividades y procesos específicos de una o varias áreas de trabajo.
-|<sub>**Ej.:**</sub>|<sub>Grammarly (corrección de texto con IA), DeepL (traductor).</sub>|<sub>OpenAI API, Claude API (acceso directo al modelo)</sub>|<sub>Hugging Face (ecosistema completo de modelos), Microsoft Copilot (integrado en Office)</sub>|
+|<sub>**Ej.:**</sub>|<sub>[Grammarly](https://www.grammarly.com/) (corrección de texto con IA), [DeepL](https://www.deepl.com/) (traductor).</sub>|<sub>OpenAI API, Claude API (acceso directo al modelo)</sub>|<sub>Hugging Face (ecosistema completo de modelos), Microsoft Copilot (integrado en Office)</sub>|
 
 </div>
 
