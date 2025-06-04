@@ -1,0 +1,35 @@
+# Plan de estudios - Ingeniería informática - UNEATLANTICO
+
+| Asignatura | Contenido |
+|------------|-----------|
+| **Programación I** | Fundamentos de programación, algoritmos y programas. Tipos de datos primitivos. Entrada/salida. Estructuras de control: alternativas y repetitivas. Arreglos. Programación modular. Fundamentos de orientación a objetos. |
+| **Programación II** | Orientación a objetos: abstracción, encapsulación, modularidad y jerarquía. Programación basada en objetos: clases y métodos. Programación orientada a objetos: herencia y polimorfismo. |
+| **Estructuras de datos y algoritmos I** | Fundamentos de estructuras de datos. Listas. Árboles. Grafos. Ficheros. |
+| **Estructuras de datos y algoritmos II** | Complejidad algoritmica. Notación Big O. Recursividad. Ordenación. Búsqueda. Hashing. |
+| **Lenguajes de programación** | Lenguajes, gramáticas y autómatas. Análisis léxico. Análisis sintáctico descendente y ascendente. Análisis semántico. Tablas de símbolos. |
+| **Programación Web I** | Fundamentos del internet. Navegadores y páginas web: tecnologías cliente. Servicios y servidores web: NodeJS y NPM. Seguridad web básica. |
+| **Programación Web II** | Arquitectura de aplicaciones web. Interfaces de servicios web. Infraestructura y mantenimiento de aplicaciones web. |
+| **Fundamentos de Gestión de Proyectos de Software** | Software e Ingeniería. Naturaleza del Software. Proceso del Software. Modelos de Proceso. Innovación tecnológica. |
+| **Tecnologías de la Información y Comunicación** | Herramientas ofimáticas. Estrategias de aprendizaje. Búsqueda de información en Internet. Escritura académica. Presentaciones. Oratoria. |
+| **Bases de Datos I** | Fundamentos de BD relacionales. Ficheros. Álgebra Relacional. SQL. Metodología General de Bases de Datos. |
+| **Bases de Datos II** | Fundamentos de BD no relacionales. API WEB Storage en HTML5. Bases de Datos noSQL. |
+| **Ingeniería de Software I** | Análisis y diseño de software. Diseño modular. Diseño orientado a objetos. |
+| **Ingeniería de Software II** | Elementos de la producción de Software. Disciplina de requisitos. Fundamentos de pruebas, despliegue y mantenimiento. |
+| **Dirección de Sistemas de Información** | Modelos de negocio e innovación. Fundamentos de Sistemas de Información. Estrategia y planificación de los sistemas de información. Gestión de proyectos de integración de sistemas. Gestión de operaciones y servicios. |
+| **Inteligencia Artificial** | Introducción al aprendizaje máquina. Introducción a la inteligencia computacional. Introducción a la computación evolutiva. Inteligencia de enjambre. Sistemas inmunes artificiales. Sistemas neuro-difusos. |
+| **Proyectos** | El ejercicio de la ingeniería. El proceso proyectual. Planificación y organización de proyectos. Contratación, supervisión y puesta en servicio del proyecto. |
+| **Sistemas Operativos** | Fundamentos de sistemas operativos. Estándar POSIX. Procesos. Gestión de CPU. Memoria. Gestión de almacenamiento auxiliar. Dispositivos de E/S. Seguridad. |
+| **Redes de ordenadores** | Fundamentos de redes y arquitecturas de protocolos. Medios de transmisión. Comunicación de datos. Tecnologías de red. Capa de red TCP/IP: direccionamiento y encaminamiento. Aplicaciones en red. Interconexión de dispositivos. Protocolos de encaminamiento en Internet. Gestión y seguridad en redes. Redes cloud. |
+| **Sistemas Distribuidos y programación en paralelo** | Fundamentos de los sistemas distribuidos. Comunicación de procesos distribuidos. Concurrencia. Programación de aplicaciones distribuidas. Arquitecturas distribuidas. Servicios Web y REST. Servicios de mensajería. Cloud Computing. Frameworks de programación distribuida. |
+| **Seguridad Informática y Criptografía** | Fundamentos de la Seguridad Informática. Criptosistemas de Clave Secreta. Criptosistemas de Cifrado en Flujo. Criptosistemas de Clave Pública. Funciones de Autenticación e Integridad. Firma Digital y Certificados Digitales. Aplicaciones Seguras. |
+| **Economía de la empresa y emprendedores** | Proceso de creación de empresas. Ventajas e inconvenientes de ser un emprendedor. El Plan de Negocio. Alternativas. Obligaciones legales en la constitución de la empresa. |
+| **Matemática I** | Límite y continuidad. Derivación. Aplicaciones de las derivadas. Integral indefinida. Integral definida. Ecuaciones lineales y sistemas de ecuaciones. Inecuaciones. Diagonalización y formas canónicas. Matrices. Conceptos básicos de espacios métricos y topología en Rn. |
+| **Matemática II** | Sucesiones y series infinitas. Polinomios y funciones. Vectores y geometría del espacio. Ecuaciones de rectas, planos, cilindros y superficies cuadráticas. Derivadas parciales. Integrales múltiples. Ecuaciones diferenciales. |
+| **Matemática discreta** | Teoría de conjuntos. Relaciones y funciones. Combinatoria. Recurrencia. Teoría de grafos. Árboles. Autómatas. |
+| **Lógica** | Conceptos básicos de lógica proposicional, operadores y tablas de verdad. Relaciones de equivalencia e implicación lógica, leyes y sus propiedades. Circuitos lógicos a partir de sus características fundamentales, diseño, representación y simplificación. |
+| **Estadística** | Conceptos fundamentales de la Estadística. Probabilidades. Variables aleatorias y distribuciones de probabilidad. Distribuciones discretas de probabilidad. Distribuciones continúas de probabilidad. Distribuciones muestrales. Muestreo estadístico. Estimación puntual y por intervalos de confianza. Pruebas de hipótesis y significación. |
+| **Matemática numérica** | Análisis numérico. Teoría de errores. Ecuaciones de Una variable. Solución de sistemas de ecuaciones lineales. Interpolación, derivación e integración numérica. Solución numérica de ecuaciones en derivadas parciales. Regresión y aproximación. |
+| **Física** | Cinemática y dinámica de la partícula y del sólido rígido. Leyes de conservación. Oscilaciones y ondas. Fluidos. Termodinámica. Electrostática. Electricidad y Magnetismo. Inducción electromagnética. Interferencia, difracción y polarización de la luz. Radiación Térmica. Efecto Fotoeléctrico. Semiconductores. |
+| **Tecnología y Estructura de Ordenadores** | Conceptos básicos y organización funcional del ordenador. Representación de la información a nivel de máquina. Sistemas digitales combinacionales y secuenciales. Organización y diseño del procesador. Lenguaje máquina y ensamblador. Entradas y salidas: buses. Clasificación de los ordenadores. Mejora de prestaciones. |
+| **Ética y Legislación Informática** | Ética profesional. La ética en los sistemas de información. La ética en la administración de los recursos informáticos. Delitos informáticos. El derecho informático. |
+| **Arquitectura de Software** | Fundamentos de la arquitectura de software. Patrones creacionales, estructurales y de comportamiento. Estilos arquitectónicos. MVC y sus variantes. Metodologías de desarrollo. |
