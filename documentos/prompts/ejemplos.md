@@ -14,8 +14,8 @@
 - [x] [Respuestas](ejemplos/respuestas.md)
 - [x] [Clasificación de texto](ejemplos/clasificacionTexto.md)
 - [x] [Conversación](ejemplos/conversacion.md)
-- [x] [Generación de código](ejemplos/generacionCodigo.md)
-- [x] [Razonamiento](ejemplos/razonamiento.md)
+- [x] [*Generación de código*](ejemplos/generacionCodigo.md)
+- [x] [*Razonamiento*](ejemplos/razonamiento.md)
 
 ---
 
