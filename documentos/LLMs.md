@@ -9,7 +9,9 @@
 
 ## ¿Por qué?
 
-La comunicación entre humanos y máquinas tradicionalmente requiere lenguajes de programación específicos y comandos precisos. Los usuarios deben aprender sintaxis complejas para que las computadoras entiendan sus instrucciones. Además, las máquinas no pueden procesar eficientemente el lenguaje natural humano, lo que limita la accesibilidad tecnológica. Se necesita personal técnico especializado para crear interfaces entre usuarios y sistemas. La mayoría de aplicaciones informáticas no pueden entender contexto, matices o ambigüedades del lenguaje humano.
+|Especificidad|Especificidad++|Contexto|
+|-|-|-|
+|La comunicación entre humanos y máquinas tradicionalmente requiere lenguajes de programación específicos y comandos precisos. Los usuarios deben aprender sintaxis complejas para que las computadoras entiendan sus instrucciones.|Además, las máquinas no pueden procesar eficientemente el lenguaje natural humano, lo que limita la accesibilidad tecnológica. Se necesita personal técnico especializado para crear interfaces entre usuarios y sistemas.|La mayoría de aplicaciones informáticas no pueden entender contexto, matices o ambigüedades del lenguaje humano.
 
 ## ¿Qué?
 
