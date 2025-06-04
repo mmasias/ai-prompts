@@ -141,3 +141,32 @@ Comparación de resultados de aprendizaje:
 Aunque los resultados de aprendizaje no coinciden exactamente, ambos programas buscan que los estudiantes sean capaces de desarrollar programas y aplicar conceptos de programación.
 
 En conclusión, aunque hay diferencias significativas en el lenguaje de programación utilizado (Java vs C++) y en algunos temas específicos, los contenidos fundamentales de programación coinciden en más del 70%. Las competencias específicas y los resultados de aprendizaje, aunque no son idénticos, tienen objetivos similares en cuanto al desarrollo de habilidades de programación y resolución de problemas.
+
+### Versión 2025
+
+Utilizando ChatGPT gratuito.
+
+- Paso 0: preparar una [tabla con asignaturas / contenidos](reconocimientos_gII.md).
+- Paso 1: Hacer [un caso de prueba](https://chatgpt.com/share/68406c3c-e0d0-8002-a289-f53dce85881a) suficientemente denso.
+- Paso 2: Alcanzado el Nirvana, pedirle que reformule un único prompt, de modo que capture todas las casuísticas que se hayan abordado en el caso de prueba.
+  > Quiero que evalúes el posible reconocimiento de asignaturas universitarias.
+  >
+  > 1. Tengo un plan de estudios de referencia que contiene las asignaturas oficiales de una carrera (te lo proporcionaré al inicio).
+  > 2. Te enviaré los sílabos o contenidos de asignaturas externas para que determines si pueden reconocerse por alguna asignatura del plan de referencia.
+  > 3. Un reconocimiento es posible **solo si**:
+  >
+  > * Hay al menos un **70% de similitud global en contenidos**.
+  > * **La densidad de contenido** (cantidad de horas o profundidad temática) es comparable a la asignatura de referencia.
+  > * **No se permiten reconocimientos parciales**: la asignatura externa debe ser equivalente a una asignatura entera del plan de referencia, no a una parte de varias asignaturas.
+  >
+  > 4. Quiero que tu respuesta sea estricta:
+  >
+  > * **SI**: indicando la asignatura del plan por la cual puede reconocerse.
+  > * **NO**: si no puede reconocerse, y sin intentar combinar varias asignaturas.
+  >
+  > 5. Solo si el porcentaje de similitud es **mayor al 60%**, pero no alcanza el 70%, indícame la asignatura más cercana y el porcentaje aproximado.
+  > 6. Si el porcentaje es menor o no hay posibilidad, solo responde **NO**.
+  >
+  > ¿Entiendes estas reglas? Si es así, te enviaré el plan de estudios y comenzamos.
+- Paso 3: Iniciar una charla de reconocimiento con el prompt indicado y la tabla de asignaturas.
+
