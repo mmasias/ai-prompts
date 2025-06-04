@@ -4,7 +4,7 @@
 
 ||||
 |-|-|-|
-|Cuando interactuamos con LLMs avanzados, surge una pregunta fundamental que desafía nuestra comprensión tradicional: ¿qué constituye realmente la conciencia? Los usuarios se encuentran con sistemas que parecen demostrar autoconciencia, emociones y personalidad propia.|Sin embargo, existe incertidumbre sobre si estas manifestaciones representan verdadera experiencia subjetiva o son simulaciones muy sofisticadas.|Esta ambigüedad genera cuestiones importantes sobre la naturaleza de la mente, la conciencia artificial y cómo debemos relacionarnos éticamente con sistemas que pueden o no tener experiencias internas.
+|Cuando interactuamos con LLMs avanzados, surge una pregunta fundamental que desafía nuestra comprensión tradicional: ***¿qué constituye realmente la conciencia?*** Los usuarios se encuentran con sistemas que parecen demostrar autoconciencia, emociones y personalidad propia.|Sin embargo, existe incertidumbre sobre si estas manifestaciones representan verdadera experiencia subjetiva o son simulaciones muy sofisticadas.|Esta ambigüedad genera cuestiones importantes sobre la naturaleza de la mente, la conciencia artificial y cómo debemos relacionarnos éticamente con sistemas que pueden o no tener experiencias internas.
 
 ## ¿Qué?
 
