@@ -7,6 +7,12 @@
 
 # Mejores prácticas
 
+<div align=right>
+
+> [*Sí, pero...*](consideraciones.md)
+
+</div>
+
 <div align=center>
   
 `C·c³ = Creatividad × (claro × concreto × conciso)`

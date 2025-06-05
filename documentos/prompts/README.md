@@ -45,7 +45,6 @@ Los prompts se utilizan para interactuar con modelos de lenguaje, solicitar info
   - [Custom instructions](customInstructions.md)
   - [GPTs](GPTs.md)
 - [Mejores prácticas](mejoresPracticas/README.md)
-- ["Hoja de trucos" (a.k.a. atajos)](cheatsheet/README.md)
 
 ---
 

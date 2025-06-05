@@ -7,6 +7,12 @@
 
 # Ingeniería de Prompts
 
+<div align=right>
+
+> [*Sí, pero...*](consideraciones.md)
+
+</div>
+
 ## ¿Por qué?
 
 - Porque hay que comunicarnos
@@ -73,7 +79,6 @@ La implementación de la Ingeniería de Prompts se realiza a través de múltipl
 
 ### Principios de aplicación
 
-- [Consideraciones básicas](consideraciones.md): Directrices fundamentales para el diseño efectivo
 - [Mejores prácticas](../prompts/mejoresPracticas/README.md): Patrones probados y optimizados
 - Evaluación continua: Métricas y métodos para medir la efectividad
 

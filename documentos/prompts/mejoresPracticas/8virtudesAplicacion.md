@@ -7,6 +7,12 @@
 
 # 8 virtudes de prompting - Aplicación
 
+<div align=right>
+
+> [*Sí, pero...*](consideraciones.md)
+
+</div>
+
 ## Poesía
 
 |Virtud|Prompt Original|Prompt Transformado|¿Qué mejoró?|
