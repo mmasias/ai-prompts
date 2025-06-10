@@ -6,11 +6,11 @@ La historia de la humanidad está llena de inventos que nos superan en tareas es
 
 Consideremos algunos ejemplos:
 
-La ropa no imita las pieles de los animales, pero abriga más. Mientras que el pelaje animal crece integrado al cuerpo y se adapta estacionalmente, la ropa permite capas modulares, materiales especializados y protección personalizable.
+- **La ropa no imita las pieles de los animales, pero abriga más**. Mientras que el pelaje animal crece integrado al cuerpo y se adapta estacionalmente, la ropa permite capas modulares, materiales especializados y protección personalizable.
 
-La rueda nada tiene que ver con las patas de los animales, sin embargo es mucho más rápida. Las patas ofrecen versatilidad y adaptabilidad al terreno, pero la rueda sacrifica esa flexibilidad para ganar velocidad y eficiencia en superficies regulares.
+- **La rueda nada tiene que ver con las patas de los animales, sin embargo es mucho más rápida**. Las patas ofrecen versatilidad y adaptabilidad al terreno, pero la rueda sacrifica esa flexibilidad para ganar velocidad y eficiencia en superficies regulares.
 
-El libro nada tiene que ver con la memoria humana, pero es más confiable. Nuestra memoria es asociativa, creativa y selectiva; el libro es lineal, permanente y exacto. No intenta replicar cómo recordamos, sino cómo podemos preservar información.
+- **El libro nada tiene que ver con la memoria humana, pero es más confiable**. Nuestra memoria es asociativa, creativa y selectiva; el libro es lineal, permanente y exacto. No intenta replicar cómo recordamos, sino cómo podemos preservar información.
 
 ## El caso de la inteligencia artificial
 
