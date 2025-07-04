@@ -143,7 +143,7 @@ Más allá de estos impactos específicos, debemos recordar que **la tecnología
 
 |¿Cuántas soluciones tecnológicas brillantes fracasan porque no logran conectar genuinamente con las necesidades humanas?|¿Cómo evitamos que la tecnología disruptiva se convierta en un elemento de alienación en lugar de conexión?|¿Qué sucede cuando la tecnología, en lugar de servir, impone su propia lógica a los usuarios?
 |:-:|:-:|:-:|
-|[🪦](https://killedbygoogle.com/)|El antiejemplo:<br>🐁 / 👆🏼 / `[textbox]`|12:00|
+|[🪦](https://killedbygoogle.com/)|El antiejemplo:<br>🐁 / 👆🏼 / `[textbox]`@AI |12:00|
 
 </div>
 
