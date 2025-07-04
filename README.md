@@ -53,7 +53,7 @@ Al finalizar, se habrán visto un conjunto de casos de uso que se apoyan en la I
 
 ## [Bibliografía et al...](documentos/bibliografia.md)
 
-## Itinerarios
+## [Itinerarios](/documentos/itinerarios/)
 
 - [Talleres@U junio-2025](/documentos/itinerarios/itinerarioU2.md)
 - [SC24](/documentos/itinerarios/iSC24.md)
