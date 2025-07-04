@@ -245,4 +245,4 @@ Para que la tecnología realmente tienda puentes y no construya muros, debemos m
 
 </div>
 
-Tender puentes requiere conocer ambas orillas. Como profesionales informáticos, tenemos la responsabilidad no solo de dominar nuestro campo técnico, sino de comprender profundamente los ámbitos humanos donde nuestras creaciones vivirán.
+**Tender puentes requiere conocer ambas orillas**. Como profesionales informáticos, tenemos la responsabilidad no solo de dominar nuestro campo técnico, sino de comprender profundamente los ámbitos humanos donde nuestras creaciones vivirán.
