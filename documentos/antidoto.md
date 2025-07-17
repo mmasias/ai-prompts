@@ -24,15 +24,16 @@ Finalmente, se desarrolla inmunidad contra el ruido promocional futuro, permitie
 
 ### Diccionario de traducción
 
-|Término marketiniano|Realidad técnica|Realidad técnica sin tecnicismos|¿Cuándo usar cada uno?|
-|-|-|-|-|
-|**AI Agents**| LLM + lógica de orquestación + interfaz | ChatGPT con botones y automatizaciones predefinidas | Usa "AI Agent" cuando la herramienta agrega valor real. Usa LLM + scripts cuando puedas hacerlo tú mismo |
-|**Multi-Agent Architecture**| Múltiples instancias de LLM coordinadas (manual o automáticamente) | Varios ChatGPTs trabajando juntos, con alguien (tú o un programa) decidiendo quién hace qué | Arquitectura compleja solo si la coordinación automática realmente funciona. Sino, orquestación manual |
-|**MCP (Model Context Protocol)**| API REST especializada para LLMs | Una forma estándar para que los LLMs se conecten con otras herramientas, como USB para programas | Usa MCP si necesitas integrar múltiples herramientas. Para casos simples, APIs REST directas |
-|**LLMOps**| MLOps aplicado a modelos de lenguaje | Administrar y mantener sistemas de IA en funcionamiento, como IT pero para modelos de lenguaje | Solo si manejas modelos propios en producción. Para uso de APIs, sobra la complejidad |
-|**RAG (Retrieval Augmented Generation)**| Búsqueda en base de datos + LLM | Buscar información en tus archivos y luego preguntarle al LLM sobre esa información específica | Implementa RAG solo si tienes datos propios grandes. Para documentos pequeños, contexto directo |
-|**Prompt Engineering**| Escribir instrucciones claras y estructuradas | Aprender a hacer preguntas de manera que obtengas mejores respuestas | Aprende los fundamentos. Ignora certificaciones y "niveles" |
-|**AI-First Architecture**| Integrar LLMs en tu stack existente | Rediseñar tu software pensando primero en cómo la IA puede ayudar | Evalúa caso por caso. No rediseñes todo solo por integrar IA |
+|Término marketiniano|Realidad técnica|Realidad técnica<br>sin tecnicismos|¿Cuándo usar cada uno?|Y si no... |
+|-|-|-|-|-|
+| **AI Agents** | LLM + lógica de orquestación + interfaz | ChatGPT con botones y automatizaciones predefinidas | Cuando la herramienta agrega valor real y automatización que no puedes hacer fácilmente | LLM + scripts simples o directamente el chat |
+| **Multi-Agent Architecture** | Múltiples instancias de LLM coordinadas (manual o automáticamente) | Varios ChatGPTs trabajando juntos, con alguien (tú o un programa) decidiendo quién hace qué | Solo si la coordinación automática realmente funciona sin supervisión constante | Orquestación manual con múltiples ventanas |
+| **MCP (Model Context Protocol)** | API REST especializada para LLMs | Una forma estándar para que los LLMs se conecten con otras herramientas, como USB para programas | Si necesitas integrar múltiples herramientas de manera estandarizada | APIs REST directas o conectores simples |
+| **LLMOps** | MLOps aplicado a modelos de lenguaje | Administrar y mantener sistemas de IA en funcionamiento, como IT pero para modelos de lenguaje | Si manejas modelos propios en producción a escala | Uso directo de APIs de servicios |
+| **RAG (Retrieval Augmented Generation)** | Búsqueda en base de datos + LLM | Buscar información en tus archivos y luego preguntarle al LLM sobre esa información específica | Si tienes bases de datos grandes con información específica | Contexto directo en el prompt para documentos pequeños |
+| **Prompt Engineering** | Escribir instrucciones claras y estructuradas | Aprender a hacer preguntas de manera que obtengas mejores respuestas | Siempre - es una habilidad fundamental | Te frustrarás con respuestas vagas e inconsistentes |
+| **AI-First Architecture** | Integrar LLMs en tu stack existente | Rediseñar tu software pensando primero en cómo la IA puede ayudar | Si realmente mejora la experiencia del usuario final | Integraciones puntuales donde agreguen valor específico |
+
 
 ### Preguntas de evaluación crítica
 
@@ -51,10 +52,9 @@ Antes de adoptar cualquier herramienta o framework "innovador", hazte estas preg
 ### Roadmap práctico libre de hype
 
 #### Nivel 1: Fundamentos (lo que realmente necesitas)
-- Aprende a usar APIs de LLMs directamente
-- Domina prompts efectivos y estructurados
-- Entiende cómo leer/escribir JSON y manejar datos básicos
-- Practica integración con herramientas que ya usas
+- Aprende los conceptos de LLMs → [Modelos de lenguaje](LLMs.md) & [herramientas](/documentos/panoramica.md)
+- Domina prompts efectivos → [Prompts](prompts/README.md) y [Mejores prácticas](prompts/mejoresPracticas/README.md)
+- Practica con casos reales → [Casos de uso](casosDeUso/README.md)
 
 #### Nivel 2: Automatización (cuando el Nivel 1 se queda corto)
 - Automatiza flujos repetitivos con scripts simples
