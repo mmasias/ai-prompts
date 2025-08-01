@@ -5,7 +5,9 @@
 
 </div>
 
-# 🌐 🔭 Panorámica 
+# 🌐 🔭 Panorámica
+
+> [Podcast de esta sección](https://soundcloud.com/mmasias/panoramica_ai-prompts), creado con NotebookLM
 
 <div align=center>
 
@@ -66,7 +68,7 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 |Nombre|Descripción|Caso de uso ideal|
 |-|-|-|
-|[**NotebookLM**](https://notebooklm.google.com/)|Análisis inteligente de documentos y síntesis de fuentes múltiples|Investigación académica, análisis de reportes corporativos / [Ejemplo](https://notebooklm.google.com/notebook/4f5a6b2e-8c9d-4e3f-b1a2-7c6d8e9f0a1b)|
+|[**NotebookLM**](https://notebooklm.google.com/)|Análisis inteligente de documentos y síntesis de fuentes múltiples|Investigación académica, análisis de reportes corporativos / [Ejemplo](https://notebooklm.google.com/notebook/4f5a6b2e-8c9d-4e3f-b1a2-7c6d8e9f0a1b)<br>[Podcast de esta sección](https://soundcloud.com/mmasias/panoramica_ai-prompts)|
 |[**GPT for work**](https://gptforwork.com/)|IA integrada en Google Sheets y Excel con plantillas predefinidas|Automatización de hojas de cálculo, análisis de datos / [Plantilla útil](https://docs.google.com/spreadsheets/d/1SOz3u2A8Y6RXvXK_X2QdrcWJ7WklbgtWNE9ljZ_yaEc/template/preview)|
 |[ChatGPT-4o](https://openai.com/index/improvements-to-data-analysis-in-chatgpt/)|Análisis avanzado de datos, archivos CSV, Excel y visualizaciones|Análisis exploratorio de datos, creación de gráficos|
 |[Numerous](https://numerous.ai/)|Automatización avanzada de hojas de cálculo con fórmulas AI|Cálculos complejos automatizados, reportes dinámicos|
