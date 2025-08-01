@@ -52,7 +52,9 @@
 
 Al finalizar, se habrán visto un conjunto de casos de uso que se apoyan en la IA y en otras tecnologías, con la intención de que los participantes puedan extraer lo mejor de cada uno de ellos y logren aplicarlos.
 
-## [Bibliografía et al...](documentos/bibliografia.md)
+## Novedades
+
+- [ChatGPT: modo estudio](/documentos/papers%20et%20al/modoEstudio.md)
 
 ## [Itinerarios](/documentos/itinerarios/)
 
@@ -64,6 +66,11 @@ Al finalizar, se habrán visto un conjunto de casos de uso que se apoyan en la I
 - [Sodercan](/documentos/itinerarios/itinerarioSC.md) 
 - [CdS](/documentos/itinerarios/itinerarioCdS.md)
 - [Talleres@U](/documentos/itinerarios/itinerarioTalleres.md)
+
+## Bibliografía
+
+- [Bibliografía et al...](documentos/bibliografia.md)
+
 
 ### *Nota al pie:*
 
