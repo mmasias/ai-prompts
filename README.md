@@ -42,7 +42,9 @@
 
 |Aproximarnos|Comprender o entender |Aplicación real|
 |:-:|:-:|:-:|
-|[Panorámica](documentos/panoramica.md)|[Modelos de lenguaje](documentos/LLMs.md), [Prompts](documentos/prompts/README.md),<br />[Ingeniería de Prompts](documentos/ingenieriaDePrompts/README.md) & [Patrones](documentos/ingenieriaDePrompts/patrones/README.md)|[Casos de Uso](documentos/casosDeUso/README.md)|
+|[Panorámica](documentos/panoramica.md)|[Modelos de lenguaje](documentos/LLMs.md)|[Casos de Uso](documentos/casosDeUso/README.md)|
+||[Prompts](documentos/prompts/README.md),<br />[Ingeniería de Prompts](documentos/ingenieriaDePrompts/README.md) & [Patrones](documentos/ingenieriaDePrompts/patrones/README.md)||
+
 
 </div>
 
