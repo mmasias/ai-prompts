@@ -15,20 +15,20 @@
 |11|Alicia tiene 4 hermanos y también tiene 1 hermana. ¿Cuántas hermanas tienen los hermanos de Alicia? (*respuesta correcta: 2*)
 |12|La mamá de Sarah tiene cinco hijos. John y Michael son gemelos, María y Carol nacieron con 2 años de diferencia. María es la mayor. Michael es el menor. John es dos años más joven que Carol. El quinto hijo es un año mayor que Carol. Los gemelos nacieron en el 2000. ¿Cuáles son los nombres de los cinco hijos ordenados por edad, y en qué año nació cada uno? (*respuesta correcta: María (1996), Sarah (1997), Carol (1998), John (2000), Michael (2000)*)
 
-|      |ChatGPT-5                                                               |Claude|
-|-     |:-:                                                                     |:-:|
-|**1** |[**L**](https://chatgpt.com/share/6895e9cf-98f4-8002-bd8a-39de093981f6) |L
-|**2** |L|L
-|**3** |L|L
-|**4** |[**L**](https://chatgpt.com/share/6895eb1d-fdb8-8002-8d4a-fadc72e8cd2c) |[**L**](https://claude.ai/share/23b3b47a-c492-43a8-9b43-711350017ee0)
-|**5** |[**L**](https://chatgpt.com/share/6895ed07-62a4-8002-a426-d9a321eb7e5f)|[**L**](https://claude.ai/share/7f966626-dfd8-4195-bd62-0e770dfd0ec7)
-|**6** |L|L
-|**7** |L|L
-|**8** |L|L
-|**9** |L|L
-|**10**|[**L**](https://chatgpt.com/share/6895ee0b-eba4-8002-b8a8-2a783390a0cb)|**[L](https://claude.ai/share/0c8f138a-1f37-4604-85ea-5aa7d1e77ca3)**
-|**11**|L|L
-|**12**|[**L**](https://chatgpt.com/share/6895ee7c-a3b4-8002-a106-6826338efc7d)|[**L**](https://claude.ai/share/5b93964f-d27d-4cc9-ad5d-cef7503e70da)
+|#| ChatGPT-5 | Claude | Gemini | DeepSeek | Grok | MetaAI | Copilot | Perplexity | Mistral |
+|-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1  | [**L**](https://chatgpt.com/share/6895e9cf-98f4-8002-bd8a-39de093981f6 "Ver respuesta de ChatGPT") | L |  |  |  |  |  |  |  |
+| 2  | L | L |  |  |  |  |  |  |  |
+| 3  | L | L |  |  |  |  |  |  |  |
+| 4  | [**L**](https://chatgpt.com/share/6895eb1d-fdb8-8002-8d4a-fadc72e8cd2c "Ver respuesta de ChatGPT") | [**L**](https://claude.ai/share/23b3b47a-c492-43a8-9b43-711350017ee0 "Ver respuesta de Claude") |  |  |  |  |  |  |  |
+| 5  | [**L**](https://chatgpt.com/share/6895ed07-62a4-8002-a426-d9a321eb7e5f "Ver respuesta de ChatGPT") | [**L**](https://claude.ai/share/7f966626-dfd8-4195-bd62-0e770dfd0ec7 "Ver respuesta de Claude") |  |  |  |  |  |  |  |
+| 6  | L | L |  |  |  |  |  |  |  |
+| 7  | L | L |  |  |  |  |  |  |  |
+| 8  | L | L |  |  |  |  |  |  |  |
+| 9  | L | L |  |  |  |  |  |  |  |
+| 10 | [**L**](https://chatgpt.com/share/6895ee0b-eba4-8002-b8a8-2a783390a0cb "Ver respuesta de ChatGPT") | [**L**](https://claude.ai/share/0c8f138a-1f37-4604-85ea-5aa7d1e77ca3 "Ver respuesta de Claude") |  |  |  |  |  |  |  |
+| 11 | L | L |  |  |  |  |  |  |  |
+| 12 | [**L**](https://chatgpt.com/share/6895ee7c-a3b4-8002-a106-6826338efc7d "Ver respuesta de ChatGPT") | [**L**](https://claude.ai/share/5b93964f-d27d-4cc9-ad5d-cef7503e70da "Ver respuesta de Claude") |  |  |  |  |  |  |  |
 
 ## Más
 
