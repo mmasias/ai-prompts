@@ -30,7 +30,7 @@
 
 ## Para qué
 
-- Aproximarnos ([¡saber aproximarnos!](saberComoAproximarse.md)) con una base que nos permita...
+- Aproximarnos ([¡saber aproximarnos!](documentos/saberComoAproximarse.md)) con una base que nos permita...
   - [***vacunarnos***](documentos/antidoto.md) contra el ruido marketiniano.
   - ***comprender*** (o al menos intentar entender) [el cambio](documentos/aDiaDeHoy.md) y que podamos
   - tener una base para encontrarle a todo esto aplicación real, efectiva (eficiente & eficaz)
