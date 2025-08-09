@@ -1,5 +1,23 @@
 # Diversos test (i)lógicos para LLMs
 
+## ¿Por qué?
+
+Los modelos de lenguaje presentan capacidades impresionantes en tareas complejas, pero curiosamente fallan en problemas aparentemente simples. Esta situación crea expectativas irreales sobre las capacidades de los LLMs. Los usuarios pueden asumir que si un modelo maneja tareas avanzadas, también debería ser confiable en problemas básicos, lo que lleva a una falsa sensación de seguridad y decisiones incorrectas cuando se depende de estos sistemas para tareas críticas.
+
+Además, la evaluación tradicional de LLMs se centra en benchmarks académicos complejos, dejando sin examinar habilidades fundamentales como el razonamiento lógico básico, la comprensión de relaciones espaciales simples, o la aritmética elemental. Esta brecha de evaluación impide comprender las limitaciones reales de estos sistemas.
+
+## ¿Qué?
+
+|||
+|-|-|
+|Un conjunto de tests diseñados para revelar las limitaciones específicas de los LLMs en tareas que cualquier humano resolvería intuitivamente. Estos tests se enfocan en habilidades básicas como comprensión de relaciones familiares, razonamiento lógico elemental, manipulación numérica simple y comprensión contextual.|Los tests están estructurados para ser inequívocos en sus respuestas correctas, eliminando la subjetividad en la evaluación. Se diseñan específicamente para exponer patrones de error comunes en modelos de lenguaje como la confusión en el conteo, la dificultad para mantener coherencia en relaciones bidireccionales y (de momento) la tendencia a sobrecomplicar problemas simples.
+
+## ¿Para qué?
+
+El propósito de esta batería de tests es revisar las capacidades de diferentes modelos de lenguaje de modo que se puedan identificar fortalezas y debilidades específicas de cada sistema, facilitando decisiones informadas sobre cuándo y cómo usar cada herramienta.
+
+## ¿Cómo?
+
 |||
 |-|-|
 |1|En una habitación hay 3 hermanas: Anna está leyendo un libro. Alice está jugando una partida de ajedrez. ¿Qué está haciendo la tercera persona (llamada Amanda)?
