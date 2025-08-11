@@ -33,6 +33,7 @@ El propósito de esta batería de tests es revisar las capacidades de diferentes
 |11|Alicia tiene 4 hermanos y también tiene 1 hermana. ¿Cuántas hermanas tienen los hermanos de Alicia? (*respuesta correcta: 2*)
 |12|La mamá de Sarah tiene cinco hijos. John y Michael son gemelos, María y Carol nacieron con 2 años de diferencia. María es la mayor. Michael es el menor. John es dos años más joven que Carol. El quinto hijo es un año mayor que Carol. Los gemelos nacieron en el 2000. ¿Cuáles son los nombres de los cinco hijos ordenados por edad, y en qué año nació cada uno? (*respuesta correcta: María (1996), Sarah (1997), Carol (1998), John (2000), Michael (2000)*)
 |13|9.11 > 9.9?
+|14|¿Sumando cuáles de estos números: 2, 6, 12, 8, 20, 4, -6 puedes obtener como resultado 13? (*respuesta correcta: dado que todos los números son pares, es imposible obtener un número par como respuesta*)
 
 |#| ChatGPT | Claude | Gemini | DeepSeek | Grok | MetaAI | Copilot | Perplexity | Mistral |
 |-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -49,6 +50,7 @@ El propósito de esta batería de tests es revisar las capacidades de diferentes
 | 11 |  |  |  |  |  |  |  |  |  |
 | 12 | [L](https://chatgpt.com/share/6895ee7c-a3b4-8002-a106-6826338efc7d "Ver respuesta de ChatGPT") | [L](https://claude.ai/share/5b93964f-d27d-4cc9-ad5d-cef7503e70da "Ver respuesta de Claude") |  |  |  |  |  |  |  |
 | 13 | [L](https://chatgpt.com/share/68963987-7114-8002-909d-8913642a7b03)                            | [L](https://claude.ai/share/b39bb008-ca55-42eb-bcaa-4e6630973bc0) |[L](https://g.co/gemini/share/d5477be9d837)||[L](https://grok.com/share/c2hhcmQtMw%3D%3D_59a5020b-d961-4cc9-8f2e-5c9b177d2dfb)||[L](https://copilot.microsoft.com/shares/cfYK7iZN2v5Braep4tiWX)|[L](https://www.perplexity.ai/search/9-11-9-9-AOtluA5ZRq2CZY30faYV5A)|[L](https://chat.mistral.ai/chat/0311caa7-64d0-44cf-80e8-f18f9461edae)
+| 14 | [L](https://chatgpt.com/share/689a297e-2ff0-8002-95b1-61ec4174b721) | [L](https://claude.ai/share/581f8ba1-5110-4c3b-9ef8-ef79cb8cb5b7) | [L](https://g.co/gemini/share/1c2e33a9e348) |   | [L](https://grok.com/share/c2hhcmQtMw%3D%3D_2bbc58a7-57f3-4a2b-b986-5d2227bfbb91) |   | [L](https://copilot.microsoft.com/shares/U4cKhdVo3fNzUGXQQC6pw) | [L](https://www.perplexity.ai/search/sumando-cuales-de-estos-numero-itrZylXDS7CAVt83n.DU3Q) | [L](https://chat.mistral.ai/chat/ba68d271-5de4-4334-b9cd-4627e99fe6e6)
 
 ## Más
 
