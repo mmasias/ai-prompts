@@ -4,6 +4,8 @@
 
 <sub>*Una reflexión de 30 minutos sobre la inteligencia artificial y nuestro futuro laboral*</sub>
 
+<sub><i>Siempre hemos tenido que lidiar con nuevas formas de expresión.<br>Hoy, una de ellas habla... y responde.</i></sub>
+
 </div>
 
 ## ¿Por qué?
