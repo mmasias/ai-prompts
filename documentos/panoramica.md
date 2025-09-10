@@ -15,7 +15,7 @@ Este catálogo presenta una selección curada de herramientas de **Inteligencia 
 
 |[![](https://img.shields.io/badge/-Primera_división-0078D4?style=flat&logo=chatbot&logoColor=white)](#primera-división) [![](https://img.shields.io/badge/-Ofimática-0078D4?style=flat&logo=microsoftexcel&logoColor=white)](#️-ofimática) [![](https://img.shields.io/badge/-Educación-0078D4?style=flat&logo=academia&logoColor=white)](#educación-y-aprendizaje) [![](https://img.shields.io/badge/-Trabajo-0078D4?style=flat&logo=slack&logoColor=white)](#trabajo-y-productividad) [![](https://img.shields.io/badge/-Creación-0078D4?style=flat&logo=canva&logoColor=white)](#creación-de-contenido) [![](https://img.shields.io/badge/-Marketing-0078D4?style=flat&logo=googleads&logoColor=white)](#comunicación-y-marketing) [![](https://img.shields.io/badge/-Desarrollo-0078D4?style=flat&logo=github&logoColor=white)](#desarrollo--áreas-técnicas) [![](https://img.shields.io/badge/-Especializaciones-0078D4?style=flat&logo=microscope&logoColor=white)](#especializaciones)
 |:-:
-|![](https://img.shields.io/badge/Actualizado-agosto_2025-28a745?style=for-the-badge&logo=calendar&logoColor=white)|
+|![](https://img.shields.io/badge/Actualizado-septiembre_2025-28a745?style=for-the-badge&logo=calendar&logoColor=white)|
 
 </div>
 
@@ -48,11 +48,11 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 |Nombre|Descripción|Características destacadas|
 |-|-|-|
-|[ChatGPT](https://chat.openai.com/)|Modelo de lenguaje líder de OpenAI con capacidades multimodales|Integración web, análisis de imágenes, código avanzado / [Documentación](https://platform.openai.com/docs)|
+|[ChatGPT](https://chatgpt.com/)|Modelo de lenguaje líder de OpenAI con nuevas funciones colaborativas|Proyectos gratuitos, ramificaciones de conversación, biblioteca de imágenes / [Documentación](https://platform.openai.com/docs)|
 |[**Claude**](https://claude.ai/chats)|Asistente de IA de Anthropic enfocado en seguridad y razonamiento|Ventana de contexto muy amplia, análisis de documentos extensos|
 |[Gemini](https://gemini.google.com/app)|IA multimodal de Google con búsqueda integrada en tiempo real|Acceso directo a Google Search, multimodalidad nativa / [AIStudio](https://aistudio.google.com/prompts/new_chat)|
 |[DeepSeek](https://chat.deepseek.com/)|Modelo chino de código abierto muy económico y competitivo|Excelente relación calidad-precio, especialización en programación|
-|[Grok](https://x.com/i/grok)|IA de xAI integrada en X (Twitter) con acceso a datos en tiempo real|Información actualizada, integración social / [👀](https://www.washingtonpost.com/technology/2025/05/24/grok-musk-ai/)|
+|[Grok](https://x.com/i/grok)|IA de xAI con modelos Grok 4 y acceso tanto gratuito como premium|Información en tiempo real, integración en X y Tesla / [Estado](https://x.ai/grok)|
 |[MetaAI](https://www.meta.ai/)|Asistente de IA de Meta integrado en WhatsApp, Instagram y Facebook|Integración nativa en redes sociales, acceso gratuito 👀|
 |[Copilot](https://copilot.microsoft.com)|IA de Microsoft integrada en su ecosistema (Windows, Office, Edge)|Integración profunda con herramientas de productividad|
 
@@ -68,12 +68,12 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 |Nombre|Descripción|Caso de uso ideal|
 |-|-|-|
-|[**NotebookLM**](https://notebooklm.google.com/)|Análisis inteligente de documentos y síntesis de fuentes múltiples|Investigación académica, análisis de reportes corporativos / [Ejemplo](https://notebooklm.google.com/notebook/4f5a6b2e-8c9d-4e3f-b1a2-7c6d8e9f0a1b)<br>[Podcast de esta sección](https://soundcloud.com/mmasias/panoramica_ai-prompts)|
+|[**NotebookLM**](https://notebooklm.google.com/)|NotebookLM Plus integrado en Workspace, límites expandidos|Análisis académico, documentos empresariales, podcasts automáticos / [Plus](https://workspace.google.com/solutions/ai/)<br>[Podcast de esta sección](https://soundcloud.com/mmasias/panoramica_ai-prompts)|
 |[**GPT for work**](https://gptforwork.com/)|IA integrada en Google Sheets y Excel con plantillas predefinidas|Automatización de hojas de cálculo, análisis de datos / [Plantilla útil](https://docs.google.com/spreadsheets/d/1SOz3u2A8Y6RXvXK_X2QdrcWJ7WklbgtWNE9ljZ_yaEc/template/preview)|
 |[ChatGPT-4o](https://openai.com/index/improvements-to-data-analysis-in-chatgpt/)|Análisis avanzado de datos, archivos CSV, Excel y visualizaciones|Análisis exploratorio de datos, creación de gráficos|
 |[Numerous](https://numerous.ai/)|Automatización avanzada de hojas de cálculo con fórmulas AI|Cálculos complejos automatizados, reportes dinámicos|
 |[FormulaBOT](https://www.formulabot.com/)|Generador inteligente de fórmulas de Excel y Google Sheets|Creación de fórmulas complejas mediante lenguaje natural|
-|[Microsoft 365 Copilot](https://copilot.microsoft.com/)|IA nativa integrada en Word, Excel, PowerPoint, Outlook|Ecosistema empresarial Microsoft, colaboración|
+|[Microsoft 365 Copilot](https://copilot.microsoft.com/)|IA integrada en planes Personal/Familia desde enero 2025|Ecosistema Microsoft completo, incluido en suscripciones base|
 |[Google Workspace AI](https://workspace.google.com/solutions/ai/)|IA integrada en Docs, Sheets, Slides, Gmail|Ecosistema Google, colaboración en la nube|
 |[Coda](https://coda.io/)|Documentos inteligentes que combinan texto, tablas y aplicaciones|Bases de datos relacionales, workflows complejos|
 
@@ -174,8 +174,6 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 </div>
 
 > <sub><i>**Más**: [Fantastical](https://flexibits.com/fantastical) / [Calendly](https://calendly.com/) / [Scheduler AI](https://scheduler.ai/) / [Clara](https://claralabs.com/) / [x.ai](https://x.ai/) / [Trevor](https://trevor.io/) / [Plan](https://getplan.co/) / [Sunsama](https://sunsama.com/) / [TickTick](https://ticktick.com/) / [Toggl Track](https://toggl.com/track/) / [RescueTime](https://www.rescuetime.com/) / [Focus Keeper](https://focuskeeperapp.com/) / [Forest](https://www.forestapp.cc/) / [Brain.fm](https://www.brain.fm/)</i></sub>
-
-## Creación de contenido
 
 ## 🎨 Creación de contenido
 
@@ -298,6 +296,27 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 ## 🤖⚡ Agentes de IA y Automatización
 
 *Sistemas autónomos que pueden ejecutar tareas complejas de múltiples pasos con mínima supervisión humana:*
+
+[Acerca de los agentes](agentes.md)
+
+### 🏆 Primera división
+
+*Los agentes de IA más avanzados para desarrollo autónomo, cada uno con capacidades específicas y documentación completa:*
+
+<div align=center>
+
+|Agente|Compañía|Especialización|Instalación/Setup|
+|-|-|-|-|
+|[**Claude Code**](https://www.anthropic.com/claude-code)|Anthropic|Terminal + IDE, repositorios completos|[📚 Setup](https://docs.anthropic.com/claude-code/setup)|
+|[**OpenAI Codex**](https://openai.com/codex/)|OpenAI|Cloud sandboxing, 75% precisión SWE-bench|[🚀 Incluido en ChatGPT Plus/Pro](https://openai.com/chatgpt/pricing/)|
+|[**Qwen3-Coder**](https://github.com/QwenLM/Qwen3-Coder)|Alibaba|480B params, código agéntico open source|[⚡ Setup](https://docs.unsloth.ai/basics/qwen3-coder-how-to-run-locally)|
+|[**Grok Code Fast 1**](https://x.ai/news/grok-code-fast-1)|xAI|Velocidad extrema (160 tok/seg), partners|[🔗 API + Integrations](https://x.ai/api)|
+|[**Gemini Code Assist**](https://codeassist.google/)|Google|Agent Mode, multi-file editing|[📖 Getting Started](https://developers.google.com/gemini-code-assist/docs/overview)|
+|[**Copilot Studio**](https://www.microsoft.com/microsoft-copilot-studio)|Microsoft|Orquestación multiagente empresarial|[🏢 Enterprise Setup](https://learn.microsoft.com/copilot-studio/)|
+|[**Perplexity Labs**](https://www.perplexity.ai/hub/blog/introducing-perplexity-labs)|Perplexity|Research + coding + web apps|[💡 Pro Access](https://www.perplexity.ai/help-center/en/articles/11144811-perplexity-labs)|
+|[**Replit Agent**](https://replit.com/ai)|Replit|Idea-to-app, visual design-to-code|[🛠️ Core Setup](https://docs.replit.com/replitai/agent)|
+
+</div>
 
 <div align=center>
 
@@ -507,6 +526,6 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 **🔄 Actualización continua**: Este documento se revisa regularmente para reflejar el estado actual del ecosistema de IA.
 
-*Última actualización: Agosto 2025*
+*Última actualización: Septiembre 2025*
 
 </div>

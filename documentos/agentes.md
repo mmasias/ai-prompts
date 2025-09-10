@@ -24,19 +24,6 @@ El aprendizaje continuo permite que los sistemas mejoren su rendimiento basándo
 
 ## ¿Cómo?
 
-### Reconocimiento
-
-<div align=center>
-
-|¿Qué?|¿Quién?|
-|-|-|
-||Claude Code|
-|¿Tiene autonomía?|Probablemente limitada - actúa cuando se le delega una tarea
-|¿Percibe su entorno?|Probablemente percibe el código, archivos del proyecto
-|¿Es reactivo/proactivo?|Probablemente reactivo a las tareas asignadas
-|¿Ejecuta acciones?|Sí, modifica código, crea archivos
-
-</div>
 
 ### Arquitectura Básica
 
@@ -85,9 +72,21 @@ public class AgenteConModelo extends AgenteBasico {
 
 **Agentes Orientados a Objetivos**: Implementan algoritmos de planificación que generan secuencias de acciones para alcanzar metas específicas. Utilizan búsqueda en espacios de estados para encontrar rutas óptimas.
 
+### Capacidades Emergentes 2025
+
+Los agentes modernos han evolucionado significativamente, incorporando nuevas capacidades que expanden su autonomía y aplicabilidad:
+
+**Agentic Workflows**: Ejecutan flujos de trabajo completos de múltiples pasos, manteniendo contexto entre tareas y adaptándose según resultados intermedios. Permiten delegación de proyectos completos sin supervisión constante.
+
+**Computer Use**: Capacidad de interactuar con interfaces gráficas, navegadores web y aplicaciones de escritorio como lo haría un usuario humano, expandiendo el entorno operativo más allá del código y APIs.
+
+**Multi-Agent Orchestration**: Sistemas donde múltiples agentes especializados colaboran, delegando tareas según expertise individual y coordinando ejecución distribuida para resolver problemas complejos.
+
+**Reasoning Chains**: Implementación de cadenas de razonamiento explícitas que permiten verificar procesos de toma de decisiones, mejorando transparencia y confiabilidad en tareas críticas.
+
 ### Ejemplos de Aplicación
 
-En desarrollo de software, herramientas como Claude Code implementan agentes que analizan código fuente, identifican patrones problemáticos, y generan soluciones automáticamente. Estos sistemas mantienen contexto del proyecto y adaptan sugerencias según el estilo de programación detectado.
+En desarrollo de software, los agentes modernos manejan proyectos completos desde la concepción hasta el despliegue, analizando arquitecturas, generando código, ejecutando pruebas y coordinando herramientas de desarrollo. Mantienen contexto de repositorios extensos y adaptan soluciones según patrones del proyecto.
 
 Los asistentes virtuales procesan lenguaje natural, mantienen historial conversacional, y coordinan múltiples servicios para completar tareas solicitadas. Su implementación incluye módulos de comprensión, planificación de tareas, y ejecución distribuida.
 
