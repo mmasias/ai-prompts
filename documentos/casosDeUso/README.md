@@ -36,6 +36,7 @@ Propuesta de creación de un ejemplo - [Comparando respuestas](microComparativa.
 |Aprendizaje y adaptación|🗣️|[Aprendizaje](aprendizajeJitanjafora.md)|Enseñanza de un tema que desconoce|
 |Aprendizaje y adaptación|🗣️|[Aprender estilo de redacción](redactor.md)|Enseñanza de un estilo de redacción|
 |Aprendizaje y adaptación|🗣️|[Corrector de estilo](correctorEstilo.md)|Evolución natural de los casos de uso Aprender estilo de redacción y Análisis de una presentación 
+|Aprendizaje y adaptación|🎓|[Modo Estudio ChatGPT](modoEstudio.md)|Aprendizaje guiado y constructivo con IA como tutor 
 |Análisis y síntesis|↳↳|[Análisis de una presentación](analisisDiscurso.md)|Transcripción, evaluación, métricas y mejora de un discurso|
 |Análisis y síntesis|↳↳|[Diferencias contables](contable.md)|Abordaje de diferencias financieras entre países|
 |Análisis y síntesis|📈|[Evolución del análisis](evolucionAnalisis.md)|Simplemente una muestra de evolución|
