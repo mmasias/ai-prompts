@@ -35,7 +35,7 @@ This repository contains 251 markdown files organized in a hierarchical director
 - **TIMING**: File validation operations complete in <5 seconds total
 
 ### Content Standards and Guidelines
-Always follow the established patterns from `CLAUDE.md`:
+Always follow the established patterns from `.github/CLAUDE.md`:
 
 #### File Naming Conventions  
 - Use descriptive lowercase filenames with camelCase when needed
