@@ -12,7 +12,7 @@
 |[Ingeniería de Prompts](README.md)<br>Base metodológica necesaria|Metodología > Ingeniería de Prompts > **Priming**|[Árbol de pensamiento](arbolPensamiento.md)<br>Estructuras complejas
 |[Contexto en prompts](../prompts/componentes.md)<br>Componente clave para priming||[Chain of Thought](chainOfThought.md)<br>Razonamiento guiado
 
-<i>**Relacionado**: [0-Shot Prompting](0ShotPrompting.md) - Otra forma de guiar sin ejemplos / [x-Shot Prompting](xShotPrompting.md) - Contraste con ejemplos / [Acrónimo](../casosDeUso/acronimo.md) - Caso práctico de priming</i>
+<i>**Relacionado**: [0-Shot Prompting](0ShotPrompting.md) - Otra forma de guiar sin ejemplos / [x-Shot Prompting](xShotPrompting.md) - Contraste con ejemplos / [Acrónimo](../casosDeUso/02_acronimo.md) - Caso práctico de priming</i>
 
 </div>
 
@@ -49,5 +49,5 @@ Por ejemplo, si estamos pidiendo a la IA que genere un poema, podríamos usar el
 
 ## ¿Cómo?
 
-- [Acrónimo](/documentos/casosDeUso/acronimo.md)
+- [Acrónimo](/documentos/casosDeUso/02_acronimo.md)
 - 
