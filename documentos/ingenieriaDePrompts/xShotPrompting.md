@@ -12,7 +12,7 @@
 |[0-Shot Prompting](0ShotPrompting.md)<br>Comprende generalización básica|Metodología > Ingeniería de Prompts > **x-Shot Prompting**|[Chain of Thought](chainOfThought.md)<br>Razonamiento estructurado
 |[Componentes de prompts](../prompts/componentes.md)<br>Estructura para incluir ejemplos||[Priming](priming.md)<br>Otra forma de contextualizar
 
-<i>**Relacionado**: [Jitanjáfora](../casosDeUso/aprendizajeJitanjafora.md) - Caso práctico / [Acrónimos](../casosDeUso/acronimo.md) - Ejemplo de aplicación / [Elementos](../prompts/elementos.md) - Detalles de implementación</i>
+<i>**Relacionado**: [Jitanjáfora](../casosDeUso/04_aprendizajeJitanjafora.md) - Caso práctico / [Acrónimos](../casosDeUso/02_acronimo.md) - Ejemplo de aplicación / [Elementos](../prompts/elementos.md) - Detalles de implementación</i>
 
 </div>
 
@@ -34,9 +34,9 @@ Para ajustar la salida del modelo de IA y ayudarlo a generar respuestas más rel
 
 |Transcripciones en crudo / 2DO: Convertirlas a QxQpQ&C
 |-
-[Jitanjáfora](/documentos/casosDeUso/aprendizajeJitanjafora.md)
+[Jitanjáfora](/documentos/casosDeUso/04_aprendizajeJitanjafora.md)
 [Estilo de escritura](https://chat.openai.com/share/584af1d9-e459-4fc3-b571-bf8a3c317d66)
-[Acrónimos](/documentos/casosDeUso/acronimo.md)
+[Acrónimos](/documentos/casosDeUso/02_acronimo.md)
 
 #### Consejos
 
