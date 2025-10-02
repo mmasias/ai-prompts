@@ -7,6 +7,8 @@
 
 # Casos de Uso > "Dilemas éticos" > Transcripción Claude
 
+> [Actualización, conversación en octubre de 2025](https://claude.ai/share/f0a33ad0-540e-4665-90dd-5e970bc912ef)
+
 Me preguntan esto en un examen de dirección de sistemas de información:
 
 - ¿Por qué resultan útiles los frameworks?
