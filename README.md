@@ -76,4 +76,4 @@ Al finalizar, se habrán visto un conjunto de casos de uso que se apoyan en la I
 
 ### *Nota al pie:*
 
-De momento, Claude no ofrece una opción para compartir los chats. Es por esto que la mayor parte de enlaces de ese modelo no están funcionales.
+En su momento Claude no ofrecía una opción para compartir los chats. Es por esto que la mayor parte de enlaces de ese modelo no están funcionales: poco a poco se irán actualizando!
