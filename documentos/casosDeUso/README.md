@@ -29,26 +29,26 @@ Propuesta de creación de un ejemplo - [Comparando respuestas](microComparativa.
 
 |x|Área|Caso de Uso|Breve descripción|
 |-|:-:|-|-|
-|Básicos: Introducción y fundamentos|🗣️🧱|[Y vs luego](yvsluego.md)|Reflexión sobre el uso de luego en lugar de y al construir un prompt
+|Básicos: Introducción y fundamentos|🗣️🧱|[Y vs luego](01_yvsluego.md)|Reflexión sobre el uso de luego en lugar de y al construir un prompt
 |Básicos: Introducción y fundamentos|↳|[Uso del luego](https://chat.openai.com/share/8f0c43ff-07be-4d53-93e4-ad79c3f8ab8a)|Luego como conector natural de prompts
-|Creación y diseño|🗣️|[Construcción de un acrónimo](acronimo.md)|Creación guiada de un acrónimo|
-|Creación y diseño|🗣️|[Construcción de un acróstico](acrostico.md)|Creación guiada de un acróstico|
-|Aprendizaje y adaptación|🗣️|[Aprendizaje](aprendizajeJitanjafora.md)|Enseñanza de un tema que desconoce|
-|Aprendizaje y adaptación|🗣️|[Aprender estilo de redacción](redactor.md)|Enseñanza de un estilo de redacción|
-|Aprendizaje y adaptación|🗣️|[Corrector de estilo](correctorEstilo.md)|Evolución natural de los casos de uso Aprender estilo de redacción y Análisis de una presentación 
-|Aprendizaje y adaptación|🎓|[Modo Estudio ChatGPT](modoEstudio.md)|Aprendizaje guiado y constructivo con IA como tutor 
-|Análisis y síntesis|↳↳|[Análisis de una presentación](analisisDiscurso.md)|Transcripción, evaluación, métricas y mejora de un discurso|
-|Análisis y síntesis|↳↳|[Diferencias contables](contable.md)|Abordaje de diferencias financieras entre países|
-|Análisis y síntesis|📈|[Evolución del análisis](evolucionAnalisis.md)|Simplemente una muestra de evolución|
-|Creación guiada y creativa|🛤️🎨|[Dimensiones de la ingeniería de software](dimensionesIdSw.md)|Creación creativa|
-|Creación guiada y específica| ➡️🎯|[Oferta de trabajo](ofertaTrabajo.md)|Creación guiada de una oferta de trabajo|
-|Metanivel y reflexión|🤔|[MetaCasoDeUso](metaCasoDeUso.md)|Organizar en casos de uso la presentación de los casos de uso
-|Avanzado y eficiencia|🈲|[Shoggoth Tongue](shoggothTongue.md)|Compresión de prompts
-|Interacción bidimensional|🎭|[Simulación de Roles](rpgInverso.md)|IA adoptando roles y simulando emociones en situaciones específicas
-|**"Turnit·in"**|[Auditor de autoría](auditorAutoria.md)|
-|Resúmenes de contenidos generados|[7+-2](enCincoPuntos.md)
-|Presentación formato MARP|👨🏽‍🏫|[Presentación](marpPresentacion.md)
-|Análisis financiero|👨🏽‍🏫|[Análisis financiero](analisisFinanciero.md)||
+|Creación y diseño|🗣️|[Construcción de un acrónimo](02_acronimo.md)|Creación guiada de un acrónimo|
+|Creación y diseño|🗣️|[Construcción de un acróstico](03_acrostico.md)|Creación guiada de un acróstico|
+|Aprendizaje y adaptación|🗣️|[Aprendizaje](04_aprendizajeJitanjafora.md)|Enseñanza de un tema que desconoce|
+|Aprendizaje y adaptación|🗣️|[Aprender estilo de redacción](05_redactor.md)|Enseñanza de un estilo de redacción|
+|Aprendizaje y adaptación|🗣️|[Corrector de estilo](06_correctorEstilo.md)|Evolución natural de los casos de uso Aprender estilo de redacción y Análisis de una presentación 
+|Aprendizaje y adaptación|🎓|[Modo Estudio ChatGPT](07_modoEstudio.md)|Aprendizaje guiado y constructivo con IA como tutor 
+|Análisis y síntesis|↳↳|[Análisis de una presentación](08_analisisDiscurso.md)|Transcripción, evaluación, métricas y mejora de un discurso|
+|Análisis y síntesis|↳↳|[Diferencias contables](09_contable.md)|Abordaje de diferencias financieras entre países|
+|Análisis y síntesis|📈|[Evolución del análisis](10_evolucionAnalisis.md)|Simplemente una muestra de evolución|
+|Creación guiada y creativa|🛤️🎨|[Dimensiones de la ingeniería de software](11_dimensionesIdSw.md)|Creación creativa|
+|Creación guiada y específica| ➡️🎯|[Oferta de trabajo](12_ofertaTrabajo.md)|Creación guiada de una oferta de trabajo|
+|Metanivel y reflexión|🤔|[MetaCasoDeUso](13_metaCasoDeUso.md)|Organizar en casos de uso la presentación de los casos de uso
+|Avanzado y eficiencia|🈲|[Shoggoth Tongue](14_shoggothTongue.md)|Compresión de prompts
+|Interacción bidimensional|🎭|[Simulación de Roles](15_rpgInverso.md)|IA adoptando roles y simulando emociones en situaciones específicas
+|**"Turnit·in"**|[Auditor de autoría](16_auditorAutoria.md)|
+|Resúmenes de contenidos generados|[7+-2](17_enCincoPuntos.md)
+|Presentación formato MARP|👨🏽‍🏫|[Presentación](18_marpPresentacion.md)
+|Análisis financiero|👨🏽‍🏫|[Análisis financiero](19_analisisFinanciero.md)||
 
 ## 2DOs
 

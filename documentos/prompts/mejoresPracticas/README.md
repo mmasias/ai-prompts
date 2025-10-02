@@ -71,7 +71,7 @@ En la toma de decisiones y el análisis dentro de contextos especializados, es e
 [Indique al modelo que encuentre su propia solución antes de apresurarse a llegar a una conclusión.](piensaGPT.md)|
 [Utilice un monólogo interno o una secuencia de consultas para ocultar el proceso de razonamiento del modelo.](razonaGPT.md)|
 [Pregúntele al modelo si se perdió algo en pasadas anteriores.](repasaGPT.md)|
-[**Use el modo estudio para aprendizaje guiado y constructivo.**](../../casosDeUso/modoEstudio.md)|En lugar de pedir respuestas directas, solicite que la IA actúe como tutor: "Guíame para entender X, haz preguntas que me ayuden a descubrir la respuesta"|
+[**Use el modo estudio para aprendizaje guiado y constructivo.**](../../casosDeUso/07_modoEstudio.md)|En lugar de pedir respuestas directas, solicite que la IA actúe como tutor: "Guíame para entender X, haz preguntas que me ayuden a descubrir la respuesta"|
 
 ## Bibliografía
 

@@ -22,4 +22,4 @@ El propósito de implementar role prompting en la creación de sistemas conversa
 
 ## ¿Cómo?
 
-Ver [CdU RPG inverso](/documentos/casosDeUso/rpgInverso.md)
+Ver [CdU RPG inverso](/documentos/casosDeUso/15_rpgInverso.md)
