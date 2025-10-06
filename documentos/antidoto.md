@@ -2,9 +2,15 @@
 
 ## ¿Por qué?
 
+<div align=center>
+
 ||||
 |-|-|-|
 |El ecosistema actual de inteligencia artificial se encuentra saturado de terminología marketiniana que complica conceptos fundamentalmente simples. Se observa una proliferación de términos como "AI Agents", "Arquitecturas AI-first", "LLMOps", "Multi-Agent Orchestration" y "AI Champions" que, aunque suenan impresionantes, frecuentemente describen prácticas y herramientas que ya existían bajo otros nombres.|Esta inflación terminológica crea barreras artificiales de entrada al aprendizaje. Los profesionales se sienten obligados a dominar una supuesta jerarquía compleja de "niveles" y certificaciones para acceder a conocimientos que, en esencia, son aplicaciones directas de conceptos básicos de programación, APIs y manejo de datos.|Además, el marketing técnico agresivo genera ansiedad por mantenerse "actualizado" con las últimas tendencias, cuando la realidad es que muchas de estas "innovaciones" son reempaquetamientos de técnicas conocidas. Esta situación desvía la atención de lo verdaderamente importante: desarrollar habilidades fundamentales y transferibles.
+
+![](/documentos/imagenes/modelosUML/5mas5mas5.svg)
+
+</div>
 
 ## ¿Qué?
 
