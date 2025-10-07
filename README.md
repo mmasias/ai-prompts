@@ -60,14 +60,17 @@ Al finalizar, se habrán visto un conjunto de casos de uso que se apoyan en la I
 
 ## [Itinerarios](/documentos/itinerarios/)
 
-- [Talleres@U junio-2025](/documentos/itinerarios/itinerarioU2.md)
-- [SC24](/documentos/itinerarios/iSC24.md)
-- [U](/documentos/itinerarios/itinerarioU.md) 
-- [DSI](/documentos/itinerarios/itinerarioDSI.md) 
-- [LATec](/documentos/itinerarios/itinerarioUAL.md)
-- [Sodercan](/documentos/itinerarios/itinerarioSC.md) 
-- [CdS](/documentos/itinerarios/itinerarioCdS.md)
-- [Talleres@U](/documentos/itinerarios/itinerarioTalleres.md)
+Contenido de este repo, organizado para algunas charlas en los últimos 2 años
+
+<div align=center>
+
+|||||
+|:-:|:-:|:-:|:-:|
+|[Talleres@U junio-2025](/documentos/itinerarios/itinerarioU2.md)|[SC24](/documentos/itinerarios/iSC24.md)|[U](/documentos/itinerarios/itinerarioU.md)|[DSI](/documentos/itinerarios/itinerarioDSI.md)|
+||||
+|[LATec](/documentos/itinerarios/itinerarioUAL.md)|[Sodercan](/documentos/itinerarios/itinerarioSC.md)|[CdS](/documentos/itinerarios/itinerarioCdS.md)|[Talleres@U](/documentos/itinerarios/itinerarioTalleres.md)
+
+</div>
 
 ## Bibliografía
 
