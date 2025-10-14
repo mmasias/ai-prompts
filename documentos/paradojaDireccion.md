@@ -1,3 +1,10 @@
+<div align=right>
+
+|[![](https://img.shields.io/badge/-Inicio-FFF?style=flat&logo=Emlakjet&logoColor=black)](/README.md) [![](https://img.shields.io/badge/-Introducción-FFF?style=flat&logo=abbrobotstudio&logoColor=black)](/documentos/intro.md) [![](https://img.shields.io/badge/-Panorámica-FFF?style=flat&logo=openstreetmap&logoColor=black)](/documentos/panoramica.md)[![](https://img.shields.io/badge/-Modelos_de_lenguaje-FFF?style=flat&logo=LiveChat&logoColor=black)](/documentos/LLMs.md)<br>  [![](https://img.shields.io/badge/-Prompts-FFF?style=flat&logo=Proton&logoColor=black)](/documentos/prompts/README.md) [![](https://img.shields.io/badge/-Ing,_de_prompts-FFF?style=flat&logo=googleearthengine&logoColor=black)](/documentos/ingenieriaDePrompts/README.md) [![](https://img.shields.io/badge/-Patrones-FFF?style=flat&logo=textpattern&logoColor=black)](/documentos/ingenieriaDePrompts/patrones/README.md) [![](https://img.shields.io/badge/8vP-FFF?style=flat&logo=v8&logoColor=black)](/documentos/prompts/mejoresPracticas/8virtudesDelPrompting.md) [![](https://img.shields.io/badge/-Casos_de_uso-FFF?style=flat&logo=gitbook&logoColor=black)](/documentos/casosDeUso/README.md)|
+|-:|
+
+</div>
+
 # La paradoja de la dirección
 
 > *La paradoja identifica una desconexión fundamental entre capacidad ejecutiva y competencia directiva en la interacción humano-LLM.*
@@ -13,6 +20,13 @@ La paradoja surge porque la facilidad de acceso enmascara la complejidad subyace
 La paradoja de la dirección describe el fenómeno donde la disponibilidad de herramientas ejecutivas avanzadas expone deficiencias en competencias directivas que permanecían ocultas cuando las capacidades ejecutivas eran limitadas.
 
 Se manifiesta como la brecha entre "poder pedir cualquier cosa" y "saber qué pedir, cómo pedirlo, y cómo evaluar el resultado".
+
+<div align=center>
+
+|![](/documentos/imagenes/modelosUML/introDireccion.svg)|
+|-|
+
+</div>
 
 ## ¿Para qué?
 
