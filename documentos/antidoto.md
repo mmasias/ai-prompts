@@ -116,3 +116,14 @@ Una vez desarrollada esta perspectiva crítica, se puede proceder con confianza 
 ---
 
 *Recuerda: La mejor herramienta es la que resuelve tu problema específico de la manera más simple posible, independientemente de si tiene un nombre fancy o no.*
+
+### Los modelos opinan (de este artículo) y se autodefinen (sin bombo!)
+
+- [ChatGPT](https://chatgpt.com/share/68f43e9f-a850-8002-9224-ebae32dac6e2)
+- [Claude](https://claude.ai/share/41948074-a3f2-4c22-82a0-21a9e12fe0b8)
+- [Mistral](https://chat.mistral.ai/chat/cc97c2eb-279b-4dd8-916f-2efe06268362)
+- [Gemini](https://gemini.google.com/share/0df7acfca663)
+- [Deepseek](https://chat.deepseek.com/share/tqu3tpuqill8thoh1i)
+- [Qwen](https://chat.qwen.ai/s/dbefe84b-4480-45fb-8eba-2d9897a37a92?fev=0.0.230)
+- [MetaAI](https://meta.ai/share/jD3T8fuwdNH/)
+- [Grok](https://grok.com/share/c2hhcmQtMg%3D%3D_ddf036ec-8f60-4a6f-8747-90c83cbb55f1)
