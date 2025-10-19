@@ -34,6 +34,7 @@ Finalmente, se desarrolla inmunidad contra el ruido promocional futuro, permitie
 
 |Término marketiniano|Realidad técnica|Realidad técnica<br>sin tecnicismos|¿Cuándo usar cada uno?|Y si no... |
 |-|-|-|-|-|
+|**Agent skill**|Carpetas con archivos de texto que contienen instrucciones y plantillas para tareas específicas|Un manual de procedimientos que el ChatGPT lee cuando necesita hacer algo específico|Cuando repites las mismas tareas complejas y quieres estandarizar el proceso|Prompts bien escritos guardados en un documento|
 | **AI Agents** | LLM + lógica de orquestación + interfaz | ChatGPT con botones y automatizaciones predefinidas | Cuando la herramienta agrega valor real y automatización que no puedes hacer fácilmente | LLM + scripts simples o directamente el chat |
 | **Multi-Agent Architecture** | Múltiples instancias de LLM coordinadas (manual o automáticamente) | Varios ChatGPTs trabajando juntos, con alguien (tú o un programa) decidiendo quién hace qué | Solo si la coordinación automática realmente funciona sin supervisión constante | Orquestación manual con múltiples ventanas |
 | **MCP (Model Context Protocol)** | API REST especializada para LLMs | Una forma estándar para que los LLMs se conecten con otras herramientas, como USB para programas | Si necesitas integrar múltiples herramientas de manera estandarizada | APIs REST directas o conectores simples |
