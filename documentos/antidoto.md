@@ -14,6 +14,12 @@
 
 </div>
 
+### El hype no es nuevo
+
+Este fenómeno no es exclusivo de la IA. En los 2010, **Design Thinking** se vendió como una revolución, aunque en esencia era *pensar antes de actuar* pero con post-its de colores y talleres caros. **Agile**, por su parte, prometía transformar equipos, pero a menudo se redujo a *hablar con el cliente* mientras se renombraban las reuniones (daily stand-ups, sprints, retros).
+
+La IA repite el patrón: muchos términos suenan a innovación disruptiva, pero en muchos casos son automatizaciones básicas con un nombre nuevo. La diferencia es que, esta vez, el costo de caer en el hype no es solo tiempo perdido en talleres, sino dependencia de herramientas opacas, bloqueo tecnológico, síndrome del impostor y frustración.
+
 ## ¿Qué?
 
 Esta busca ser una guía práctica de traducción entre el lenguaje marketiniano y la realidad técnica subyacente. Este enfoque desmitificador identifica los conceptos fundamentales que realmente importan, separándolos del ruido promocional que los rodea.
