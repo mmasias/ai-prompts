@@ -60,7 +60,17 @@ Al finalizar, se habrán visto un conjunto de casos de uso que se apoyan en la I
 
 ## [Itinerarios](/documentos/itinerarios/)
 
-Contenido de este repo, organizado para algunas charlas en los últimos 2 años
+Contenido de este repo, organizado para diferentes propósitos y audiencias
+
+### ⭐ Para empezar
+
+|Itinerario|Descripción|Duración|
+|-|-|-|
+|[**Primera Lectura**](/documentos/itinerarios/itinerarioPrimeraLectura.md)|Ruta guiada para una primera lectura completa del repositorio, cubriendo fundamentos teóricos y aplicaciones prácticas|~3-4 horas|
+
+### Itinerarios específicos
+
+Contenido organizado para charlas y talleres en los últimos 2 años
 
 <div align=center>
 
