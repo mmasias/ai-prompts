@@ -1,4 +1,4 @@
-# Itinerario: Primera Lectura
+# Una primera lectura a este repo...
 
 <div align=right>
 
@@ -8,9 +8,13 @@
 
 </div>
 
-## Propósito
+## ¿Por qué?
 
-Este repositorio contiene más de 250 artículos sobre inteligencia artificial, prompts, ingeniería de prompts y casos de uso prácticos. Puede resultar abrumador comenzar sin una guía clara. Este itinerario propone una ruta de lectura estructurada que te permitirá:
+Este repositorio contiene más de 250 artículos sobre inteligencia artificial, prompts, ingeniería de prompts y casos de uso prácticos: puede resultar abrumador comenzar sin una guía clara. 
+
+## ¿Para qué?
+
+Se propone una ruta de lectura estructurada que permitirá:
 
 - Comprender los **fundamentos** de la IA generativa y los modelos de lenguaje
 - Aprender las **técnicas esenciales** de prompting e ingeniería de prompts
@@ -19,11 +23,11 @@ Este repositorio contiene más de 250 artículos sobre inteligencia artificial, 
 
 > **Tiempo estimado**: 3-4 horas de lectura enfocada
 
----
+## ¿Cómo?
 
-## 🎯 Fase 1: Contexto y Fundamentos
+### Fase 1: Contexto y fundamentos
 
-### Por qué la IA importa ahora
+#### Por qué la IA importa ahora
 
 <div align=center>
 
@@ -34,13 +38,11 @@ Este repositorio contiene más de 250 artículos sobre inteligencia artificial, 
 
 </div>
 
-**¿Por qué leer esto primero?** Antes de profundizar en aspectos técnicos, es fundamental entender el contexto. Estos artículos te ayudarán a ver la IA como parte de una evolución tecnológica natural, no como algo aislado o mágico.
+**¿Por qué leer esto primero?** Antes de profundizar en aspectos técnicos, es fundamental entender el contexto. Estos artículos permitirán ver la IA como parte de una evolución tecnológica natural, no como algo aislado o mágico.
 
----
+### Fase 2: Fundamentos técnicos
 
-## 🧠 Fase 2: Fundamentos Técnicos
-
-### Qué es y cómo funciona
+#### Qué es y cómo funciona
 
 <div align=center>
 
@@ -52,13 +54,11 @@ Este repositorio contiene más de 250 artículos sobre inteligencia artificial, 
 
 </div>
 
-**¿Por qué este orden?** Primero comprendemos los modelos (LLMs), luego el tipo específico de IA que nos interesa (generativa), y finalmente vemos cómo se materializa en herramientas concretas (panorámica).
+**¿Por qué este orden?** Primero se comprenden los modelos (LLMs), luego el tipo específico de IA que se aborda (generativa), y finalmente se observa cómo se materializa en herramientas concretas (panorámica).
 
----
+### Fase 3: Comunicación con la IA
 
-## 💬 Fase 3: Comunicación con la IA
-
-### Cómo hablarle a la IA
+#### Cómo hablarle a la IA
 
 <div align=center>
 
@@ -66,18 +66,16 @@ Este repositorio contiene más de 250 artículos sobre inteligencia artificial, 
 |-|-|-|-|
 |6|[**Prompts: Introducción**](/documentos/prompts/README.md)|Qué son los prompts|Define el concepto fundamental de prompt como mecanismo de comunicación con la IA.|
 |7|[**Anatomía de un prompt**](/documentos/prompts/anatomia.md)|Estructura de un prompt|Desglosa los componentes de un prompt efectivo y cómo estructurarlos.|
-|8|[**Ventana de Contexto**](/documentos/prompts/ventanaDeContexto.md)|Limitaciones técnicas|Explica una restricción fundamental que afecta cómo diseñamos nuestros prompts.|
+|8|[**Ventana de Contexto**](/documentos/prompts/ventanaDeContexto.md)|Limitaciones técnicas|Explica una restricción fundamental que afecta cómo se diseñan los prompts.|
 |9|[**8 Virtudes del Prompting**](/documentos/prompts/mejoresPracticas/8virtudesDelPrompting.md)|Principios de calidad|Resume las mejores prácticas en 8 principios fundamentales para crear prompts efectivos.|
 
 </div>
 
-**¿Por qué esta secuencia?** Partimos del concepto básico (qué es un prompt), pasamos por su estructura interna (anatomía), comprendemos sus limitaciones (ventana de contexto) y finalmente aprendemos las mejores prácticas (8 virtudes).
+**¿Por qué esta secuencia?** Se parte del concepto básico (qué es un prompt), se pasa por su estructura interna (anatomía), se comprenden sus limitaciones (ventana de contexto) y finalmente se aprenden las mejores prácticas (8 virtudes).
 
----
+### Fase 4: Técnicas avanzadas
 
-## 🔧 Fase 4: Técnicas Avanzadas
-
-### Ingeniería de prompts
+#### Ingeniería de prompts
 
 <div align=center>
 
@@ -92,11 +90,9 @@ Este repositorio contiene más de 250 artículos sobre inteligencia artificial, 
 
 **¿Por qué estas técnicas?** Son las tres técnicas fundamentales que forman la base de casi todas las interacciones avanzadas con LLMs. Cada una representa un nivel de complejidad creciente.
 
----
+### Fase 5: Patrones reutilizables
 
-## 🎨 Fase 5: Patrones Reutilizables
-
-### Soluciones probadas para problemas comunes
+#### Soluciones probadas para problemas comunes
 
 <div align=center>
 
@@ -109,13 +105,11 @@ Este repositorio contiene más de 250 artículos sobre inteligencia artificial, 
 
 </div>
 
-**¿Por qué estos patrones?** Son los más utilizados y versátiles. Dominarlos te permitirá resolver el 80% de casos de uso comunes.
+**¿Por qué estos patrones?** Son los más utilizados y versátiles. Dominarlos permitirá resolver el 80% de casos de uso comunes.
 
----
+### Fase 6: Aplicación práctica
 
-## 🎯 Fase 6: Aplicación Práctica
-
-### Casos de uso reales
+#### Casos de uso reales
 
 <div align=center>
 
@@ -123,7 +117,7 @@ Este repositorio contiene más de 250 artículos sobre inteligencia artificial, 
 |-|-|-|-|
 |18|[**Casos de Uso: Introducción**](/documentos/casosDeUso/README.md)|Catálogo de ejemplos|Visión general de los casos de uso disponibles en el repositorio.|
 |19|[**Y vs Luego**](/documentos/casosDeUso/01_yvsluego.md)|Caso básico: estructura|Ejemplo simple pero fundamental sobre cómo estructurar instrucciones.|
-|20|[**Redactor**](/documentos/casosDeUso/05_redactor.md)|Enseñar estilos|Caso práctico: cómo enseñar a la IA tu estilo de escritura.|
+|20|[**Redactor**](/documentos/casosDeUso/05_redactor.md)|Enseñar estilos|Caso práctico: cómo enseñar a la IA el estilo de escritura deseado.|
 |21|[**Modo Estudio**](/documentos/casosDeUso/07_modoEstudio.md)|Aprendizaje con IA|Uso de la IA como tutor personal para aprender cualquier tema.|
 |22|[**Meta Caso de Uso**](/documentos/casosDeUso/13_metaCasoDeUso.md)|Reflexión|Caso avanzado: usar la IA para organizar los propios casos de uso.|
 
@@ -131,11 +125,9 @@ Este repositorio contiene más de 250 artículos sobre inteligencia artificial, 
 
 **¿Por qué estos casos?** Representan una progresión desde lo básico (estructura de prompts) hasta lo avanzado (meta-uso), cubriendo aplicaciones prácticas inmediatas.
 
----
+### Fase 7: Consideraciones importantes
 
-## 🤔 Fase 7: Consideraciones Importantes
-
-### Aspectos críticos a tener en cuenta
+#### Aspectos críticos a tener en cuenta
 
 <div align=center>
 
@@ -150,13 +142,11 @@ Este repositorio contiene más de 250 artículos sobre inteligencia artificial, 
 
 **¿Por qué terminar con esto?** Es fundamental cerrar el itinerario con una reflexión crítica. Conocer la tecnología es importante, pero saber usarla responsablemente es esencial.
 
----
+## Recursos complementarios
 
-## 📚 Recursos Complementarios
+#### Para seguir profundizando
 
-### Para seguir profundizando
-
-Una vez completado este itinerario, estarás preparado para explorar:
+Una vez completado este itinerario, se estará preparado para explorar:
 
 <div align=center>
 
@@ -171,37 +161,29 @@ Una vez completado este itinerario, estarás preparado para explorar:
 
 </div>
 
----
+### Consejos para aprovechar este itinerario
 
-## 🎓 Consejos para Aprovechar Este Itinerario
+#### Cómo leer
 
-### Cómo leer
+1. **Leer en orden**: Aunque es posible saltar entre artículos, el orden propuesto construye conocimiento progresivamente.
+2. **Practicar mientras se lee**: No debe limitarse a leer. Es necesario abrir ChatGPT, Claude o el LLM preferido y probar los ejemplos.
+3. **Tomar notas**: Se recomienda documentar los experimentos y aprendizajes. El repositorio mismo es un buen modelo de documentación.
+4. **No agobiarse**: No es necesario leer todo de una vez. Este itinerario es una guía, no una obligación.
+5. **Explorar las referencias**: Cada artículo enlaza a otros. Si algo resulta especialmente interesante, deben seguirse esos enlaces.
 
-1. **Lee en orden**: Aunque puedes saltar entre artículos, el orden propuesto construye conocimiento progresivamente.
+#### Evaluación del progreso
 
-2. **Practica mientras lees**: No te limites a leer. Abre ChatGPT, Claude o tu LLM favorito y prueba los ejemplos.
+Se habrá aprovechado el itinerario cuando se pueda:
 
-3. **Toma notas**: Documenta tus experimentos y aprendizajes. El repositorio mismo es un buen modelo de documentación.
+- Explicar qué son los LLMs y cómo funcionan en términos simples
+- Diseñar un prompt efectivo para una tarea específica
+- Aplicar al menos 3 de las 8 virtudes del prompting conscientemente
+- Utilizar los patrones Persona, Plantilla y Receta en situaciones apropiadas
+- Identificar cuándo usar 0-shot, few-shot o chain of thought
+- Reconocer y evitar errores comunes en el uso de IA
+- Mantener una perspectiva crítica y ética sobre el uso de IA
 
-4. **No te agobies**: No es necesario leer todo de una vez. Este itinerario es una guía, no una obligación.
-
-5. **Explora las referencias**: Cada artículo enlaza a otros. Si algo te interesa especialmente, sigue esos enlaces.
-
-### Evaluación de tu progreso
-
-Sabrás que has aprovechado este itinerario cuando puedas:
-
-- ✅ Explicar qué son los LLMs y cómo funcionan en términos simples
-- ✅ Diseñar un prompt efectivo para una tarea específica
-- ✅ Aplicar al menos 3 de las 8 virtudes del prompting conscientemente
-- ✅ Utilizar los patrones Persona, Plantilla y Receta en situaciones apropiadas
-- ✅ Identificar cuándo usar 0-shot, few-shot o chain of thought
-- ✅ Reconocer y evitar errores comunes en el uso de IA
-- ✅ Mantener una perspectiva crítica y ética sobre el uso de IA
-
----
-
-## 🔗 Conexiones con Otros Itinerarios
+### Conexiones con otros itinerarios
 
 Este itinerario de "Primera Lectura" es complementario a otros del repositorio:
 
@@ -209,24 +191,20 @@ Este itinerario de "Primera Lectura" es complementario a otros del repositorio:
 - **[Itinerario SC24](/documentos/itinerarios/iSC24.md)**: Orientado a talleres prácticos
 - **[Itinerario Talleres](/documentos/itinerarios/itinerarioTalleres.md)**: Para sesiones de capacitación empresarial
 
----
+## Siguiente(s) paso(s)
 
-## 🎯 Siguiente Paso
-
-Una vez completado este itinerario, te sugerimos:
+Una vez completado este itinerario, se sugiere:
 
 1. **Revisar el [README principal](/README.md)** con una nueva perspectiva
-2. **Explorar la [Panorámica](/documentos/panoramica.md)** para identificar herramientas específicas de tu interés
-3. **Profundizar en [Casos de Uso](/documentos/casosDeUso/README.md)** relacionados con tu área profesional
+2. **Explorar la [Panorámica](/documentos/panoramica.md)** para identificar herramientas específicas de interés
+3. **Profundizar en [Casos de Uso](/documentos/casosDeUso/README.md)** relacionados con el área profesional correspondiente
 4. **Consultar otros [Itinerarios](/documentos/itinerarios/)** para perspectivas específicas
-
----
 
 <div align=center>
 
-**Este es solo el comienzo de tu viaje con la IA generativa.**
+**Este es solo el comienzo del viaje con la IA generativa.**
 
-*El conocimiento está en el repositorio. Este itinerario es tu mapa.*
+*El conocimiento está en el repositorio. Este itinerario es el mapa.*
 
 ---
 
