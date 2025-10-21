@@ -62,11 +62,11 @@ Al finalizar, se habrán visto un conjunto de casos de uso que se apoyan en la I
 
 Contenido de este repo, organizado para diferentes propósitos y audiencias
 
-### ⭐ Para empezar
+### Para empezar
 
 |Itinerario|Descripción|Duración|
-|-|-|-|
-|[**Primera Lectura**](/documentos/itinerarios/itinerarioPrimeraLectura.md)|Ruta guiada para una primera lectura completa del repositorio, cubriendo fundamentos teóricos y aplicaciones prácticas|~3-4 horas|
+|:-:|-|:-:|
+|[**1<sup>ra</sup> lectura**](/documentos/itinerarios/itinerarioPrimeraLectura.md)|Ruta guiada para una primera lectura completa del repositorio, cubriendo fundamentos teóricos y aplicaciones prácticas|~3-4 horas|
 
 ### Itinerarios específicos
 
