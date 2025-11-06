@@ -15,7 +15,7 @@ Este catálogo presenta una selección curada de herramientas de **Inteligencia 
 
 |[![](https://img.shields.io/badge/-Primera_división-0078D4?style=flat&logo=chatbot&logoColor=white)](#primera-división) [![](https://img.shields.io/badge/-Ofimática-0078D4?style=flat&logo=microsoftexcel&logoColor=white)](#️-ofimática) [![](https://img.shields.io/badge/-Educación-0078D4?style=flat&logo=academia&logoColor=white)](#educación-y-aprendizaje) [![](https://img.shields.io/badge/-Trabajo-0078D4?style=flat&logo=slack&logoColor=white)](#trabajo-y-productividad) [![](https://img.shields.io/badge/-Creación-0078D4?style=flat&logo=canva&logoColor=white)](#creación-de-contenido) [![](https://img.shields.io/badge/-Marketing-0078D4?style=flat&logo=googleads&logoColor=white)](#comunicación-y-marketing) [![](https://img.shields.io/badge/-Desarrollo-0078D4?style=flat&logo=github&logoColor=white)](#desarrollo--áreas-técnicas) [![](https://img.shields.io/badge/-Especializaciones-0078D4?style=flat&logo=microscope&logoColor=white)](#especializaciones)
 |:-:
-|![](https://img.shields.io/badge/Actualizado-octubre_2025-28a745?style=for-the-badge&logo=calendar&logoColor=white)|
+|![](https://img.shields.io/badge/Actualizado-noviembre_2025-28a745?style=for-the-badge&logo=calendar&logoColor=white)|
 
 </div>
 
@@ -68,12 +68,12 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 |Nombre|Descripción|Caso de uso ideal|
 |-|-|-|
-|[**NotebookLM**](https://notebooklm.google.com/)|NotebookLM Plus integrado en Workspace, límites expandidos|Análisis académico, documentos empresariales, podcasts automáticos / [Plus](https://workspace.google.com/solutions/ai/)<br>[Podcast de esta sección](https://soundcloud.com/mmasias/panoramica_ai-prompts)|
+|[**NotebookLM**](https://notebooklm.google.com/)|NotebookLM Plus integrado en Workspace con límites expandidos y funciones premium|Análisis académico, documentos empresariales, podcasts automáticos / [Plus](https://workspace.google.com/solutions/ai/)<br>[Podcast de esta sección](https://soundcloud.com/mmasias/panoramica_ai-prompts)|
 |[**GPT for work**](https://gptforwork.com/)|IA integrada en Google Sheets y Excel con plantillas predefinidas|Automatización de hojas de cálculo, análisis de datos / [Plantilla útil](https://docs.google.com/spreadsheets/d/1SOz3u2A8Y6RXvXK_X2QdrcWJ7WklbgtWNE9ljZ_yaEc/template/preview)|
 |[ChatGPT-4o](https://openai.com/index/improvements-to-data-analysis-in-chatgpt/)|Análisis avanzado de datos, archivos CSV, Excel y visualizaciones|Análisis exploratorio de datos, creación de gráficos|
 |[Numerous](https://numerous.ai/)|Automatización avanzada de hojas de cálculo con fórmulas AI|Cálculos complejos automatizados, reportes dinámicos|
 |[FormulaBOT](https://www.formulabot.com/)|Generador inteligente de fórmulas de Excel y Google Sheets|Creación de fórmulas complejas mediante lenguaje natural|
-|[Microsoft 365 Copilot](https://copilot.microsoft.com/)|IA integrada en planes Personal/Familia desde enero 2025|Ecosistema Microsoft completo, incluido en suscripciones base|
+|[Microsoft 365 Copilot](https://copilot.microsoft.com/)|IA integrada ahora incluida en planes Personal y Familia (enero 2025)|Ecosistema Microsoft completo, Word, Excel, PowerPoint con IA|
 |[Google Workspace AI](https://workspace.google.com/solutions/ai/)|IA integrada en Docs, Sheets, Slides, Gmail|Ecosistema Google, colaboración en la nube|
 |[Coda](https://coda.io/)|Documentos inteligentes que combinan texto, tablas y aplicaciones|Bases de datos relacionales, workflows complejos|
 
@@ -205,7 +205,7 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 |Nombre|Descripción|Mejor para|
 |-|-|-|
-|[**Sora**](https://openai.com/sora)|Generador de videos de OpenAI (acceso limitado)|Videos artísticos, experimentación / [📽️](/documentos/videos/soraAI.mp4)|
+|[**Sora**](https://openai.com/sora)|Generador de videos de OpenAI disponible para ChatGPT Plus/Pro|Videos artísticos, experimentación / [📽️](/documentos/videos/soraAI.mp4)|
 |[**RunwayML**](https://runwayml.com/)|Suite completa de herramientas de video generativo|Producción profesional, efectos especiales|
 |[**Pika**](https://pika.art/home)|Generación rápida de videos cortos desde texto e imágenes|Contenido social, clips cortos / [📽️](/documentos/videos/pika.mp4)|
 |[**Luma**](https://lumalabs.ai/)|Videos realistas con física convincente|Productos, demostraciones / [📽️](https://lumalabs.ai/dream-machine/creations/00e89855-b8de-45ac-aad0-01abdd343465)|
@@ -526,6 +526,6 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 **🔄 Actualización continua**: Este documento se revisa regularmente para reflejar el estado actual del ecosistema de IA.
 
-*Última actualización: Octubre 2025*
+*Última actualización: Noviembre 2025*
 
 </div>
