@@ -174,7 +174,7 @@ resultado = calcular_promedio([])
 ```markdown
 Analiza este código paso a paso y encuentra el bug:
 
-```python
+
 def calcular_promedio(numeros):
     suma = 0
     for num in numeros:
@@ -182,7 +182,7 @@ def calcular_promedio(numeros):
     return suma / len(numeros)
 
 resultado = calcular_promedio([])
-```
+
 
 Razonamiento esperado:
 1. ¿Qué hace la función?
