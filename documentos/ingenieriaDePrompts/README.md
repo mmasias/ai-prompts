@@ -74,6 +74,10 @@ La implementación de la Ingeniería de Prompts se realiza a través de múltipl
 ### Técnicas avanzadas
 
 - [Árbol de pensamiento](arbolPensamiento.md): Explora múltiples caminos de razonamiento simultáneamente
+- [Self-Consistency](selfConsistency.md): Mejora precisión mediante votación mayoritaria de múltiples razonamientos
+- [ReAct](ReAct.md): Combina razonamiento verbal con acciones concretas (Reasoning + Acting)
+- [RAG](RAG.md): Recuperación y aumento de información externa (Retrieval-Augmented Generation)
+- [Structured Outputs](structuredOutputs.md): Salidas estructuradas en JSON, XML y formatos parseables
 - Técnicas multimodales: Integra texto, imágenes y otros tipos de datos
 - Prompting adaptativo: Ajusta dinámicamente la estrategia según el contexto
 
