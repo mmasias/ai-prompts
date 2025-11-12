@@ -7,17 +7,72 @@
 
 # Ingeniería de Prompts
 
-<div align=center>
+## Principios fundamentales
 
-|||
-|-|-|
-|**Usar lenguage simple**|
-|**Ser específico**|
-|**Mantener una estructura lógica**|
-|**Incluye ejemplos**|
-|**Tener en cuenta el contexto**|
+### 1. Usar lenguaje simple
 
-</div>
+**Por qué:** La claridad reduce ambigüedad. Los modelos interpretan literalmente, sin inferir intenciones ocultas.
+
+**Cómo:**
+- ✅ "Lista 5 ventajas de TypeScript"
+- ❌ "Dime cositas buenas de ese lenguaje del que hablamos antes"
+
+**Cuándo romper la regla:** Cuando el dominio requiere terminología técnica específica.
+
+---
+
+### 2. Ser específico
+
+**Por qué:** Los modelos pueden responder casi cualquier pregunta, pero respuestas genéricas son poco útiles.
+
+**Cómo:**
+- ✅ "Explica recursividad con ejemplo en Python, máximo 10 líneas de código"
+- ❌ "Explica recursividad"
+
+**Nivel de especificidad:**
+```
+Genérico → Dominio → Formato → Restricciones → Criterios de éxito
+```
+
+---
+
+### 3. Mantener estructura lógica
+
+**Por qué:** Instrucciones organizadas facilitan que el modelo procese cada parte correctamente.
+
+**Cómo:**
+```markdown
+CONTEXTO: [Situación]
+TAREA: [Qué hacer]
+FORMATO: [Cómo presentarlo]
+RESTRICCIONES: [Límites]
+```
+
+**Anti-patrón:** Mezclar instrucciones, contexto y ejemplos sin separación clara.
+
+---
+
+### 4. Incluir ejemplos
+
+**Por qué:** Los ejemplos enseñan patrones mejor que explicaciones abstractas ([X-Shot Prompting](xShotPrompting.md)).
+
+**Cuántos ejemplos:**
+- **0-shot**: Tareas generales que el modelo conoce
+- **1-shot**: Mostrar formato esperado
+- **Few-shot (3-5)**: Enseñar patrones específicos
+- **Many-shot**: Dominios muy especializados
+
+---
+
+### 5. Tener en cuenta el contexto
+
+**Por qué:** El contexto determina la interpretación. Sin contexto adecuado, respuestas pueden ser incorrectas aunque bien formuladas.
+
+**Tipos de contexto:**
+- **Temporal:** "Usando estándares de 2024..."
+- **Situacional:** "Para audiencia técnica..." vs "Para principiantes..."
+- **Acumulativo:** Conversaciones largas ([Chain of Thought](chainOfThought.md))
+- **Externo:** Documentos, datos ([RAG](RAG.md))
 
 ## ¡Bah!
 
@@ -34,3 +89,114 @@ Al final, la ingeniería de prompts no es más que aplicar lo que se enseña des
 - **De a poquitos**: Divide problemas grandes en partes manejables
 
 La tecnología avanza, pero los principios de buena comunicación siguen siendo los mismos.
+
+---
+
+## Consideraciones modernas (2024-2025)
+
+### Ventanas de contexto largas
+
+Con modelos que manejan 128K-2M tokens ([ventana de contexto](../prompts/ventanaDeContexto.md)), cambia la estrategia:
+
+**Antes (GPT-3.5, 4K tokens):**
+- Obsesión por brevedad
+- Resúmenes agresivos
+- Múltiples llamadas
+
+**Ahora (GPT-4o, Claude Sonnet 4.5, 200K tokens):**
+- Puedes dar contexto completo
+- Documentos enteros como entrada
+- Conversaciones largas sin pérdida de contexto
+
+**Pero cuidado:** Más tokens = más costo. Usa contexto extenso solo cuando aporte valor real.
+
+---
+
+### Razonamiento extendido
+
+Modelos como o1 razonan internamente antes de responder:
+
+**Implicación para prompts:**
+- ❌ Ya no necesitas "piensa paso a paso" con o1
+- ✅ Sigue siendo útil con GPT-4o, Claude, Gemini
+- ✅ Especifica **qué** quieres, deja el **cómo** al modelo
+
+---
+
+### Multimodalidad
+
+Los modelos modernos procesan texto + imágenes + (pronto) audio/video:
+
+**Nuevas posibilidades:**
+- Adjuntar diagrama y pedir análisis
+- Describir screenshot de error
+- Combinar código + gráfico + descripción
+
+**Principio:** Usa el medio más eficiente para cada tipo de información.
+
+---
+
+## Anti-patrones comunes
+
+### ❌ Sobrecarga de instrucciones
+
+```markdown
+Actúa como experto, piensa paso a paso, sé creativo pero preciso,
+usa tono formal pero amigable, incluye ejemplos pero sé breve,
+considera múltiples perspectivas pero da una respuesta clara...
+[100 líneas más]
+```
+
+**Problema:** Demasiadas instrucciones contradictorias confunden al modelo.
+
+**Solución:** Prioriza 3-5 instrucciones clave.
+
+---
+
+### ❌ Asumir conocimiento implícito
+
+```markdown
+Haz lo que hicimos la última vez pero para el otro proyecto.
+```
+
+**Problema:** El modelo no tiene memoria entre sesiones (a menos que uses custom instructions/projects).
+
+**Solución:** Explicita siempre el contexto necesario.
+
+---
+
+### ❌ Preguntar y restringir simultáneamente
+
+```markdown
+Sé creativo... pero solo usa estas 3 palabras exactas.
+```
+
+**Problema:** Instrucciones contradictorias.
+
+**Solución:** Clarifica prioridades: ¿creatividad o restricciones?
+
+---
+
+### ❌ No iterar
+
+```markdown
+[Escribes prompt]
+[Respuesta no es perfecta]
+[Abandonas o empiezas desde cero]
+```
+
+**Problema:** Los prompts raramente funcionan perfectamente en el primer intento.
+
+**Solución:** Refina iterativamente. Cada respuesta te enseña cómo mejorar el prompt.
+
+---
+
+## Principio meta
+
+> **El mejor prompt es el que no necesitas escribir.**
+
+Si encuentras que escribes el mismo tipo de prompt repetidamente:
+- Crea un [patrón reutilizable](patrones/README.md)
+- Usa [custom instructions](../prompts/customInstructions.md)
+- Considera [Claude Projects](https://www.anthropic.com/news/projects) o [ChatGPT GPTs](https://openai.com/index/introducing-gpts/)
+- Automatiza con [structured outputs](structuredOutputs.md) + código

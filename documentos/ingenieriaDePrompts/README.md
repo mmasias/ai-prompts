@@ -64,6 +64,38 @@ Los ingenieros de prompts resuelven el problema de guiar de manera efectiva a lo
 
 La implementación de la Ingeniería de Prompts se realiza a través de múltiples técnicas y metodologías complementarias:
 
+### Roadmap de aprendizaje
+
+```
+Nivel 1: FUNDAMENTOS
+├─ Componentes de prompts
+├─ Ventana de contexto
+└─ Anatomía del prompt
+    ↓
+Nivel 2: TÉCNICAS BÁSICAS
+├─ 0-Shot Prompting ────────┐
+├─ Priming ─────────────────┤
+└─ X-Shot Prompting ────────┤ Combinar según contexto
+    ↓                       │
+Nivel 3: RAZONAMIENTO       │
+├─ Chain of Thought ────────┤
+└─ Tree of Thought ─────────┤
+    ↓                       │
+Nivel 4: PRECISIÓN          │
+└─ Self-Consistency ────────┤
+    ↓                       │
+Nivel 5: INTEGRACIÓN        │
+├─ ReAct ───────────────────┤
+├─ RAG ─────────────────────┤
+└─ Structured Outputs ──────┘
+```
+
+**Progresión recomendada:**
+1. Domina fundamentos antes de técnicas avanzadas
+2. Chain of Thought es prerequisito para Tree of Thought y Self-Consistency
+3. ReAct y RAG requieren entender razonamiento + acceso a herramientas
+4. Structured Outputs es transversal, útil en cualquier nivel
+
 ### Técnicas fundamentales
 
 - [0-Shot Prompting](0ShotPrompting.md): Aprovecha las capacidades de generalización sin ejemplos previos
@@ -81,9 +113,23 @@ La implementación de la Ingeniería de Prompts se realiza a través de múltipl
 - Técnicas multimodales: Integra texto, imágenes y otros tipos de datos
 - Prompting adaptativo: Ajusta dinámicamente la estrategia según el contexto
 
+### Guía rápida: ¿Qué técnica usar?
+
+| Tu situación | Técnica recomendada | Por qué |
+|-------------|---------------------|---------|
+| Tarea general, modelo la conoce | [0-Shot](0ShotPrompting.md) | Más eficiente |
+| Necesito enseñar formato específico | [X-Shot](xShotPrompting.md) | Ejemplos enseñan mejor |
+| Problema con múltiples pasos | [Chain of Thought](chainOfThought.md) | Razonamiento explícito |
+| Problema abierto, varias soluciones | [Tree of Thought](arbolPensamiento.md) | Exploración paralela |
+| Precisión crítica (medicina, finanzas) | [Self-Consistency](selfConsistency.md) | Votación reduce errores |
+| Necesito info actualizada/externa | [ReAct](ReAct.md) o [RAG](RAG.md) | Acceso a datos |
+| Integrar con software | [Structured Outputs](structuredOutputs.md) | JSON parseable |
+| Conversación larga | [Priming](priming.md) + contexto | Mantiene coherencia |
+
 ### Principios de aplicación
 
 - [Mejores prácticas](../prompts/mejoresPracticas/README.md): Patrones probados y optimizados
+- [Consideraciones](consideraciones.md): Principios fundamentales y anti-patrones
 - Evaluación continua: Métricas y métodos para medir la efectividad
 
 ### Aplicación práctica

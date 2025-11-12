@@ -13,29 +13,109 @@ Surgen con el objetivo de controlar y mejorar la generación de texto, de modo q
 
 ## ¿Qué?
 
-- **Priming**: Se refiere al inicio o primer mensaje en una interacción con el modelo.
-- **Chain of Thought**: Se relaciona con mantener una conversación coherente a lo largo de varios mensajes.
-- **X-shot Prompting**: Implica proporcionar ejemplos o "disparos" al modelo antes de cada solicitud.
+### Técnicas fundamentales
+
+- **Priming**: Establecer contexto inicial para orientar las respuestas del modelo
+- **X-shot Prompting**: Proporcionar ejemplos específicos (0, 1, pocos, muchos) para guiar el comportamiento
+- **Chain of Thought**: Razonamiento paso a paso para problemas complejos
+
+### Técnicas avanzadas de razonamiento
+
+- **Tree of Thought**: Exploración de múltiples caminos de razonamiento simultáneamente
+- **Self-Consistency**: Mejora de precisión mediante votación mayoritaria de múltiples razonamientos
+- **ReAct**: Combinación de razonamiento verbal con acciones concretas (Reasoning + Acting)
+
+### Técnicas de integración
+
+- **RAG**: Recuperación y aumento de información externa (Retrieval-Augmented Generation)
+- **Structured Outputs**: Salidas estructuradas en JSON, XML y formatos parseables
 
 ## ¿Para qué?
 
-- [X-shot Prompting](xShotPrompting.md)
-  - Surge para mejorar la capacidad de controlar y orientar al modelo en respuestas específicas y precisas.
-  - Proporciona ejemplos específicos antes de cada solicitud para garantizar que el modelo comprenda y responda de acuerdo con las expectativas del usuario.
-  - Ayuda a mitigar posibles respuestas erróneas o indeseadas al proporcionar orientación detallada.
-- [Chain of Thought (Cadena de Pensamiento)](chainOfThought.md)
-  - Surge para abordar la necesidad de mantener la coherencia y el contexto a lo largo de conversaciones largas o secuencias de interacciones.
-  - Proporciona una forma de recordar y construir sobre mensajes y respuestas anteriores, lo que permite diálogos más fluidos y contextualmente coherentes.
-  - Se utiliza para que el modelo pueda recordar y responder de manera apropiada a lo largo de una conversación.
-- [Priming](priming.md)
-  - Surge para establecer un contexto inicial y dirigir la generación de texto en una dirección específica desde el comienzo de una interacción.
-  - Permite a los usuarios influir en el tono, el estilo y el tema de la respuesta del modelo desde el primer mensaje.
-  - Ayuda a iniciar conversaciones de manera coherente y a transmitir expectativas iniciales al modelo.
+### Técnicas fundamentales
+
+- **[Priming](priming.md)**
+  - Establecer contexto inicial (rol, estilo, formato, restricciones)
+  - Influir en el tono y tema desde el primer mensaje
+  - Orientar la generación hacia expectativas específicas
+
+- **[X-shot Prompting](xShotPrompting.md)**
+  - Controlar y orientar respuestas mediante ejemplos
+  - Enseñar patrones sin modificar el modelo
+  - Adaptar comportamiento a dominios específicos
+
+- **[Chain of Thought](chainOfThought.md)**
+  - Descomponer problemas complejos en pasos intermedios
+  - Hacer explícito el proceso de razonamiento
+  - Mejorar precisión en problemas matemáticos y lógicos
+
+### Técnicas avanzadas de razonamiento
+
+- **[Tree of Thought](arbolPensamiento.md)**
+  - Explorar múltiples soluciones en paralelo
+  - Evaluar alternativas antes de elegir camino
+  - Resolver problemas con múltiples soluciones válidas
+
+- **[Self-Consistency](selfConsistency.md)**
+  - Mejorar precisión mediante votación mayoritaria
+  - Reducir alucinaciones filtrando respuestas inconsistentes
+  - Aumentar confianza en sistemas críticos
+
+- **[ReAct](ReAct.md)**
+  - Integrar razonamiento verbal con acciones concretas
+  - Acceder a información actualizada mediante herramientas
+  - Desarrollar agentes autónomos que planifican y ejecutan
+
+### Técnicas de integración
+
+- **[RAG](RAG.md)**
+  - Acceder a conocimiento propio y actualizado
+  - Reducir alucinaciones con fuentes verificables
+  - Escalar conocimiento sin reentrenar modelos
+
+- **[Structured Outputs](structuredOutputs.md)**
+  - Integrar LLMs con sistemas de software
+  - Garantizar formatos parseables (JSON, XML)
+  - Validar esquemas y tipos de datos
 
 ## ¿Cómo?
 
-|Concepto|Semejanzas|Diferencias
-|-|-|-|
-**X-shot Prompting**|Implica proporcionar ejemplos o "disparos" al modelo antes de cada solicitud.|- Cada "disparo" ilustra lo que se espera en términos de respuesta.<br> - Ayuda a guiar al modelo en la generación de respuestas precisas.<br> - Puede utilizarse en interacciones individuales, no necesariamente en una conversación continua.
-**Chain of Thought**|Se relaciona con mantener una conversación coherente a lo largo de varios mensajes.|- Se basa en mensajes y respuestas anteriores, acumulando contexto.<br> - Permite una conversación más fluida y contextualmente coherente.<br> - Es adecuado para conversaciones largas o continuas.
-**Priming**|Se refiere al inicio o primer mensaje en una interacción con el modelo.|- Se enfoca en el contexto inicial y establece el tono y el tema de la conversación.<br> - Puede influir en la coherencia y el estilo de la respuesta del modelo.<br> - No implica una secuencia continua de mensajes.
+### Comparación de técnicas
+
+| Técnica | Complejidad | Setup | Cuándo usar | Costo (tokens) |
+|---------|------------|-------|-------------|----------------|
+| **Priming** | Baja | Contexto inicial | Siempre, como base | Bajo |
+| **0-Shot** | Baja | Instrucción directa | Tareas generales | Muy bajo |
+| **X-Shot** | Media | Ejemplos previos | Enseñar patrones | Medio |
+| **Chain of Thought** | Media | "Piensa paso a paso" | Razonamiento complejo | Medio-Alto |
+| **Tree of Thought** | Alta | Múltiples caminos | Problemas abiertos | Alto |
+| **Self-Consistency** | Alta | Múltiples generaciones | Precisión crítica | Muy alto |
+| **ReAct** | Alta | Tools + razonamiento | Agentes, info externa | Alto |
+| **RAG** | Alta | Vector DB + retrieval | Conocimiento propio | Alto |
+| **Structured Outputs** | Media | Schema/JSON mode | Integración software | Medio |
+
+### Combinaciones efectivas
+
+Las técnicas no son excluyentes, se pueden combinar:
+
+- **Priming + X-Shot**: Contexto inicial + ejemplos específicos
+- **Chain of Thought + Self-Consistency**: Razonamiento múltiple + votación
+- **ReAct + RAG**: Agente que busca en base de conocimiento
+- **RAG + Structured Outputs**: Información externa en formato parseable
+- **Tree of Thought + Self-Consistency**: Exploración exhaustiva + validación
+
+### Progresión de aprendizaje recomendada
+
+```
+1. Fundamentos
+   └─ Priming, 0-Shot, X-Shot
+
+2. Razonamiento
+   └─ Chain of Thought, Tree of Thought
+
+3. Precisión y validación
+   └─ Self-Consistency
+
+4. Integración externa
+   └─ ReAct, RAG, Structured Outputs
+```
