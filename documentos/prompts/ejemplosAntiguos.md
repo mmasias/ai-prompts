@@ -5,7 +5,19 @@
 
 </div>
 
-# Mejores prácticas (old)
+# Ejemplos históricos de mejores prácticas
+
+> **Nota histórica:** Este documento representa la primera versión de ejemplos de prompting de este repositorio, organizada como tablas comparativas ("En lugar de" → "Mejor") segmentadas por audiencia.
+>
+> **Evolución:** Esta estructura fue reemplazada por:
+> - [Ejemplos individuales por tipo de tarea](/documentos/prompts/ejemplos/) - Mayor profundidad pedagógica
+> - [Mejores prácticas](/documentos/prompts/mejoresPracticas/) - Técnicas específicas con estructura ¿Por qué?/¿Qué?/¿Para qué?/¿Cómo?
+>
+> **Valor actual:** Este documento se mantiene como referencia histórica y por su enfoque de "ejemplos por audiencia" (ingenieros, marketing), que sigue siendo pedagógicamente útil para ciertos contextos de enseñanza.
+>
+> [← Volver a Ejemplos actuales](ejemplos.md)
+
+---
 
 ## Versión para ingenieros
 

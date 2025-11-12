@@ -5,17 +5,44 @@
 
 </div>
 
-# Ejemplos
+# Ejemplos de prompts por tipo de tarea
 
-> *[Versión antigua](ejemplosAntiguos.md)*
+Los ejemplos están organizados por tipo de tarea y siguen la estructura pedagógica ¿Por qué? → ¿Qué? → ¿Para qué? → ¿Cómo? que caracteriza este repositorio. Cada archivo incluye ejemplos prácticos con enlaces a conversaciones reales en múltiples modelos (ChatGPT, Claude, Gemini, Copilot).
 
-- [x] [Resumen de textos](ejemplos/resumenTexto.md)
-- [x] [Extracción de información](ejemplos/extraccionInformacion.md)
-- [x] [Respuestas](ejemplos/respuestas.md)
-- [x] [Clasificación de texto](ejemplos/clasificacionTexto.md)
-- [x] [Conversación](ejemplos/conversacion.md)
-- [x] [*Generación de código*](ejemplos/generacionCodigo.md)
-- [x] [*Razonamiento*](ejemplos/razonamiento.md)
+## Procesamiento de texto
+
+|Tarea|Descripción|Nivel|
+|-|-|:-:|
+|[Resumen de textos](ejemplos/resumenTexto.md)|Condensar información manteniendo ideas principales|⭐ Básico
+|[Extracción de información](ejemplos/extraccionInformacion.md)|Identificar y extraer datos específicos de textos|⭐ Básico
+|[Clasificación de texto](ejemplos/clasificacionTexto.md)|Categorizar textos según criterios definidos|⭐⭐ Intermedio
+
+## Interacción y generación
+
+|Tarea|Descripción|Nivel|
+|-|-|:-:|
+|[Respuestas](ejemplos/respuestas.md)|Generar respuestas contextuales y apropiadas|⭐ Básico
+|[Conversación](ejemplos/conversacion.md)|Mantener diálogos coherentes y naturales|⭐⭐ Intermedio
+
+## Tareas avanzadas
+
+|Tarea|Descripción|Nivel|
+|-|-|:-:|
+|[Generación de código](ejemplos/generacionCodigo.md)|Crear y explicar código en diversos lenguajes|⭐⭐⭐ Avanzado
+|[Razonamiento](ejemplos/razonamiento.md)|Resolución de problemas y análisis lógico|⭐⭐⭐ Avanzado
+
+## Experimentos especiales
+
+- [Experimento de meta-razonamiento](ejemplos/experimentoMetaRazonamiento.md) - Exploración de capacidades metacognitivas
+- [Atención al detalle](ejemplos/atencionDetalle.md) - Precisión y exhaustividad en respuestas
+
+---
+
+### Sobre la evolución de esta sección
+
+Esta estructura por archivos individuales reemplazó una [versión anterior más simple](ejemplosAntiguos.md) que contenía tablas comparativas. La versión actual permite mayor profundidad pedagógica y ejemplos multi-modelo.
+
+> **Para nuevos usuarios:** Empieza con los ejemplos básicos (⭐) antes de avanzar a los intermedios y avanzados.
 
 ---
 

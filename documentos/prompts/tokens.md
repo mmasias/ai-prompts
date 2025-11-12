@@ -36,6 +36,50 @@ El proceso de tokenización se realiza típicamente de la siguiente manera:
 
 Profundizar en algunos de estos procesos, como la elección del algoritmo de tokenización o la gestión de un vocabulario extenso y dinámico, requeriría explorar más detalladamente temas como el aprendizaje no supervisado en PLN o las técnicas de embedding de palabras.
 
+## Diferencias entre modelos (2024-2025)
+
+Cada familia de modelos utiliza su propio sistema de tokenización, lo que significa que **el mismo texto puede consumir diferente cantidad de tokens** según el modelo:
+
+|Modelo|Sistema de tokenización|Características|
+|-|-|-|
+|**GPT** (OpenAI)|tiktoken (BPE)|~4 caracteres por token (inglés)<br>Menos eficiente en idiomas no latinos
+|**Claude** (Anthropic)|Tokenizador propio|Similar a GPT pero optimizado diferente<br>Ligeramente más eficiente en algunos idiomas
+|**Gemini** (Google)|SentencePiece|Mayor eficiencia en textos multilingües<br>Mejor manejo de idiomas asiáticos
+|**Llama** (Meta)|Tokenizador BPE propio|Vocabulario de 32K tokens<br>Optimizado para eficiencia
+
+**Herramientas para visualizar tokenización:**
+- [OpenAI Tokenizer](https://platform.openai.com/tokenizer) - Para modelos GPT
+- [Anthropic Token Counter](https://docs.anthropic.com/claude/reference/token-counting) - Documentación de Claude
+- [tiktoken (Python)](https://github.com/openai/tiktoken) - Librería oficial de OpenAI
+
+## Optimización de tokens
+
+Con el auge de APIs que cobran por token, optimizar el uso de tokens es cada vez más importante:
+
+### Estrategias de optimización
+
+|Estrategia|Ahorro potencial|Cuándo usar|
+|-|:-:|-|
+|**Eliminar verbosidad**|10-30%|Siempre - mantén C³ (Claro, Concreto, Conciso)
+|**Usar abreviaciones consistentes**|5-15%|Prompts técnicos repetitivos
+|**Estructurar con símbolos vs. palabras**|10-20%|Listas, datos estructurados (`-` vs "punto número")
+|**Comprimir ejemplos largos**|20-40%|Few-shot prompting con muchos ejemplos
+|**Cachear instrucciones del sistema**|50-90%|APIs que soportan caching (Claude, GPT)
+
+### Ejemplo práctico
+
+```markdown
+❌ Verboso (más tokens):
+"Por favor, podrías ser tan amable de proporcionar un resumen detallado y completo
+del siguiente texto, asegurándote de incluir todos los puntos importantes y las
+ideas principales que se presentan en el documento"
+
+✅ Optimizado (menos tokens):
+"Resume el texto siguiente, incluyendo puntos e ideas principales:"
+```
+
+**Nota importante:** La optimización de tokens NO debe sacrificar la [claridad](mejoresPracticas/8virtudesDelPrompting.md). Un prompt confuso que usa menos tokens pero genera respuestas incorrectas es contraproducente.
+
 ### 2See
 
 ||Paso|Descripción del paso|Entrada|Acción|Salida|
