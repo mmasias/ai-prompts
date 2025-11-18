@@ -12,7 +12,7 @@
 - [Ver dónde se inserta](/documentos/imagenes/modelosUML/5mas5mas5.svg)
 - Aparecen términos nuevos... [*Ops](xOps.md) [AIOps](aiops.md) / Aparece [🌬️💨](💨.md) y más [🌬️💨💨💨](https://x.com/David_eficaz/status/1954120134429171859)
 - [Se analiza su fiabilidad](/documentos/casosDeUso/fiabilidad.md) - [Se pone a prueba](/documentos/casosDeUso/diversosTest.md) ([¡con manzanas! 😜](/documentos/casosDeUso/manzanas.md) [con perritos!!!](/documentos/casosDeUso/contarPerros.md)) -Se [entrena](/documentos/entrenamiento.md) -  [Se (intenta) regular](/documentos/etica@AI.md) / [Nos sorprendemos de sus respuestas](casosDeUso/conciencIA.md) / [Se (intenta) legislar](/documentos/legislacion@AI.md)
-- *NoCode / Blockchain / Criptodivisas / Ciberseguridad / otros...* */ [Calidad](calidadAI.md)*
+Y mientras todo esto ocurre, el debate se enriquece al compararlo con el ciclo de otras tecnologías (*NoCode, Blockchain, Criptodivisas / Ciberseguridad / otros...*), obligándonos a poner el foco en la [Calidad](calidadAI.md) para separar la señal del ruido.
 
 ## ¿Algo nuevo?
 
