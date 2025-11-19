@@ -51,6 +51,7 @@ Además, el grupo rojo recibió capacitación adicional sobre cómo utilizarlo.
 </div>
 
 [Matriz de interacción bidireccional](matrizBidireccional.md)
+
 ---
 ## Siguientes pasos
 
