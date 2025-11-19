@@ -51,3 +51,13 @@ Además, el grupo rojo recibió capacitación adicional sobre cómo utilizarlo.
 </div>
 
 [Matriz de interacción bidireccional](matrizBidireccional.md)
+
+---
+## Siguientes pasos
+
+Has navegado por el "porqué" de este repositorio, un contexto denso y crítico. Ahora puedes continuar tu viaje de varias maneras:
+
+- **[Volver al índice (README)](/README.md)** para tener la imagen completa de la estructura.
+- **[Seguir un itinerario guiado](/documentos/itinerarios/)** si prefieres un camino estructurado.
+- **[Explorar la panorámica general](/documentos/panoramica.md)** para obtener una visión de alto nivel.
+- **[Saltar a los casos de uso](/documentos/casosDeUso/README.md)** si buscas aplicación práctica inmediata.
