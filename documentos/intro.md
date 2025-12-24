@@ -58,7 +58,7 @@ Tras años de evolución acelerada, y habiendo reflexionado sobre los ciclos his
 
 |Dimensión|Hito reciente|Implicación|
 |-|-|-|
-|**Modelos de lenguaje**|GPT-5.2 (dic '25), Gemini 3 (nov '25), Claude Opus 4.5 (nov '25), Grok 4.1 (nov '25)|La "carrera de 25 días" (17 nov - 11 dic) avanzó más que años completos anteriores
+|**Modelos de lenguaje**|GPT-5.2 (dic '25), Gemini 3 (nov '25), Claude Opus 4.5 (nov '25), Grok 4.1 (nov '25)|La ["carrera de 25 días"](https://vertu.com/lifestyle/the-ai-model-race-reaches-singularity-speed/) (17 nov - 11 dic) avanzó más que [años completos anteriores](https://felloai.com/the-best-ai-of-december-2025/)
 |**De herramientas a agentes**|Antigravity, Claude Code, Cursor 2.0, Windsurf con Gemini 3|Ya no solo asisten: **planifican, ejecutan y verifican** autónomamente
 |**Multimodalidad nativa**|Sora 2, Gemini 3 Deep Think, NotebookLM Plus|Texto, imagen, video, audio - integrados desde el diseño
 |**Democratización**|Versiones gratuitas potentes, APIs accesibles, IDEs agent-first|La barrera ya no es el acceso, sino **saber dirigir**
