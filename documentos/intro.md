@@ -8,7 +8,7 @@
 # Intro
 
 - Aparece una *tecnología* distruptiva: [Inteligencia artificial generativa](/documentos/AIgenerativa.md)
-- Reacciones: [Duda](arteEsSoloHumano.md) / [Sorpresa, miedo, excepticismo, negación](https://docs.google.com/presentation/d/1UscAlHfjGgg4pPzz_p0V1eX18R74DRlvTtMXsbLVtI0/edit?usp=sharing) / [PessimistArchive](https://pessimistsarchive.org/) / [Ironía](/documentos/imagenes/publicidadGPT.jpeg) / [14/jun/2022](https://timesofindia.indiatimes.com/business/international-business/full-transcript-google-ai-bots-interview-that-convinced-engineer-it-was-sentient/articleshow/92178185.cms) / [Olvidamos el pasado](olvidarPasado.md)
+- Reacciones: [Duda](arteEsSoloHumano.md) / [Sorpresa, miedo, excepticismo, negación](https://docs.google.com/presentation/d/1UscAlHfjGgg4pPzz_p0V1eX18R74DRlvTtMXsbLVtI0/edit?usp=sharing) / [PessimistArchive](https://pessimistsarchive.org/) / [Ironía](/documentos/imagenes/publicidadGPT.jpeg) / [14/jun/2022: Debate sobre "sentience"](https://timesofindia.indiatimes.com/business/international-business/full-transcript-google-ai-bots-interview-that-convinced-engineer-it-was-sentient/articleshow/92178185.cms) → Dic 2025: El debate evolucionó de *sentience* a **agency, reasoning y multimodalidad** / [Olvidamos el pasado](olvidarPasado.md)
 - [Ver dónde se inserta](/documentos/imagenes/modelosUML/5mas5mas5.svg)
 - Aparecen términos nuevos... [*Ops](xOps.md) [AIOps](aiops.md) / Aparece [🌬️💨](💨.md) y más [🌬️💨💨💨](https://x.com/David_eficaz/status/1954120134429171859)
 - [Se analiza su fiabilidad](/documentos/casosDeUso/fiabilidad.md) - [Se pone a prueba](/documentos/casosDeUso/diversosTest.md) ([con fechas](/documentos/casosDeUso/contarFechas.md), [con manzanas,](/documentos/casosDeUso/manzanas.md) [con perritos!!!](/documentos/casosDeUso/contarPerros.md)) -Se [entrena](/documentos/entrenamiento.md) -  [Se (intenta) regular](/documentos/etica@AI.md) / [Nos sorprendemos de sus respuestas](casosDeUso/conciencIA.md) / [Se (intenta) legislar](/documentos/legislacion@AI.md)
@@ -52,7 +52,20 @@ Además, el grupo rojo recibió capacitación adicional sobre cómo utilizarlo.
 
 [Matriz de interacción bidireccional](matrizBidireccional.md)
 
----
+## Estado actual (Diciembre 2025)
+
+Tras años de evolución acelerada, y habiendo reflexionado sobre los ciclos históricos de las tecnologías disruptivas, la IA generativa ha alcanzado un punto de inflexión:
+
+|Dimensión|Hito reciente|Implicación|
+|-|-|-|
+|**Modelos de lenguaje**|GPT-5.2 (dic '25), Gemini 3 (nov '25), Claude Opus 4.5 (nov '25), Grok 4.1 (nov '25)|La "carrera de 25 días" (17 nov - 11 dic) avanzó más que años completos anteriores
+|**De herramientas a agentes**|Antigravity, Claude Code, Cursor 2.0, Windsurf con Gemini 3|Ya no solo asisten: **planifican, ejecutan y verifican** autónomamente
+|**Multimodalidad nativa**|Sora 2, Gemini 3 Deep Think, NotebookLM Plus|Texto, imagen, video, audio - integrados desde el diseño
+|**Democratización**|Versiones gratuitas potentes, APIs accesibles, IDEs agent-first|La barrera ya no es el acceso, sino **saber dirigir**
+|**Debate evolucionado**|De "¿es consciente?" a "¿cómo colaboramos?"|[Paradoja de la dirección](paradojaDireccion.md): competencia directiva > capacidad ejecutiva
+
+Conociendo los ciclos históricos, entendiendo los riesgos del inmediatismo y el superficialismo, y conscientes de que las burbujas son inevitables pero la tecnología permanece, el reto actual no es tecnológico sino **metodológico y cultural**: aprender a colaborar eficazmente con sistemas que ejecutan mejor que nosotros pero necesitan nuestra dirección estratégica.
+
 ## Siguientes pasos
 
 Has navegado por el "porqué" de este repositorio, un contexto denso y crítico. Ahora puedes continuar tu viaje de varias maneras:

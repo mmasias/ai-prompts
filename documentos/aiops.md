@@ -7,6 +7,8 @@
 
 # AIOps
 
+> **Contexto**: AIOps es una de las metodologías *Ops que transforman las operaciones empresariales. Ver [comparativa completa de *Ops](xOps.md) para entender su relación con DataOps, DevSecOps y MLOps.
+
 ## ¿Por qué?
 
 En el mundo de las tecnologías de la información, las infraestructuras y operaciones de TI se han vuelto extremadamente complejas y dinámicas. 
