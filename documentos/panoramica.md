@@ -52,13 +52,13 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 |[**Claude**](https://claude.ai/chats)|Modelos con foco en análisis profundo y tareas largas|Ventana de contexto amplia, análisis de documentos extensos, Computer Use|
 |[**Gemini**](https://gemini.google.com/app)|Modelos de Google integrados con su ecosistema|Acceso directo a Google Search, multimodalidad nativa / [AIStudio](https://aistudio.google.com/prompts/new_chat)|
 |[DeepSeek](https://chat.deepseek.com/)|Modelo chino de código abierto muy económico y competitivo|Excelente relación calidad-precio, especialización en programación|
-|[**Grok**](https://x.com/i/grok)|Modelo integrado en X con foco en actualidad|Información en tiempo real, integración en X / [Estado](https://x.ai/grok)|
-|[MetaAI](https://www.meta.ai/)|Asistente de IA de Meta integrado en WhatsApp, Instagram y Facebook|Integración nativa en redes sociales, acceso gratuito 👀|
+|[Grok](https://x.com/i/grok)|Modelo integrado en X con foco en actualidad|Información en tiempo real, integración en X / [Estado](https://x.ai/grok)|
+|[Perplexity](https://www.perplexity.ai/)|Motor de búsqueda con IA enfocado en investigación con fuentes|Investigación aplicada, síntesis con citas / [Estado](https://www.perplexity.ai/hub/blog/introducing-perplexity-labs)|
 |[Copilot](https://copilot.microsoft.com)|IA de Microsoft integrada en su ecosistema (Windows, Office, Edge)|Integración profunda con herramientas de productividad|
 
 </div>
 
-> <sub><i>**Alternativos**: [You.com](https://you.com/) / [Character.AI](https://character.ai/) / [Poe](https://poe.com/) / [Pi](https://pi.ai/) / [Mistral AI](https://chat.mistral.ai/chat) / [Cohere](https://dashboard.cohere.com/playground/chat) / [Hugging Face Chat](https://huggingface.co/chat/) / [Perplexity](https://www.perplexity.ai/) / [Qwen](https://chat.qwen.ai/)</i></sub>
+> <sub><i>**Alternativos**: [You.com](https://you.com/) / [Poe](https://poe.com/) / [Mistral AI](https://chat.mistral.ai/chat) / [Cohere](https://dashboard.cohere.com/playground/chat) / [Hugging Face Chat](https://huggingface.co/chat/) / [Qwen](https://chat.qwen.ai/) / [MetaAI](https://www.meta.ai/) / [Z.ai](https://z.ai/)</i></sub>
 
 ## 🗃️📄 Ofimática & Análisis de datos
 
@@ -308,12 +308,12 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 |Agente|Compañía|Especialización|Instalación/Setup|
 |-|-|-|-|
 |[**Claude Code**](https://www.anthropic.com/claude-code)|Anthropic|Agente para coding con terminal + IDE y repos completos|[📚 Setup](https://docs.anthropic.com/claude-code/setup)|
-|[**Antigravity**](https://antigravityai.org/)|Google|Plataforma agent-first con orquestación multi-agente|[🚀 Getting Started](https://codelabs.developers.google.com/getting-started-google-antigravity)|
+|[**Antigravity**](https://codelabs.developers.google.com/getting-started-google-antigravity)|Google|Plataforma agent-first con orquestación multi-agente|[🚀 Getting Started](https://codelabs.developers.google.com/getting-started-google-antigravity)|
 |[**OpenAI Codex**](https://openai.com/codex/)|OpenAI|Agente de programación con sandboxing en la nube|[🚀 Incluido en ChatGPT Plus/Pro](https://openai.com/chatgpt/pricing/)|
 |[**Qwen3-Coder**](https://github.com/QwenLM/Qwen3-Coder)|Alibaba|Modelo open source para coding agéntico|[⚡ Setup](https://docs.unsloth.ai/basics/qwen3-coder-how-to-run-locally)|
 |[**Grok Code Fast 1**](https://x.ai/news/grok-code-fast-1)|xAI|Agente de coding con foco en rapidez|[🔗 API + Integrations](https://x.ai/api)|
 |[**Gemini Code Assist**](https://codeassist.google/)|Google|Asistente con modo agente y edición multiarchivo|[📖 Getting Started](https://developers.google.com/gemini-code-assist/docs/overview)|
-|[**Copilot Studio**](https://www.microsoft.com/microsoft-copilot-studio)|Microsoft|Orquestación multiagente empresarial|[🏢 Enterprise Setup](https://learn.microsoft.com/copilot-studio/)|
+|[**Copilot Studio**](https://www.microsoft.com/microsoft-copilot-studio)|Microsoft|Orquestación multiagente empresarial|[🏢 Enterprise Setup](https://learn.microsoft.com/en-us/microsoft-copilot-studio/)|
 |[**Perplexity Labs**](https://www.perplexity.ai/hub/blog/introducing-perplexity-labs)|Perplexity|Research + coding + web apps|[💡 Pro Access](https://www.perplexity.ai/help-center/en/articles/11144811-perplexity-labs)|
 |[**Replit Agent**](https://replit.com/ai)|Replit|Idea-to-app, visual design-to-code|[🛠️ Core Setup](https://docs.replit.com/replitai/agent)|
 
@@ -383,7 +383,7 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 |Nombre|Descripción|Mejor para|
 |-|-|-|
-|[**Antigravity**](https://antigravityai.org/)|IDE agent-first de Google: orquestación multi-agente, cross-platform (editor, terminal, browser)|Desarrollo autónomo, tareas complejas|
+|[**Antigravity**](https://codelabs.developers.google.com/getting-started-google-antigravity)|IDE agent-first de Google: orquestación multi-agente, cross-platform (editor, terminal, browser)|Desarrollo autónomo, tareas complejas|
 |[**V0**](https://v0.dev/)|Generación de componentes React desde prompts de texto|Prototipos rápidos, interfaces modernas / [CdU](/documentos/casosDeUso/V0.md)|
 |[**Cursor**](https://cursor.sh/)|IDE completo con IA para desarrollo full-stack|Desarrollo profesional, proyectos complejos|
 |[**Windsurf**](https://codeium.com/windsurf)|IDE con agente IA autónomo para proyectos completos|Arquitectura de aplicaciones, desarrollo colaborativo|
