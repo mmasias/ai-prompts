@@ -15,7 +15,7 @@ Este catálogo presenta una selección curada de herramientas de **Inteligencia 
 
 |[![](https://img.shields.io/badge/-Primera_división-0078D4?style=flat&logo=chatbot&logoColor=white)](#primera-división) [![](https://img.shields.io/badge/-Ofimática-0078D4?style=flat&logo=microsoftexcel&logoColor=white)](#️-ofimática) [![](https://img.shields.io/badge/-Educación-0078D4?style=flat&logo=academia&logoColor=white)](#educación-y-aprendizaje) [![](https://img.shields.io/badge/-Trabajo-0078D4?style=flat&logo=slack&logoColor=white)](#trabajo-y-productividad) [![](https://img.shields.io/badge/-Creación-0078D4?style=flat&logo=canva&logoColor=white)](#creación-de-contenido) [![](https://img.shields.io/badge/-Marketing-0078D4?style=flat&logo=googleads&logoColor=white)](#comunicación-y-marketing) [![](https://img.shields.io/badge/-Desarrollo-0078D4?style=flat&logo=github&logoColor=white)](#desarrollo--áreas-técnicas) [![](https://img.shields.io/badge/-Especializaciones-0078D4?style=flat&logo=microscope&logoColor=white)](#especializaciones)
 |:-:
-|![](https://img.shields.io/badge/Actualizado-diciembre_2025-28a745?style=for-the-badge&logo=calendar&logoColor=white)|
+|![](https://img.shields.io/badge/Actualizado-revision_continua-28a745?style=for-the-badge&logo=calendar&logoColor=white)|
 
 </div>
 
@@ -48,11 +48,11 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 |Nombre|Descripción|Características destacadas|
 |-|-|-|
-|[**ChatGPT**](https://chatgpt.com/)|GPT-5.2 (dic '25): tres variantes (Instant, Thinking, Pro) - modelo más capaz para trabajo profesional|Proyectos gratuitos, ramificaciones de conversación, biblioteca de imágenes / [Documentación](https://platform.openai.com/docs)|
-|[**Claude**](https://claude.ai/chats)|Claude Opus 4.5 (nov '25): 80.9% en SWE-bench, mejor del mundo para coding y agentes|Ventana de contexto muy amplia, análisis de documentos extensos, Computer Use|
-|[**Gemini**](https://gemini.google.com/app)|Gemini 3 Pro y Flash (nov-dic '25): lidera LMArena, razonamiento multimodal revolucionario|Acceso directo a Google Search, multimodalidad nativa / [AIStudio](https://aistudio.google.com/prompts/new_chat)|
+|[**ChatGPT**](https://chatgpt.com/)|Modelos de OpenAI con variantes orientadas a rapidez y razonamiento|Proyectos, ramificaciones de conversación, biblioteca de imágenes / [Documentación](https://platform.openai.com/docs)|
+|[**Claude**](https://claude.ai/chats)|Modelos con foco en análisis profundo y tareas largas|Ventana de contexto amplia, análisis de documentos extensos, Computer Use|
+|[**Gemini**](https://gemini.google.com/app)|Modelos de Google integrados con su ecosistema|Acceso directo a Google Search, multimodalidad nativa / [AIStudio](https://aistudio.google.com/prompts/new_chat)|
 |[DeepSeek](https://chat.deepseek.com/)|Modelo chino de código abierto muy económico y competitivo|Excelente relación calidad-precio, especialización en programación|
-|[**Grok**](https://x.com/i/grok)|Grok 4.1 (nov '25): parte de la "carrera de 25 días" que revolucionó el mercado|Información en tiempo real, integración en X y Tesla, velocidad extrema / [Estado](https://x.ai/grok)|
+|[**Grok**](https://x.com/i/grok)|Modelo integrado en X con foco en actualidad|Información en tiempo real, integración en X / [Estado](https://x.ai/grok)|
 |[MetaAI](https://www.meta.ai/)|Asistente de IA de Meta integrado en WhatsApp, Instagram y Facebook|Integración nativa en redes sociales, acceso gratuito 👀|
 |[Copilot](https://copilot.microsoft.com)|IA de Microsoft integrada en su ecosistema (Windows, Office, Edge)|Integración profunda con herramientas de productividad|
 
@@ -68,12 +68,12 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 |Nombre|Descripción|Caso de uso ideal|
 |-|-|-|
-|[**NotebookLM**](https://notebooklm.google.com/)|NotebookLM Plus (servicio core en Workspace desde feb '25): Mind Maps interactivos, Data Tables exportables, PDFs multimodales, Discover sources web|Análisis académico, documentos empresariales, podcasts automáticos, investigación / [Plus](https://workspace.google.com/solutions/ai/)<br>[Podcast de esta sección](https://soundcloud.com/mmasias/panoramica_ai-prompts)|
+|[**NotebookLM**](https://notebooklm.google.com/)|Análisis de documentos, mapas mentales y tablas exportables (según plan)|Análisis académico, documentos empresariales, podcasts automáticos, investigación / [Plus](https://workspace.google.com/solutions/ai/)<br>[Podcast de esta sección](https://soundcloud.com/mmasias/panoramica_ai-prompts)|
 |[**GPT for work**](https://gptforwork.com/)|IA integrada en Google Sheets y Excel con plantillas predefinidas|Automatización de hojas de cálculo, análisis de datos / [Plantilla útil](https://docs.google.com/spreadsheets/d/1SOz3u2A8Y6RXvXK_X2QdrcWJ7WklbgtWNE9ljZ_yaEc/template/preview)|
 |[ChatGPT-4o](https://openai.com/index/improvements-to-data-analysis-in-chatgpt/)|Análisis avanzado de datos, archivos CSV, Excel y visualizaciones|Análisis exploratorio de datos, creación de gráficos|
 |[Numerous](https://numerous.ai/)|Automatización avanzada de hojas de cálculo con fórmulas AI|Cálculos complejos automatizados, reportes dinámicos|
 |[FormulaBOT](https://www.formulabot.com/)|Generador inteligente de fórmulas de Excel y Google Sheets|Creación de fórmulas complejas mediante lenguaje natural|
-|[Microsoft 365 Copilot](https://copilot.microsoft.com/)|IA integrada ahora incluida en planes Personal y Familia (enero 2025)|Ecosistema Microsoft completo, Word, Excel, PowerPoint con IA|
+|[Microsoft 365 Copilot](https://copilot.microsoft.com/)|IA integrada en planes personales y empresariales|Ecosistema Microsoft completo, Word, Excel, PowerPoint con IA|
 |[Google Workspace AI](https://workspace.google.com/solutions/ai/)|IA integrada en Docs, Sheets, Slides, Gmail|Ecosistema Google, colaboración en la nube|
 |[Coda](https://coda.io/)|Documentos inteligentes que combinan texto, tablas y aplicaciones|Bases de datos relacionales, workflows complejos|
 
@@ -185,12 +185,12 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 |Nombre|Descripción|Fortaleza principal|
 |-|-|-|
-|[**Midjourney**](https://www.midjourney.com)|Líder en calidad artística y fotorrealismo|Arte conceptual, imágenes comerciales / [Documentación](https://docs.midjourney.com/docs/prompts)|
+|[**Midjourney**](https://www.midjourney.com)|Alta calidad artística y fotorrealismo|Arte conceptual, imágenes comerciales / [Documentación](https://docs.midjourney.com/docs/prompts)|
 |[**Leonardo AI**](https://leonardo.ai)|Control avanzado de estilos y consistencia de personajes|Videojuegos, ilustración / [🗺️](./imagenes/Default_A_old_style_rpg_map_0.jpg)|
 |[**Ideogram.ai**](https://ideogram.ai/)|Especialista en generación de texto dentro de imágenes|Diseño gráfico, logos, carteles / [🖼️](/documentos/imagenes/ideogramExample.png)|
 |[**Adobe Firefly**](https://firefly.adobe.com/)|Integración nativa en suite Creative Cloud|Flujo de trabajo profesional / [Un mapa](/documentos/casosDeUso/adobeImagenesReferenciaEstructura.md)|
 |[DALL-E 3](https://openai.com/dall-e-3)|Integrado en ChatGPT, excelente seguimiento de prompts|Uso general, experimentación|
-|[Flux](https://blackforestlabs.ai/)|Calidad fotorrealista superior, código abierto|Fotografía realista, retratos|
+|[Flux](https://blackforestlabs.ai/)|Calidad fotorrealista alta, código abierto|Fotografía realista, retratos|
 |[Stable Diffusion](https://stability.ai/)|Código abierto, instalación local, personalizable|Control total, modelos especializados|
 
 </div>
@@ -205,8 +205,8 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 |Nombre|Descripción|Mejor para|
 |-|-|-|
-|[**Sora 2**](https://sora.com/)|Generador de video y audio de OpenAI (sep '25) - App standalone, iOS/Android, API próximamente|Videos artísticos, experimentación, clips hasta 20 seg / [📽️](/documentos/videos/soraAI.mp4)|
-|[**RunwayML**](https://runwayml.com/)|Suite completa de herramientas de video generativo|Producción profesional, efectos especiales|
+|[**Sora**](https://sora.com/)|Generador de video y audio de OpenAI|Videos artísticos, experimentación, clips cortos / [📽️](/documentos/videos/soraAI.mp4)|
+|[**Runway**](https://runwayml.com/)|Suite completa de herramientas de video generativo|Producción profesional, efectos especiales|
 |[**Pika**](https://pika.art/home)|Generación rápida de videos cortos desde texto e imágenes|Contenido social, clips cortos / [📽️](/documentos/videos/pika.mp4)|
 |[**Luma**](https://lumalabs.ai/)|Videos realistas con física convincente|Productos, demostraciones / [📽️](https://lumalabs.ai/dream-machine/creations/00e89855-b8de-45ac-aad0-01abdd343465)|
 |[**CapCut**](https://www.capcut.com/)|Editor con herramientas de IA integradas|Edición rápida, contenido mobile / [Herculean pixels](/documentos/casosDeUso/herculeanPixels.md)|
@@ -244,7 +244,7 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 |Nombre|Descripción|Categoría|
 |-|-|-|
 |[**MyHeritage In Color AI**](https://www.myheritage.com/incolor)|Anima fotos históricas y crea videos donde las personas "cobran vida"|Plataforma web
-|[**Runway ML**](https://runwayml.com/)|Herramientas de video generativo con función Gen-2 para animar fotos|Plataforma
+|[**Runway**](https://runwayml.com/)|Herramientas de video generativo para animar fotos|Plataforma
 |[**D-ID**](https://www.d-id.com/)|Especializado en crear videos hablantes a partir de fotos estáticas|Plataforma
 |[Reface](https://hey.reface.ai/)|Intercambio de caras en videos y animación de fotos estáticas|App móvil
 |[LivePortrait](https://liveportrait.github.io/)|Animación realista de retratos con gestos y movimientos naturales|Herramienta open source
@@ -307,12 +307,12 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 |Agente|Compañía|Especialización|Instalación/Setup|
 |-|-|-|-|
-|[**Claude Code**](https://www.anthropic.com/claude-code)|Anthropic|Opus 4.5 (nov '25): 80.9% SWE-bench, terminal + IDE, repositorios completos|[📚 Setup](https://docs.anthropic.com/claude-code/setup)|
-|[**Antigravity**](https://antigravityai.org/)|Google|Gemini 3 (nov '25): Plataforma agent-first, orquestación multi-agente, gratis en preview|[🚀 Getting Started](https://codelabs.developers.google.com/getting-started-google-antigravity)|
-|[**OpenAI Codex**](https://openai.com/codex/)|OpenAI|GPT-5.2 Codex (dic '25): Cloud sandboxing, precisión mejorada|[🚀 Incluido en ChatGPT Plus/Pro](https://openai.com/chatgpt/pricing/)|
-|[**Qwen3-Coder**](https://github.com/QwenLM/Qwen3-Coder)|Alibaba|480B params, código agéntico open source|[⚡ Setup](https://docs.unsloth.ai/basics/qwen3-coder-how-to-run-locally)|
-|[**Grok Code Fast 1**](https://x.ai/news/grok-code-fast-1)|xAI|Grok 4.1 (nov '25): Velocidad extrema (160 tok/seg)|[🔗 API + Integrations](https://x.ai/api)|
-|[**Gemini Code Assist**](https://codeassist.google/)|Google|Gemini 3 (nov '25): Agent Mode, multi-file editing|[📖 Getting Started](https://developers.google.com/gemini-code-assist/docs/overview)|
+|[**Claude Code**](https://www.anthropic.com/claude-code)|Anthropic|Agente para coding con terminal + IDE y repos completos|[📚 Setup](https://docs.anthropic.com/claude-code/setup)|
+|[**Antigravity**](https://antigravityai.org/)|Google|Plataforma agent-first con orquestación multi-agente|[🚀 Getting Started](https://codelabs.developers.google.com/getting-started-google-antigravity)|
+|[**OpenAI Codex**](https://openai.com/codex/)|OpenAI|Agente de programación con sandboxing en la nube|[🚀 Incluido en ChatGPT Plus/Pro](https://openai.com/chatgpt/pricing/)|
+|[**Qwen3-Coder**](https://github.com/QwenLM/Qwen3-Coder)|Alibaba|Modelo open source para coding agéntico|[⚡ Setup](https://docs.unsloth.ai/basics/qwen3-coder-how-to-run-locally)|
+|[**Grok Code Fast 1**](https://x.ai/news/grok-code-fast-1)|xAI|Agente de coding con foco en rapidez|[🔗 API + Integrations](https://x.ai/api)|
+|[**Gemini Code Assist**](https://codeassist.google/)|Google|Asistente con modo agente y edición multiarchivo|[📖 Getting Started](https://developers.google.com/gemini-code-assist/docs/overview)|
 |[**Copilot Studio**](https://www.microsoft.com/microsoft-copilot-studio)|Microsoft|Orquestación multiagente empresarial|[🏢 Enterprise Setup](https://learn.microsoft.com/copilot-studio/)|
 |[**Perplexity Labs**](https://www.perplexity.ai/hub/blog/introducing-perplexity-labs)|Perplexity|Research + coding + web apps|[💡 Pro Access](https://www.perplexity.ai/help-center/en/articles/11144811-perplexity-labs)|
 |[**Replit Agent**](https://replit.com/ai)|Replit|Idea-to-app, visual design-to-code|[🛠️ Core Setup](https://docs.replit.com/replitai/agent)|
@@ -323,8 +323,8 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 |Nombre|Descripción|Especialización|
 |-|-|-|
-|[**Cursor**](https://cursor.sh/)|Cursor 2.0 con Composer (nov '25): Editor de código con agente IA, uso ilimitado $20/mes|Desarrollo de software, programación|
-|[**Windsurf**](https://codeium.com/windsurf)|IDE con integración Gemini 3 Pro (nov '25), agente IA autónomo, $15/mes Pro|Desarrollo web, arquitectura de aplicaciones|
+|[**Cursor**](https://cursor.sh/)|Editor de código con agente IA y Composer|Desarrollo de software, programación|
+|[**Windsurf**](https://codeium.com/windsurf)|IDE con agente IA autónomo para proyectos completos|Desarrollo web, arquitectura de aplicaciones|
 |[**AutoGPT**](https://github.com/Significant-Gravitas/AutoGPT)|Agente autónomo para tareas complejas de múltiples pasos|Automatización general, investigación|
 |[**AgentGPT**](https://agentgpt.reworkd.ai/)|Plataforma sin código para crear agentes personalizados|Tareas empresariales específicas|
 |[**LangChain**](https://langchain.com/)|Framework para aplicaciones de IA agéntica|Desarrollo de aplicaciones IA|
@@ -346,7 +346,7 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 |Nombre|Descripción|Mejor para|
 |-|-|-|
-|[**Antigravity**](https://antigravityai.org/)|IDE agent-first de Google: orquestación multi-agente, cross-platform (editor, terminal, browser)|Desarrollo autónomo, tareas complejas, gratis en preview|
+|[**Antigravity**](https://antigravityai.org/)|IDE agent-first de Google: orquestación multi-agente, cross-platform (editor, terminal, browser)|Desarrollo autónomo, tareas complejas|
 |[**V0**](https://v0.dev/)|Generación de componentes React desde prompts de texto|Prototipos rápidos, interfaces modernas / [CdU](/documentos/casosDeUso/V0.md)|
 |[**Cursor**](https://cursor.sh/)|IDE completo con IA para desarrollo full-stack|Desarrollo profesional, proyectos complejos|
 |[**Windsurf**](https://codeium.com/windsurf)|IDE con agente IA autónomo para proyectos completos|Arquitectura de aplicaciones, desarrollo colaborativo|
@@ -365,7 +365,7 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 |Nombre|Descripción|Integración|
 |-|-|-|
-|[GitHub Copilot](https://github.com/features/copilot)|Líder en autocompletado de código, integrado en múltiples IDEs|VS Code, JetBrains, Neovim|
+|[GitHub Copilot](https://github.com/features/copilot)|Autocompletado de código y chat integrados en múltiples IDEs|VS Code, JetBrains, Neovim|
 |[Amazon Q Developer](https://aws.amazon.com/q/developer/)|Asistente de desarrollo para AWS (antes CodeWhisperer)|AWS, VS Code, IDEs populares|
 |[Tabnine](https://www.tabnine.com/)|Autocompletado inteligente con privacidad empresarial|IDE universal, código privado|
 |[Codeium](https://codeium.com/)|Autocompletado gratuito con chat integrado|Mayoría de IDEs, extenso soporte|
@@ -384,7 +384,7 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 |Nombre|Descripción|Ideal para|
 |-|-|-|
-|[**Zapier**](https://zapier.com/)|Líder en automatización entre 7000+ aplicaciones|Integraciones simples, workflows empresariales|
+|[**Zapier**](https://zapier.com/)|Automatización entre 7000+ aplicaciones|Integraciones simples, workflows empresariales|
 |[**Make**](https://www.make.com/en)|Automatización visual de procesos complejos|Flujos avanzados, lógica condicional|
 |[Microsoft Power Automate](https://powerautomate.microsoft.com/)|Automatización integrada en ecosistema Microsoft|Empresas con Office 365, SharePoint|
 |[**Harpa.ai**](https://harpa.ai/)|Agente para automatización e investigación web|Navegación web automatizada, scraping|
@@ -449,9 +449,9 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
-|[Perplexity.ai](https://www.perplexity.ai)|Motor de búsqueda con IA para investigación con fuentes citadas|Plataforma
+|[Perplexity](https://www.perplexity.ai)|Motor de búsqueda con IA para investigación con fuentes citadas|Plataforma
 |[Elicit](https://elicit.com/)|Asistente de investigación académica que analiza papers|Plataforma / [CdU](https://elicit.com/notebook/713f9d40-e186-47df-8304-1a69ad32b061)
-|[Connected papers](https://www.connectedpapers.com/)|Mapas visuales de relaciones entre papers académicos|Plataforma / [CdU](https://www.connectedpapers.com/main/b24ef5f12177439560c859e6cad11ad020ac6f42/Effects-of-phytochemicals-on-thyroid-function-and-their-possible-role-in-thyroid-disease/graph) / [CdU](http://connectedpapers.com/main/b24ef5f12177439560c859e6cad11ad020ac6f42+ea1938338fb27e9295b27c0c2cc32e22a5b29769/Connected-Papers-%7C-Find-and-explore-academic-papers/graph)
+|[Connected Papers](https://www.connectedpapers.com/)|Mapas visuales de relaciones entre papers académicos|Plataforma / [CdU](https://www.connectedpapers.com/main/b24ef5f12177439560c859e6cad11ad020ac6f42/Effects-of-phytochemicals-on-thyroid-function-and-their-possible-role-in-thyroid-disease/graph) / [CdU](http://connectedpapers.com/main/b24ef5f12177439560c859e6cad11ad020ac6f42+ea1938338fb27e9295b27c0c2cc32e22a5b29769/Connected-Papers-%7C-Find-and-explore-academic-papers/graph)
 |[Consensus](https://consensus.app/)|Búsqueda de consenso científico en literatura académica|Plataforma
 |[Research Rabbit](https://www.researchrabbit.ai/)|Descubrimiento de papers relacionados con IA|Herramienta
 |[Semantic Scholar](https://www.semanticscholar.org/)|Motor de búsqueda académica con análisis de IA|Base de datos
@@ -512,7 +512,7 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 ### 📋 Notas sobre herramientas discontinuadas
 
 > [!NOTE]
-> **Evolución del mercado de IA (2024-2025)**
+> **Evolución reciente del mercado de IA**
 > 
 > Algunas categorías específicas han sido absorbidas por plataformas más amplias:
 > 
@@ -528,6 +528,6 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 **🔄 Actualización continua**: Este documento se revisa regularmente para reflejar el estado actual del ecosistema de IA.
 
-*Última actualización: Diciembre 2025*
+*Última actualización: revisión continua*
 
 </div>
