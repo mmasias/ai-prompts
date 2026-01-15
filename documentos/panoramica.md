@@ -13,7 +13,7 @@
 
 Este catálogo presenta una selección curada de herramientas de **Inteligencia Artificial**, organizada por categorías de uso y actualizada regularmente. Cada herramienta incluye enlaces directos, descripciones funcionales y ejemplos de casos de uso cuando están disponibles.
 
-|[![](https://img.shields.io/badge/-Primera_división-0078D4?style=flat&logo=chatbot&logoColor=white)](#primera-división) [![](https://img.shields.io/badge/-Ofimática-0078D4?style=flat&logo=microsoftexcel&logoColor=white)](#️-ofimática) [![](https://img.shields.io/badge/-Educación-0078D4?style=flat&logo=academia&logoColor=white)](#educación-y-aprendizaje) [![](https://img.shields.io/badge/-Trabajo-0078D4?style=flat&logo=slack&logoColor=white)](#trabajo-y-productividad) [![](https://img.shields.io/badge/-Creación-0078D4?style=flat&logo=canva&logoColor=white)](#creación-de-contenido) [![](https://img.shields.io/badge/-Marketing-0078D4?style=flat&logo=googleads&logoColor=white)](#comunicación-y-marketing) [![](https://img.shields.io/badge/-Desarrollo-0078D4?style=flat&logo=github&logoColor=white)](#desarrollo--áreas-técnicas) [![](https://img.shields.io/badge/-Especializaciones-0078D4?style=flat&logo=microscope&logoColor=white)](#especializaciones)
+|[![](https://img.shields.io/badge/-Primera_división-0078D4?style=flat&logo=chatbot&logoColor=white)](#primera-división) [![](https://img.shields.io/badge/-Ofimática-0078D4?style=flat&logo=microsoftexcel&logoColor=white)](#️-ofimática) [![](https://img.shields.io/badge/-Educación-0078D4?style=flat&logo=academia&logoColor=white)](#educación-y-aprendizaje) [![](https://img.shields.io/badge/-Trabajo-0078D4?style=flat&logo=slack&logoColor=white)](#trabajo-y-productividad) [![](https://img.shields.io/badge/-Creación-0078D4?style=flat&logo=canva&logoColor=white)](#creación-de-contenido) [![](https://img.shields.io/badge/-Marketing-0078D4?style=flat&logo=googleads&logoColor=white)](#comunicación-y-marketing) [![](https://img.shields.io/badge/-Automatización-0078D4?style=flat&logo=powerautomate&logoColor=white)](#-automatizacion-e-integraciones) [![](https://img.shields.io/badge/-Desarrollo-0078D4?style=flat&logo=github&logoColor=white)](#desarrollo--áreas-técnicas) [![](https://img.shields.io/badge/-Especializaciones-0078D4?style=flat&logo=microscope&logoColor=white)](#especializaciones)
 |:-:
 |![](https://img.shields.io/badge/Actualizado-revision_continua-28a745?style=for-the-badge&logo=calendar&logoColor=white)|
 
@@ -293,7 +293,7 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 > <sub><i>**Más**: [renable.com](https://renable.com) / [Mailchimp AI](https://mailchimp.com/) / [Klaviyo](https://www.klaviyo.com/) / [Marketo](https://www.marketo.com/) / [Pardot](https://www.pardot.com/) / [ActiveCampaign](https://www.activecampaign.com/) / [ConvertKit](https://convertkit.com/) / [Unbounce](https://unbounce.com/) / [Leadpages](https://www.leadpages.com/) / [OptinMonster](https://optinmonster.com/) / [Drift](https://www.drift.com/) / [Intercom](https://www.intercom.com/) / [Zendesk AI](https://www.zendesk.com/) / [ChatGPT for Business](https://openai.com/chatgpt/enterprise/)</i></sub>
 
-## 🤖⚡ Agentes de IA y Automatización
+## 🤖⚡ Agentes de IA
 
 *Sistemas autónomos que pueden ejecutar tareas complejas de múltiples pasos con mínima supervisión humana:*
 
@@ -336,6 +336,43 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 > <sub><i>**Marcos de trabajo**: [CrewAI](https://www.crewai.io/) / [SuperAGI](https://superagi.com/) / [Relevance AI](https://relevanceai.com/) / [Microsoft Copilot Studio](https://www.microsoft.com/en-us/microsoft-copilot/copilot-studio) / [LlamaIndex](https://www.llamaindex.ai/) / [Semantic Kernel](https://github.com/microsoft/semantic-kernel) / [AutoGen](https://microsoft.github.io/autogen/) / [Haystack](https://haystack.deepset.ai/)</i></sub>
 
+## 🔗🤖 Automatización e integraciones
+
+*Herramientas para conectar aplicaciones y automatizar flujos de trabajo:*
+
+<div align=center>
+
+|Nombre|Descripción|Ideal para|
+|-|-|-|
+|[**Zapier**](https://zapier.com/)|Automatización entre 7000+ aplicaciones|Integraciones simples, workflows empresariales|
+|[**Make**](https://www.make.com/en)|Automatización visual de procesos complejos|Flujos avanzados, lógica condicional|
+|[Microsoft Power Automate](https://powerautomate.microsoft.com/)|Automatización integrada en ecosistema Microsoft|Empresas con Office 365, SharePoint|
+|[**Harpa.ai**](https://harpa.ai/)|Agente para automatización e investigación web|Navegación web automatizada, scraping|
+|[**Bardeen**](https://www.bardeen.ai/)|Automatización de tareas web sin código|Tareas repetitivas de navegador|
+|[n8n](https://n8n.io/)|Automatización de código abierto auto-hospedada|Control total, integraciones personalizadas|
+|[Pipedream](https://pipedream.com/)|Automatización para desarrolladores con código|APIs complejas, lógica personalizada|
+
+</div>
+
+## 🤖💬 Chatbots y asistentes
+
+*Plataformas para crear chatbots personalizados y asistentes especializados:*
+
+<div align=center>
+
+|Nombre|Descripción|Especialización|
+|-|-|-|
+|[**Botpress**](https://botpress.com/)|Plataforma completa open source para chatbots empresariales|Desarrollo avanzado, integraciones|
+|[**CustomGPT**](https://customgpt.ai/)|Chatbots empresariales entrenados con datos privados|Conocimiento específico de empresa|
+|[**Dante**](https://dante-ai.com/)|Constructor de chatbots con documentos y archivos|Soporte técnico, FAQ dinámicas|
+|[Chatbase](https://www.chatbase.co/)|Chatbots entrenados con datos personalizados|Sitios web, atención al cliente|
+|[SiteGPT](https://sitegpt.ai/)|Chatbots para sitios web con entrenamiento automático|Páginas web, e-commerce|
+|[Droxy](https://www.droxy.ai/)|Chatbots especializados para contenido específico|Educación, documentación técnica|
+
+</div>
+
+> <sub><i>**Plataformas adicionales**: [IFTTT](https://ifttt.com/) / [Integrately](https://app.integrately.com/) / [ManyChat](https://manychat.com/) / [Chatfuel](https://chatfuel.com/) / [Landbot](https://landbot.io/) / [Voiceflow](https://www.voiceflow.com/) / [DialogFlow](https://dialogflow.cloud.google.com/) / [Microsoft Bot Framework](https://dev.botframework.com/)</i></sub>
+
 ## Desarrollo & áreas técnicas
 
 ### 🌍💻 Desarrollo web y aplicaciones
@@ -375,43 +412,6 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 </div>
 
 > <sub><i>**Herramientas adicionales**: [Claude for Coding](https://claude.ai/) / [ChatGPT Code Interpreter](https://openai.com/) / [DeepCode](https://www.deepcode.ai/) / [Snyk Code](https://snyk.io/product/snyk-code/) / [SonarQube](https://www.sonarqube.org/) / [Mintlify](https://mintlify.com/) / [CodeT5](https://github.com/salesforce/CodeT5)</i></sub>
-
-### 🔗🤖 Automatización e integraciones
-
-*Herramientas para conectar aplicaciones y automatizar flujos de trabajo:*
-
-<div align=center>
-
-|Nombre|Descripción|Ideal para|
-|-|-|-|
-|[**Zapier**](https://zapier.com/)|Automatización entre 7000+ aplicaciones|Integraciones simples, workflows empresariales|
-|[**Make**](https://www.make.com/en)|Automatización visual de procesos complejos|Flujos avanzados, lógica condicional|
-|[Microsoft Power Automate](https://powerautomate.microsoft.com/)|Automatización integrada en ecosistema Microsoft|Empresas con Office 365, SharePoint|
-|[**Harpa.ai**](https://harpa.ai/)|Agente para automatización e investigación web|Navegación web automatizada, scraping|
-|[**Bardeen**](https://www.bardeen.ai/)|Automatización de tareas web sin código|Tareas repetitivas de navegador|
-|[n8n](https://n8n.io/)|Automatización de código abierto auto-hospedada|Control total, integraciones personalizadas|
-|[Pipedream](https://pipedream.com/)|Automatización para desarrolladores con código|APIs complejas, lógica personalizada|
-
-</div>
-
-### 🤖💬 Chatbots y asistentes
-
-*Plataformas para crear chatbots personalizados y asistentes especializados:*
-
-<div align=center>
-
-|Nombre|Descripción|Especialización|
-|-|-|-|
-|[**Botpress**](https://botpress.com/)|Plataforma completa open source para chatbots empresariales|Desarrollo avanzado, integraciones|
-|[**CustomGPT**](https://customgpt.ai/)|Chatbots empresariales entrenados con datos privados|Conocimiento específico de empresa|
-|[**Dante**](https://dante-ai.com/)|Constructor de chatbots con documentos y archivos|Soporte técnico, FAQ dinámicas|
-|[Chatbase](https://www.chatbase.co/)|Chatbots entrenados con datos personalizados|Sitios web, atención al cliente|
-|[SiteGPT](https://sitegpt.ai/)|Chatbots para sitios web con entrenamiento automático|Páginas web, e-commerce|
-|[Droxy](https://www.droxy.ai/)|Chatbots especializados para contenido específico|Educación, documentación técnica|
-
-</div>
-
-> <sub><i>**Plataformas adicionales**: [IFTTT](https://ifttt.com/) / [Integrately](https://app.integrately.com/) / [ManyChat](https://manychat.com/) / [Chatfuel](https://chatfuel.com/) / [Landbot](https://landbot.io/) / [Voiceflow](https://www.voiceflow.com/) / [DialogFlow](https://dialogflow.cloud.google.com/) / [Microsoft Bot Framework](https://dev.botframework.com/)</i></sub>
 
 ### 🏠🔒 Modelos locales y privacidad
 
