@@ -88,16 +88,15 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 |Nombre|Descripción|Categoría|
 |-|-|-|
 |[**NotebookLM**](https://notebooklm.google.com/)|Análisis y síntesis inteligente de documentos para estudio|Herramienta
-|[**learningstudioai.com**](https://learningstudioai.com/)|Personalización del aprendizaje con IA|Plataforma / [CdU](https://learningstudioai.com/go/v3u9BmS6GUp404tH1oZi)
-|[Khanmigo](https://www.khanmigo.ai/)|Tutor personal de Khan Academy|Plataforma
+|[**Khanmigo**](https://www.khanmigo.ai/)|Tutor personal de Khan Academy|Plataforma
+|[**Duolingo Max**](https://www.duolingo.com/)|Tutoría y práctica guiada por IA en idiomas|Plataforma
 |[Quizlet](https://quizlet.com/)|Tarjetas de estudio y práctica con IA|Plataforma
 |[Coursera Coach](https://www.coursera.org/)|Asistente de aprendizaje personalizado|Plataforma
-|[Socratic by Google](https://socratic.org/)|Ayuda con tareas usando reconocimiento visual|App móvil
 |[Photomath](https://photomath.com/)|Resolución paso a paso de problemas matemáticos|App móvil
 
 </div>
 
-> <sub><i>**Más**: [learnworlds.com](https://www.learnworlds.com/) / [coursebox.ai](https://www.coursebox.ai/) / [Juji](https://juji.io/) / [studyable.app](https://studyable.app/) / [gajix.com](https://gajix.com/) / [Rori](https://rori.ai/) / [TutorOcean](https://www.tutorocean.com/ai) / [Brainly](https://brainly.com/) / [StudySmarter](https://www.studysmarter.co.uk/) / [Mindgrasp](https://mindgrasp.ai/) / [Otter.ai](https://otter.ai/students) / [Grammarly](https://www.grammarly.com/students) / [Wolfram Alpha](https://www.wolframalpha.com/) / [Anki](https://apps.ankiweb.net/) / [RemNote](https://www.remnote.com/)</i></sub>
+> <sub><i>**Más**: [learningstudioai.com](https://learningstudioai.com/) / [Socratic by Google](https://socratic.org/) / [learnworlds.com](https://www.learnworlds.com/) / [coursebox.ai](https://www.coursebox.ai/) / [Juji](https://juji.io/) / [studyable.app](https://studyable.app/) / [gajix.com](https://gajix.com/) / [Rori](https://rori.ai/) / [TutorOcean](https://www.tutorocean.com/ai) / [Brainly](https://brainly.com/) / [StudySmarter](https://www.studysmarter.co.uk/) / [Mindgrasp](https://mindgrasp.ai/) / [Otter.ai](https://otter.ai/students) / [Grammarly](https://www.grammarly.com/students) / [Wolfram Alpha](https://www.wolframalpha.com/) / [Anki](https://apps.ankiweb.net/) / [RemNote](https://www.remnote.com/)</i></sub>
 
 ### 🧑‍🏫📚 Docencia y educación
 
@@ -105,13 +104,14 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
+|[**MagicSchool**](https://www.magicschool.ai/)|Suite completa de herramientas de IA para educadores|Plataforma
+|[**Turnitin**](https://www.turnitin.com/)|Detección de plagio y retroalimentación de escritura con IA|Herramienta
+|[**Brisk Teaching**](https://www.briskteaching.com/)|Asistente para crear y adaptar materiales docentes|Herramienta
 |[Khanmigo](https://www.khanmigo.ai/)|Tutor de IA de Khan Academy para apoyo personalizado|Plataforma
+|[Curipod](https://www.curipod.com/)|Creación de lecciones interactivas con IA|Plataforma
+|[Class Companion](https://www.classcompanion.com/)|Feedback automatizado de escritura para estudiantes|Herramienta
 |[Roshi](https://www.roshi.ai/lessons)|Creación de lecciones interactivas y materiales educativos adaptados|Plataforma
-|[DreamBox Learning](https://www.dreambox.com/)|Matemáticas adaptativas que se ajustan al nivel de cada estudiante|Plataforma
-|[MagicSchool](https://www.magicschool.ai/)|Suite completa de herramientas de IA para educadores|Plataforma
 |[Gradescope](https://www.gradescope.com/)|Calificación asistida por IA para exámenes y tareas|Herramienta
-|[Photomath](https://photomath.com/)|Resolución de problemas matemáticos por fotografía|App móvil
-|[Turnitin](https://www.turnitin.com/)|Detección de plagio y retroalimentación de escritura con IA|Herramienta
 
 </div>
 
@@ -123,12 +123,12 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
-|[DreamBox Learning](https://www.dreambox.com/)|Matemáticas adaptativas que se ajustan al nivel de cada estudiante|Plataforma
+|[**DreamBox Learning**](https://www.dreambox.com/)|Matemáticas adaptativas que se ajustan al nivel de cada estudiante|Plataforma
+|[**ALEKS**](https://www.aleks.com/)|Evaluación y aprendizaje adaptativo en matemáticas y ciencias|Plataforma
+|[**Carnegie Learning**](https://www.carnegielearning.com/)|Sistema de tutoría inteligente con retroalimentación en tiempo real|Sistema
 |[Knewton Alta](https://www.knewton.com/)|Análisis predictivo para personalizar rutas de estudio|Herramienta
 |[Smart Sparrow](https://www.smartsparrow.com/)|Experiencias interactivas que se adaptan al progreso del estudiante|Plataforma
-|[Carnegie Learning](https://www.carnegielearning.com/)|Sistema de tutoría inteligente con retroalimentación en tiempo real|Sistema
 |[Century Tech](https://www.century.tech/)|Aprendizaje adaptativo basado en neurociencia cognitiva|Plataforma
-|[ALEKS](https://www.aleks.com/)|Evaluación y aprendizaje adaptativo en matemáticas y ciencias|Plataforma
 |[Squirrel AI](https://www.squirrelai.com/)|Sistema de tutoría adaptativa para múltiples materias|Sistema
 
 </div>
