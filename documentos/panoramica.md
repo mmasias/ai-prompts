@@ -69,17 +69,15 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 |Nombre|Descripción|Caso de uso ideal|
 |-|-|-|
 |[**NotebookLM**](https://notebooklm.google.com/)|Análisis de documentos, mapas mentales y tablas exportables (según plan)|Análisis académico, documentos empresariales, podcasts automáticos, investigación / [Plus](https://workspace.google.com/solutions/ai/)<br>[Podcast de esta sección](https://soundcloud.com/mmasias/panoramica_ai-prompts)|
-|[**GPT for work**](https://gptforwork.com/)|IA integrada en Google Sheets y Excel con plantillas predefinidas|Automatización de hojas de cálculo, análisis de datos / [Plantilla útil](https://docs.google.com/spreadsheets/d/1SOz3u2A8Y6RXvXK_X2QdrcWJ7WklbgtWNE9ljZ_yaEc/template/preview)|
-|[ChatGPT-4o](https://openai.com/index/improvements-to-data-analysis-in-chatgpt/)|Análisis avanzado de datos, archivos CSV, Excel y visualizaciones|Análisis exploratorio de datos, creación de gráficos|
-|[Numerous](https://numerous.ai/)|Automatización avanzada de hojas de cálculo con fórmulas AI|Cálculos complejos automatizados, reportes dinámicos|
-|[FormulaBOT](https://www.formulabot.com/)|Generador inteligente de fórmulas de Excel y Google Sheets|Creación de fórmulas complejas mediante lenguaje natural|
-|[Microsoft 365 Copilot](https://copilot.microsoft.com/)|IA integrada en planes personales y empresariales|Ecosistema Microsoft completo, Word, Excel, PowerPoint con IA|
-|[Google Workspace AI](https://workspace.google.com/solutions/ai/)|IA integrada en Docs, Sheets, Slides, Gmail|Ecosistema Google, colaboración en la nube|
+|[**Microsoft 365 Copilot**](https://copilot.microsoft.com/)|IA integrada en planes personales y empresariales|Ecosistema Microsoft completo, Word, Excel, PowerPoint con IA|
+|[**Google Workspace AI**](https://workspace.google.com/solutions/ai/)|IA integrada en Docs, Sheets, Slides, Gmail|Ecosistema Google, colaboración en la nube|
+|[ChatGPT (Advanced Data Analysis)](https://openai.com/index/improvements-to-data-analysis-in-chatgpt/)|Análisis avanzado de datos, archivos CSV, Excel y visualizaciones|Análisis exploratorio de datos, creación de gráficos|
+|[GPT for work](https://gptforwork.com/)|IA integrada en Google Sheets y Excel con plantillas predefinidas|Automatización de hojas de cálculo, análisis de datos / [Plantilla útil](https://docs.google.com/spreadsheets/d/1SOz3u2A8Y6RXvXK_X2QdrcWJ7WklbgtWNE9ljZ_yaEc/template/preview)|
 |[Coda](https://coda.io/)|Documentos inteligentes que combinan texto, tablas y aplicaciones|Bases de datos relacionales, workflows complejos|
 
 </div>
 
-> <sub><i>**Más herramientas**: [Airtable AI](https://www.airtable.com/) / [Smartsheet](https://www.smartsheet.com/) / [Clickup AI](https://clickup.com/) / [Asana Intelligence](https://asana.com/) / [Zapier Tables](https://zapier.com/tables) / [FormulasHQ](https://formulashq.com/es-LA/) / [Sheetplus](https://sheetplus.ai/) / [ExcelFormulaBot](https://excelformulabot.com/) / [Rows](https://rows.com/) / [DataSnipper](https://www.datasnipper.com/)</i></sub>
+> <sub><i>**Más herramientas**: [Airtable AI](https://www.airtable.com/) / [Smartsheet](https://www.smartsheet.com/) / [Clickup AI](https://clickup.com/) / [Asana Intelligence](https://asana.com/) / [Zapier Tables](https://zapier.com/tables) / [FormulasHQ](https://formulashq.com/es-LA/) / [Sheetplus](https://sheetplus.ai/) / [ExcelFormulaBot](https://excelformulabot.com/) / [Rows](https://rows.com/) / [DataSnipper](https://www.datasnipper.com/) / [Numerous](https://numerous.ai/) / [FormulaBOT](https://www.formulabot.com/)</i></sub>
 
 ## Educación y aprendizaje
 
