@@ -11,15 +11,15 @@
 
 <table>
 <tr>
-<td>
-<img src="/documentos/imagenes/spaceStation.png" width="50%">
+<td width=50%>
+<img src="/documentos/imagenes/spaceStation.png">
 </td><td>
 
 <sub>Este repositorio contiene artículos largos, detallados y que requieren lectura activa.<sub>
 
-|<sub>No encontrarás|<sub>Encontrarás|
+|<sub>No contiene|<sub>Contiene|
 |-|-|
-|<sub>Listas de "5 prompts mágicos"<br>Resúmenes en viñetas de 3 líneas<br>"Hacks" que prometen resultados en 30 segundos<br>Contenido viral sin sustancia|<sub>Análisis de problemas reales<br>Razonamiento detrás de cada decisión<br>Transcripciones completas para que veas el proceso, no solo el resultado<br>Reflexiones sobre qué funcionó y qué no
+|<sub>Listas de "5 prompts mágicos"<br>Resúmenes en viñetas de 3 líneas<br>"Hacks" que prometen resultados en 30 segundos<br>Contenido viral sin sustancia|<sub>Análisis de problemas reales<br>Razonamiento detrás de cada decisión<br>Transcripciones completas del proceso<br>Reflexiones sobre qué funcionó y qué no
 
 <sub>Y es que entender cómo pensar con IA es más valioso que memorizar prompts.
 <br>- Porque los casos de uso complejos requieren contexto.
