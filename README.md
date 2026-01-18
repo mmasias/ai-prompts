@@ -12,32 +12,23 @@
 <table>
 <tr>
 <td>
- 
- <img src="/documentos/imagenes/spaceStation.png">
- 
- </td>
-
-<td>
+<img src="/documentos/imagenes/spaceStation.png" width="50%">
+</td><td>
 
 <sub>Este repositorio contiene artículos largos, detallados y que requieren lectura activa.<sub>
 
-|<sub>NO encontrarás|<sub>Encontrarás|
+|<sub>No encontrarás|<sub>Encontrarás|
 |-|-|
-|<sub>Listas de "5 prompts mágicos"|<sub>Análisis de problemas reales
-|<sub>Resúmenes en viñetas de 3 líneas|<sub>Razonamiento detrás de cada decisión
-|<sub>"Hacks" que prometen resultados en 30 segundos|<sub>Transcripciones completas para que veas el proceso, no solo el resultado
-|<sub>Contenido viral sin sustancia|<sub>Reflexiones sobre qué funcionó y qué no
+|<sub>Listas de "5 prompts mágicos"<br>Resúmenes en viñetas de 3 líneas<br>"Hacks" que prometen resultados en 30 segundos<br>Contenido viral sin sustancia|<sub>Análisis de problemas reales<br>Razonamiento detrás de cada decisión<br>Transcripciones completas para que veas el proceso, no solo el resultado<br>Reflexiones sobre qué funcionó y qué no
 
 <sub>Y es que entender cómo pensar con IA es más valioso que memorizar prompts.
 <br>- Porque los casos de uso complejos requieren contexto.
 <br>- Porque si esto fuera resumible en 280 caracteres, no valdría la pena documentarlo.
-<br>- Si buscas contenido "rápido y fácil" este no es tu repositorio. Internet en general y (Linkedin en particular) están lleno de listas que prometen atajos.</sub>
+<br>- Si buscas contenido "rápido y fácil" este no es tu repositorio.
+<br>- Internet en general, y Linkedin y X en particular, están lleno de listas que prometen atajos.</sub>
 
 <sub>Si quieres empezar a entender profundamente cómo trabajar con LLMs, bienvenido, ponte cómodo: vas a leer.
-
 <div align=right><sub><i>La búsqueda del conocimiento no cabe en un tweet.</i></div>
-
-
 </td>
 </tr>
 </table>
