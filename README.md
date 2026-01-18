@@ -9,7 +9,34 @@
 
 # Pequeñas anécdotas sobre la *IA*
 
-<img src="documentos/imagenes/spaceStation.png" width=50%>
+<table>
+<tr>
+<td><img src="documentos/imagenes/spaceStation.png"></td>
+
+<td>
+
+Este repositorio contiene casos de uso largos, detallados y que requieren lectura activa.
+
+|NO encontrarás|Encontrarás|
+|-|-|
+|Listas de "5 prompts mágicos"|Análisis de problemas reales
+|Resúmenes en viñetas de 3 líneas|Razonamiento detrás de cada decisión
+|"Hacks" que prometen resultados en 30 segundos|Transcripciones completas para que veas el proceso, no solo el resultado
+|Contenido viral sin sustancia|Reflexiones sobre qué funcionó y qué no
+
+- Y es que entender cómo pensar con IA es más valioso que memorizar prompts.
+- Porque los casos de uso complejos requieren contexto.
+- Porque si esto fuera resumible en 280 caracteres, no valdría la pena documentarlo.
+- Si buscas contenido "rápido y fácil": este no es tu repositorio. Internet en general y Linkedin en particular están lleno de listas que prometen atajos.
+
+Si quieres empezar a entender profundamente cómo trabajar con LLMs, bienvenido, ponte cómodo: vas a leer.
+
+<div align=right>*El conocimiento real no cabe en un tweet.*</div>
+
+</td>
+</tr>
+</table>
+
 
 </div>
 
