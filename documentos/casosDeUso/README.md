@@ -49,6 +49,7 @@ Propuesta de creación de un ejemplo - [Comparando respuestas](microComparativa.
 |Resúmenes de contenidos generados|[7+-2](17_enCincoPuntos.md)
 |Presentación formato MARP|👨🏽‍🏫|[Presentación](18_marpPresentacion.md)
 |Análisis financiero|👨🏽‍🏫|[Análisis financiero](19_analisisFinanciero.md)||
+|Metodología de validación|🔍🤖|[Meta-Análisis Comparativo Multi-LLM](20_metaAnalisisComparativo.md)|Evaluación cruzada de un documento usando 4 LLMs diferentes para identificar fortalezas, sesgos y generar síntesis óptima|
 
 ## 2DOs
 
