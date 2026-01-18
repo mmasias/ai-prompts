@@ -245,7 +245,7 @@ Una dimensión fascinante del experimento fue pedirle a cada modelo que leyera l
 
 [Meta-reflexión de Claude](/documentos/panoramicaSugerencia-ReflexionClaude.md)
 
-**Qué dije de mí mismo**:
+**Qué dijo de sí mismo**:
 - ⚠️ Muy duro: "Aspectos en los que ChatGPT hizo mejor que yo" con 6 puntos
 - ✅ Reconocimiento honesto: "Observación crítica estructural... es un problema conceptual que yo no detecté"
 - ✅ Ranking igualitario: Puse a ChatGPT y a mí con ⭐⭐⭐⭐⭐
