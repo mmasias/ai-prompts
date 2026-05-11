@@ -13,7 +13,7 @@
 
 Este catálogo presenta una selección curada de herramientas de **Inteligencia Artificial**, organizada por categorías de uso y actualizada regularmente. Cada herramienta incluye enlaces directos, descripciones funcionales y ejemplos de casos de uso cuando están disponibles.
 
-|[![](https://img.shields.io/badge/-Primera_división-0078D4?style=flat&logo=chatbot&logoColor=white)](#primera-división) [![](https://img.shields.io/badge/-Ofimática-0078D4?style=flat&logo=microsoftexcel&logoColor=white)](#️-ofimática) [![](https://img.shields.io/badge/-Educación-0078D4?style=flat&logo=academia&logoColor=white)](#educación-y-aprendizaje) [![](https://img.shields.io/badge/-Trabajo-0078D4?style=flat&logo=slack&logoColor=white)](#trabajo-y-productividad) [![](https://img.shields.io/badge/-Creación-0078D4?style=flat&logo=canva&logoColor=white)](#creación-de-contenido) [![](https://img.shields.io/badge/-Marketing-0078D4?style=flat&logo=googleads&logoColor=white)](#comunicación-y-marketing) [![](https://img.shields.io/badge/-Automatización-0078D4?style=flat&logo=powerautomate&logoColor=white)](#-automatizacion-e-integraciones) [![](https://img.shields.io/badge/-Desarrollo-0078D4?style=flat&logo=github&logoColor=white)](#desarrollo--áreas-técnicas) [![](https://img.shields.io/badge/-Especializaciones-0078D4?style=flat&logo=microscope&logoColor=white)](#especializaciones)
+|[![](https://img.shields.io/badge/-Primera_división-0078D4?style=flat&logo=chatbot&logoColor=white)](#primera-división) [![](https://img.shields.io/badge/-Ofimática-0078D4?style=flat&logo=microsoftexcel&logoColor=white)](#️-ofimática) [![](https://img.shields.io/badge/-Educación-0078D4?style=flat&logo=academia&logoColor=white)](#educación-y-aprendizaje) [![](https://img.shields.io/badge/-Trabajo-0078D4?style=flat&logo=slack&logoColor=white)](#trabajo-y-productividad) [![](https://img.shields.io/badge/-Creación-0078D4?style=flat&logo=canva&logoColor=white)](#creación-de-contenido) [![](https://img.shields.io/badge/-Marketing-0078D4?style=flat&logo=googleads&logoColor=white)](#comunicación-y-marketing) [![](https://img.shields.io/badge/-Agentes-0078D4?style=flat&logo=robotframework&logoColor=white)](#-agentes-de-ia) [![](https://img.shields.io/badge/-Automatización-0078D4?style=flat&logo=powerautomate&logoColor=white)](#-automatizacion-e-integraciones) [![](https://img.shields.io/badge/-Desarrollo-0078D4?style=flat&logo=github&logoColor=white)](#desarrollo--áreas-técnicas) [![](https://img.shields.io/badge/-Especializaciones-0078D4?style=flat&logo=microscope&logoColor=white)](#especializaciones)
 |:-:
 |![](https://img.shields.io/badge/Actualizado-revision_continua-28a745?style=for-the-badge&logo=calendar&logoColor=white)|
 
@@ -48,17 +48,18 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 |Nombre|Descripción|Características destacadas|
 |-|-|-|
-|[**ChatGPT**](https://chatgpt.com/)|Modelos de OpenAI con variantes orientadas a rapidez y razonamiento|Proyectos, ramificaciones de conversación, biblioteca de imágenes / [Documentación](https://platform.openai.com/docs)|
-|[**Claude**](https://claude.ai/chats)|Modelos con foco en análisis profundo y tareas largas|Ventana de contexto amplia, análisis de documentos extensos, Computer Use|
-|[**Gemini**](https://gemini.google.com/app)|Modelos de Google integrados con su ecosistema|Acceso directo a Google Search, multimodalidad nativa / [AIStudio](https://aistudio.google.com/prompts/new_chat)|
-|[DeepSeek](https://chat.deepseek.com/)|Modelo chino de código abierto muy económico y competitivo|Excelente relación calidad-precio, especialización en programación|
-|[Grok](https://x.com/i/grok)|Modelo integrado en X con foco en actualidad|Información en tiempo real, integración en X / [Estado](https://x.ai/grok)|
-|[Perplexity](https://www.perplexity.ai/)|Motor de búsqueda con IA enfocado en investigación con fuentes|Investigación aplicada, síntesis con citas / [Estado](https://www.perplexity.ai/hub/blog/introducing-perplexity-labs)|
-|[Copilot](https://copilot.microsoft.com)|IA de Microsoft integrada en su ecosistema (Windows, Office, Edge)|Integración profunda con herramientas de productividad|
+|[**ChatGPT**](https://chatgpt.com/)|Ecosistema de OpenAI con modelos orientados a razonamiento (o3), velocidad (4.1-mini) y tareas especializadas|Proyectos, ramificaciones, Operator (agente web), Tasks (tareas programadas), Codex (coding agéntico), generación de imágenes / [Documentación](https://platform.openai.com/docs)|
+|[**Claude**](https://claude.ai/chats)|Modelos de Anthropic con foco en análisis profundo, tareas largas y coding|Ventana de contexto de 200K, análisis de documentos extensos, Claude Code (agente de programación en terminal/IDE), Computer Use, artefactos / [API](https://docs.anthropic.com/)|
+|[**Gemini**](https://gemini.google.com/app)|Modelos de Google integrados con su ecosistema y multimodalidad nativa|Deep Research (informes de investigación automáticos), Gemini Live (voz), integración con Google Workspace, 1M tokens de contexto / [AIStudio](https://aistudio.google.com/prompts/new_chat)|
+|[DeepSeek](https://chat.deepseek.com/)|Modelo chino con excelentes resultados en razonamiento y código abierto|R1 (razonamiento tipo o1 con chain-of-thought visible), V3 (modelo general competitivo), extremadamente económico, pesos abiertos|
+|[Grok](https://x.com/i/grok)|Modelo de xAI integrado en X con foco en actualidad y razonamiento|Acceso a información en tiempo real de X, Deep Research, reasoning avanzado, generación de imágenes / [API](https://x.ai/api)|
+|[Perplexity](https://www.perplexity.ai/)|Motor de búsqueda con IA enfocado en investigación con fuentes citadas|Deep Research, Labs (generación de apps y código), síntesis con citas, ideal para investigación aplicada|
+|[Copilot](https://copilot.microsoft.com)|IA de Microsoft integrada en su ecosistema (Windows, Office, Edge, GitHub)|Copilot Studio (agentes empresariales), integración profunda con 365, agentes especializados por rol|
+|[GLM (Z.AI)](https://z.ai/)|Modelos de Zhipu AI con fuerte presencia en coding y razonamiento|GLM-5.1 (razonamiento avanzado), excelente en programación, pesos abiertos, multimodal / [API](https://open.bigmodel.cn/)|
 
 </div>
 
-> <sub><i>**Alternativos**: [You.com](https://you.com/) / [Poe](https://poe.com/) / [Mistral AI](https://chat.mistral.ai/chat) / [Cohere](https://dashboard.cohere.com/playground/chat) / [Hugging Face Chat](https://huggingface.co/chat/) / [Qwen](https://chat.qwen.ai/) / [MetaAI](https://www.meta.ai/) / [Z.ai](https://z.ai/)</i></sub>
+> <sub><i>**Alternativos**: [You.com](https://you.com/) / [Poe](https://poe.com/) / [Mistral AI](https://chat.mistral.ai/chat) / [Cohere](https://dashboard.cohere.com/playground/chat) / [Hugging Face Chat](https://huggingface.co/chat/) / [Qwen](https://chat.qwen.ai/) / [MetaAI](https://www.meta.ai/)</i></sub>
 
 ## 🗃️📄 Ofimática & Análisis de datos
 
@@ -106,35 +107,29 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
-|[**Whimsical**](https://whimsical.com/)|Creación de mapas mentales, diagramas y prototipos visuales con IA|Plataforma / [CdU](https://whimsical.com/seminario-ai-YKgQuAQtcHKUYicLPAisqE)
-|[Otter](https://otter.ai/home)|Transcripción y análisis automático de reuniones|Herramienta
-|[fireflies.ai](https://fireflies.ai/)|Transcripción y análisis inteligente de reuniones|Herramienta
-|[Notion AI](https://www.notion.so/product/ai)|Asistente de escritura y organización inteligente|Plataforma
-|[MemAI](https://mem.ai/)|Organización automática de notas con IA|Herramienta
-|[ChatPDF](https://www.chatpdf.com/)|Conversación inteligente con documentos PDF|Herramienta
-|[Humata](http://humata.ai)|Chat inteligente con múltiples tipos de documentos|Herramienta
+|[**Whimsical**](https://whimsical.com/)|Creación de mapas mentales, diagramas y prototipos visuales con IA|Plataforma / [CdU](https://whimsical.com/seminario-ai-YKgQuAQtcHKUYicLPAisqE)|
+|[**Otter**](https://otter.ai/home)|Transcripción y análisis automático de reuniones|Herramienta|
+|[**fireflies.ai**](https://fireflies.ai/)|Transcripción y análisis inteligente de reuniones|Herramienta|
+|[**Notion AI**](https://www.notion.so/product/ai)|Asistente de escritura y organización inteligente|Plataforma|
 
 </div>
 
-> <sub><i>**Más**: [Unstuck study](https://unstuckstudy.com) / [Krisp](https://krisp.ai/) / [Jasper](https://www.jasper.ai/) / [Copy.ai](https://www.copy.ai/) / [Writesonic](https://writesonic.com/) / [Grammarly](https://www.grammarly.com/) / [Loom AI](https://www.loom.com/) / [Monday.com](https://monday.com/) / [Slack AI](https://slack.com/) / [Microsoft Viva](https://www.microsoft.com/en-us/microsoft-viva) / [Teams Premium](https://www.microsoft.com/en-us/microsoft-teams/premium) / [Google Workspace AI](https://workspace.google.com/solutions/ai/)</i></sub>
+> <sub><i>**Más**: [Krisp](https://krisp.ai/) / [Grammarly](https://www.grammarly.com/) / [Loom AI](https://www.loom.com/) / [Slack AI](https://slack.com/) / [Microsoft Teams Premium](https://www.microsoft.com/en-us/microsoft-teams/premium) / [Google Workspace AI](https://workspace.google.com/solutions/ai/)</i></sub>
 
-### ⏰📅 Gestión del tiempo y productividad personal
+### ⏰📅 Productividad personal
 
 <div align=center>
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
-|[Reclaim.ai](https://reclaim.ai/)|Planificación inteligente de calendarios y bloques de tiempo|Herramienta
-|[Clockwise](https://www.getclockwise.com/)|Optimización de reuniones y creación de tiempo enfocado|Herramienta
-|[Motion](https://www.usemotion.com/)|Calendario y gestión de tareas automatizada con IA|App
-|[Todoist](https://todoist.com/)|Gestor de tareas con IA Scheduler para reorganización automática|App
-|[Any.do](https://www.any.do/)|Listas de tareas y calendarios con sugerencias inteligentes|App
-|[Akiflow](https://akiflow.com/)|Planificación diaria que integra múltiples aplicaciones|Herramienta
-|[TimeTree](https://timetreeapp.com/)|Calendario compartido con optimización por IA|App
+|[**Reclaim.ai**](https://reclaim.ai/)|Planificación inteligente de calendarios y bloques de tiempo|Herramienta|
+|[**Motion**](https://www.usemotion.com/)|Calendario y gestión de tareas automatizada con IA|App|
+|[**Notion AI**](https://www.notion.so/product/ai)|Asistente de escritura y organización inteligente|Plataforma|
+|[**Todoist**](https://todoist.com/)|Gestor de tareas con IA Scheduler para reorganización automática|App|
 
 </div>
 
-> <sub><i>**Más**: [Fantastical](https://flexibits.com/fantastical) / [Calendly](https://calendly.com/) / [Scheduler AI](https://scheduler.ai/) / [Clara](https://claralabs.com/) / [x.ai](https://x.ai/) / [Trevor](https://trevor.io/) / [Plan](https://getplan.co/) / [Sunsama](https://sunsama.com/) / [TickTick](https://ticktick.com/) / [Toggl Track](https://toggl.com/track/) / [RescueTime](https://www.rescuetime.com/) / [Focus Keeper](https://focuskeeperapp.com/) / [Forest](https://www.forestapp.cc/) / [Brain.fm](https://www.brain.fm/)</i></sub>
+> <sub><i>**Más**: [Clockwise](https://www.getclockwise.com/) / [Akiflow](https://akiflow.com/) / [MemAI](https://mem.ai/) / [Sunsama](https://sunsama.com/) / [TickTick](https://ticktick.com/) / [Toggl Track](https://toggl.com/track/)</i></sub>
 
 ## 🎨 Creación de contenido
 
@@ -198,23 +193,19 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 > <sub><i>**Audio profesional**: [StableAudio](https://www.stableaudio.com/) / [Speechify](https://speechify.com/) / [Otter.ai](https://otter.ai/) / [Descript](https://www.descript.com/) / [Resemble AI](https://www.resemble.ai/) / [Rev.ai](https://www.rev.ai/) / [Krisp](https://krisp.ai/) / [Beatoven.ai](https://www.beatoven.ai/) / [Boomy](https://boomy.com/)</i></sub>
 
-### 📷🎨 Fotografía
+### 📷 Fotografía y restauración
 
 <div align=center>
 
-|Nombre|Descripción|Categoría|
+|Nombre|Descripción|Fortaleza principal|
 |-|-|-|
-|[**MyHeritage In Color AI**](https://www.myheritage.com/incolor)|Anima fotos históricas y crea videos donde las personas "cobran vida"|Plataforma web
-|[**Runway**](https://runwayml.com/)|Herramientas de video generativo para animar fotos|Plataforma
-|[**D-ID**](https://www.d-id.com/)|Especializado en crear videos hablantes a partir de fotos estáticas|Plataforma
-|[Reface](https://hey.reface.ai/)|Intercambio de caras en videos y animación de fotos estáticas|App móvil
-|[LivePortrait](https://liveportrait.github.io/)|Animación realista de retratos con gestos y movimientos naturales|Herramienta open source
-|[Remini](https://remini.ai/)|Mejora de calidad y restauración de fotos con IA|App móvil
-|[Topaz Labs](https://www.topazlabs.com/)|Suite completa de herramientas de mejora fotográfica con IA|Software
+|[**MyHeritage In Color AI**](https://www.myheritage.com/incolor)|Anima fotos históricas y crea videos donde las personas "cobran vida"|Restauración y animación de fotos antiguas|
+|[**Remini**](https://remini.ai/)|Mejora de calidad y restauración de fotos con IA|Upscaling, fotos borrosas|
+|[**Topaz Labs**](https://www.topazlabs.com/)|Suite completa de herramientas de mejora fotográfica con IA|Profesional, denoise, sharpening|
+|[**D-ID**](https://www.d-id.com/)|Videos hablantes a partir de fotos estáticas|Animación de retratos|
+|[**Remove.bg**](https://www.remove.bg/)|Eliminación automática de fondos|Aislamiento de sujetos|
 
 </div>
-
-> <sub><i>**Más**: [Adobe Firefly](https://firefly.adobe.com/) / [Luminar AI](https://skylum.com/luminar-ai) / [Canva AI](https://www.canva.com/ai-image-generator/) / [VSCO](https://vsco.co/) / [Snapseed](https://snapseed.online/) / [FaceApp](https://www.faceapp.com/) / [Lensa AI](https://prisma-ai.com/lensa) / [PhotoRoom](https://www.photoroom.com/) / [Remove.bg](https://www.remove.bg/) / [Cleanup.pictures](https://cleanup.pictures/) / [Upscale.media](https://upscale.media/) / [AI Image Enlarger](https://imglarger.com/) / [Waifu2x](https://waifu2x.udp.jp/) / [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)</i></sub>
 
 ## Comunicación y marketing
 
@@ -256,46 +247,75 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 ## 🤖⚡ Agentes de IA
 
-*Sistemas autónomos que pueden ejecutar tareas complejas de múltiples pasos con mínima supervisión humana:*
+*Sistemas autónomos que ejecutan tareas complejas de múltiples pasos con mínima supervisión humana:*
 
 [Acerca de los agentes](agentes.md)
 
-### 🏆 Primera división
+### 🔎 Investigación agéntica (Deep Research)
 
-*Los agentes de IA más avanzados para desarrollo autónomo, cada uno con capacidades específicas y documentación completa:*
+*Agentes especializados en investigación automática: buscan, analizan, sintetizan y producen informes completos de forma autónoma.*
 
 <div align=center>
 
-|Agente|Compañía|Especialización|Instalación/Setup|
+|Nombre|Proveedor|Descripción|Mejor para|
 |-|-|-|-|
-|[**Claude Code**](https://www.anthropic.com/claude-code)|Anthropic|Agente para coding con terminal + IDE y repos completos|[📚 Setup](https://docs.anthropic.com/claude-code/setup)|
-|[**Antigravity**](https://codelabs.developers.google.com/getting-started-google-antigravity)|Google|Plataforma agent-first con orquestación multi-agente|[🚀 Getting Started](https://codelabs.developers.google.com/getting-started-google-antigravity)|
-|[**OpenAI Codex**](https://openai.com/codex/)|OpenAI|Agente de programación con sandboxing en la nube|[🚀 Incluido en ChatGPT Plus/Pro](https://openai.com/chatgpt/pricing/)|
-|[**Qwen3-Coder**](https://github.com/QwenLM/Qwen3-Coder)|Alibaba|Modelo open source para coding agéntico|[⚡ Setup](https://docs.unsloth.ai/basics/qwen3-coder-how-to-run-locally)|
-|[**Grok Code Fast 1**](https://x.ai/news/grok-code-fast-1)|xAI|Agente de coding con foco en rapidez|[🔗 API + Integrations](https://x.ai/api)|
-|[**Gemini Code Assist**](https://codeassist.google/)|Google|Asistente con modo agente y edición multiarchivo|[📖 Getting Started](https://developers.google.com/gemini-code-assist/docs/overview)|
-|[**Copilot Studio**](https://www.microsoft.com/microsoft-copilot-studio)|Microsoft|Orquestación multiagente empresarial|[🏢 Enterprise Setup](https://learn.microsoft.com/en-us/microsoft-copilot-studio/)|
-|[**Perplexity Labs**](https://www.perplexity.ai/hub/blog/introducing-perplexity-labs)|Perplexity|Research + coding + web apps|[💡 Pro Access](https://www.perplexity.ai/help-center/en/articles/11144811-perplexity-labs)|
-|[**Replit Agent**](https://replit.com/ai)|Replit|Idea-to-app, visual design-to-code|[🛠️ Core Setup](https://docs.replit.com/replitai/agent)|
+|[**Deep Research**](https://chatgpt.com/)|OpenAI|Agente de investigación de ChatGPT: explora múltiples fuentes y genera informes detallados con citas|Informes en profundidad, análisis de mercado, síntesis académica|
+|[**Deep Research**](https://gemini.google.com/)|Google|Agente de investigación de Gemini con acceso al ecosistema Google|Investigación con datos de Google, informes estructurados|
+|[**Deep Research**](https://x.com/i/grok)|Grok|Investigación automática con acceso a información en tiempo real de X|Actualidad, tendencias, análisis de sentimiento|
+|[**Perplexity Deep Research**](https://www.perplexity.ai/)|Perplexity|Investigación automática con múltiples fuentes citadas|Búsqueda académica, verificación de fuentes|
+|[**Elicit**](https://elicit.com/)|Elicit|Asistente de investigación académica que analiza papers científicos|Revisión bibliográfica, análisis de literatura|
 
 </div>
+
+### 💻 Agentes de programación
+
+*Agentes especializados en escribir, depurar y mantener código de forma autónoma:*
+
+<div align=center>
+
+|Agente|Compañía|Especialización|Setup|
+|-|-|-|-|
+|[**Claude Code**](https://docs.anthropic.com/en/docs/claude-code)|Anthropic|Agente de coding en terminal + IDE, opera sobre repos completos|[Setup](https://docs.anthropic.com/en/docs/claude-code)|
+|[**OpenCode**](https://opencode.ai)|Open source|Agente de coding CLI interactivo, multi-modelo, funciona en terminal|[GitHub](https://github.com/anomalyco/opencode)|
+|[**OpenAI Codex**](https://openai.com/codex/)|OpenAI|Agente de programación con sandboxing en la nube|[Incluido en ChatGPT Plus/Pro](https://openai.com/chatgpt/pricing/)|
+|[**Gemini Code Assist**](https://codeassist.google/)|Google|Asistente con modo agente y edición multiarchivo|[Getting Started](https://developers.google.com/gemini-code-assist/docs/overview)|
+|[**Copilot Agent Mode**](https://github.com/features/copilot)|Microsoft/GitHub|Copilot con modo agente que ejecuta tareas multi-paso en el editor|[Incluido en GitHub Copilot](https://github.com/features/copilot)|
+|[**Replit Agent**](https://replit.com/ai)|Replit|Idea-to-app, genera aplicaciones completas desde descripción|[Docs](https://docs.replit.com/replitai/agent)|
+
+</div>
+
+### 🏢 Agentes de tarea general y empresariales
 
 <div align=center>
 
 |Nombre|Descripción|Especialización|
 |-|-|-|
-|[**Cursor**](https://cursor.sh/)|Editor de código con agente IA y Composer|Desarrollo de software, programación|
-|[**Windsurf**](https://codeium.com/windsurf)|IDE con agente IA autónomo para proyectos completos|Desarrollo web, arquitectura de aplicaciones|
-|[**AutoGPT**](https://github.com/Significant-Gravitas/AutoGPT)|Agente autónomo para tareas complejas de múltiples pasos|Automatización general, investigación|
-|[**AgentGPT**](https://agentgpt.reworkd.ai/)|Plataforma sin código para crear agentes personalizados|Tareas empresariales específicas|
-|[**LangChain**](https://langchain.com/)|Framework para aplicaciones de IA agéntica|Desarrollo de aplicaciones IA|
-|[Cognosys](https://www.cognosys.ai/)|Investigación web y análisis automático|Investigación, análisis de mercado|
-|[Zapier AI](https://zapier.com/ai)|Automatización de flujos de trabajo entre aplicaciones|Integración de herramientas, workflows|
-|[MultiOn](https://multion.ai/)|Agente que navega y opera interfaces web automáticamente|Automatización web, tareas repetitivas|
+|[**ChatGPT Operator**](https://chatgpt.com/)|Agente web de OpenAI que navega y opera en internet por ti|Compras, reservas, formularios, tareas web|
+|[**ChatGPT Tasks**](https://chatgpt.com/)|Tareas programadas y recurrentes con ChatGPT|Recordatorios, reportes periódicos, monitorización|
+|[**Copilot Studio**](https://www.microsoft.com/microsoft-copilot-studio)|Orquestación multiagente empresarial de Microsoft|Agentes empresariales personalizados, flujos de negocio|
+|[**Perplexity Labs**](https://www.perplexity.ai/hub/blog/introducing-perplexity-labs)|Research + coding + generación de web apps|Prototipos rápidos, dashboards, herramientas web|
+|[**Zapier AI**](https://zapier.com/ai)|Automatización de flujos de trabajo entre aplicaciones con IA|Integración de herramientas, workflows automáticos|
 
 </div>
 
-> <sub><i>**Marcos de trabajo**: [CrewAI](https://www.crewai.io/) / [SuperAGI](https://superagi.com/) / [Relevance AI](https://relevanceai.com/) / [Microsoft Copilot Studio](https://www.microsoft.com/en-us/microsoft-copilot/copilot-studio) / [LlamaIndex](https://www.llamaindex.ai/) / [Semantic Kernel](https://github.com/microsoft/semantic-kernel) / [AutoGen](https://microsoft.github.io/autogen/) / [Haystack](https://haystack.deepset.ai/)</i></sub>
+### 🧩 Frameworks para construir agentes
+
+*Librerías y plataformas para desarrollar aplicaciones de IA agéntica propias:*
+
+<div align=center>
+
+|Framework|Descripción|Ideal para|
+|-|-|-|
+|[**LangChain**](https://langchain.com/)|Framework para aplicaciones de IA agéntica con cadenas de herramientas|Pipelines de IA complejos, RAG, agentes con herramientas|
+|[**CrewAI**](https://www.crewai.io/)|Orquestación de equipos de agentes con roles definidos|Sistemas multiagente, tareas colaborativas|
+|[**AutoGen**](https://microsoft.github.io/autogen/)|Framework de Microsoft para conversaciones multiagente|Investigación, agentes conversacionales|
+|[**LlamaIndex**](https://www.llamaindex.ai/)|Framework para conectar LLMs con datos empresariales|RAG empresarial, indexación de documentos|
+|[**Semantic Kernel**](https://github.com/microsoft/semantic-kernel)|SDK de Microsoft para integrar IA en aplicaciones enterprise|Aplicaciones .NET/Python empresariales|
+|[**Haystack**](https://haystack.deepset.ai/)|Framework para construir sistemas de búsqueda y QA con IA|Búsqueda semántica, sistemas de preguntas-respuestas|
+
+</div>
+
+> <sub><i>**Más frameworks**: [Relevance AI](https://relevanceai.com/) / [SuperAGI](https://superagi.com/) / [Phidata](https://phidata.com/) / [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) / [AgentGPT](https://agentgpt.reworkd.ai/)</i></sub>
 
 ## 🔗🤖 Automatización e integraciones
 
@@ -336,7 +356,25 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 ## Desarrollo & áreas técnicas
 
-### 🌍💻 Desarrollo web y aplicaciones
+### 🖥️ IDEs y editores con IA agéntica
+
+*Editores de código que integran agentes de IA como parte central del flujo de desarrollo:*
+
+<div align=center>
+
+|Nombre|Descripción|Diferenciador|
+|-|-|-|
+|[**Cursor**](https://cursor.sh/)|IDE basado en VS Code con agente IA y Composer multiarchivo|Composer (edición multiarchivo), modo agente, contexto de repo completo|
+|[**Windsurf**](https://codeium.com/windsurf)|IDE con agente IA autónomo de Codeium|Cascade (agente con memoria de conversación), acciones en cadena|
+|[**GitHub Copilot**](https://github.com/features/copilot)|Autocompletado + chat + modo agente integrado en múltiples IDEs|Agent mode, Copilot Workspace (planificación de tareas), ecosistema GitHub|
+|[**Zed**](https://zed.dev/)|Editor ultrarrápido con IA integrada nativamente|Rendimiento, colaboración en tiempo real, soporte multi-modelo|
+|[**PearAI**](https://www.trypear.ai/)|Editor open source con IA integrada|Open source, basado en VS Code, múltiples proveedores de IA|
+
+</div>
+
+> <sub><i>**Asistentes de código en IDE**: [Tabnine](https://www.tabnine.com/) / [Codeium](https://codeium.com/) / [Amazon Q Developer](https://aws.amazon.com/q/developer/) / [Sourcegraph Cody](https://sourcegraph.com/cody)</i></sub>
+
+### 🌍 Desarrollo web y aplicaciones
 
 *Herramientas para crear sitios web, prototipos y aplicaciones con IA:*
 
@@ -344,37 +382,16 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 |Nombre|Descripción|Mejor para|
 |-|-|-|
-|[**Antigravity**](https://codelabs.developers.google.com/getting-started-google-antigravity)|IDE agent-first de Google: orquestación multi-agente, cross-platform (editor, terminal, browser)|Desarrollo autónomo, tareas complejas|
 |[**V0**](https://v0.dev/)|Generación de componentes React desde prompts de texto|Prototipos rápidos, interfaces modernas / [CdU](/documentos/casosDeUso/V0.md)|
-|[**Cursor**](https://cursor.sh/)|IDE completo con IA para desarrollo full-stack|Desarrollo profesional, proyectos complejos|
-|[**Windsurf**](https://codeium.com/windsurf)|IDE con agente IA autónomo para proyectos completos|Arquitectura de aplicaciones, desarrollo colaborativo|
-|[Webflow AI](https://webflow.com/ai)|Constructor visual con funciones de IA|Sitios web profesionales sin código|
-|[Framer](https://www.framer.com/)|Diseño web con generación automática de código|Sitios web interactivos, animaciones|
-|[Durable](https://es.durable.co/)|Constructor automático de sitios web para negocios|Sitios web empresariales rápidos|
-|[10Web](https://10web.io/)|Creación y gestión de sitios WordPress con IA|WordPress optimizado, hosting incluido|
+|[**Bolt.new**](https://bolt.new/)|Generación de aplicaciones web completas desde descripción|Apps full-stack rápidas, prototipos funcionales|
+|[**Lovable**](https://lovable.dev/)|Generación de apps con interfaz visual y deployment|Apps completas con backend, MVPs|
+|[**Replit Agent**](https://replit.com/ai)|Idea-to-app con deployment automático|Desarrollo web rápido, aprendizaje, prototipado|
+|[**Webflow AI**](https://webflow.com/ai)|Constructor visual con funciones de IA|Sitios web profesionales sin código|
+|[**Framer**](https://www.framer.com/)|Diseño web con generación automática de código|Sitios web interactivos, animaciones|
 
 </div>
 
-### 💻🔧 Programación y código
-
-*Asistentes especializados en escritura, revisión y optimización de código:*
-
-<div align=center>
-
-|Nombre|Descripción|Integración|
-|-|-|-|
-|[GitHub Copilot](https://github.com/features/copilot)|Autocompletado de código y chat integrados en múltiples IDEs|VS Code, JetBrains, Neovim|
-|[Amazon Q Developer](https://aws.amazon.com/q/developer/)|Asistente de desarrollo para AWS (antes CodeWhisperer)|AWS, VS Code, IDEs populares|
-|[Tabnine](https://www.tabnine.com/)|Autocompletado inteligente con privacidad empresarial|IDE universal, código privado|
-|[Codeium](https://codeium.com/)|Autocompletado gratuito con chat integrado|Mayoría de IDEs, extenso soporte|
-|[Replit Ghostwriter](https://replit.com/)|Asistente de programación en entorno web colaborativo|Navegador, colaboración en tiempo real|
-|[Sourcegraph Cody](https://sourcegraph.com/cody)|Asistente con contexto completo del repositorio|VS Code, búsqueda de código|
-
-</div>
-
-> <sub><i>**Herramientas adicionales**: [Claude for Coding](https://claude.ai/) / [ChatGPT Code Interpreter](https://openai.com/) / [DeepCode](https://www.deepcode.ai/) / [Snyk Code](https://snyk.io/product/snyk-code/) / [SonarQube](https://www.sonarqube.org/) / [Mintlify](https://mintlify.com/) / [CodeT5](https://github.com/salesforce/CodeT5)</i></sub>
-
-### 🏠🔒 Modelos locales y privacidad
+### 🏠 Modelos locales y privacidad
 
 *Soluciones para ejecutar IA en tu propio hardware, garantizando privacidad total de los datos:*
 
@@ -386,19 +403,18 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 |[**LM Studio**](https://lmstudio.ai/)|Interfaz gráfica amigable para modelos locales con chat|Usuarios no técnicos, interfaz familiar|
 |[**GPT4All**](https://gpt4all.io/index.html)|Ecosistema completo de IA local multiplataforma|Solución todo-en-uno para principiantes|
 |[**PrivateGPT**](https://github.com/zylon-ai/private-gpt/blob/main/README.md)|Procesamiento de documentos completamente privado|Documentos confidenciales, empresas|
-|[**ChatRTX**](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/)|Solución oficial de NVIDIA para GPUs RTX|Hardware NVIDIA, máximo rendimiento|
-|[**Jan**](https://jan.ai/)|Alternativa local a ChatGPT con interfaz moderna|Reemplazo directo de servicios cloud|
 |[**AnythingLLM**](https://anythingllm.com/)|Plataforma empresarial para IA local con gestión de documentos|Empresas, múltiples usuarios|
+|[**Jan**](https://jan.ai/)|Alternativa local a ChatGPT con interfaz moderna|Reemplazo directo de servicios cloud|
 
 </div>
 
-> <sub><i>**Herramientas avanzadas**: [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) / [Kobold AI](https://github.com/KoboldAI/KoboldAI-Client) / [LocalAI](https://localai.io/) / [llama.cpp](https://github.com/ggerganov/llama.cpp) / [Serge](https://github.com/serge-chat/serge) / [HuggingFace](https://huggingface.co/chat/) / [LMSYS Chatbot Arena](https://chat.lmsys.org/)</i></sub>
+> <sub><i>**Herramientas avanzadas**: [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) / [llama.cpp](https://github.com/ggerganov/llama.cpp) / [LocalAI](https://localai.io/) / [HuggingFace](https://huggingface.co/chat/) / [ChatRTX (NVIDIA)](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/)</i></sub>
 
 > [!TIP]
-> **¿Por qué modelos locales?** 
+> **¿Por qué modelos locales?**
 > - **Privacidad total**: Los datos nunca salen de tu dispositivo
 > - **Sin límites**: No hay restricciones de uso ni costos por consulta
-> - **Personalización**: Puedes entrenar modelos con tus propios datos
+> - **Personalización**: Puedes ajustar modelos con tus propios datos
 > - **Disponibilidad**: Funcionan sin conexión a internet
 
 
@@ -416,29 +432,10 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 |[Consensus](https://consensus.app/)|Búsqueda de consenso científico en literatura académica|Plataforma
 |[Research Rabbit](https://www.researchrabbit.ai/)|Descubrimiento de papers relacionados con IA|Herramienta
 |[Semantic Scholar](https://www.semanticscholar.org/)|Motor de búsqueda académica con análisis de IA|Base de datos
-|[Justicio](https://justicio.es/)|Respuestas legales fundamentadas, motor alimentado con toda la legislación estatal, autonómica y europea|Plataforma
 
 </div>
 
 > <sub><i>**Más**: [SCISPACE](https://typeset.io/) / [Silatus](https://silatus.com) / [Scite](https://scite.ai/) / [Litmaps](https://www.litmaps.com/) / [Inciteful](https://inciteful.xyz/) / [Scholarcy](https://www.scholarcy.com/) / [SummarizeBot](https://summarizebot.com/) / [Iris.ai](https://iris.ai/) / [Paper Digest](https://www.paperdigest.org/) / [Meta](https://meta.com/ai/research/) / [OpenRead](https://www.openread.academy/) / [ChatPDF](https://www.chatpdf.com/) / [Humata](http://humata.ai) / [LawNext](https://lawnext.ai/) / [Casetext](https://casetext.com/)</i></sub>
-
-### 🧠💙 Bienestar Digital y Salud Mental
-
-<div align=center>
-
-|Nombre|Descripción|Categoría|
-|-|-|-|
-|[**Wysa**](https://www.wysa.io/)|Chatbot de IA para apoyo emocional y terapia cognitiva|App
-|[**Calm**](https://www.calm.com/)|Meditación y mindfulness con recomendaciones personalizadas|App
-|[**Youper**](https://www.youper.ai/)|Asistente emocional con técnicas de TCC|App
-|[Headspace](https://www.headspace.com/)|Meditación guiada con adaptación por IA|App
-|[Earkick](https://earkick.com/)|Seguimiento emocional en tiempo real sin terapeutas|App
-|[7 Cups](https://www.7cups.com/)|Apoyo emocional 24/7 con oyentes entrenados|Plataforma
-|[VOS](https://vos.health/)|Diario de IA y plan personalizado de autocuidado|App
-
-</div>
-
-> <sub><i>**Más**: [Woebot](https://woebothealth.com/) / [Replika](https://replika.com/) / [Sanvello](https://www.sanvello.com/) / [Moodpath](https://moodpath.com/) / [Daylio](https://daylio.com/) / [Insight Timer](https://insighttimer.com/) / [Ten Percent Happier](https://www.tenpercent.com/) / [Shine](https://www.theshineapp.com/) / [Talkspace](https://www.talkspace.com/) / [BetterHelp](https://www.betterhelp.com/) / [Mindfulness.com](https://www.mindfulness.com/) / [Simple Habit](https://www.simplehabit.com/) / [Aura](https://www.aurahealth.io/) / [Balance](https://www.balanceapp.com/)</i></sub>
 
 ## 📈🌐 Verticales
 
@@ -446,17 +443,18 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 |Nombre|Descripción|Categoría|
 |-|-|-|
-|[**Glass AI**](https://glass.health/ai)|Diagnóstico médico asistido por IA|Salud
-|[**Sesame**](https://www.sesamehr.es/ai/)|Gestión de recursos humanos con IA|RRHH
-|[**Google Document AI**](https://cloud.google.com/solutions/procurement-doc-ai?hl=es-419)|Procesamiento inteligente de documentos empresariales|Procesamiento documental
-|[DoNotPay](https://donotpay.com/)|Asistente legal automatizado|Legal
-|[Harvey](https://www.harvey.ai/)|IA especializada para bufetes de abogados|Legal
-|[Jasper Health](https://www.jasper.health/)|Plataforma de IA para investigación oncológica|Salud
-|[Darktrace](https://darktrace.com/)|Ciberseguridad con IA autónoma|Seguridad
+|[**Glass AI**](https://glass.health/ai)|Diagnóstico médico asistido por IA|Salud|
+|[**Wysa**](https://www.wysa.io/)|Chatbot de IA para apoyo emocional y terapia cognitiva|Salud mental|
+|[**Youper**](https://www.youper.ai/)|Asistente emocional con técnicas de TCC|Salud mental|
+|[**Sesame**](https://www.sesamehr.es/ai/)|Gestión de recursos humanos con IA|RRHH|
+|[**Google Document AI**](https://cloud.google.com/solutions/procurement-doc-ai?hl=es-419)|Procesamiento inteligente de documentos empresariales|Procesamiento documental|
+|[Justicio](https://justicio.es/)|Respuestas legales fundamentadas con legislación estatal, autonómica y europea|Legal|
+|[Harvey](https://www.harvey.ai/)|IA especializada para bufetes de abogados|Legal|
+|[Darktrace](https://darktrace.com/)|Ciberseguridad con IA autónoma|Seguridad|
 
 </div>
 
-> <sub><i>**Más**: [Jano](https://www.youtube.com/watch?v=fhoKnB6vwWg) / [PathAI](https://www.pathai.com/) / [Butterfly Network](https://www.butterflynetwork.com/) / [Zebra Medical](https://www.zebra-med.com/) / [Avanade](https://www.avanade.com/) / [CrowdStrike](https://www.crowdstrike.com/) / [SentinelOne](https://www.sentinelone.com/) / [Cylance](https://www.cylance.com/) / [Kensho](https://www.kensho.com/) / [Palantir](https://www.palantir.com/) / [DataRobot](https://www.datarobot.com/) / [H2O.ai](https://h2o.ai/) / [Workday](https://www.workday.com/) / [Salesforce Einstein](https://www.salesforce.com/products/einstein/)</i></sub>
+> <sub><i>**Más**: [PathAI](https://www.pathai.com/) / [CrowdStrike](https://www.crowdstrike.com/) / [SentinelOne](https://www.sentinelone.com/) / [Palantir](https://www.palantir.com/) / [DataRobot](https://www.datarobot.com/) / [H2O.ai](https://h2o.ai/) / [Workday](https://www.workday.com/) / [Salesforce Einstein](https://www.salesforce.com/products/einstein/)</i></sub>
 
 ---
 
@@ -489,6 +487,6 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 **🔄 Actualización continua**: Este documento se revisa regularmente para reflejar el estado actual del ecosistema de IA.
 
-*Última actualización: revisión continua*
+*Última actualización: mayo 2026*
 
 </div>
