@@ -48,14 +48,14 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 |Nombre|Descripción|Características destacadas|
 |-|-|-|
-|[**ChatGPT**](https://chatgpt.com/)|Ecosistema de OpenAI con modelos orientados a razonamiento (o3), velocidad (4.1-mini) y tareas especializadas|Proyectos, ramificaciones, Operator (agente web), Tasks (tareas programadas), Codex (coding agéntico), generación de imágenes / [Documentación](https://platform.openai.com/docs)|
-|[**Claude**](https://claude.ai/chats)|Modelos de Anthropic con foco en análisis profundo, tareas largas y coding|Ventana de contexto de 200K, análisis de documentos extensos, Claude Code (agente de programación en terminal/IDE), Computer Use, artefactos / [API](https://docs.anthropic.com/)|
-|[**Gemini**](https://gemini.google.com/app)|Modelos de Google integrados con su ecosistema y multimodalidad nativa|Deep Research (informes de investigación automáticos), Gemini Live (voz), integración con Google Workspace, 1M tokens de contexto / [AIStudio](https://aistudio.google.com/prompts/new_chat)|
-|[DeepSeek](https://chat.deepseek.com/)|Modelo chino con excelentes resultados en razonamiento y código abierto|R1 (razonamiento tipo o1 con chain-of-thought visible), V3 (modelo general competitivo), extremadamente económico, pesos abiertos|
-|[Grok](https://x.com/i/grok)|Modelo de xAI integrado en X con foco en actualidad y razonamiento|Acceso a información en tiempo real de X, Deep Research, reasoning avanzado, generación de imágenes / [API](https://x.ai/api)|
-|[Perplexity](https://www.perplexity.ai/)|Motor de búsqueda con IA enfocado en investigación con fuentes citadas|Deep Research, Labs (generación de apps y código), síntesis con citas, ideal para investigación aplicada|
+|[**ChatGPT**](https://chatgpt.com/)|Ecosistema de OpenAI. Desde septiembre de 2026, familia GPT-6: Astra (gama alta), Sol (por defecto en planes de pago) y Luna (plan gratuito)|Proyectos, ramificaciones, modo agente (sucesor de Operator), Tasks (tareas programadas), Codex (coding agéntico), GPT Image (sucesor de DALL-E) / [Documentación](https://platform.openai.com/docs)|
+|[**Claude**](https://claude.ai/chats)|Modelos de Anthropic con foco en análisis profundo, tareas largas y coding. Familia Claude 5.5 (Opus, Sonnet, Haiku; sept.-oct. 2026) y Fable 5.1|Contexto de hasta 1M tokens según modelo, Claude Code (agente de programación en terminal, IDE, escritorio y web), Cowork (agente de escritorio para trabajo no técnico), Computer Use, artefactos / [API](https://docs.anthropic.com/)|
+|[**Gemini**](https://gemini.google.com/app)|Modelos de Google integrados con su ecosistema y multimodalidad nativa. Familia Gemini 3.x (Pro y Flash) en abierto; Gemini 4 en acceso restringido a socios|Deep Research, Gemini Live (voz), Nano Banana (generación y edición de imagen), integración con Google Workspace, 1M tokens de contexto / [AIStudio](https://aistudio.google.com/prompts/new_chat)|
+|[DeepSeek](https://chat.deepseek.com/)|Modelo chino de pesos abiertos con excelente relación calidad-precio|V4 (variantes Pro y Flash, desde abril de 2026), licencia MIT, 1M tokens de contexto, extremadamente económico vía API|
+|[Grok](https://x.com/i/grok)|Modelo de xAI integrado en X con foco en actualidad y razonamiento|Línea Grok 4.x (Grok 5 anunciado, sin fecha), acceso a información en tiempo real de X, Deep Research, generación de imágenes / [API](https://x.ai/api)|
+|[Perplexity](https://www.perplexity.ai/)|Motor de búsqueda con IA enfocado en investigación con fuentes citadas|Deep Research, Labs (generación de apps y código), [Comet](https://www.perplexity.ai/comet) (navegador agéntico gratuito en escritorio y móvil), síntesis con citas|
 |[Copilot](https://copilot.microsoft.com)|IA de Microsoft integrada en su ecosistema (Windows, Office, Edge, GitHub)|Copilot Studio (agentes empresariales), integración profunda con 365, agentes especializados por rol|
-|[GLM (Z.AI)](https://z.ai/)|Modelos de Zhipu AI con fuerte presencia en coding y razonamiento|GLM-5.1 (razonamiento avanzado), excelente en programación, pesos abiertos, multimodal / [API](https://open.bigmodel.cn/)|
+|[GLM (Z.AI)](https://z.ai/)|Modelos de Zhipu AI con fuerte presencia en coding y razonamiento|Línea GLM-5.x (GLM-5.3 desde agosto de 2026), excelente en programación, pesos abiertos, variante Flash multimodal / [API](https://open.bigmodel.cn/)|
 
 </div>
 
@@ -145,8 +145,9 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 |[**Leonardo AI**](https://leonardo.ai)|Control avanzado de estilos y consistencia de personajes|Videojuegos, ilustración / [🗺️](./imagenes/Default_A_old_style_rpg_map_0.jpg)|
 |[**Ideogram.ai**](https://ideogram.ai/)|Especialista en generación de texto dentro de imágenes|Diseño gráfico, logos, carteles / [🖼️](/documentos/imagenes/ideogramExample.png)|
 |[**Adobe Firefly**](https://firefly.adobe.com/)|Integración nativa en suite Creative Cloud|Flujo de trabajo profesional / [Un mapa](/documentos/casosDeUso/adobeImagenesReferenciaEstructura.md)|
-|[DALL-E 3](https://openai.com/dall-e-3)|Integrado en ChatGPT, excelente seguimiento de prompts|Uso general, experimentación|
-|[Flux](https://blackforestlabs.ai/)|Calidad fotorrealista alta, código abierto|Fotografía realista, retratos|
+|[GPT Image](https://chatgpt.com/)|Generador integrado en ChatGPT (sucesor de DALL-E 3), excelente seguimiento de prompts y texto en imagen|Uso general, edición conversacional|
+|[Nano Banana](https://gemini.google.com/)|Modelo de imagen de Gemini, edición multi-turno y salida hasta 4K (Nano Banana 2 y Pro)|Edición conversacional, consistencia entre iteraciones|
+|[Flux 2](https://bfl.ai/)|Calidad fotorrealista alta; variantes comerciales (Pro, Max, Flex) y de pesos abiertos|Fotografía realista, control de composición, autoalojamiento|
 |[Stable Diffusion](https://stability.ai/)|Código abierto, instalación local, personalizable|Control total, modelos especializados|
 
 </div>
@@ -161,8 +162,9 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 |Nombre|Descripción|Mejor para|
 |-|-|-|
-|[**Sora**](https://sora.com/)|Generador de video y audio de OpenAI|Videos artísticos, experimentación, clips cortos / [📽️](/documentos/videos/soraAI.mp4)|
-|[**Runway**](https://runwayml.com/)|Suite completa de herramientas de video generativo|Producción profesional, efectos especiales|
+|[**Veo**](https://flow.google.com/)|Generador de video con audio de Google (Veo 3.1), accesible desde Gemini y Flow|Física realista, planos encadenados en Flow|
+|[**Runway**](https://runwayml.com/)|Suite completa de herramientas de video generativo (Gen-4.5)|Producción profesional, efectos especiales|
+|[**Kling**](https://kling.ai/)|Generador de video de Kuaishou (Kling 3.0)|Movimiento realista, contenido para redes|
 |[**Pika**](https://pika.art/home)|Generación rápida de videos cortos desde texto e imágenes|Contenido social, clips cortos / [📽️](/documentos/videos/pika.mp4)|
 |[**Luma**](https://lumalabs.ai/)|Videos realistas con física convincente|Productos, demostraciones / [📽️](https://lumalabs.ai/dream-machine/creations/00e89855-b8de-45ac-aad0-01abdd343465)|
 |[**CapCut**](https://www.capcut.com/)|Editor con herramientas de IA integradas|Edición rápida, contenido mobile / [Herculean pixels](/documentos/casosDeUso/herculeanPixels.md)|
@@ -182,7 +184,7 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 |Nombre|Descripción|Especialización|
 |-|-|-|
 |[**Suno**](https://app.suno.ai/create/)|Creación completa de canciones desde texto|Composición musical completa con letra|
-|[**Udio**](https://www.udio.com/create)|Generación de música profesional con IA|Calidad de estudio, géneros diversos|
+|[**Udio**](https://www.udio.com/create)|Generación de música con IA; descargas deshabilitadas desde octubre de 2025 tras el acuerdo con Universal, a la espera de su plataforma licenciada|Calidad de estudio, escucha dentro de la plataforma|
 |[**ElevenLabs**](https://elevenlabs.io)|Síntesis de voz realista y clonación vocal|Voiceovers, narración, doblaje|
 |[**Moises**](https://moises.ai/)|Separación de pistas y herramientas para músicos|Aislamiento instrumental, práctica musical|
 |[Adobe Podcast](https://podcast.adobe.com)|Mejora de calidad de audio y herramientas de podcasting|Limpieza de audio, reducción de ruido|
@@ -275,11 +277,12 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 |Agente|Compañía|Especialización|Setup|
 |-|-|-|-|
-|[**Claude Code**](https://docs.anthropic.com/en/docs/claude-code)|Anthropic|Agente de coding en terminal + IDE, opera sobre repos completos|[Setup](https://docs.anthropic.com/en/docs/claude-code)|
+|[**Claude Code**](https://docs.anthropic.com/en/docs/claude-code)|Anthropic|Agente de coding en terminal, IDE, app de escritorio y web; opera sobre repos completos|[Setup](https://docs.anthropic.com/en/docs/claude-code)|
 |[**OpenCode**](https://opencode.ai)|Open source|Agente de coding CLI interactivo, multi-modelo, funciona en terminal|[GitHub](https://github.com/anomalyco/opencode)|
-|[**OpenAI Codex**](https://openai.com/codex/)|OpenAI|Agente de programación con sandboxing en la nube|[Incluido en ChatGPT Plus/Pro](https://openai.com/chatgpt/pricing/)|
-|[**Gemini Code Assist**](https://codeassist.google/)|Google|Asistente con modo agente y edición multiarchivo|[Getting Started](https://developers.google.com/gemini-code-assist/docs/overview)|
-|[**Copilot Agent Mode**](https://github.com/features/copilot)|Microsoft/GitHub|Copilot con modo agente que ejecuta tareas multi-paso en el editor|[Incluido en GitHub Copilot](https://github.com/features/copilot)|
+|[**OpenAI Codex**](https://openai.com/codex/)|OpenAI|Agente de programación en CLI, IDE y nube (sandbox), sobre modelos GPT-6|[Incluido en ChatGPT Plus/Pro](https://openai.com/chatgpt/pricing/)|
+|[**Google Antigravity**](https://antigravity.google/)|Google|Plataforma agéntica: app de escritorio, CLI y SDK con un mismo arnés de agente. Sustituye a Gemini CLI y a las extensiones de Code Assist para cuentas de consumo desde junio de 2026|[Docs](https://antigravity.google/) / [Jules](https://jules.google/) (agente remoto que abre PRs)|
+|[**GitHub Copilot**](https://github.com/features/copilot)|Microsoft/GitHub|Modo agente en el editor y coding agent que trabaja de forma asíncrona y entrega PRs en borrador|[Incluido en GitHub Copilot](https://github.com/features/copilot)|
+|[**Devin**](https://devin.ai/)|Cognition|Agente autónomo de ingeniería (nube, CLI, revisión de PRs); integra el antiguo Windsurf como Devin Desktop|[Docs](https://docs.devin.ai/)|
 |[**Replit Agent**](https://replit.com/ai)|Replit|Idea-to-app, genera aplicaciones completas desde descripción|[Docs](https://docs.replit.com/replitai/agent)|
 
 </div>
@@ -290,8 +293,10 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 |Nombre|Descripción|Especialización|
 |-|-|-|
-|[**ChatGPT Operator**](https://chatgpt.com/)|Agente web de OpenAI que navega y opera en internet por ti|Compras, reservas, formularios, tareas web|
+|[**ChatGPT modo agente**](https://chatgpt.com/)|Agente de OpenAI (sucesor de Operator) con máquina virtual propia: navegador visual, terminal y conectores|Compras, reservas, formularios, tareas web encadenadas|
 |[**ChatGPT Tasks**](https://chatgpt.com/)|Tareas programadas y recurrentes con ChatGPT|Recordatorios, reportes periódicos, monitorización|
+|[**Claude Cowork**](https://claude.com/download)|Agente de escritorio de Anthropic sobre carpetas locales autorizadas, con conectores MCP y Computer Use|Ordenar archivos, hojas de cálculo desde facturas, documentos desde notas dispersas|
+|[**Comet**](https://www.perplexity.ai/comet)|Navegador de Perplexity con asistente agéntico integrado|Investigación y tareas dentro del navegador|
 |[**Copilot Studio**](https://www.microsoft.com/microsoft-copilot-studio)|Orquestación multiagente empresarial de Microsoft|Agentes empresariales personalizados, flujos de negocio|
 |[**Perplexity Labs**](https://www.perplexity.ai/hub/blog/introducing-perplexity-labs)|Research + coding + generación de web apps|Prototipos rápidos, dashboards, herramientas web|
 |[**Zapier AI**](https://zapier.com/ai)|Automatización de flujos de trabajo entre aplicaciones con IA|Integración de herramientas, workflows automáticos|
@@ -364,15 +369,17 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 
 |Nombre|Descripción|Diferenciador|
 |-|-|-|
-|[**Cursor**](https://cursor.sh/)|IDE basado en VS Code con agente IA y Composer multiarchivo|Composer (edición multiarchivo), modo agente, contexto de repo completo|
-|[**Windsurf**](https://codeium.com/windsurf)|IDE con agente IA autónomo de Codeium|Cascade (agente con memoria de conversación), acciones en cadena|
-|[**GitHub Copilot**](https://github.com/features/copilot)|Autocompletado + chat + modo agente integrado en múltiples IDEs|Agent mode, Copilot Workspace (planificación de tareas), ecosistema GitHub|
-|[**Zed**](https://zed.dev/)|Editor ultrarrápido con IA integrada nativamente|Rendimiento, colaboración en tiempo real, soporte multi-modelo|
-|[**PearAI**](https://www.trypear.ai/)|Editor open source con IA integrada|Open source, basado en VS Code, múltiples proveedores de IA|
+|[**Cursor**](https://cursor.com/)|IDE basado en VS Code con agente IA y edición multiarchivo|Modo agente, agentes en segundo plano, contexto de repo completo|
+|[**Devin Desktop**](https://devin.ai/desktop)|IDE de Cognition, antes Windsurf (Codeium), adquirido en 2025|Centro de mando de agentes locales y en la nube, agentes de terceros vía Agent Client Protocol|
+|[**Google Antigravity**](https://antigravity.google/)|IDE agéntico de Google, con CLI y SDK que comparten el mismo arnés|Orquestación de varios agentes en paralelo, modelos Gemini|
+|[**Kiro**](https://kiro.dev/)|IDE agéntico de AWS basado en VS Code, con CLI propia|Desarrollo guiado por especificaciones (requisitos, diseño, tareas), hooks|
+|[**GitHub Copilot**](https://github.com/features/copilot)|Autocompletado + chat + modo agente integrado en múltiples IDEs|Agent mode, coding agent asíncrono, selección de modelo (OpenAI, Anthropic, Google), ecosistema GitHub|
+|[**Zed**](https://zed.dev/)|Editor ultrarrápido con IA integrada nativamente|Rendimiento, colaboración en tiempo real, soporte multi-modelo y agentes externos (ACP)|
+|[PearAI](https://www.trypear.ai/)|Editor open source con IA integrada|Open source, basado en VS Code, múltiples proveedores de IA|
 
 </div>
 
-> <sub><i>**Asistentes de código en IDE**: [Tabnine](https://www.tabnine.com/) / [Codeium](https://codeium.com/) / [Amazon Q Developer](https://aws.amazon.com/q/developer/) / [Sourcegraph Cody](https://sourcegraph.com/cody)</i></sub>
+> <sub><i>**Asistentes de código en IDE**: [Tabnine](https://www.tabnine.com/) / [Amazon Q Developer](https://aws.amazon.com/q/developer/) / [Amp](https://ampcode.com/) (sucesor de Sourcegraph Cody) / [Cline](https://cline.bot/) / [Continue](https://www.continue.dev/)</i></sub>
 
 ### 🌍 Desarrollo web y aplicaciones
 
@@ -481,12 +488,25 @@ Antes de explorar las opciones presentadas (u otras), conviene considerar estos 
 > 
 > Esta consolidación refleja la maduración del mercado de IA hacia soluciones más integradas y versátiles.
 
+> [!WARNING]
+> **Retiradas y absorciones recientes (2025-2026)**
+>
+> |Herramienta|Situación|Alternativa en este catálogo|
+> |-|-|-|
+> |Sora (OpenAI)|App y web cerradas el 26 de abril de 2026; API retirada el 24 de septiembre de 2026 ([aviso oficial](https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation)). Se conserva el [ejemplo generado](/documentos/videos/soraAI.mp4) como registro histórico|Veo, Runway, Kling, Luma|
+> |ChatGPT Atlas|Navegador retirado el 9 de agosto de 2026; sus funciones pasan a la app de escritorio de ChatGPT y a su extensión de navegador ([aviso oficial](https://help.openai.com/en/articles/20001371-evolving-atlas-into-chatgpt-for-browser-based-agentic-work))|ChatGPT modo agente, Comet|
+> |ChatGPT Operator|Absorbido por el modo agente de ChatGPT en julio de 2025|ChatGPT modo agente|
+> |DALL-E 3|Sustituido en ChatGPT por GPT Image|GPT Image|
+> |Gemini CLI / Gemini Code Assist (consumo)|Sin servicio para cuentas de consumo desde el 18 de junio de 2026; se mantiene para empresa y el repositorio sigue abierto (Apache 2.0)|Google Antigravity|
+> |Windsurf / Codeium|Adquirido por Cognition en 2025 y renombrado Devin Desktop en 2026|Devin Desktop|
+> |Copilot Workspace|Retirado en 2025 en favor del coding agent de GitHub Copilot|GitHub Copilot|
+
 ---
 
 <div align=center>
 
 **🔄 Actualización continua**: Este documento se revisa regularmente para reflejar el estado actual del ecosistema de IA.
 
-*Última actualización: mayo 2026*
+*Última actualización: octubre 2026*
 
 </div>
